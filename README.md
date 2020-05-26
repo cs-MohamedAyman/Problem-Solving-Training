@@ -4,7 +4,7 @@ Problem solving training for computer science students.
 
 ## Level 1
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%201) simply consists of 8 sheets, 3 of them on Codeforces OJ, plus 4 of them on HackerEarth OJ, and the last one on HackerRank OJ.
+This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%201) simply consists of eight sheets, three of them on Codeforces OJ, plus four of them on HackerEarth OJ, and the last one on HackerRank OJ.
 
 ### Prerequisites
 
