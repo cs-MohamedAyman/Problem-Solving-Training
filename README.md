@@ -8,7 +8,7 @@ This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/ma
 
 ### Prerequisites
 
-The prerequisites for level 1 of this training are the basic knowledge for any programming language like (Variable Types - Conditions - Loops - Functions - Lists - Strings).
+The prerequisites for level 1 of this training are the basic knowledge for any programming language like (Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings).
 
 ### [Codeforces](https://codeforces.com/) OJ sheets
 
