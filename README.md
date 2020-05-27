@@ -24,12 +24,12 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 
 #### Agenda of [hackerrank - phase 1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerrank%20-%20phase%201-functional-programming.pdf) sheet
 
-  * **Introduction** xx problems
-  * **Recursion** xx problems
-  * **Functional Structures** xx problems
-  * **Memoization** xx problems
-  * **Ad-Hoc** xx problems
-  * **Misc** xx problems
+  * **Introduction**             25 problems
+  * **Recursion**                20 problems
+  * **Functional Structures**    10 problems
+  * **Memoization**              10 problems
+  * **Ad-Hoc**                   15 problems
+  * **Misc**                     5 problems
   
 ### Notes
 
