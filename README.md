@@ -83,7 +83,7 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
   * **Ad-Hoc**&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(15 problems)
   * **Misc**&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(5 problems)
 
-## Notes
+### Notes
 
 * If the student has a target to compete in the programming competitions like ACM-ICPC or Codejam or Kick-start or Hackercup, so it's recommended to start with Codeforces sheets, but if (s)he has a target to practice on a specific topic or preparing for an interview, so it's recommended to start with HackerEarth and HackerRank sheets.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress.
