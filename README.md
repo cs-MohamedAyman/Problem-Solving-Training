@@ -22,6 +22,15 @@ The HackerEarth OJ sheets [hackerearth - phase 1-1](https://github.com/cs-Mohame
 
 The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerrank%20-%20phase%201-functional-programming.pdf), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was sorted based on difficulty and grouped by the type of problems as mentioned. Finally, this sheet contains ~80 problems.
 
+#### Agenda of [hackerrank - phase 1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerrank%20-%20phase%201-functional-programming.pdf) sheet
+
+  * **Introduction** xx problems
+  * **Recursion** xx problems
+  * **Functional Structures** xx problems
+  * **Memoization** xx problems
+  * **Ad-Hoc** xx problems
+  * **Misc** xx problems
+  
 ### Notes
 
 * If the student has a target to compete in the programming competitions like ACM-ICPC or Codejam or Kick-start or Hackercup, so it's recommended to start with Codeforces sheets, but if (s)he has a target to practice on a specific topic or preparing for an interview, so it's recommended to start with HackerEarth and HackerRank sheets.
