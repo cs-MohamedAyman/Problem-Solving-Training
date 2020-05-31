@@ -16,27 +16,33 @@ The Codeforces OJ sheets [codeforces - phase 1-1](https://github.com/cs-MohamedA
 
 ### Agenda of [codeforces - phase 1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-1.pdf) sheet (100 problems)
 
-  * **Basic Operator**&emsp;&emsp;(5 problems)
-  * **Condition**&nbsp;&emsp;&emsp;&emsp;&emsp;(10 problems)
-  * **Loop**&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **String**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **List**&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(40 problems)
+| Category        | Problems    |
+| ----------------|:-----------:|
+| Basic Operator  | 5 problems  |
+| Condition       | 10 problems |
+| Loop            | 20 problems |
+| String          | 20 problems |
+| List            | 40 problems |
 
 ### Agenda of [codeforces - phase 1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-2.pdf) sheet (100 problems)
 
-  * **Basic Operator**&emsp;&emsp;(5 problems)
-  * **Condition**&nbsp;&emsp;&emsp;&emsp;&emsp;(10 problems)
-  * **Loop**&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **String**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **List**&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(40 problems)
+| Category        | Problems    |
+| ----------------|:-----------:|
+| Basic Operator  | 5 problems  |
+| Condition       | 10 problems |
+| Loop            | 20 problems |
+| String          | 20 problems |
+| List            | 40 problems |
 
 ### Agenda of [codeforces - phase 1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-3.pdf) sheet (100 problems)
 
-  * **Basic Operator**&emsp;&emsp;(5 problems)
-  * **Condition**&nbsp;&emsp;&emsp;&emsp;&emsp;(10 problems)
-  * **Loop**&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **String**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **List**&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(40 problems)
+| Category        | Problems    |
+| ----------------|:-----------:|
+| Basic Operator  | 5 problems  |
+| Condition       | 10 problems |
+| Loop            | 20 problems |
+| String          | 20 problems |
+| List            | 40 problems |
 
 ## [HackerEarth](http://hackerearth.com/) OJ sheets
 
@@ -44,31 +50,39 @@ The HackerEarth OJ sheets [hackerearth - phase 1-1](https://github.com/cs-Mohame
 
 ### Agenda of [hackerearth - phase 1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-1.pdf) sheet (100 problems)
 
-  * **Implementation I**&nbsp;&nbsp;&emsp;&emsp;(25 problems)
-  * **Implementation II**&nbsp;&emsp;&emsp;(25 problems)
-  * **Implementation III**&emsp;&emsp;(25 problems)
-  * **Implementation IV**&emsp;&emsp;(25 problems)
+| Category        | Problems    |
+| ----------------|:-----------:|
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
 
 ### Agenda of [hackerearth - phase 1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-2.pdf) sheet (100 problems)
 
-  * **Implementation I**&nbsp;&nbsp;&emsp;&emsp;(25 problems)
-  * **Implementation II**&nbsp;&emsp;&emsp;(25 problems)
-  * **Implementation III**&emsp;&emsp;(25 problems)
-  * **Implementation IV**&emsp;&emsp;(25 problems)
+| Category        | Problems    |
+| ----------------|:-----------:|
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
 
 ### Agenda of [hackerearth - phase 1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-3.pdf) sheet (100 problems)
 
-  * **Implementation I**&nbsp;&nbsp;&emsp;&emsp;(25 problems)
-  * **Implementation II**&nbsp;&emsp;&emsp;(25 problems)
-  * **Implementation III**&emsp;&emsp;(25 problems)
-  * **Implementation IV**&emsp;&emsp;(25 problems)
+| Category        | Problems    |
+| ----------------|:-----------:|
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
+| Implementation  | 25 problems |
 
 ### Agenda of [hackerearth - phase 1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-basic-programming.pdf) sheet (130 problems)
 
-  * **Input/Output**&nbsp;&nbsp;&emsp;&emsp;&emsp;(50 problems)
-  * **Bit Manipulation**&emsp;&emsp;(70 problems)
-  * **Recursion**&emsp;&emsp;&emsp;&emsp;&emsp;(10 problems)
-  * **Operators**&emsp;&emsp;&emsp;&emsp;&emsp;(5 problems)
+| Category          | Problems    |
+| ------------------|:-----------:|
+| Input/Output      | 50 problems |
+| Bit Manipulation  | 70 problems |
+| Recursion         | 10 problems |
+| Operators         | 5 problems  |
 
 ## [HackerRank](https://www.hackerrank.com/) OJ sheets
 
@@ -76,12 +90,14 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 
 ### Agenda of [hackerrank - phase 1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerrank%20-%20phase%201-functional-programming.pdf) sheet (80 problems)
 
-  * **Introduction**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(25 problems)
-  * **Recursion**&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(20 problems)
-  * **Functional Structures**&emsp;&emsp;(10 problems)
-  * **Memoization**&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;(10 problems)
-  * **Ad-Hoc**&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(15 problems)
-  * **Misc**&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(5 problems)
+| Category               | Problems    |
+| -----------------------|:-----------:|
+| Introduction           | 25 problems |
+| Recursion              | 20 problems |
+| Functional Structures  | 10 problems |
+| Memoization            | 10 problems |
+| Ad-Hoc                 | 15 problems |
+| Misc                   | 5 problems |
 
 ### Notes
 
