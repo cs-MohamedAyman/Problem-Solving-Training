@@ -12,6 +12,8 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [Codeforces](https://codeforces.com/) OJ sheets
 
+<details>
+	<summary>Codeforces OJ sheets</summary>
 The Codeforces OJ sheets [codeforces - phase 1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-1.pdf), [codeforces - phase 1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-2.pdf), [codeforces - phase 1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-3.pdf) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists - Strings). These sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~100 problems.
 
 ### Agenda of [codeforces - phase 1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/codeforces%20-%20phase%201-1.pdf) sheet (100 problems)
@@ -44,8 +46,12 @@ The Codeforces OJ sheets [codeforces - phase 1-1](https://github.com/cs-MohamedA
 | String          | 20 problems |
 | List            | 40 problems |
 
+</details>
+
 ## [HackerEarth](http://hackerearth.com/) OJ sheets
 
+<details>
+	<summary>HackerEarth OJ sheets</summary>
 The HackerEarth OJ sheets [hackerearth - phase 1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-1.pdf), [hackerearth - phase 1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-2.pdf), [hackerearth - phase 1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-3.pdf) contain implementation problems and basic programming problems. These sheets were sorted based on difficulty. Each sheet contains ~100 problems. For the last sheet [hackerearth - phase 1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-basic-programming.pdf) that focus on the basic programming problems, It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). Also, this sheet was sorted based on difficulty and grouped by the type of problems as mentioned. Finally, this sheet contains ~130 problems.
 
 ### Agenda of [hackerearth - phase 1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerearth%20-%20phase%201-1.pdf) sheet (100 problems)
@@ -84,8 +90,12 @@ The HackerEarth OJ sheets [hackerearth - phase 1-1](https://github.com/cs-Mohame
 | Recursion         | 10 problems |
 | Operators         | 5 problems  |
 
+</details>
+
 ## [HackerRank](https://www.hackerrank.com/) OJ sheets
 
+<details>
+	<summary>HackerRank OJ sheets</summary>
 The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerrank%20-%20phase%201-functional-programming.pdf), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was sorted based on difficulty and grouped by the type of problems as mentioned. Finally, this sheet contains ~80 problems.
 
 ### Agenda of [hackerrank - phase 1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%201/hackerrank%20-%20phase%201-functional-programming.pdf) sheet (80 problems)
@@ -98,6 +108,8 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 | Memoization            | 10 problems |
 | Ad-Hoc                 | 15 problems |
 | Misc                   | 5 problems |
+
+</details>
 
 ### Notes
 
