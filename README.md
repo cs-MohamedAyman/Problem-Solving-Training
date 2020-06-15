@@ -10,7 +10,7 @@ This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/ma
 
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like (Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings).
 
-<img align="right" width="50" height="50" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ sheets
 
@@ -51,7 +51,7 @@ The Codeforces OJ sheets [codeforces - phase 1-1](https://github.com/cs-MohamedA
 
 </details>
 
-<img align="right" width="50" height="50" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
 ## [HackerEarth](http://hackerearth.com/) OJ sheets
 
@@ -98,7 +98,7 @@ The HackerEarth OJ sheets [hackerearth - phase 1-1](https://github.com/cs-Mohame
 
 </details>
 
-<img align="right" width="50" height="50" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## [HackerRank](https://www.hackerrank.com/) OJ sheets
 
