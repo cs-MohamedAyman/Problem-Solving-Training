@@ -122,5 +122,5 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 
 ### Notes
 
-* If the student has a target to compete in the programming competitions like ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup, so it's recommended to start with Codeforces sheets, but if (s)he has a target to practice on a specific topic or preparing for an interview, so it's recommended to start with HackerEarth and HackerRank sheets.
-* On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between **30 min to 45 min** for each one, including reading time, thinking time, coding time, debugging time, and learning time.
+* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth and HackerRank sheets***.
+* On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
