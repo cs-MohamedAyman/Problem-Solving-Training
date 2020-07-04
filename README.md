@@ -178,8 +178,8 @@ The Codeforces OJ sheets [codeforces - phase 2-1](https://github.com/cs-MohamedA
 | Category                      | Problems    |
 | ------------------------------|:-----------:|
 | Educational Codeforces Rounds | 80 problems |
-| CodeforcesGYM Contests *      | 5 problems  |
-| CodeforcesGYM Contests **     | 15 problems |
+| Codeforces GYM Contests *     | 5 problems  |
+| Codeforces GYM Contests **    | 15 problems |
 
 </details>
 
