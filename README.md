@@ -174,13 +174,13 @@ For the last sheet [codeforces - phase 2-gym-contests](https://github.com/cs-Moh
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
-### Agenda of [codeforces - phase 2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/codeforces%20-%20phase%202-gym-contests.pdf) sheet (100 problems)
+### Agenda of [codeforces - phase 2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/codeforces%20-%20phase%202-gym-contests.pdf) sheet (100 contests)
 
 | Category                      | Problems    |
 | ------------------------------|:-----------:|
-| Educational Codeforces Rounds | 80 problems |
-| Codeforces GYM Contests *     | 5 problems  |
-| Codeforces GYM Contests **    | 15 problems |
+| Educational Codeforces Rounds | 80 contests |
+| Codeforces GYM Contests *     | 5 contests  |
+| Codeforces GYM Contests **    | 15 contests |
 
 </details>
 
