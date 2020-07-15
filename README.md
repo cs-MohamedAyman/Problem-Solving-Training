@@ -132,7 +132,7 @@ This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/ma
 
 ## Prerequisites
 
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basics Algorithms)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basic Algorithms)***.
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
