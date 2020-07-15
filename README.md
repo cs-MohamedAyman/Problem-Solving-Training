@@ -132,7 +132,7 @@ This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/ma
 
 ## Prerequisites
 
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basics Algorithms - Mathematical Algorithms)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basics Algorithms)***.
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
@@ -220,7 +220,7 @@ The HackerEarth OJ sheets [hackerearth - phase 2-linear-data-structures](https:/
 <details>
 	<summary>HackerRank OJ sheets</summary>
 	
-The HackerRank OJ sheets [hackerrank - phase 2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-data-structures.pdf), [hackerrank - phase 2-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-mathematics.pdf), These sheets contain linear and non-linear data structures problems, and mathematical problems. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~120 problems.
+The HackerRank OJ sheets [hackerrank - phase 2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-data-structures.pdf), [hackerrank - phase 2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-algorithms-basics.pdf), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~120 problems.
 
 ### Agenda of [hackerrank - phase 2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-data-structures.pdf) sheet (110 problems)
 
@@ -232,16 +232,15 @@ The HackerRank OJ sheets [hackerrank - phase 2-data-structures](https://github.c
 | Heap & Disjoint Set & Trie | 10 problems |
 | Advanced                   | 50 problems |
 
-### Agenda of [hackerrank - phase 2-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-mathematics.pdf) sheet (140 problems)
+### Agenda of [hackerrank - phase 2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-algorithms-basics.pdf) sheet (125 problems)
 
-| Category      | Problems    |
-| --------------|:-----------:|
-| Fundamentals  | 20 problems |
-| Number Theory | 30 problems |
-| Combinatorics | 30 problems |
-| Algebra       | 30 problems |
-| Geometry      | 15 problems |
-| Probability   | 15 problems |
+| Category       | Problems    |
+| ---------------|:-----------:|
+| Warm-up        | 10 problems |
+| Recursion      | 10 problems |
+| Sorting        | 15 problems |
+| Search         | 25 problems |
+| Implementation | 65 problems |
 
 </details>
 
