@@ -232,7 +232,7 @@ The HackerRank OJ sheets [hackerrank - phase 2-data-structures](https://github.c
 | Heap & Disjoint Set & Trie | 10 problems |
 | Advanced                   | 50 problems |
 
-### Agenda of [hackerrank - phase 2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-algorithms-basics.pdf) sheet (125 problems) `[70H]`
+### Agenda of [hackerrank - phase 2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerrank%20-%20phase%202-algorithms-basics.pdf) sheet (125 problems) `[60H]`
 
 | Category       | Problems    |
 | ---------------|:-----------:|
