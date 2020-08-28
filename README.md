@@ -128,11 +128,11 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 
 ## Level 2
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%202) simply consists of eight sheets, four of them on Codeforces OJ, plus two of them on HackerEarth OJ, and the last two on HackerRank OJ.
+This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%202) simply consists of ten sheets, four of them on Codeforces OJ, plus four of them on HackerEarth OJ, and the last two on HackerRank OJ.
 
 ## Prerequisites
 
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basic Algorithms)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basic Algorithms - Searching Algorithms - Sorting Algorithms)***.
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
@@ -191,16 +191,16 @@ For the last sheet [codeforces - phase 2-gym-contests](https://github.com/cs-Moh
 <details>
 	<summary>HackerEarth OJ sheets</summary>
 	
-The HackerEarth OJ sheets [hackerearth - phase 2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-linear-data-structures.pdf), [hackerearth - phase 2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-non-linear-data-structures.pdf), Each sheet contains linear and non-linear data structures problems. These sheets were sorted based on difficulty and each sheet contains ~100 problems.
+The HackerEarth OJ sheets [hackerearth - phase 2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-linear-data-structures.pdf), [hackerearth - phase 2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-non-linear-data-structures.pdf), [hackerearth - phase 2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-algorithms-searching.pdf), [hackerearth - phase 2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-algorithms-sorting.pdf), Each sheet contains linear and non-linear data structures problems, in addition to searching and sorting algorithms. These sheets were sorted based on difficulty and each sheet contains ~100 problems.
 
 ### Agenda of [hackerearth - phase 2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-linear-data-structures.pdf) sheet (110 problems) `[60H]`
 
 | Category                 | Problems    |
 | -------------------------|:-----------:|
-| Arrays 1D		           | 65 problems |
+| Arrays 1D		   | 65 problems |
 | Arrays Multi-dimensional | 20 problems |
 | Stacks            	   | 25 problems |
-| Queues  		           | 5 problems  |
+| Queues  		   | 5 problems  |
 
 ### Agenda of [hackerearth - phase 2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-non-linear-data-structures.pdf) sheet (90 problems) `[50H]`
 
@@ -210,6 +210,22 @@ The HackerEarth OJ sheets [hackerearth - phase 2-linear-data-structures](https:/
 | Binary Search Tree      | 10 problems |
 | Heaps / Priority Queues | 20 problems |
 | Hash Tables             | 50 problems |
+
+### Agenda of [hackerearth - phase 2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-algorithms-searching.pdf) sheet (120 problems) `[60H]`
+
+| Category       | Problems    |
+| ---------------|:-----------:|
+| Linear Search  | 15 problems |
+| Binary Search  | 100 problems |
+| Ternary Search | 5 problems |
+
+### Agenda of [hackerearth - phase 2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-algorithms-sorting.pdf) sheet (60 problems) `[30H]`
+
+| Category                       | Problems    |
+| -------------------------------|:-----------:|
+| Bubble & Selection & Insertion | 15 problems |
+| Merge                          | 25 problems |
+| Quick & Count & Heap           | 25 problems |
 
 </details>
 
