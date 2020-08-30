@@ -213,11 +213,12 @@ The HackerEarth OJ sheets [hackerearth - phase 2-linear-data-structures](https:/
 
 ### Agenda of [hackerearth - phase 2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-algorithms-searching.pdf) sheet (120 problems) `[60H]`
 
-| Category       | Problems    |
-| ---------------|:-----------:|
-| Linear Search  | 15 problems |
-| Binary Search  | 100 problems |
-| Ternary Search | 5 problems |
+| Category         | Problems     |
+| -----------------|:------------:|
+| Linear Search    | 15 problems  |
+| Binary Search I  | 100 problems |
+| Binary Search II | 100 problems |
+| Ternary Search   | 5 problems   |
 
 ### Agenda of [hackerearth - phase 2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level%202/hackerearth%20-%20phase%202-algorithms-sorting.pdf) sheet (60 problems) `[30H]`
 
