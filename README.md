@@ -4,7 +4,7 @@ Problem solving training for computer science students.
 
 ## Level 1
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%201) simply consists of eight sheets, three of them on Codeforces OJ, plus four of them on HackerEarth OJ, and the last one on HackerRank OJ.
+This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%201) simply consists of eight sheets, three sheets of them on Codeforces OJ, plus four sheets on HackerEarth OJ, and the last sheet on HackerRank OJ.
 
 ## Prerequisites
 
@@ -116,7 +116,7 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 | Functional Structures  | 10 problems |
 | Memoization            | 10 problems |
 | Ad-Hoc                 | 15 problems |
-| Misc                   | 5 problems |
+| Misc                   | 5 problems  |
 
 </details>
 
@@ -128,7 +128,7 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 
 ## Level 2
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%202) simply consists of ten sheets, four of them on Codeforces OJ, plus four of them on HackerEarth OJ, and the last two on HackerRank OJ.
+This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%202) simply consists of ten sheets, four sheets of them on Codeforces OJ, plus four sheets on HackerEarth OJ, and the last two sheets on HackerRank OJ.
 
 ## Prerequisites
 
