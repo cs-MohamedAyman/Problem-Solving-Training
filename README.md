@@ -10,6 +10,10 @@ This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/ma
 
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings)***.
 
+### Related Repositories
+* [Python-Programming-Language](https://github.com/cs-MohamedAyman/Python-Programming-Language)
+* [Cpp-Programming-Language](https://github.com/cs-MohamedAyman/Cpp-Programming-Language)
+
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ sheets
@@ -133,6 +137,10 @@ This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/ma
 ## Prerequisites
 
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basic Algorithms - Searching Algorithms - Sorting Algorithms)***.
+
+### Related Repositories
+* [Data-Structures](https://github.com/cs-MohamedAyman/Data-Structures)
+* [Algorithms](https://github.com/cs-MohamedAyman/Algorithms)
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
