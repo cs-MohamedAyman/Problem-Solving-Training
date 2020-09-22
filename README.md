@@ -144,7 +144,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ sheets
+## [Codeforces](https://codeforces.com/) OJ sheets `150H`
 
 <details>
 	<summary>Codeforces OJ sheets (4 sheets)</summary>
@@ -194,7 +194,7 @@ For the last sheet [codeforces - phase 2-gym-contests](https://github.com/cs-Moh
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ sheets
+## [HackerEarth](http://hackerearth.com/) OJ sheets `200H`
 
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
@@ -240,7 +240,7 @@ The HackerEarth OJ sheets [hackerearth - phase 2-linear-data-structures](https:/
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ sheets
+## [HackerRank](https://www.hackerrank.com/) OJ sheets `120H`
 
 <details>
 	<summary>HackerRank OJ sheets (2 sheets)</summary>
