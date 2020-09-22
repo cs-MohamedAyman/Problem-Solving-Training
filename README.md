@@ -16,7 +16,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ sheets
+## [Codeforces](https://codeforces.com/) OJ sheets `150H`
 
 <details>
 	<summary>Codeforces OJ sheets (3 sheets)</summary>
@@ -57,7 +57,7 @@ The Codeforces OJ sheets [codeforces - phase 1-1](https://github.com/cs-MohamedA
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ sheets
+## [HackerEarth](http://hackerearth.com/) OJ sheets `220H`
 
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
@@ -104,7 +104,7 @@ The HackerEarth OJ sheets [hackerearth - phase 1-1](https://github.com/cs-Mohame
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ sheets
+## [HackerRank](https://www.hackerrank.com/) OJ sheets `40H`
 
 <details>
 	<summary>HackerRank OJ sheets (1 sheet)</summary>
