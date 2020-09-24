@@ -4,15 +4,15 @@ Problem solving training for computer science students.
 
 ## Level 1
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%201) simply consists of eight sheets, three sheets of them on Codeforces OJ, plus four sheets on HackerEarth OJ, and the last sheet on HackerRank OJ.
+This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%201) simply consists of eight sheets, three sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
 ## Prerequisites
 
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings)***.
 
 ### Related Repositories
-* [Python-Programming-Language](https://github.com/cs-MohamedAyman/Python-Programming-Language)
-* [Cpp-Programming-Language](https://github.com/cs-MohamedAyman/Cpp-Programming-Language)
+* [Python-Programming-Language Repository](https://github.com/cs-MohamedAyman/Python-Programming-Language)
+* [Cpp-Programming-Language Repository](https://github.com/cs-MohamedAyman/Cpp-Programming-Language)
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
@@ -132,15 +132,15 @@ The HackerRank OJ sheet [hackerrank - phase 1-functional-programming](https://gi
 
 ## Level 2
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%202) simply consists of ten sheets, four sheets of them on Codeforces OJ, plus four sheets on HackerEarth OJ, and the last two sheets on HackerRank OJ.
+This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level%202) simply consists of ten sheets, four sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last two sheets on HackerRank Online Judge.
 
 ## Prerequisites
 
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basic Algorithms - Searching Algorithms - Sorting Algorithms)***.
 
 ### Related Repositories
-* [Data-Structures](https://github.com/cs-MohamedAyman/Data-Structures)
-* [Algorithms](https://github.com/cs-MohamedAyman/Algorithms)
+* [Data-Structures Repository](https://github.com/cs-MohamedAyman/Data-Structures)
+* [Algorithms Repository](https://github.com/cs-MohamedAyman/Algorithms)
 
 <img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
