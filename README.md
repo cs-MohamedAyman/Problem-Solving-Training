@@ -16,7 +16,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 * [Python-Programming-Language Repository](https://github.com/cs-MohamedAyman/Python-Programming-Language)
 * [Cpp-Programming-Language Repository](https://github.com/cs-MohamedAyman/Cpp-Programming-Language)
 
-<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ sheets `150H`
 
@@ -57,7 +57,7 @@ The Codeforces OJ sheets [codeforces-phase-1-1](https://github.com/cs-MohamedAym
 
 </details>
 
-<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
 ## [HackerEarth](http://hackerearth.com/) OJ sheets `220H`
 
@@ -104,7 +104,7 @@ The HackerEarth OJ sheets [hackerearth-phase-1-1](https://github.com/cs-MohamedA
 
 </details>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## [HackerRank](https://www.hackerrank.com/) OJ sheets `40H`
 
@@ -144,7 +144,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 * [Data-Structures Repository](https://github.com/cs-MohamedAyman/Data-Structures)
 * [Algorithms Repository](https://github.com/cs-MohamedAyman/Algorithms)
 
-<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ sheets `150H`
 
@@ -194,7 +194,7 @@ For the last sheet [codeforces-phase-2-gym-contests](https://github.com/cs-Moham
 
 </details>
 
-<img align="right" width="75" height="75" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
 ## [HackerEarth](http://hackerearth.com/) OJ sheets `200H`
 
@@ -240,7 +240,7 @@ The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://g
 
 </details>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## [HackerRank](https://www.hackerrank.com/) OJ sheets `120H`
 
