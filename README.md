@@ -131,6 +131,18 @@ The HackerRank OJ sheet [hackerrank-phase-1-functional-programming](https://gith
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth and HackerRank sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
+
+## Textbooks
+
+* ***Introduction to Algorithms***, Thomas H. Cormen
+* ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
+* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
+* ***Competitive Programming 3***, Steven Halim
+* ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
+* ***The Algorithm Design Manual***, Steven S. Skiena
+* ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
 
 ## Level 2
 
@@ -275,3 +287,16 @@ The HackerRank OJ sheets [hackerrank-phase-2-data-structures](https://github.com
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth and HackerRank sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
+
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
+
+## Textbooks
+
+* ***Introduction to Algorithms***, Thomas H. Cormen
+* ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
+* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
+* ***Competitive Programming 3***, Steven Halim
+* ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
+* ***The Algorithm Design Manual***, Steven S. Skiena
+* ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
