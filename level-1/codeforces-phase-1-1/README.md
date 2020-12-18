@@ -81,7 +81,7 @@
 - CF-Round 104: http://codeforces.com/problemset/problem/146/A
 - CF-Round 189: http://codeforces.com/problemset/problem/320/A
 
-## Codeforces - List [20 problems]
+## Codeforces - List [40 problems]
 
 - CF-Round 161: http://codeforces.com/problemset/problem/263/A
 - CF-Round 289: http://codeforces.com/problemset/problem/509/A
