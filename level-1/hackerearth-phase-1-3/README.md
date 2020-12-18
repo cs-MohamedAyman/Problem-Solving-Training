@@ -9,7 +9,7 @@
 - ***Implementation III*** [25 problems]
 - ***Implementation IV*** [25 problems]
 
-## HackerEarth - Implementation III [25 problems]
+## HackerEarth - Implementation I [25 problems]
 
 - [perfect baseline:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/perfect-baseline/)
 - [recursive sums:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/recursive-sums/)
@@ -36,6 +36,9 @@
 - [surojit with balls:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/surojit-with-balls/)
 - [sahils computer address 20:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sahils-computer-address-20/)
 - [monk and digital world code monk:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/monk-and-digital-world-code-monk/)
+
+## HackerEarth - Implementation II [25 problems]
+
 - [swapping string 4:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/swapping-string-4/)
 - [encrypted love:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/encrypted-love/)
 - [modulo strength 4:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/modulo-strength-4/)
@@ -61,6 +64,9 @@
 - [cyber_cafe:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/cyber_cafe/)
 - [shil and square sum qualifier2:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shil-and-square-sum-qualifier2/)
 - [dummy1 3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/dummy1-3/)
+
+## HackerEarth - Implementation III [25 problems]
+
 - [equal bitwise operations 33fa5acd:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/equal-bitwise-operations-33fa5acd/)
 - [sherlock and special count:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-special-count/)
 - [lexographic rows c0c0b337:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/lexographic-rows-c0c0b337/)
@@ -86,6 +92,9 @@
 - [ratio d0549bb2:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ratio-d0549bb2/)
 - [aman and his birthday gift b5268b97:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/aman-and-his-birthday-gift-b5268b97/)
 - [problem 16 b45b3a5d:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/problem-16-b45b3a5d/)
+
+## HackerEarth - Implementation IV [25 problems]
+
 - [anil and stocks 628d668e:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/anil-and-stocks-628d668e/)
 - [recursive function:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/recursive-function/)
 - [capital 92c227f3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/capital-92c227f3/)
