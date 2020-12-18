@@ -86,9 +86,9 @@
 - [jiva the self driven car](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jiva-the-self-driven-car/)
 - [alex and requests](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/alex-and-requests-72568e72/)
 - [little jhool and brute force 18](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-jhool-and-brute-force-18/)
-- [uniqueness violation b78b51ee](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/uniqueness-violation-b78b51ee/)
-- [erase to max 7b8c0ca3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/erase-to-max-7b8c0ca3/)
-- [old and cold numbers d9326e6b](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/old-and-cold-numbers-d9326e6b/)
+- [uniqueness violation](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/uniqueness-violation-b78b51ee/)
+- [erase to max](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/erase-to-max-7b8c0ca3/)
+- [old and cold numbers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/old-and-cold-numbers-d9326e6b/)
 - [jadoo and strings](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/jadoo-and-strings/)
 
 ## HackerEarth - Implementation IV [25 problems]
