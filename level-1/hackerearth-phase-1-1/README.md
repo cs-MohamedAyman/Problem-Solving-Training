@@ -36,6 +36,9 @@
 - [min max 3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/)
 - [complete the syllabus:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/complete-the-syllabus/)
 - [jarvis and seven segments 1:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jarvis-and-seven-segments-1/)
+
+## HackerEarth - Implementation II [25 problems]
+
 - [batman and tick tack toe:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/batman-and-tick-tack-toe/)
 - [presidential problem:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/presidential-problem/)
 - [round table killers b7b93156:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/round-table-killers-b7b93156/)
@@ -61,6 +64,9 @@
 - [jadoo hates maths:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/jadoo-hates-maths/)
 - [heman anil and soubhik:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/heman-anil-and-soubhik/)
 - [killjee and superdromes 1f1d31c3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-superdromes-1f1d31c3/)
+
+## HackerEarth - Implementation III [25 problems]
+
 - [shitty fortune:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shitty-fortune/)
 - [mancunian in palindromia 3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mancunian-in-palindromia-3/)
 - [bracket balancer b9f56e12:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bracket-balancer-b9f56e12/)
@@ -86,6 +92,9 @@
 - [chocolate distribution 709f61ec:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolate-distribution-709f61ec/)
 - [square in triangle:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/square-in-triangle/)
 - [string restoration ather b41289af:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-restoration-ather-b41289af/)
+
+## HackerEarth - Implementation IV [25 problems]
+
 - [attendance 70 3369f484:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/attendance-70-3369f484/)
 - [lets prepare for exams a7f00d14:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/lets-prepare-for-exams-a7f00d14/)
 - [how many buildings you can make 1:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/how-many-buildings-you-can-make-1/)
