@@ -1,5 +1,4 @@
-
-## [Level 2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
+## Level 2
 
 This level simply consists of ten sheets, four sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last two sheets on HackerRank Online Judge.
 
