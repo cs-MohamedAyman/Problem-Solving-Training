@@ -159,8 +159,8 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | Category        | Problems    |
 | ------|:-----:|
 | Data Structure  | 15 problems |
-| Mathematics     | 25 problems |
 | String          | 15 problems |
+| Mathematics     | 25 problems |
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
@@ -169,8 +169,8 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | Category        | Problems    |
 | ------|:-----:|
 | Data Structure  | 15 problems |
-| Mathematics     | 25 problems |
 | String          | 15 problems |
+| Mathematics     | 25 problems |
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
@@ -179,8 +179,8 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | Category        | Problems    |
 | ------|:-----:|
 | Data Structure  | 25 problems |
+| String          | 15 problems |
 | Mathematics     | 25 problems |
-| String          | 25 problems |
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
