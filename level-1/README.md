@@ -1,6 +1,6 @@
 ## Level 1
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1) simply consists of eight sheets, three sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
+This level simply consists of eight sheets, three sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
 ## Prerequisites
 
