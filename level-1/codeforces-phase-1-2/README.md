@@ -4,7 +4,7 @@
 
 ## Table of Content
 
-- ***Basic Operator*** [5 problems]
+- ***Basic Operator*** [ 5 problems]
 - ***Condition***      [10 problems]
 - ***Loop***           [20 problems]
 - ***String***         [20 problems]
