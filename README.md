@@ -18,7 +18,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ sheets `150H`
+## [Codeforces](https://codeforces.com/) OJ sheets
 
 <details>
 	<summary>Codeforces OJ sheets (3 sheets)</summary>
@@ -59,7 +59,7 @@ The Codeforces OJ sheets [codeforces-phase-1-1](https://github.com/cs-MohamedAym
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ sheets `220H`
+## [HackerEarth](http://hackerearth.com/) OJ sheets
 
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
@@ -106,7 +106,7 @@ The HackerEarth OJ sheets [hackerearth-phase-1-1](https://github.com/cs-MohamedA
 
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ sheets `40H`
+## [HackerRank](https://www.hackerrank.com/) OJ sheets
 
 <details>
 	<summary>HackerRank OJ sheets (1 sheet)</summary>
@@ -158,7 +158,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ sheets `150H`
+## [Codeforces](https://codeforces.com/) OJ sheets
 
 <details>
 	<summary>Codeforces OJ sheets (4 sheets)</summary>
@@ -208,7 +208,7 @@ For the last sheet [codeforces-phase-2-gym-contests](https://github.com/cs-Moham
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ sheets `200H`
+## [HackerEarth](http://hackerearth.com/) OJ sheets
 
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
@@ -254,7 +254,7 @@ The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://g
 
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ sheets `120H`
+## [HackerRank](https://www.hackerrank.com/) OJ sheets
 
 <details>
 	<summary>HackerRank OJ sheets (2 sheets)</summary>
