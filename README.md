@@ -151,40 +151,40 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 <details>
 	<summary>Codeforces OJ sheets (4 sheets)</summary>
 
-The Codeforces OJ sheets [codeforces-phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [codeforces-phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematical - String - Greedy - Brute Force). These sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~90 problems.
-For the last sheet [codeforces-phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) that focus on gym-contests, It's divided into 3 classes of contests, that contains ~100 contests. 
+The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~90 problems.
+For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) that focus on gym-contests, It's divided into 3 classes of contests, that contains ~100 contests. 
 
-### Agenda of [codeforces-phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1) sheet (85 problems) `50H`
-
-| Category        | Problems    |
-| ------|:-----:|
-| Data Structure  | 15 problems |
-| Mathematical    | 25 problems |
-| String          | 15 problems |
-| Greedy          | 25 problems |
-| Brute Force     | 5 problems  |
-
-### Agenda of [codeforces-phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2) sheet (85 problems) `50H`
+### Agenda of [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1) (85 problems) `80H`
 
 | Category        | Problems    |
 | ------|:-----:|
 | Data Structure  | 15 problems |
-| Mathematical    | 25 problems |
+| Mathematics     | 25 problems |
 | String          | 15 problems |
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
-### Agenda of [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) sheet (100 problems) `50H`
+### Agenda of [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2) (85 problems) `80H`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Data Structure  | 15 problems |
+| Mathematics     | 25 problems |
+| String          | 15 problems |
+| Greedy          | 25 problems |
+| Brute Force     | 5 problems  |
+
+### Agenda of [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) (100 problems) `80H`
 
 | Category        | Problems    |
 | ------|:-----:|
 | Data Structure  | 25 problems |
-| Mathematical    | 25 problems |
+| Mathematics     | 25 problems |
 | String          | 25 problems |
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
-### Agenda of [codeforces-phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) sheet (100 contests) `200H`
+### Agenda of [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) (100 contests) `200H`
 
 | Category                      | Problems    |
 | ----------|:-----:|
@@ -201,9 +201,9 @@ For the last sheet [codeforces-phase-2-gym-contests](https://github.com/cs-Moham
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
 
-The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures), [hackerearth-phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures), [hackerearth-phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching), [hackerearth-phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting), Each sheet contains linear and non-linear data structures problems, in addition to searching and sorting algorithms. These sheets were sorted based on difficulty and each sheet contains ~100 problems.
+The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures), [phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures), [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching), [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting), Each sheet contains linear and non-linear data structures problems, in addition to searching and sorting algorithms. These sheets were sorted based on difficulty and each sheet contains ~100 problems.
 
-### Agenda of [hackerearth-phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures) sheet (110 problems) `60H`
+### Agenda of [phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures) (110 problems) `60H`
 
 | Category                 | Problems    |
 | ---------|:-----:|
@@ -212,7 +212,7 @@ The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://g
 | Stacks            	   | 25 problems |
 | Queues  		   | 5 problems  |
 
-### Agenda of [hackerearth-phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures) sheet (90 problems) `50H`
+### Agenda of [phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures) (90 problems) `50H`
 
 | Category                | Problems    |
 | --------|:-----:|
@@ -221,7 +221,7 @@ The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://g
 | Heaps / Priority Queues | 20 problems |
 | Hash Tables             | 50 problems |
 
-### Agenda of [hackerearth-phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching) sheet (120 problems) `60H`
+### Agenda of [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching) (120 problems) `60H`
 
 | Category         | Problems    |
 | -------|:-----:|
@@ -230,7 +230,7 @@ The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://g
 | Binary Search II | 50 problems |
 | Ternary Search   | 5 problems  |
 
-### Agenda of [hackerearth-phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting) sheet (60 problems) `30H`
+### Agenda of [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting) (60 problems) `30H`
 
 | Category                       | Problems    |
 | -----------|:-----:|
@@ -247,9 +247,9 @@ The HackerEarth OJ sheets [hackerearth-phase-2-linear-data-structures](https://g
 <details>
 	<summary>HackerRank OJ sheets (2 sheets)</summary>
 
-The HackerRank OJ sheets [hackerrank-phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [hackerrank-phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~120 problems.
+The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~120 problems.
 
-### Agenda of [hackerrank-phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures) sheet (110 problems) `60H`
+### Agenda of [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures) (110 problems) `80H`
 
 | Category                   | Problems    |
 | ---------|:-----:|
@@ -259,7 +259,7 @@ The HackerRank OJ sheets [hackerrank-phase-2-data-structures](https://github.com
 | Heap & Disjoint Set & Trie | 10 problems |
 | Advanced                   | 50 problems |
 
-### Agenda of [hackerrank-phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics) sheet (125 problems) `60H`
+### Agenda of [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics) (125 problems) `80H`
 
 | Category       | Problems    |
 | -----|:-----:|
