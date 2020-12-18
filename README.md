@@ -4,9 +4,9 @@
 
 Problem solving training for computer science students.
 
-## Level 1
+## [Level 1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1) simply consists of eight sheets, three sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
+This level simply consists of eight sheets, three sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
 ## Prerequisites
 
@@ -132,9 +132,9 @@ The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-M
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
 
-## Level 2
+## [Level 2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
 
-This [level](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2) simply consists of ten sheets, four sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last two sheets on HackerRank Online Judge.
+This level simply consists of ten sheets, four sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last two sheets on HackerRank Online Judge.
 
 ## Prerequisites
 
