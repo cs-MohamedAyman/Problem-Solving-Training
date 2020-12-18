@@ -9,7 +9,7 @@
 - ***Implementation III*** [25 problems]
 - ***Implementation IV*** [25 problems]
 
-## HackerEarth - Implementation II [25 problems]
+## HackerEarth - Implementation I [25 problems]
 
 - [power failure:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/power-failure/)
 - [killjee and sorted array ae92a57f:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-sorted-array-ae92a57f/)
@@ -35,6 +35,9 @@
 - [2 fast 2 furious:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/2-fast-2-furious/)
 - [new game of oz:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/new-game-of-oz/)
 - [diamonds 4:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/diamonds-4/)
+
+## HackerEarth - Implementation II [25 problems]
+
 - [little shino and coins 3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-shino-and-coins-3/)
 - [aniruddhas queue 4:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/aniruddhas-queue-4/)
 - [battle of words:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/battle-of-words/)
@@ -60,6 +63,9 @@
 - [special price:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/special-price/)
 - [roy and texting robot 2:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-texting-robot-2/)
 - [the best internet browser 3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-best-internet-browser-3/)
+
+## HackerEarth - Implementation III [25 problems]
+
 - [only even:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/only-even/)
 - [rahuls logo:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rahuls-logo/)
 - [tds and his trips:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tds-and-his-trips/)
@@ -84,6 +90,9 @@
 - [erase to max 7b8c0ca3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/erase-to-max-7b8c0ca3/)
 - [old and cold numbers d9326e6b:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/old-and-cold-numbers-d9326e6b/)
 - [jadoo and strings:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/jadoo-and-strings/)
+
+## HackerEarth - Implementation IV [25 problems]
+
 - [gupta chaturvedi and saxena trilogy a:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/gupta-chaturvedi-and-saxena-trilogy-a/)
 - [illegible string:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/illegible-string/)
 - [chessboard and dominos 3:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chessboard-and-dominos-3/)
