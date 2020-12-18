@@ -82,7 +82,7 @@
 - CF-Round 231: http://codeforces.com/problemset/problem/394/A
 - CF-Round 293: http://codeforces.com/problemset/problem/518/A
 
-## Codeforces - List [20 problems]
+## Codeforces - List [40 problems]
 
 - CF-Round 325: http://codeforces.com/problemset/problem/586/A
 - CF-Round 336: http://codeforces.com/problemset/problem/608/A
