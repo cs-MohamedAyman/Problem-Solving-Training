@@ -113,7 +113,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was sorted based on difficulty and grouped by the type of problems as mentioned. Finally, this sheet contains ~80 problems.
 
-### Agenda of [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming) (80 problems) `60H`
+### Agenda of [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming) (80 problems) `80H`
 
 | Category               | Problems    |
 | ---------|:-----:|
@@ -221,7 +221,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 | Heaps / Priority Queues | 20 problems |
 | Hash Tables             | 50 problems |
 
-### Agenda of [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching) (120 problems) `60H`
+### Agenda of [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching) (120 problems) `80H`
 
 | Category         | Problems    |
 | -------|:-----:|
@@ -230,7 +230,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 | Binary Search II | 50 problems |
 | Ternary Search   | 5 problems  |
 
-### Agenda of [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting) (60 problems) `30H`
+### Agenda of [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting) (60 problems) `40H`
 
 | Category                       | Problems    |
 | -----------|:-----:|
