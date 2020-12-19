@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# HackerEarth Online Judge - Phase 1.1 (100 problems) `80H`
+# [HackerEarth](http://hackerearth.com/) Online Judge - Phase 1.1 (100 problems) `80H`
 
 ## Table of Content
 
