@@ -11,7 +11,6 @@
 - ***Ad-Hoc*** [15 problems]
 - ***Misc*** [5 problems]
 
-
 ## HackerRank - Introduction [25 problems]
 
 - [fp solve me first](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)
