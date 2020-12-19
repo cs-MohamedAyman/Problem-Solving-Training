@@ -4,11 +4,11 @@
 
 ## Table of Content
 
-- ***Data Structure*** [15 problems]
+- ***Data Structure*** [20 problems]
 - ***String***         [15 problems]
-- ***Mathematics***    [25 problems]
+- ***Mathematics***    [30 problems]
 - ***Greedy***         [25 problems]
-- ***Brute Force***    [5 problems]
+- ***Brute Force***    [10 problems]
 
 ## Codeforces - Data Structure [15 problems]
 
@@ -64,7 +64,7 @@
 - CF-Round 233: http://codeforces.com/problemset/problem/399/B
 - CF-Round 179: http://codeforces.com/problemset/problem/296/B
 
-## Codeforces - Mathematics [25 problems]
+## Codeforces - Mathematics [30 problems]
 
 - CF-Round 295: http://codeforces.com/problemset/problem/520/B
 - CF-Round 298: http://codeforces.com/problemset/problem/534/B
@@ -126,7 +126,7 @@
 - CF-Round 229: http://codeforces.com/problemset/problem/390/B
 - CF-Round 319: http://codeforces.com/problemset/problem/577/B
 
-## Codeforces - Brute Force [5 problems]
+## Codeforces - Brute Force [10 problems]
 
 - CF-Round 144: http://codeforces.com/problemset/problem/233/B
 - CF-Round 155: http://codeforces.com/problemset/problem/254/B
