@@ -11,7 +11,7 @@
 - ***Advanced*** [50 problems]
 
 
-## HackerEarth - Arrays & Linked Lists [20 problems]
+## HackerRank - Arrays & Linked Lists [20 problems]
 
 - [arrays ds](https://www.hackerrank.com/challenges/arrays-ds/problem)
 - [2d array](https://www.hackerrank.com/challenges/2d-array/problem)
@@ -35,7 +35,7 @@
 - [sparse arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - [crush](https://www.hackerrank.com/challenges/crush/problem)
 
-## HackerEarth - Stacks & Queues [10 problems]
+## HackerRank - Stacks & Queues [10 problems]
 
 - [equal stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)
 - [challenges](https://www.hackerrank.com/challenges/queue-using-two-stacks)
@@ -50,7 +50,7 @@
 - [poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)
 - [challenges](https://www.hackerrank.com/challenges/and-xor-or)
 
-## HackerEarth - Trees & Balanced Trees [20 problems]
+## HackerRank - Trees & Balanced Trees [20 problems]
 
 - [tree preorder traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
 - [tree postorder traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)
@@ -72,7 +72,7 @@
 - [kittys calculations on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)
 - [array pairs](https://www.hackerrank.com/challenges/array-pairs/problem)
 
-## HackerEarth - Heap & Disjoint Set & Trie [10 problems]
+## HackerRank - Heap & Disjoint Set & Trie [10 problems]
 
 - [qheap1](https://www.hackerrank.com/challenges/qheap1/problem)
 - [jesse and cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)
@@ -85,7 +85,7 @@
 - [maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)
 - [no prefix set](https://www.hackerrank.com/challenges/no-prefix-set/problem)
 
-## HackerEarth - Advanced [50 problems]
+## HackerRank - Advanced [50 problems]
 
 - [kindergarten adventures](https://www.hackerrank.com/challenges/kindergarten-adventures/problem)
 - [x and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem)
