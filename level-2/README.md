@@ -34,7 +34,7 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | String          | 15 problems |
 | Mathematics     | 25 problems |
 | Greedy          | 25 problems |
-| Brute Force     | 5 problems  |
+| Brute Force     | 10 problems  |
 
 ### Agenda of [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2) (90 problems) `80H`
 
@@ -44,17 +44,17 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | String          | 15 problems |
 | Mathematics     | 25 problems |
 | Greedy          | 25 problems |
-| Brute Force     | 5 problems  |
+| Brute Force     | 10 problems  |
 
 ### Agenda of [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) (100 problems) `80H`
 
 | Category        | Problems    |
 | ------|:-----:|
-| Data Structure  | 25 problems |
+| Data Structure  | 30 problems |
 | String          | 15 problems |
-| Mathematics     | 25 problems |
+| Mathematics     | 30 problems |
 | Greedy          | 25 problems |
-| Brute Force     | 5 problems  |
+| Brute Force     | 10 problems  |
 
 ### Agenda of [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) (100 contests) `200H`
 
