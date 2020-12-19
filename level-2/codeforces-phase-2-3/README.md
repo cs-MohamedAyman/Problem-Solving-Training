@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# Codeforces Online Judge - Phase 2.2 (100 problems) `80H`
+# Codeforces Online Judge - Phase 2.2 (90 problems) `80H`
 
 ## Table of Content
 
@@ -8,7 +8,7 @@
 - ***String***         [15 problems]
 - ***Mathematics***    [25 problems]
 - ***Greedy***         [25 problems]
-- ***Brute Force***    [5 problems]
+- ***Brute Force***    [10 problems]
 
 ## Codeforces - Data Structure [15 problems]
 
@@ -108,7 +108,7 @@
 - CF-Round 312: http://codeforces.com/problemset/problem/558/B
 - CF-Round 334: http://codeforces.com/problemset/problem/604/B
 
-## Codeforces - Brute Force [5 problems]
+## Codeforces - Brute Force [10 problems]
 
 - CF-Round 380: http://codeforces.com/problemset/problem/738/B
 - CF-Round 128: http://codeforces.com/problemset/problem/203/B
