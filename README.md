@@ -138,7 +138,7 @@ This level simply consists of ten sheets, four sheets of them on Codeforces Onli
 
 ## Prerequisites
 
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Basic Algorithms - Searching Algorithms - Sorting Algorithms)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 
 ### Related Repositories
 * [Data-Structures Repository](https://github.com/cs-MohamedAyman/Data-Structures)
