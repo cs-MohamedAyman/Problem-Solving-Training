@@ -38,17 +38,17 @@
 ## HackerRank - Stacks & Queues [10 problems]
 
 - [equal stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)
-- [challenges](https://www.hackerrank.com/challenges/queue-using-two-stacks)
-- [challenges](https://www.hackerrank.com/challenges/balanced-brackets)
-- [challenges](https://www.hackerrank.com/challenges/castle-on-the-grid)
-- [challenges](https://www.hackerrank.com/challenges/down-to-zero-ii)
-- [challenges](https://www.hackerrank.com/challenges/largest-rectangle)
-- [challenges](https://www.hackerrank.com/challenges/simple-text-editor)
-- [challenges](https://www.hackerrank.com/challenges/waiter)
-- [challenges](https://www.hackerrank.com/challenges/truck-tour)
-- [challenges](https://www.hackerrank.com/challenges/queries-with-fixed-length)
+- [queue using two stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+- [balanced-brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+- [castle-on-the-grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)
+- [down-to-zero-ii](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)
+- [largest-rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+- [simple-text-editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)
+- [waiter](https://www.hackerrank.com/challenges/waiter/problem)
+- [truck-tour](https://www.hackerrank.com/challenges/truck-tour/problem)
+- [queries-with-fixed-length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)
 - [poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)
-- [challenges](https://www.hackerrank.com/challenges/and-xor-or)
+- [and-xor-or](https://www.hackerrank.com/challenges/and-xor-or/problem)
 
 ## HackerRank - Trees & Balanced Trees [20 problems]
 
