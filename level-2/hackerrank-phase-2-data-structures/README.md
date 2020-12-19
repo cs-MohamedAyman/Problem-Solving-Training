@@ -10,7 +10,6 @@
 - ***Heap & Disjoint Set & Trie*** [10 problems]
 - ***Advanced*** [50 problems]
 
-
 ## HackerRank - Arrays & Linked Lists [20 problems]
 
 - [arrays ds](https://www.hackerrank.com/challenges/arrays-ds/problem)
