@@ -5,6 +5,6 @@
 ## Table of Content
 
 - ***Educational Codeforces Rounds*** [80 contests]
-- ***Codeforces GYM Contests * ***    [5 contests]
-- ***Codeforces GYM Contests ** ***   [15 contests]
+- ***Codeforces GYM Contests |***     [5 contests]
+- ***Codeforces GYM Contests ||***    [15 contests]
 
