@@ -26,7 +26,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~90 problems.
 For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) that focus on gym-contests, It's divided into 3 classes of contests, that contains ~100 contests. 
 
-### Agenda of [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1) (85 problems) `80H`
+### Agenda of [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1) (90 problems) `80H`
 
 | Category        | Problems    |
 | ------|:-----:|
@@ -36,7 +36,7 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | Greedy          | 25 problems |
 | Brute Force     | 5 problems  |
 
-### Agenda of [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2) (85 problems) `80H`
+### Agenda of [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2) (90 problems) `80H`
 
 | Category        | Problems    |
 | ------|:-----:|
