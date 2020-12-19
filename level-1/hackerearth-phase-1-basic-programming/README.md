@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Phase 1.basics (130 problems) `100H`
+# [HackerEarth](http://hackerearth.com/) OJ - Basic Programming (130 problems) `100H`
 
 ## Table of Content
 
