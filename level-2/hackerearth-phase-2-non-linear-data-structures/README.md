@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Non-linear Data Structures (90 problems) `80H`
+# [HackerEarth](http://hackerearth.com/) OJ - Non-linear Data Structure (90 problems) `80H`
 
 ## Table of Content
 
