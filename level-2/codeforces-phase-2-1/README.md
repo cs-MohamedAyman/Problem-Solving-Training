@@ -8,7 +8,7 @@
 - ***String***         [15 problems]
 - ***Mathematics***    [25 problems]
 - ***Greedy***         [25 problems]
-- ***Brute Force***    [5 problems]
+- ***Brute Force***    [10 problems]
 
 ## Codeforces - Data Structure [15 problems]
 
@@ -108,7 +108,7 @@
 - CF-Round 175: http://codeforces.com/problemset/problem/285/B
 - CF-Round 191: http://codeforces.com/problemset/problem/327/B
 
-## Codeforces - Brute Force [5 problems]
+## Codeforces - Brute Force [10 problems]
 
 - CF-Round 121: http://codeforces.com/problemset/problem/192/B
 - CF-Round 157: http://codeforces.com/problemset/problem/259/B
