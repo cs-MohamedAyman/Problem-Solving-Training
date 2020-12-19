@@ -1,6 +1,6 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# HackerRank Online Judge - basics (80 problems) `80H`
+# [HackerRank](https://www.hackerrank.com/) Online Judge - basics (80 problems) `80H`
 
 ## Table of Content
 
