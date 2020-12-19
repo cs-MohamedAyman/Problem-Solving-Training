@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) Online Judge - linear data structures (110 problems) `80H`
+# [HackerEarth](http://hackerearth.com/) OJ - Phase 2.linear data structures (110 problems) `80H`
 
 ## Table of Content
 
@@ -26,7 +26,7 @@
 - [help jarvis](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/help-jarvis-8a39566e/)
 - [no sharing capillary](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/no-sharing-capillary-82ed3fe2/)
 - [maximize the earning](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/)
-- [strange game 1 7e758acb](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/strange-game-1-7e758acb-1bff10f0/)
+- [strange game 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/strange-game-1-7e758acb-1bff10f0/)
 - [pepper and contiguous even subarray](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pepper-and-contiguous-even-subarray-9f3adf65/)
 - [not in range](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/not-in-range-44d19403/)
 - [eedc](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/eedc/)
