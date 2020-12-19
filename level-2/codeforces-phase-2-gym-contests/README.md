@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) Online Judge - Phase 2.gym (100 contests) `200H`
+# [Codeforces](https://codeforces.com/) OJ - Gym Contests (100 contests) `200H`
 
 ## Table of Content
 
