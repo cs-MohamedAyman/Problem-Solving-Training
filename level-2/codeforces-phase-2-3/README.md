@@ -1,120 +1,138 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) Online Judge - Phase 2.2 (90 problems) `80H`
+# [Codeforces](https://codeforces.com/) OJ - Phase 2.3 (100 problems) `80H`
 
 ## Table of Content
 
-- ***Data Structure*** [15 problems]
+- ***Data Structure*** [20 problems]
 - ***String***         [15 problems]
-- ***Mathematics***    [25 problems]
+- ***Mathematics***    [30 problems]
 - ***Greedy***         [25 problems]
 - ***Brute Force***    [10 problems]
 
 ## Codeforces - Data Structure [15 problems]
 
-- CF-Round 136: http://codeforces.com/problemset/problem/221/B
-- CF-Round 137: http://codeforces.com/problemset/problem/222/B
-- CF-Round 146: http://codeforces.com/problemset/problem/236/B
-- CF-Round 192: http://codeforces.com/problemset/problem/330/B
-- CF-Round 204: http://codeforces.com/problemset/problem/352/B
-- CF-Round 263: http://codeforces.com/problemset/problem/462/B
-- CF-Round 314: http://codeforces.com/problemset/problem/567/B
-- CF-Round 341: http://codeforces.com/problemset/problem/621/B
-- CF-Round 368: http://codeforces.com/problemset/problem/707/B
-- CF-Round 177: http://codeforces.com/problemset/problem/289/B
-- CF-Round 269: http://codeforces.com/problemset/problem/471/B
-- CF-Round 274: http://codeforces.com/problemset/problem/479/B
-- CF-Round 277: http://codeforces.com/problemset/problem/486/B
-- CF-Round 292: http://codeforces.com/problemset/problem/515/B
-- CF-Round 317: http://codeforces.com/problemset/problem/572/B
-- CF-Round 320: http://codeforces.com/problemset/problem/579/B
+- CF-Round 333: http://codeforces.com/problemset/problem/602/B
+- CF-Round 346: http://codeforces.com/problemset/problem/659/B
+- CF-Round 369: http://codeforces.com/problemset/problem/711/B
+- CF-Round 138: http://codeforces.com/problemset/problem/224/B
+- CF-Round 147: http://codeforces.com/problemset/problem/237/B
+- CF-Round 181: http://codeforces.com/problemset/problem/300/B
+- CF-Round 193: http://codeforces.com/problemset/problem/332/B
+- CF-Round 194: http://codeforces.com/problemset/problem/334/B
+- CF-Round 216: http://codeforces.com/problemset/problem/369/B
+- CF-Round 249: http://codeforces.com/problemset/problem/435/B
+- CF-Round 254: http://codeforces.com/problemset/problem/445/B
+- CF-Round 279: http://codeforces.com/problemset/problem/490/B
+- CF-Round 286: http://codeforces.com/problemset/problem/505/B
+- CF-Round 296: http://codeforces.com/problemset/problem/527/B
+- CF-Round 297: http://codeforces.com/problemset/problem/525/B
+- CF-Round 306: http://codeforces.com/problemset/problem/550/B
+- CF-Round 318: http://codeforces.com/problemset/problem/574/B
+- CF-Round 324: http://codeforces.com/problemset/problem/584/B
+- CF-Round 139: http://codeforces.com/problemset/problem/225/B
+- CF-Round 338: http://codeforces.com/problemset/problem/615/B
+- CF-Round 133: http://codeforces.com/problemset/problem/216/B
+- CF-Round 178: http://codeforces.com/problemset/problem/294/B
+- CF-Round 202: http://codeforces.com/problemset/problem/349/B
+- CF-Round 100: http://codeforces.com/problemset/problem/140/B
 
 ## Codeforces - String [15 problems]
 
-- CF-Round 239: http://codeforces.com/problemset/problem/408/B
-- CF-Round 303: http://codeforces.com/problemset/problem/545/B
-- CF-Round 309: http://codeforces.com/problemset/problem/554/B
-- CF-Round 327: http://codeforces.com/problemset/problem/591/B
-- CF-Round 370: http://codeforces.com/problemset/problem/712/B
-- CF-Round 390: http://codeforces.com/problemset/problem/754/B
-- CF-Round 392: http://codeforces.com/problemset/problem/758/B
-- CF-Round 107: http://codeforces.com/problemset/problem/151/B
-- CF-Round 180: http://codeforces.com/problemset/problem/298/B
-- CF-Round 188: http://codeforces.com/problemset/problem/318/B
-- CF-Round 226: http://codeforces.com/problemset/problem/385/B
-- CF-Round 234: http://codeforces.com/problemset/problem/400/B
-- CF-Round 272: http://codeforces.com/problemset/problem/476/B
-- CF-Round 342: http://codeforces.com/problemset/problem/625/B
-- CF-Round 141: http://codeforces.com/problemset/problem/228/B
-- CF-Round 169: http://codeforces.com/problemset/problem/276/B
+- CF-Round 256: http://codeforces.com/problemset/problem/448/B
+- CF-Round 362: http://codeforces.com/problemset/problem/697/B
+- CF-Round 372: http://codeforces.com/problemset/problem/716/B
+- CF-Round 373: http://codeforces.com/problemset/problem/719/B
+- CF-Round 148: http://codeforces.com/problemset/problem/239/B
+- CF-Round 170: http://codeforces.com/problemset/problem/278/B
+- CF-Round 173: http://codeforces.com/problemset/problem/282/B
+- CF-Round 199: http://codeforces.com/problemset/problem/342/B
+- CF-Round 208: http://codeforces.com/problemset/problem/358/B
+- CF-Round 253: http://codeforces.com/problemset/problem/443/B
+- CF-Round 293: http://codeforces.com/problemset/problem/518/B
+- CF-Round 336: http://codeforces.com/problemset/problem/608/B
+- CF-Round 389: http://codeforces.com/problemset/problem/752/B
+- CF-Round 106: http://codeforces.com/problemset/problem/149/B
+- CF-Round 158: http://codeforces.com/problemset/problem/260/B
+- CF-Round 168: http://codeforces.com/problemset/problem/275/B
+- CF-Round 335: http://codeforces.com/problemset/problem/606/B
+- CF-Round 114: http://codeforces.com/problemset/problem/168/B
+- CF-Round 127: http://codeforces.com/problemset/problem/202/B
+- CF-Round 130: http://codeforces.com/problemset/problem/208/B
+- CF-Round 307: http://codeforces.com/problemset/problem/551/B
+- CF-Round 347: http://codeforces.com/problemset/problem/664/B
+- CF-Round 233: http://codeforces.com/problemset/problem/399/B
+- CF-Round 179: http://codeforces.com/problemset/problem/296/B
 
-## Codeforces - Mathematics [25 problems]
+## Codeforces - Mathematics [30 problems]
 
-- CF-Round 396: http://codeforces.com/problemset/problem/766/B
-- CF-Round 104: http://codeforces.com/problemset/problem/146/B
-- CF-Round 122: http://codeforces.com/problemset/problem/194/B
-- CF-Round 123: http://codeforces.com/problemset/problem/195/B
-- CF-Round 132: http://codeforces.com/problemset/problem/215/B
-- CF-Round 142: http://codeforces.com/problemset/problem/230/B
-- CF-Round 185: http://codeforces.com/problemset/problem/312/B
-- CF-Round 200: http://codeforces.com/problemset/problem/344/B
-- CF-Round 273: http://codeforces.com/problemset/problem/478/B
-- CF-Round 308: http://codeforces.com/problemset/problem/552/B
-- CF-Round 313: http://codeforces.com/problemset/problem/560/B
-- CF-Round 357: http://codeforces.com/problemset/problem/681/B
-- CF-Round 388: http://codeforces.com/problemset/problem/749/B
-- CF-Round 394: http://codeforces.com/problemset/problem/761/B
-- CF-Round 101: http://codeforces.com/problemset/problem/141/B
-- CF-Round 119: http://codeforces.com/problemset/problem/189/B
-- CF-Round 124: http://codeforces.com/problemset/problem/197/B
-- CF-Round 152: http://codeforces.com/problemset/problem/248/B
-- CF-Round 159: http://codeforces.com/problemset/problem/257/B
-- CF-Round 166: http://codeforces.com/problemset/problem/271/B
-- CF-Round 167: http://codeforces.com/problemset/problem/272/B
-- CF-Round 196: http://codeforces.com/problemset/problem/337/B
-- CF-Round 209: http://codeforces.com/problemset/problem/359/B
-- CF-Round 218: http://codeforces.com/problemset/problem/371/B
-- CF-Round 257: http://codeforces.com/problemset/problem/450/B
-- CF-Round 287: http://codeforces.com/problemset/problem/507/B
-- CF-Round 291: http://codeforces.com/problemset/problem/514/B
+- CF-Round 295: http://codeforces.com/problemset/problem/520/B
+- CF-Round 298: http://codeforces.com/problemset/problem/534/B
+- CF-Round 300: http://codeforces.com/problemset/problem/538/B
+- CF-Round 326: http://codeforces.com/problemset/problem/588/B
+- CF-Round 355: http://codeforces.com/problemset/problem/677/B
+- CF-Round 365: http://codeforces.com/problemset/problem/703/B
+- CF-Round 391: http://codeforces.com/problemset/problem/757/B
+- CF-Round 135: http://codeforces.com/problemset/problem/219/B
+- CF-Round 237: http://codeforces.com/problemset/problem/404/B
+- CF-Round 240: http://codeforces.com/problemset/problem/415/B
+- CF-Round 250: http://codeforces.com/problemset/problem/437/B
+- CF-Round 262: http://codeforces.com/problemset/problem/460/B
+- CF-Round 353: http://codeforces.com/problemset/problem/675/B
+- CF-Round 120: http://codeforces.com/problemset/problem/190/B
+- CF-Round 184: http://codeforces.com/problemset/problem/305/B
+- CF-Round 190: http://codeforces.com/problemset/problem/322/B
+- CF-Round 219: http://codeforces.com/problemset/problem/373/B
+- CF-Round 282: http://codeforces.com/problemset/problem/495/B
+- CF-Round 329: http://codeforces.com/problemset/problem/593/B
+- CF-Round 330: http://codeforces.com/problemset/problem/595/B
+- CF-Round 172: http://codeforces.com/problemset/problem/281/B
+- CF-Round 266: http://codeforces.com/problemset/problem/466/B
+- CF-Round 275: http://codeforces.com/problemset/problem/483/B
+- CF-Round 125: http://codeforces.com/problemset/problem/199/B
+- CF-Round 195: http://codeforces.com/problemset/problem/336/B
+- CF-Round 113: http://codeforces.com/problemset/problem/166/B
+- CF-Round 198: http://codeforces.com/problemset/problem/340/B
+- CF-Round 224: http://codeforces.com/problemset/problem/382/B
+- CF-Round 116: http://codeforces.com/problemset/problem/180/B
 
 ## Codeforces - Greedy [25 problems]
 
-- CF-Round 217: http://codeforces.com/problemset/problem/370/B
-- CF-Round 221: http://codeforces.com/problemset/problem/376/B
-- CF-Round 222: http://codeforces.com/problemset/problem/378/B
-- CF-Round 243: http://codeforces.com/problemset/problem/426/B
-- CF-Round 258: http://codeforces.com/problemset/problem/451/B
-- CF-Round 259: http://codeforces.com/problemset/problem/454/B
-- CF-Round 261: http://codeforces.com/problemset/problem/459/B
-- CF-Round 268: http://codeforces.com/problemset/problem/469/B
-- CF-Round 270: http://codeforces.com/problemset/problem/472/B
-- CF-Round 271: http://codeforces.com/problemset/problem/474/B
-- CF-Round 277.5: http://codeforces.com/problemset/problem/489/B
-- CF-Round 288: http://codeforces.com/problemset/problem/508/B
-- CF-Round 289: http://codeforces.com/problemset/problem/509/B
-- CF-Round 316: http://codeforces.com/problemset/problem/570/B
-- CF-Round 325: http://codeforces.com/problemset/problem/586/B
-- CF-Round 337: http://codeforces.com/problemset/problem/610/B
-- CF-Round 340: http://codeforces.com/problemset/problem/617/B
-- CF-Round 344: http://codeforces.com/problemset/problem/631/B
-- CF-Round 108: http://codeforces.com/problemset/problem/152/B
-- CF-Round 115: http://codeforces.com/problemset/problem/175/B
-- CF-Round 154: http://codeforces.com/problemset/problem/253/B
-- CF-Round 165: http://codeforces.com/problemset/problem/270/B
-- CF-Round 207: http://codeforces.com/problemset/problem/357/B
-- CF-Round 252: http://codeforces.com/problemset/problem/441/B
-- CF-Round 302: http://codeforces.com/problemset/problem/544/B
-- CF-Round 312: http://codeforces.com/problemset/problem/558/B
-- CF-Round 334: http://codeforces.com/problemset/problem/604/B
+- CF-Round 339: http://codeforces.com/problemset/problem/614/B
+- CF-Round 351: http://codeforces.com/problemset/problem/673/B
+- CF-Round 363: http://codeforces.com/problemset/problem/699/B
+- CF-Round 385: http://codeforces.com/problemset/problem/745/B
+- CF-Round 105: http://codeforces.com/problemset/problem/148/B
+- CF-Round 112: http://codeforces.com/problemset/problem/165/B
+- CF-Round 189: http://codeforces.com/problemset/problem/320/B
+- CF-Round 225: http://codeforces.com/problemset/problem/384/B
+- CF-Round 281: http://codeforces.com/problemset/problem/493/B
+- CF-Round 290: http://codeforces.com/problemset/problem/510/B
+- CF-Round 311: http://codeforces.com/problemset/problem/557/B
+- CF-Round 321: http://codeforces.com/problemset/problem/580/B
+- CF-Round 332: http://codeforces.com/problemset/problem/599/B
+- CF-Round 354: http://codeforces.com/problemset/problem/676/B
+- CF-Round 383: http://codeforces.com/problemset/problem/742/B
+- CF-Round 393: http://codeforces.com/problemset/problem/760/B
+- CF-Round 143: http://codeforces.com/problemset/problem/231/B
+- CF-Round 203: http://codeforces.com/problemset/problem/350/B
+- CF-Round 220: http://codeforces.com/problemset/problem/374/B
+- CF-Round 230: http://codeforces.com/problemset/problem/393/B
+- CF-Round 361: http://codeforces.com/problemset/problem/689/B
+- CF-Round 399: http://codeforces.com/problemset/problem/768/B
+- CF-Round 176: http://codeforces.com/problemset/problem/287/B
+- CF-Round 301: http://codeforces.com/problemset/problem/540/B
+- CF-Round 205: http://codeforces.com/problemset/problem/353/B
+- CF-Round 229: http://codeforces.com/problemset/problem/390/B
+- CF-Round 319: http://codeforces.com/problemset/problem/577/B
 
 ## Codeforces - Brute Force [10 problems]
 
-- CF-Round 380: http://codeforces.com/problemset/problem/738/B
-- CF-Round 128: http://codeforces.com/problemset/problem/203/B
-- CF-Round 129: http://codeforces.com/problemset/problem/205/B
-- CF-Round 171: http://codeforces.com/problemset/problem/279/B
-- CF-Round 183: http://codeforces.com/problemset/problem/304/B
-- CF-Round 236: http://codeforces.com/problemset/problem/402/B
-- CF-Round 245: http://codeforces.com/problemset/problem/430/B
-- CF-Round 305: http://codeforces.com/problemset/problem/548/B
+- CF-Round 144: http://codeforces.com/problemset/problem/233/B
+- CF-Round 155: http://codeforces.com/problemset/problem/254/B
+- CF-Round 283: http://codeforces.com/problemset/problem/496/B
+- CF-Round 131: http://codeforces.com/problemset/problem/214/B
+- CF-Round 150: http://codeforces.com/problemset/problem/244/B
+- CF-Round 153: http://codeforces.com/problemset/problem/252/B
+- CF-Round 278: http://codeforces.com/problemset/problem/488/B
+- CF-Round 398: http://codeforces.com/problemset/problem/767/B
