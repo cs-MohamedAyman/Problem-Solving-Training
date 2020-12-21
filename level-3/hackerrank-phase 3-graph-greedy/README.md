@@ -1,6 +1,6 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Graph & Greedy Algorithms (55 problems) `40H`
+# [HackerRank](https://www.hackerrank.com/) OJ - Graph, Greedy Algorithms (55 problems) `40H`
 
 ## Table of Content
 
