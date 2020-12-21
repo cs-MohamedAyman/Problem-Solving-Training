@@ -5,7 +5,7 @@
 ## Table of Content
 
 - ***Fundamentals*** [20 problems]
-- ***Number-Theory*** [35 problems]
+- ***Number Theory*** [35 problems]
 - ***Combinatorics*** [30 problems]
 - ***Algebra*** [20 problems]
 - ***Linear Algebra Foundations*** [10 problems]
@@ -33,7 +33,7 @@
 - [most distant](https://www.hackerrank.com/challenges/most-distant/problem)
 - [possible path](https://www.hackerrank.com/challenges/possible-path)
 
-## HackerRank - Number-Theory [35 problems]
+## HackerRank - Number Theory [35 problems]
 
 - [constructing a number](https://www.hackerrank.com/challenges/constructing-a-number)
 - [sherlock and gcd](https://www.hackerrank.com/challenges/sherlock-and-gcd)
