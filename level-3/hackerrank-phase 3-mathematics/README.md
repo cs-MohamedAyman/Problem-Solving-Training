@@ -1,0 +1,137 @@
+<img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+
+# [HackerRank](https://www.hackerrank.com/) OJ - Mathematical Algorithms (115 problems) `80H`
+
+## Table of Content
+
+- ***Fundamentals*** [20 problems]
+- ***Number-Theory*** [35 problems]
+- ***Combinatorics*** [30 problems]
+- ***Algebra*** [20 problems]
+- ***Linear Algebra Foundations*** [10 problems]
+
+## HackerRank - Fundamentals [20 problems]
+
+- [find point](https://www.hackerrank.com/challenges/find-point)
+- [maximum draws](https://www.hackerrank.com/challenges/maximum-draws/problem)
+- [handshake](https://www.hackerrank.com/challenges/handshake/problem)
+- [lowest triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)
+- [game with cells](https://www.hackerrank.com/challenges/game-with-cells/problem)
+- [leonardo and prime](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)
+- [connecting towns](https://www.hackerrank.com/challenges/connecting-towns/problem)
+- [p1 paper cutting](https://www.hackerrank.com/challenges/p1-paper-cutting/problem)
+- [sherlock and moving tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem)
+- [best divisor](https://www.hackerrank.com/challenges/best-divisor/problem)
+- [restaurant](https://www.hackerrank.com/challenges/restaurant/problem)
+- [reverse game](https://www.hackerrank.com/challenges/reverse-game/problem)
+- [strange grid](https://www.hackerrank.com/challenges/strange-grid/problem)
+- [sherlock and divisors](https://www.hackerrank.com/challenges/sherlock-and-divisors/problem)
+- [halloween party](https://www.hackerrank.com/challenges/halloween-party/problem)
+- [filling jars](https://www.hackerrank.com/challenges/filling-jars/problem)
+- [harry potter and the floating rocks](https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem)
+- [russian peasant exponentiation](https://www.hackerrank.com/challenges/russian-peasant-exponentiation/problem)
+- [most distant](https://www.hackerrank.com/challenges/most-distant/problem)
+- [possible path](https://www.hackerrank.com/challenges/possible-path)
+
+## HackerRank - Number-Theory [35 problems]
+
+- [constructing a number](https://www.hackerrank.com/challenges/constructing-a-number)
+- [sherlock and gcd](https://www.hackerrank.com/challenges/sherlock-and-gcd)
+- [primitive problem](https://www.hackerrank.com/challenges/primitive-problem/problem)
+- [identify smith numbers](https://www.hackerrank.com/challenges/identify-smith-numbers)
+- [eulers criterion](https://www.hackerrank.com/challenges/eulers-criterion)
+- [fibonacci finding easy](https://www.hackerrank.com/challenges/fibonacci-finding-easy)
+- [cheese and random toppings](https://www.hackerrank.com/challenges/cheese-and-random-toppings/problem)
+- [john and gcd list](https://www.hackerrank.com/challenges/john-and-gcd-list/problem)
+- [closest number](https://www.hackerrank.com/challenges/closest-number/problem)
+- [twins](https://www.hackerrank.com/challenges/twins/problem)
+- [the chosen one](https://www.hackerrank.com/challenges/the-chosen-one/problem)
+- [power of large numbers](https://www.hackerrank.com/challenges/power-of-large-numbers/problem)
+- [salary blues](https://www.hackerrank.com/challenges/salary-blues/problem)
+- [number of subsets](https://www.hackerrank.com/challenges/number-of-subsets/problem)
+- [breaking sticks](https://www.hackerrank.com/challenges/breaking-sticks/problem)
+- [easy gcd 1](https://www.hackerrank.com/challenges/easy-gcd-1/problem)
+- [manasa loves maths](https://www.hackerrank.com/challenges/manasa-loves-maths/problem)
+- [easy math](https://www.hackerrank.com/challenges/easy-math/problem)
+- [equations](https://www.hackerrank.com/challenges/equations/problem)
+- [binomial coefficients](https://www.hackerrank.com/challenges/binomial-coefficients/problem)
+- [lucy and flowers](https://www.hackerrank.com/challenges/lucy-and-flowers/problem)
+- [a weird function](https://www.hackerrank.com/challenges/a-weird-function/problem)
+- [arthur and coprimes](https://www.hackerrank.com/challenges/arthur-and-coprimes/problem)
+- [megaprime numbers](https://www.hackerrank.com/challenges/megaprime-numbers/problem)
+- [ants](https://www.hackerrank.com/challenges/ants/problem)
+- [ichigo and cubes](https://www.hackerrank.com/challenges/ichigo-and-cubes/problem)
+- [prime sum](https://www.hackerrank.com/challenges/prime-sum/problem)
+- [hyperrectangle gcd](https://www.hackerrank.com/challenges/hyperrectangle-gcd/problem)
+- [ichigo and rooms](https://www.hackerrank.com/challenges/ichigo-and-rooms/problem)
+- [ajob subsequence](https://www.hackerrank.com/challenges/ajob-subsequence/problem)
+- [matrix tree](https://www.hackerrank.com/challenges/matrix-tree/problem)
+- [niceclique](https://www.hackerrank.com/challenges/niceclique/problem)
+- [down the rabbit hole](https://www.hackerrank.com/challenges/down-the-rabbit-hole/problem)
+
+## HackerRank - Combinatorics [30 problems]
+
+- [a chocolate fiesta](https://www.hackerrank.com/challenges/a-chocolate-fiesta/problem)
+- [picking cards](https://www.hackerrank.com/challenges/picking-cards/problem)
+- [ncr table](https://www.hackerrank.com/challenges/ncr-table/problem)
+- [coinage](https://www.hackerrank.com/challenges/coinage/problem)
+- [building a list](https://www.hackerrank.com/challenges/building-a-list/problem)
+- [merge list](https://www.hackerrank.com/challenges/merge-list/problem)
+- [choose and calculate](https://www.hackerrank.com/challenges/choose-and-calculate/problem)
+- [sherlock and pairs](https://www.hackerrank.com/challenges/sherlock-and-pairs/problem)
+- [consecutive subsequences](https://www.hackerrank.com/challenges/consecutive-subsequences/problem)
+- [antipalindromic strings](https://www.hackerrank.com/challenges/antipalindromic-strings/problem)
+- [lexicographic steps](https://www.hackerrank.com/challenges/lexicographic-steps/problem)
+- [number list](https://www.hackerrank.com/challenges/number-list/problem)
+- [ajourney](https://www.hackerrank.com/challenges/ajourney/problem)
+- [super humble matrix](https://www.hackerrank.com/challenges/super-humble-matrix/problem)
+- [volleyball match](https://www.hackerrank.com/challenges/volleyball-match/problem)
+- [cyclicquadruples](https://www.hackerrank.com/challenges/cyclicquadruples/problem)
+- [game of throne ii](https://www.hackerrank.com/challenges/game-of-throne-ii/problem)
+- [digit products](https://www.hackerrank.com/challenges/digit-products/problem)
+- [tower 3 coloring](https://www.hackerrank.com/challenges/tower-3-coloring/problem)
+- [count fox sequences](https://www.hackerrank.com/challenges/count-fox-sequences/problem)
+- [manasa and combinatorics](https://www.hackerrank.com/challenges/manasa-and-combinatorics/problem)
+- [coloring grid](https://www.hackerrank.com/challenges/coloring-grid/problem)
+- [div and span](https://www.hackerrank.com/challenges/div-and-span/problem)
+- [ichigo and revenge](https://www.hackerrank.com/challenges/ichigo-and-revenge/problem)
+- [bincoefrevenge](https://www.hackerrank.com/challenges/bincoefrevenge/problem)
+- [circles math](https://www.hackerrank.com/challenges/circles-math/problem)
+- [costly graphs](https://www.hackerrank.com/challenges/costly-graphs/problem)
+- [bridges and harbors](https://www.hackerrank.com/challenges/bridges-and-harbors/problem)
+
+## HackerRank - Algebra [20 problems]
+
+- [difference and product](https://www.hackerrank.com/challenges/difference-and-product/problem)
+- [pythagorean triple](https://www.hackerrank.com/challenges/pythagorean-triple/problem)
+- [number groups](https://www.hackerrank.com/challenges/number-groups/problem)
+- [wet shark and 42](https://www.hackerrank.com/challenges/wet-shark-and-42/problem)
+- [simple one](https://www.hackerrank.com/challenges/simple-one/problem)
+- [stepping stones game](https://www.hackerrank.com/challenges/stepping-stones-game/problem)
+- [shashank and list](https://www.hackerrank.com/challenges/shashank-and-list/problem)
+- [triangle numbers](https://www.hackerrank.com/challenges/triangle-numbers/problem)
+- [little gaurav and sequence](https://www.hackerrank.com/challenges/little-gaurav-and-sequence/problem)
+- [tell the average](https://www.hackerrank.com/challenges/tell-the-average/problem)
+- [game of rotation](https://www.hackerrank.com/challenges/game-of-rotation/problem)
+- [hackonacci matrix rotations](https://www.hackerrank.com/challenges/hackonacci-matrix-rotations/problem)
+- [the triplets](https://www.hackerrank.com/challenges/the-triplets/problem)
+- [manasa and sub sequences](https://www.hackerrank.com/challenges/manasa-and-sub-sequences/problem)
+- [count solutions](https://www.hackerrank.com/challenges/count-solutions/problem)
+- [manasa and calculations](https://www.hackerrank.com/challenges/manasa-and-calculations/problem)
+- [the simplest sum](https://www.hackerrank.com/challenges/the-simplest-sum/problem)
+- [manasa and pizza](https://www.hackerrank.com/challenges/manasa-and-pizza/problem)
+- [permutation equations](https://www.hackerrank.com/challenges/permutation-equations/problem)
+- [introduction to algebra](https://www.hackerrank.com/challenges/introduction-to-algebra/problem)
+- [cross matrix](https://www.hackerrank.com/challenges/cross-matrix/problem)
+
+## HackerRank - Linear Algebra Foundations [10 problems]
+
+- [linear algebra foundations 1](https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem)
+- [linear algebra foundations 1 matrix subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem)
+- [linear algebra foundations 3 matrix multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem)
+- [linear algebra foundations 4 matrix multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem)
+- [linear algebra foundations 5 the 100th power of a matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix/problem)
+- [linear algebra foundations 6 the nsupthsup power of a matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix/problem)
+- [linear algebra fundamentals 10 eigenvectors](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors/problem)
+- [determinant of the matrix 1](https://www.hackerrank.com/challenges/determinant-of-the-matrix-1/problem)
+- [determinant of the matrix 3](https://www.hackerrank.com/challenges/determinant-of-the-matrix-3/problem)
