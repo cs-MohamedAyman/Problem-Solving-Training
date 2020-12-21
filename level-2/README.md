@@ -121,15 +121,13 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~120 problems.
 
-### Agenda of [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures) (110 problems) `80H`
+### Agenda of [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures) (50 problems) `40H`
 
 | Category                   | Problems    |
 | ---------|:-----:|
 | Arrays & Linked Lists      | 20 problems |
 | Stacks & Queues            | 10 problems |
 | Trees & Balanced Trees     | 20 problems |
-| Heap & Disjoint Set & Trie | 10 problems |
-| Advanced                   | 50 problems |
 
 ### Agenda of [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics) (125 problems) `80H`
 
