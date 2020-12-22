@@ -285,8 +285,8 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 ### Related Repositories
 * [Data-Structures Repository](https://github.com/cs-MohamedAyman/Data-Structures)
 * [Algorithms Repository](https://github.com/cs-MohamedAyman/Algorithms)
-* [Advanced Data-Structures Repository](https://github.com/cs-MohamedAyman/Advanced-Data-Structures)
-* [Advanced Algorithms Repository](https://github.com/cs-MohamedAyman/Advanced-Algorithms)
+* [Advanced-Data-Structures Repository](https://github.com/cs-MohamedAyman/Advanced-Data-Structures)
+* [Advanced-Algorithms Repository](https://github.com/cs-MohamedAyman/Advanced-Algorithms)
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
