@@ -323,8 +323,8 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
-* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Competitive Programming 3***, Steven Halim
 * ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
 * ***The Algorithm Design Manual***, Steven S. Skiena
