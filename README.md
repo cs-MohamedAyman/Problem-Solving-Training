@@ -274,14 +274,57 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth and HackerRank sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
+## [Level 3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3)
+
+This level simply consists of fourteen sheets, five sheets of them on Codeforces Online Judge, plus five sheets on HackerEarth Online Judge, and the last four sheets on HackerRank Online Judge.
+
+## Prerequisites
+
+The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Advanced Data Structures - Divide and Conquer Algorithms - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
+
+### Related Repositories
+* [Data-Structures Repository](https://github.com/cs-MohamedAyman/Data-Structures)
+* [Algorithms Repository](https://github.com/cs-MohamedAyman/Algorithms)
+* [Advanced-Data-Structures Repository](https://github.com/cs-MohamedAyman/Advanced-Data-Structures)
+* [Advanced-Algorithms Repository](https://github.com/cs-MohamedAyman/Advanced-Algorithms)
+
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+
+## Codeforces OJ sheets
+
+<details>
+	<summary>Codeforces OJ sheets (5 sheets)</summary>
+</details>
+
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+
+## HackerEarth OJ sheets
+
+<details>
+	<summary>HackerEarth OJ sheets (5 sheets)</summary>
+</details>
+
+<img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+
+## HackerRank OJ sheets
+
+<details>
+	<summary>HackerRank OJ sheets (4 sheets)</summary>
+</details>
+
+### Notes
+
+* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth and HackerRank sheets***.
+* On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
+
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 ## Textbooks
 
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
-* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Competitive Programming 3***, Steven Halim
 * ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
 * ***The Algorithm Design Manual***, Steven S. Skiena
