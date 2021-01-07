@@ -22,11 +22,10 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 
 ## Codeforces OJ sheets
 
+The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 6 classes of problems (Divide and Conquer - Graph - Data Structure - Mathematics - String - Greedy - Dynamic Programming). These sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~100 problems. For the last sheet [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) that focus on gym-contests, It's divided into 5 classes of contests, that contains ~130 contests. 
+
 <details>
 	<summary>Codeforces OJ sheets (5 sheets)</summary>
-
-The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 6 classes of problems (Divide and Conquer - Graph - Data Structure - Mathematics - String - Greedy - Dynamic Programming). These sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~100 problems.
-For the last sheet [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) that focus on gym-contests, It's divided into 5 classes of contests, that contains ~130 contests. 
 
 ### Agenda of [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1) (100 problems) `80H`
 
@@ -88,10 +87,10 @@ For the last sheet [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Pro
 
 ## HackerEarth OJ sheets
 
+The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics), [phase-3-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-greedy), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains graph, greedy, mathematics, and dynamic programming problems, in addition to advanced data structures. These sheets were sorted based on difficulty and each sheet contains ~110 problems.
+
 <details>
 	<summary>HackerEarth OJ sheets (5 sheets)</summary>
-
-The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics), [phase-3-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-greedy), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains graph, greedy, mathematics, and dynamic programming problems, in addition to advanced data structures. These sheets were sorted based on difficulty and each sheet contains ~110 problems.
 
 ### Agenda of [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics) (80 problems) `60H`
 
@@ -143,10 +142,10 @@ The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAym
 
 ## HackerRank OJ sheets
 
+The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics), [phase-3-graph-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-greedy), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), [phase-3-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-data-structures), These sheets contain graph, greedy, mathematics, and dynamic programming problems, in addition to data structures. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~50 problems.
+
 <details>
 	<summary>HackerRank OJ sheets (4 sheets)</summary>
-
-The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics), [phase-3-graph-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-greedy), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), [phase-3-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-data-structures), These sheets contain graph, greedy, mathematics, and dynamic programming problems, in addition to data structures. Also, these sheets were sorted based on difficulty and grouped by the type of problems as mentioned. Finally, each sheet contains ~50 problems.
 
 ### Agenda of [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics) (115 problems) `80H`
 
