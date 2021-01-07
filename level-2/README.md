@@ -4,13 +4,13 @@
 
 Problem solving training for computer science students.
 
-## Level 2
+## [Level 2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
 
 This level simply consists of ten sheets, four sheets of them on Codeforces Online Judge, plus four sheets on HackerEarth Online Judge, and the last two sheets on HackerRank Online Judge.
 
 ## Prerequisites
 
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures -  Searching Algorithms - Sorting Algorithms)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 
 ### Related Repositories
 * [Data-Structures Repository](https://github.com/cs-MohamedAyman/Data-Structures)
@@ -18,7 +18,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ sheets
+## Codeforces OJ sheets
 
 <details>
 	<summary>Codeforces OJ sheets (4 sheets)</summary>
@@ -34,7 +34,7 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | String          | 15 problems |
 | Mathematics     | 25 problems |
 | Greedy          | 25 problems |
-| Brute Force     | 10 problems  |
+| Brute Force     | 10 problems |
 
 ### Agenda of [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2) (90 problems) `80H`
 
@@ -44,7 +44,7 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | String          | 15 problems |
 | Mathematics     | 25 problems |
 | Greedy          | 25 problems |
-| Brute Force     | 10 problems  |
+| Brute Force     | 10 problems |
 
 ### Agenda of [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3) (100 problems) `80H`
 
@@ -54,21 +54,21 @@ For the last sheet [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Pro
 | String          | 15 problems |
 | Mathematics     | 30 problems |
 | Greedy          | 25 problems |
-| Brute Force     | 10 problems  |
+| Brute Force     | 10 problems |
 
 ### Agenda of [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) (100 contests) `200H`
 
 | Category                      | Problems    |
 | ----------|:-----:|
 | Educational Codeforces Rounds | 80 contests |
-| Codeforces GYM Contests *     | 5 contests  |
-| Codeforces GYM Contests **    | 15 contests |
+| Codeforces GYM Contests 1     | 5 contests  |
+| Codeforces GYM Contests 2     | 15 contests |
 
 </details>
 
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ sheets
+## HackerEarth OJ sheets
 
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
@@ -79,10 +79,10 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 | Category                 | Problems    |
 | ---------|:-----:|
-| Arrays 1D		   | 65 problems |
+| Arrays 1D		           | 65 problems |
 | Arrays Multi-dimensional | 20 problems |
 | Stacks            	   | 25 problems |
-| Queues  		   | 5 problems  |
+| Queues  		           | 5 problems  |
 
 ### Agenda of [phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures) (90 problems) `80H`
 
@@ -114,7 +114,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ sheets
+## HackerRank OJ sheets
 
 <details>
 	<summary>HackerRank OJ sheets (2 sheets)</summary>
@@ -145,4 +145,3 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth and HackerRank sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each one, including ***reading time, thinking time, coding time, debugging time, and learning time***.
-
