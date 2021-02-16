@@ -10,86 +10,86 @@
 
 ## Codeforces - Educational Rounds [80 contests]
 
-- Educational CodeforcesRound 1: https://codeforces.com/contest/598
-- Educational CodeforcesRound 2: https://codeforces.com/contest/600
-- Educational CodeforcesRound 3: https://codeforces.com/contest/609
-- Educational CodeforcesRound 4: https://codeforces.com/contest/612
-- Educational CodeforcesRound 5: https://codeforces.com/contest/616
-- Educational CodeforcesRound 6: https://codeforces.com/contest/620
-- Educational CodeforcesRound 7: https://codeforces.com/contest/622
-- Educational CodeforcesRound 8: https://codeforces.com/contest/628
+- Educational Codeforces Round 1: https://codeforces.com/contest/598
+- Educational Codeforces Round 2: https://codeforces.com/contest/600
+- Educational Codeforces Round 3: https://codeforces.com/contest/609
+- Educational Codeforces Round 4: https://codeforces.com/contest/612
+- Educational Codeforces Round 5: https://codeforces.com/contest/616
+- Educational Codeforces Round 6: https://codeforces.com/contest/620
+- Educational Codeforces Round 7: https://codeforces.com/contest/622
+- Educational Codeforces Round 8: https://codeforces.com/contest/628
 - Experimental Educational Round: https://codeforces.com/contest/630
-- Educational CodeforcesRound 9: https://codeforces.com/contest/632
-- Educational CodeforcesRound 10: https://codeforces.com/contest/652
-- Educational CodeforcesRound 11: https://codeforces.com/contest/660
-- Educational CodeforcesRound 12: https://codeforces.com/contest/665
-- Educational CodeforcesRound 13: https://codeforces.com/contest/678
-- Educational CodeforcesRound 14: https://codeforces.com/contest/691
-- Educational CodeforcesRound 15: https://codeforces.com/contest/702
-- Educational CodeforcesRound 16: https://codeforces.com/contest/710
-- Educational CodeforcesRound 17: https://codeforces.com/contest/762
-- Educational CodeforcesRound 18: https://codeforces.com/contest/792
-- Educational CodeforcesRound 19: https://codeforces.com/contest/797
-- Educational CodeforcesRound 20: https://codeforces.com/contest/803
-- Educational CodeforcesRound 21: https://codeforces.com/contest/808
-- Educational CodeforcesRound 22: https://codeforces.com/contest/813
-- Educational CodeforcesRound 23: https://codeforces.com/contest/817
-- Educational CodeforcesRound 24: https://codeforces.com/contest/818
-- Educational CodeforcesRound 25: https://codeforces.com/contest/825
-- Educational CodeforcesRound 26: https://codeforces.com/contest/837
-- Educational CodeforcesRound 27: https://codeforces.com/contest/845
-- Educational CodeforcesRound 28: https://codeforces.com/contest/846
-- Educational CodeforcesRound 29: https://codeforces.com/contest/863
-- Educational CodeforcesRound 30: https://codeforces.com/contest/873
-- Educational CodeforcesRound 31: https://codeforces.com/contest/884
-- Educational CodeforcesRound 32: https://codeforces.com/contest/888
-- Educational CodeforcesRound 33: https://codeforces.com/contest/893
-- Educational CodeforcesRound 34: https://codeforces.com/contest/903
-- Educational CodeforcesRound 35: https://codeforces.com/contest/911
-- Educational CodeforcesRound 36: https://codeforces.com/contest/915
-- Educational CodeforcesRound 37: https://codeforces.com/contest/920
-- Educational CodeforcesRound 38: https://codeforces.com/contest/938
-- Educational CodeforcesRound 39: https://codeforces.com/contest/946
-- Educational CodeforcesRound 40: https://codeforces.com/contest/954
-- Educational CodeforcesRound 41: https://codeforces.com/contest/961
-- Educational CodeforcesRound 42: https://codeforces.com/contest/962
-- Educational CodeforcesRound 43: https://codeforces.com/contest/976
-- Educational CodeforcesRound 44: https://codeforces.com/contest/985
-- Educational CodeforcesRound 45: https://codeforces.com/contest/990
-- Educational CodeforcesRound 46: https://codeforces.com/contest/1000
-- Educational CodeforcesRound 47: https://codeforces.com/contest/1009
-- Educational CodeforcesRound 48: https://codeforces.com/contest/1016
-- Educational CodeforcesRound 49: https://codeforces.com/contest/1027
-- Educational CodeforcesRound 50: https://codeforces.com/contest/1036
-- Educational CodeforcesRound 51: https://codeforces.com/contest/1051
-- Educational CodeforcesRound 52: https://codeforces.com/contest/1065
-- Educational CodeforcesRound 53: https://codeforces.com/contest/1073
-- Educational CodeforcesRound 54: https://codeforces.com/contest/1076
-- Educational CodeforcesRound 55: https://codeforces.com/contest/1082
-- Educational CodeforcesRound 56: https://codeforces.com/contest/1093
-- Educational CodeforcesRound 57: https://codeforces.com/contest/1096
-- Educational CodeforcesRound 58: https://codeforces.com/contest/1101
-- Educational CodeforcesRound 59: https://codeforces.com/contest/1107
-- Educational CodeforcesRound 60: https://codeforces.com/contest/1117
-- Educational CodeforcesRound 61: https://codeforces.com/contest/1132
-- Educational CodeforcesRound 62: https://codeforces.com/contest/1140
-- Educational CodeforcesRound 63: https://codeforces.com/contest/1155
-- Educational CodeforcesRound 64: https://codeforces.com/contest/1156
-- Educational CodeforcesRound 65: https://codeforces.com/contest/1167
-- Educational CodeforcesRound 66: https://codeforces.com/contest/1175
-- Educational CodeforcesRound 67: https://codeforces.com/contest/1187
-- Educational CodeforcesRound 68: https://codeforces.com/contest/1194
-- Educational CodeforcesRound 69: https://codeforces.com/contest/1197
-- Educational CodeforcesRound 70: https://codeforces.com/contest/1202
-- Educational CodeforcesRound 71: https://codeforces.com/contest/1207
-- Educational CodeforcesRound 72: https://codeforces.com/contest/1217
-- Educational CodeforcesRound 73: https://codeforces.com/contest/1221
-- Educational CodeforcesRound 74: https://codeforces.com/contest/1238
-- Educational CodeforcesRound 75: https://codeforces.com/contest/1251
-- Educational CodeforcesRound 76: https://codeforces.com/contest/1257
-- Educational CodeforcesRound 77: https://codeforces.com/contest/1260
-- Educational CodeforcesRound 78: https://codeforces.com/contest/1278
-- Educational CodeforcesRound 79: https://codeforces.com/contest/1279
+- Educational Codeforces Round 9: https://codeforces.com/contest/632
+- Educational Codeforces Round 10: https://codeforces.com/contest/652
+- Educational Codeforces Round 11: https://codeforces.com/contest/660
+- Educational Codeforces Round 12: https://codeforces.com/contest/665
+- Educational Codeforces Round 13: https://codeforces.com/contest/678
+- Educational Codeforces Round 14: https://codeforces.com/contest/691
+- Educational Codeforces Round 15: https://codeforces.com/contest/702
+- Educational Codeforces Round 16: https://codeforces.com/contest/710
+- Educational Codeforces Round 17: https://codeforces.com/contest/762
+- Educational Codeforces Round 18: https://codeforces.com/contest/792
+- Educational Codeforces Round 19: https://codeforces.com/contest/797
+- Educational Codeforces Round 20: https://codeforces.com/contest/803
+- Educational Codeforces Round 21: https://codeforces.com/contest/808
+- Educational Codeforces Round 22: https://codeforces.com/contest/813
+- Educational Codeforces Round 23: https://codeforces.com/contest/817
+- Educational Codeforces Round 24: https://codeforces.com/contest/818
+- Educational Codeforces Round 25: https://codeforces.com/contest/825
+- Educational Codeforces Round 26: https://codeforces.com/contest/837
+- Educational Codeforces Round 27: https://codeforces.com/contest/845
+- Educational Codeforces Round 28: https://codeforces.com/contest/846
+- Educational Codeforces Round 29: https://codeforces.com/contest/863
+- Educational Codeforces Round 30: https://codeforces.com/contest/873
+- Educational Codeforces Round 31: https://codeforces.com/contest/884
+- Educational Codeforces Round 32: https://codeforces.com/contest/888
+- Educational Codeforces Round 33: https://codeforces.com/contest/893
+- Educational Codeforces Round 34: https://codeforces.com/contest/903
+- Educational Codeforces Round 35: https://codeforces.com/contest/911
+- Educational Codeforces Round 36: https://codeforces.com/contest/915
+- Educational Codeforces Round 37: https://codeforces.com/contest/920
+- Educational Codeforces Round 38: https://codeforces.com/contest/938
+- Educational Codeforces Round 39: https://codeforces.com/contest/946
+- Educational Codeforces Round 40: https://codeforces.com/contest/954
+- Educational Codeforces Round 41: https://codeforces.com/contest/961
+- Educational Codeforces Round 42: https://codeforces.com/contest/962
+- Educational Codeforces Round 43: https://codeforces.com/contest/976
+- Educational Codeforces Round 44: https://codeforces.com/contest/985
+- Educational Codeforces Round 45: https://codeforces.com/contest/990
+- Educational Codeforces Round 46: https://codeforces.com/contest/1000
+- Educational Codeforces Round 47: https://codeforces.com/contest/1009
+- Educational Codeforces Round 48: https://codeforces.com/contest/1016
+- Educational Codeforces Round 49: https://codeforces.com/contest/1027
+- Educational Codeforces Round 50: https://codeforces.com/contest/1036
+- Educational Codeforces Round 51: https://codeforces.com/contest/1051
+- Educational Codeforces Round 52: https://codeforces.com/contest/1065
+- Educational Codeforces Round 53: https://codeforces.com/contest/1073
+- Educational Codeforces Round 54: https://codeforces.com/contest/1076
+- Educational Codeforces Round 55: https://codeforces.com/contest/1082
+- Educational Codeforces Round 56: https://codeforces.com/contest/1093
+- Educational Codeforces Round 57: https://codeforces.com/contest/1096
+- Educational Codeforces Round 58: https://codeforces.com/contest/1101
+- Educational Codeforces Round 59: https://codeforces.com/contest/1107
+- Educational Codeforces Round 60: https://codeforces.com/contest/1117
+- Educational Codeforces Round 61: https://codeforces.com/contest/1132
+- Educational Codeforces Round 62: https://codeforces.com/contest/1140
+- Educational Codeforces Round 63: https://codeforces.com/contest/1155
+- Educational Codeforces Round 64: https://codeforces.com/contest/1156
+- Educational Codeforces Round 65: https://codeforces.com/contest/1167
+- Educational Codeforces Round 66: https://codeforces.com/contest/1175
+- Educational Codeforces Round 67: https://codeforces.com/contest/1187
+- Educational Codeforces Round 68: https://codeforces.com/contest/1194
+- Educational Codeforces Round 69: https://codeforces.com/contest/1197
+- Educational Codeforces Round 70: https://codeforces.com/contest/1202
+- Educational Codeforces Round 71: https://codeforces.com/contest/1207
+- Educational Codeforces Round 72: https://codeforces.com/contest/1217
+- Educational Codeforces Round 73: https://codeforces.com/contest/1221
+- Educational Codeforces Round 74: https://codeforces.com/contest/1238
+- Educational Codeforces Round 75: https://codeforces.com/contest/1251
+- Educational Codeforces Round 76: https://codeforces.com/contest/1257
+- Educational Codeforces Round 77: https://codeforces.com/contest/1260
+- Educational Codeforces Round 78: https://codeforces.com/contest/1278
+- Educational Codeforces Round 79: https://codeforces.com/contest/1279
 
 ## Codeforces - GYM Contests 1 [5 contests]
 
