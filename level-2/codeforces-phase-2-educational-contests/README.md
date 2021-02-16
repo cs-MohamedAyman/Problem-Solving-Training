@@ -1,14 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Gym Contests (100 contests) `200H`
+# [Codeforces](https://codeforces.com/) OJ - Educational Contests (100 contests) `200H`
 
 ## Table of Content
 
-- ***Educational Codeforces Rounds*** [80 contests]
-- ***Codeforces GYM Contests 1***     [5 contests]
-- ***Codeforces GYM Contests 2***     [15 contests]
+- ***Educational Codeforces Rounds I*** [25 contests]
+- ***Educational Codeforces Rounds II*** [25 contests]
+- ***Educational Codeforces Rounds III*** [25 contests]
+- ***Educational Codeforces Rounds IV*** [25 contests]
 
-## Codeforces - Educational Rounds [80 contests]
+## Codeforces - Educational Rounds I [25 contests]
 
 - Educational Codeforces Round 1: https://codeforces.com/contest/598
 - Educational Codeforces Round 2: https://codeforces.com/contest/600
@@ -36,6 +37,9 @@
 - Educational Codeforces Round 23: https://codeforces.com/contest/817
 - Educational Codeforces Round 24: https://codeforces.com/contest/818
 - Educational Codeforces Round 25: https://codeforces.com/contest/825
+
+## Codeforces - Educational Rounds II [25 contests]
+
 - Educational Codeforces Round 26: https://codeforces.com/contest/837
 - Educational Codeforces Round 27: https://codeforces.com/contest/845
 - Educational Codeforces Round 28: https://codeforces.com/contest/846
@@ -61,6 +65,9 @@
 - Educational Codeforces Round 48: https://codeforces.com/contest/1016
 - Educational Codeforces Round 49: https://codeforces.com/contest/1027
 - Educational Codeforces Round 50: https://codeforces.com/contest/1036
+
+## Codeforces - Educational Rounds III [25 contests]
+
 - Educational Codeforces Round 51: https://codeforces.com/contest/1051
 - Educational Codeforces Round 52: https://codeforces.com/contest/1065
 - Educational Codeforces Round 53: https://codeforces.com/contest/1073
@@ -86,34 +93,31 @@
 - Educational Codeforces Round 73: https://codeforces.com/contest/1221
 - Educational Codeforces Round 74: https://codeforces.com/contest/1238
 - Educational Codeforces Round 75: https://codeforces.com/contest/1251
+
+## Codeforces - Educational Rounds IV [25 contests]
+
 - Educational Codeforces Round 76: https://codeforces.com/contest/1257
 - Educational Codeforces Round 77: https://codeforces.com/contest/1260
 - Educational Codeforces Round 78: https://codeforces.com/contest/1278
 - Educational Codeforces Round 79: https://codeforces.com/contest/1279
-
-## Codeforces - GYM Contests 1 [5 contests]
-
-- Asu Coding Cup 4: https://codeforces.com/gym/102397
-- II Simulado Ingressantes: https://codeforces.com/gym/101744
-- UFBA - DSU Training Contest: https://codeforces.com/gym/102078
-- Amazalgo 2018 Practice Contest: https://codeforces.com/gym/101883
-- Amazalgo Uni 2019 Practice Contest: https://codeforces.com/gym/102212
-
-## Codeforces - GYM Contests 2 [15 contests]
-
-- III USP Freshmen Contest: https://codeforces.com/gym/101375
-- SUFE ICPC Team Formation Test: https://codeforces.com/gym/102388
-- hebron-code-jam 2019: https://codeforces.com/gym/102157
-- ACM ICPC, JUST Collegiate Programming Contest (2018): https://codeforces.com/gym/101853
-- 2017 JUST Programming Contest 3.0: https://codeforces.com/gym/101502
-- 2017 JUST Programming Contest 4.0: https://codeforces.com/gym/101532
-- Litseyo`quvchilaruchun: https://codeforces.com/gym/101306
-- 2019 JUST Programming Contest: https://codeforces.com/gym/102152
-- 2005-2006 ACM-ICPC East Central North America Regional Contest: https://codeforces.com/gym/100650
-- 2015 Syrian Private Universities Collegiate Programming Contest: https://codeforces.com/gym/101020
-- II USP Freshmen Contest: https://codeforces.com/gym/100985
-- Innopolis Open, Elimination round, 2016-2017: https://codeforces.com/gym/101182
-- 2016 Al-Baath University Training Camp Contest-1: https://codeforces.com/gym/101028
-- 2015-2016 ACM-ICPC Pacific Northwest Regional Contest: https://codeforces.com/gym/100819
-- The 2019 University of Jordan Collegiate Programming Contest: https://codeforces.com/gym/102267
-- IME++ Starters Try-outs 2019: https://codeforces.com/gym/102254
+- Educational Codeforces Round 80: https://codeforces.com/contest/1288
+- Educational Codeforces Round 81: https://codeforces.com/contest/1295
+- Educational Codeforces Round 82: https://codeforces.com/contest/1303
+- Educational Codeforces Round 83: https://codeforces.com/contest/1312
+- Educational Codeforces Round 84: https://codeforces.com/contest/1327
+- Educational Codeforces Round 85: https://codeforces.com/contest/1334
+- Educational Codeforces Round 86: https://codeforces.com/contest/1342
+- Educational Codeforces Round 87: https://codeforces.com/contest/1354
+- Educational Codeforces Round 88: https://codeforces.com/contest/1359
+- Educational Codeforces Round 89: https://codeforces.com/contest/1366
+- Educational Codeforces Round 90: https://codeforces.com/contest/1373
+- Educational Codeforces Round 91: https://codeforces.com/contest/1380
+- Educational Codeforces Round 92: https://codeforces.com/contest/1389
+- Educational Codeforces Round 93: https://codeforces.com/contest/1398
+- Educational Codeforces Round 94: https://codeforces.com/contest/1400
+- Educational Codeforces Round 95: https://codeforces.com/contest/1418
+- Educational Codeforces Round 96: https://codeforces.com/contest/1430
+- Educational Codeforces Round 97: https://codeforces.com/contest/1437
+- Educational Codeforces Round 98: https://codeforces.com/contest/1452
+- Educational Codeforces Round 99: https://codeforces.com/contest/1455
+- Educational Codeforces Round 100: https://codeforces.com/contest/1463

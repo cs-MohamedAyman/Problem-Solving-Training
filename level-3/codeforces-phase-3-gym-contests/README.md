@@ -1,14 +1,39 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Gym Contests (130 contests) `400H`
+# [Codeforces](https://codeforces.com/) OJ - Gym Contests (150 contests) `450H`
 
 ## Table of Content
 
-- ***Codeforces GYM Contests 3 I*** [25 contests]
-- ***Codeforces GYM Contests 3 II*** [15 contests]
-- ***Codeforces GYM Contests 3 III*** [30 contests]
-- ***Codeforces GYM Contests 3 IV*** [30 contests]
-- ***Codeforces GYM Contests 3 V*** [30 contests]
+- ***Codeforces GYM Contests 2***     	[20 contests]
+- ***Codeforces GYM Contests 3 I*** 	[25 contests]
+- ***Codeforces GYM Contests 3 II*** 	[15 contests]
+- ***Codeforces GYM Contests 3 III*** 	[30 contests]
+- ***Codeforces GYM Contests 3 IV*** 	[30 contests]
+- ***Codeforces GYM Contests 3 V*** 	[30 contests]
+
+## Codeforces - GYM Contests 2 [20 contests]
+
+- Asu Coding Cup 4: https://codeforces.com/gym/102397
+- II Simulado Ingressantes: https://codeforces.com/gym/101744
+- UFBA - DSU Training Contest: https://codeforces.com/gym/102078
+- Amazalgo 2018 Practice Contest: https://codeforces.com/gym/101883
+- Amazalgo Uni 2019 Practice Contest: https://codeforces.com/gym/102212
+- III USP Freshmen Contest: https://codeforces.com/gym/101375
+- SUFE ICPC Team Formation Test: https://codeforces.com/gym/102388
+- hebron-code-jam 2019: https://codeforces.com/gym/102157
+- ACM ICPC, JUST Collegiate Programming Contest (2018): https://codeforces.com/gym/101853
+- 2017 JUST Programming Contest 3.0: https://codeforces.com/gym/101502
+- 2017 JUST Programming Contest 4.0: https://codeforces.com/gym/101532
+- Litseyo`quvchilaruchun: https://codeforces.com/gym/101306
+- 2019 JUST Programming Contest: https://codeforces.com/gym/102152
+- 2005-2006 ACM-ICPC East Central North America Regional Contest: https://codeforces.com/gym/100650
+- 2015 Syrian Private Universities Collegiate Programming Contest: https://codeforces.com/gym/101020
+- II USP Freshmen Contest: https://codeforces.com/gym/100985
+- Innopolis Open, Elimination round, 2016-2017: https://codeforces.com/gym/101182
+- 2016 Al-Baath University Training Camp Contest-1: https://codeforces.com/gym/101028
+- 2015-2016 ACM-ICPC Pacific Northwest Regional Contest: https://codeforces.com/gym/100819
+- The 2019 University of Jordan Collegiate Programming Contest: https://codeforces.com/gym/102267
+- IME++ Starters Try-outs 2019: https://codeforces.com/gym/102254
 
 ## Codeforces -  GYM Contests 3 I [25 contests]
 
