@@ -106,6 +106,7 @@
 
 ## Codeforces - Greedy [20 problems]
 
+- CF-Round 501: http://codeforces.com/contest/1015/problem/C
 - CF-Round 157: http://codeforces.com/contest/258/problem/A
 - CF-Round 263: http://codeforces.com/contest/461/problem/A
 - CF-Round 346: http://codeforces.com/contest/659/problem/C
