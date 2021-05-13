@@ -1,13 +1,13 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Greedy Algorithms (70 problems) `50H`
+## [HackerEarth](http://hackerearth.com/) OJ - Greedy Algorithms `70 problems` `50 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Greedy Algorithms I*** [35 problems]
-- ***Greedy Algorithms II*** [35 problems]
+- ***Greedy Algorithms I*** `35 problems`
+- ***Greedy Algorithms II*** `35 problems`
 
-## HackerEarth - Greedy Algorithms I [35 problems]
+### HackerEarth - Greedy Algorithms I `35 problems`
 
 - [coprimed](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/coprimed-32042ef1/)
 - [pikachu and the game of strings 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/pikachu-and-the-game-of-strings-1-8c22a8ce/)
@@ -47,7 +47,7 @@
 - [k friends](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/)
 - [easy strong permutation](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/easy-strong-permutation/)
 
-## HackerEarth - Greedy Algorithms II [35 problems]
+### HackerEarth - Greedy Algorithms II `35 problems`
 
 - [forbidden pairs](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/forbidden-pairs/)
 - [stranger game 3](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/stranger-game-3-1f0d2f47/)
