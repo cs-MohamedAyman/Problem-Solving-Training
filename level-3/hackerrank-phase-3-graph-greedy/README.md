@@ -1,13 +1,13 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Graph Algorithms (55 problems) `40H`
+## [HackerRank](https://www.hackerrank.com/) OJ - Graph Algorithms `55 problems` `40 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Graph Theory*** [40 problems]
-- ***Greedy*** [15 problems]
+- ***Graph Theory***  `40 problems`
+- ***Greedy***        `15 problems`
 
-## HackerRank - Graph Theory [40 problems]
+### HackerRank - Graph Theory `40 problems`
 
 - [torque and development](https://www.hackerrank.com/challenges/torque-and-development/problem)
 - [journey to the moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
@@ -52,7 +52,7 @@
 - [jim and his lan party](https://www.hackerrank.com/challenges/jim-and-his-lan-party/problem)
 - [travel in hackerland](https://www.hackerrank.com/challenges/travel-in-hackerland/problem)
 
-## HackerRank - Greedy [15 problems]
+### HackerRank - Greedy `15 problems`
 
 - [minimum absolute difference in an array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
 - [marcs cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)
