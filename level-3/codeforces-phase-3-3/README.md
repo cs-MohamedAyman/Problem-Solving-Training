@@ -1,17 +1,17 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Phase 3.3 (100 problems) `80H`
+## [Codeforces](https://codeforces.com/) OJ - Phase 3.3 `100 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Graph***    			 [10 problems]
-- ***String***         		 [10 problems]
-- ***Data Structure*** 		 [20 problems]
-- ***Mathematics***    		 [30 problems]
-- ***Greedy***         		 [20 problems]
-- ***Dynamic Programming***  [10 problems]
+- ***Graph***    			        `10 problems`
+- ***String***         		    `10 problems`
+- ***Data Structure*** 		    `20 problems`
+- ***Mathematics***    		    `30 problems`
+- ***Greedy***         		    `20 problems`
+- ***Dynamic Programming***   `10 problems`
 
-## Codeforces - Graph [10 problems]
+### Codeforces - Graph `10 problems`
 
 - CF-Round 358: http://codeforces.com/contest/682/problem/C
 - CF-Round 393: http://codeforces.com/contest/759/problem/A
@@ -23,7 +23,7 @@
 - CF-Round 301: http://codeforces.com/contest/540/problem/C
 - CF-Round 337: http://codeforces.com/contest/610/problem/C
 
-## Codeforces - String [10 problems]
+### Codeforces - String `10 problems`
 
 - CF-Round 135: http://codeforces.com/contest/219/problem/C
 - CF-Round 367: http://codeforces.com/contest/706/problem/C
@@ -37,7 +37,7 @@
 - CF-Round 373: http://codeforces.com/contest/718/problem/A
 - CF-Round 423: http://codeforces.com/contest/827/problem/A
 
-## Codeforces - Data Structure [20 problems]
+### Codeforces - Data Structure `20 problems`
 
 - CF-Round 293: http://codeforces.com/contest/518/problem/C
 - CF-Round 316: http://codeforces.com/contest/570/problem/C
@@ -59,7 +59,7 @@
 - CF-Round 171: http://codeforces.com/contest/279/problem/C
 - CF-Round 190: http://codeforces.com/contest/321/problem/A
 
-## Codeforces - Mathematics [30 problems]
+### Codeforces - Mathematics `30 problems`
 
 - CF-Round 198: http://codeforces.com/contest/341/problem/A
 - CF-Round 202: http://codeforces.com/contest/348/problem/A
@@ -90,7 +90,7 @@
 - CF-Round 392: http://codeforces.com/contest/758/problem/C
 - CF-Round 410: http://codeforces.com/contest/798/problem/C
 
-## Codeforces - Greedy [20 problems]
+### Codeforces - Greedy `20 problems`
 
 - CF-Round 431: http://codeforces.com/contest/848/problem/A
 - CF-Round 442: http://codeforces.com/contest/877/problem/C
@@ -115,7 +115,7 @@
 - CF-Round 450: http://codeforces.com/contest/900/problem/C
 - CF-Round 480: http://codeforces.com/contest/980/problem/C
 
-## Codeforces - Dynamic Programming [10 problems]
+### Codeforces - Dynamic Programming `10 problems`
 
 - CF-Round 279: http://codeforces.com/contest/490/problem/C
 - CF-Round 369: http://codeforces.com/contest/711/problem/C
