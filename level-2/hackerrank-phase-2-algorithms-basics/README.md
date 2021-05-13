@@ -1,16 +1,16 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Algorithms Basics (125 problems) `80 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Algorithms Basics `125 problems` `100 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Warmup*** [10 problems]
-- ***Recursion*** [10 problems]
-- ***Sorting*** [15 problems]
-- ***Search*** [25 problems]
-- ***Implementation*** [65 problems]
+- ***Warmup*** `10 problems`
+- ***Recursion*** `10 problems`
+- ***Sorting*** `15 problems`
+- ***Search*** `25 problems`
+- ***Implementation*** `65 problems`
 
-## HackerEarth - Warmup [10 problems]
+### HackerEarth - Warmup `10 problems`
 
 - [simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -22,7 +22,7 @@
 - [birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 - [time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
 
-## HackerEarth - Recursion [10 problems]
+### HackerEarth - Recursion `10 problems`
 
 - [the power sum](https://www.hackerrank.com/challenges/the-power-sum/problem)
 - [crossword puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)
@@ -36,7 +36,7 @@
 - [simplified chess engine ii](https://www.hackerrank.com/challenges/simplified-chess-engine-ii/problem)
 - [repeat k sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem)
 
-## HackerEarth - Sorting [15 problems]
+### HackerEarth - Sorting `15 problems`
 
 - [big sorting](https://www.hackerrank.com/challenges/big-sorting/problem)
 - [tutorial intro](https://www.hackerrank.com/challenges/tutorial-intro/problem)
@@ -54,7 +54,7 @@
 - [lilys homework](https://www.hackerrank.com/challenges/lilys-homework/problem)
 - [insertion sort](https://www.hackerrank.com/challenges/insertion-sort/problem)
 
-## HackerEarth - Search [25 problems]
+### HackerEarth - Search `25 problems`
 
 - [icecream parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
 - [missing numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)
@@ -83,7 +83,7 @@
 - [challenges](https://www.hackerrank.com/challenges/almost-integer-rock-garden)
 - [distant pairs](https://www.hackerrank.com/challenges/distant-pairs/problem)
 
-## HackerEarth - Implementation [65 problems]
+### HackerEarth - Implementation `65 problems`
 
 - [grading](https://www.hackerrank.com/challenges/grading/problem)
 - [apple and orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
