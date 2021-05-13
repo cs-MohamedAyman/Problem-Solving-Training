@@ -1,16 +1,16 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Phase 2.3 (105 problems) `80 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 2.3 `105 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Data Structure*** [30 problems]
-- ***String***         [5 problems]
-- ***Mathematics***    [35 problems]
-- ***Greedy***         [25 problems]
-- ***Brute Force***    [10 problems]
+- ***Data Structure*** `30 problems`
+- ***String***         `5 problems`
+- ***Mathematics***    `35 problems`
+- ***Greedy***         `25 problems`
+- ***Brute Force***    `10 problems`
 
-## Codeforces - Data Structure [30 problems]
+### Codeforces - Data Structure `30 problems`
 
 - CF-Round 341: https://codeforces.com/problemset/problem/621/B
 - CF-Round 368: https://codeforces.com/problemset/problem/707/B
@@ -45,7 +45,7 @@
 - CF-Round 56: https://codeforces.com/problemset/problem/60/B
 - CF-Round 466: https://codeforces.com/problemset/problem/940/B
 
-## Codeforces - String [5 problems]
+### Codeforces - String `5 problems`
 
 - CF-Round 141: https://codeforces.com/problemset/problem/228/B
 - CF-Round 256: https://codeforces.com/problemset/problem/448/B
@@ -55,7 +55,7 @@
 - CF-Round 26: https://codeforces.com/problemset/problem/26/B
 - CF-Round 471: https://codeforces.com/problemset/problem/955/B
 
-## Codeforces - Mathematics [35 problems]
+### Codeforces - Mathematics `35 problems`
 
 - CF-Round 326: https://codeforces.com/problemset/problem/588/B
 - CF-Round 492: https://codeforces.com/problemset/problem/996/B
@@ -92,7 +92,7 @@
 - CF-Round 83: https://codeforces.com/problemset/problem/108/B
 - CF-Round 438: https://codeforces.com/problemset/problem/868/B
 
-## Codeforces - Greedy [25 problems]
+### Codeforces - Greedy `25 problems`
 
 - CF-Round 325: https://codeforces.com/problemset/problem/586/B
 - CF-Round 337: https://codeforces.com/problemset/problem/610/B
@@ -120,7 +120,7 @@
 - CF-Round 281: https://codeforces.com/problemset/problem/493/B
 - CF-Round 488: https://codeforces.com/problemset/problem/994/B
 
-## Codeforces - Brute Force [10 problems]
+### Codeforces - Brute Force `10 problems`
 
 - CF-Round 129: https://codeforces.com/problemset/problem/205/B
 - CF-Round 171: https://codeforces.com/problemset/problem/279/B
