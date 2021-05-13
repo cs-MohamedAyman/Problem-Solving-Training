@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Linear Data Structure (110 problems) `80 hrs`
+## [HackerEarth](http://hackerearth.com/) OJ - Linear Data Structure `110 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Arrays 1D*** [65 problems]
-- ***Arrays Multi-dimensional*** [20 problems]
-- ***Stacks*** [25 problems]
-- ***Queues*** [5 problems]
+- ***Arrays 1D*** `65 problems`
+- ***Arrays Multi-dimensional*** `20 problems`
+- ***Stacks*** `25 problems`
+- ***Queues*** `5 problems`
 
-## HackerEarth - Arrays 1D [65 problems]
+### HackerEarth - Arrays 1D `65 problems`
 
 - [range query 2](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/range-query-2/)
 - [bracket sequence 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/)
@@ -78,7 +78,7 @@
 - [fixed parity](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fixed-parity-440254c0/)
 - [the code generator](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-code-generator-9d3f9afa/)
 
-## HackerEarth - Arrays Multi-dimensional [20 problems]
+### HackerEarth - Arrays Multi-dimensional `20 problems`
 
 - [roy and symmetric logos 1](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/roy-and-symmetric-logos-1/)
 - [monk and operations](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/monk-and-operations/)
@@ -99,7 +99,7 @@
 - [welcome to pu](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/welcome-to-pu-661e1420/)
 - [largest square](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/largest-square-3d7a938a/)
 
-## HackerEarth - Stacks [25 problems]
+### HackerEarth - Stacks `25 problems`
 
 - [a game of numbers 1](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/a-game-of-numbers-1-5d3a8cb3/)
 - [balanced brackets 3](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/balanced-brackets-3-4fc590c6/)
@@ -127,7 +127,7 @@
 - [grandmaster](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/grandmaster/)
 - [fight for laddus](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/fight-for-laddus/)
 
-## HackerEarth - Queues [5 problems]
+### HackerEarth - Queues `5 problems`
 
 - [monk and power of time](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/monk-and-power-of-time-3a648bf0/)
 - [monk and chamber of secrets](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/monk-and-chamber-of-secrets/)
