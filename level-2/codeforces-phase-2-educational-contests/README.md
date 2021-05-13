@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Educational Contests (100 contests) `200 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Educational Contests `100 contests` `200 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Educational Codeforces Rounds I*** [25 contests]
-- ***Educational Codeforces Rounds II*** [25 contests]
-- ***Educational Codeforces Rounds III*** [25 contests]
-- ***Educational Codeforces Rounds IV*** [25 contests]
+- ***Educational Codeforces Rounds I*** `25 contests`
+- ***Educational Codeforces Rounds II*** `25 contests`
+- ***Educational Codeforces Rounds III*** `25 contests`
+- ***Educational Codeforces Rounds IV*** `25 contests`
 
-## Codeforces - Educational Rounds I [25 contests]
+### Codeforces - Educational Rounds I `25 contests`
 
 - Educational Codeforces Round 1: https://codeforces.com/contest/598
 - Educational Codeforces Round 2: https://codeforces.com/contest/600
@@ -38,7 +38,7 @@
 - Educational Codeforces Round 24: https://codeforces.com/contest/818
 - Educational Codeforces Round 25: https://codeforces.com/contest/825
 
-## Codeforces - Educational Rounds II [25 contests]
+### Codeforces - Educational Rounds II `25 contests`
 
 - Educational Codeforces Round 26: https://codeforces.com/contest/837
 - Educational Codeforces Round 27: https://codeforces.com/contest/845
@@ -66,7 +66,7 @@
 - Educational Codeforces Round 49: https://codeforces.com/contest/1027
 - Educational Codeforces Round 50: https://codeforces.com/contest/1036
 
-## Codeforces - Educational Rounds III [25 contests]
+### Codeforces - Educational Rounds III `25 contests`
 
 - Educational Codeforces Round 51: https://codeforces.com/contest/1051
 - Educational Codeforces Round 52: https://codeforces.com/contest/1065
@@ -94,7 +94,7 @@
 - Educational Codeforces Round 74: https://codeforces.com/contest/1238
 - Educational Codeforces Round 75: https://codeforces.com/contest/1251
 
-## Codeforces - Educational Rounds IV [25 contests]
+### Codeforces - Educational Rounds IV `25 contests`
 
 - Educational Codeforces Round 76: https://codeforces.com/contest/1257
 - Educational Codeforces Round 77: https://codeforces.com/contest/1260
