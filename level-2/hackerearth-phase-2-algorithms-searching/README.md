@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Algorithms Searching (120 problems) `80 hrs`
+## [HackerEarth](http://hackerearth.com/) OJ - Algorithms Searching `120 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Linear Search*** [15 problems]
-- ***Binary Search I*** [50 problems]
-- ***Binary Search II*** [50 problems]
-- ***Ternary Search*** [5 problems]
+- ***Linear Search*** `15 problems`
+- ***Binary Search I*** `50 problems`
+- ***Binary Search II*** `50 problems`
+- ***Ternary Search*** `5 problems`
 
-## HackerEarth - Linear Search [15 problems]
+### HackerEarth - Linear Search `15 problems`
 
 - [easy sum set problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/easy-sum-set-problem-7e6841ca/)
 - [yet another easy problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/yet-another-easy-problem-1f3273a0/)
@@ -28,7 +28,7 @@
 - [holiday season](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/holiday-season-ab957deb/)
 - [the normal type](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/the-normal-type/)
 
-## HackerEarth - Binary Search I [50 problems]
+### HackerEarth - Binary Search I [50 problems]
 
 - [bishu and soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
 - [the furious five](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-furious-five-69521576/)
@@ -81,7 +81,7 @@
 - [smallest substring](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/smallest-substring-e1862fcf/)
 - [matrix sum](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/approximate/matrix-sum/)
 
-## HackerEarth - Binary Search II [50 problems]
+### HackerEarth - Binary Search II `50 problems`
 
 - [ratio](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/approximate/ratio-317c498f/)
 - [the soap mystery 6](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-soap-mystery-6/)
@@ -134,7 +134,7 @@
 - [glowing bulbs](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/glowing-bulbs/)
 - [from source to destination](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/from-source-to-destination/)
 
-## HackerEarth - Ternary Search [5 problems]
+### HackerEarth - Ternary Search `5 problems`
 
 - [the exam](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/the-exam/)
 - [small factorials](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/small-factorials/)
