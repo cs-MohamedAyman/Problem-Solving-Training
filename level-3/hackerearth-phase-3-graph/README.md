@@ -1,16 +1,16 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Graph Algorithms (175 problems) `160H`
+## [HackerEarth](http://hackerearth.com/) OJ - Graph Algorithms `175 problems` `160 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Graph Representation*** [25 problems]
-- ***Breadth First Search*** [35 problems]
-- ***Depth First Search*** [60 problems]
-- ***Shortest Path*** [45 problems]
-- ***Minimum Spanning Tree*** [10 problems]
+- ***Graph Representation***  `25 problems`
+- ***Breadth First Search***  `35 problems`
+- ***Depth First Search***    `60 problems`
+- ***Shortest Path***         `45 problems`
+- ***Minimum Spanning Tree*** `10 problems`
 
-## HackerEarth - Graph Representation [25 problems]
+### HackerEarth - Graph Representation `25 problems`
 
 - [so np](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/so-np-c559f406/)
 - [build a graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/build-a-graph-5f5c6b4a/)
@@ -37,7 +37,7 @@
 - [tree stock market 1](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/tree-stock-market-1-9872b56f/)
 - [hash and the party](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/hash-and-the-party-353f1555/)
 
-## HackerEarth - Breadth First Search [35 problems]
+### HackerEarth - Breadth First Search `35 problems`
 
 - [monk and the islands](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/)
 - [social networking graph](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/social-networking-graph/)
@@ -77,7 +77,7 @@
 - [just shortest distance problem](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/just-shortest-distance-problem/)
 - [kingdom of ayutthaya](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/kingdom-of-ayutthaya/)
 
-## HackerEarth - Depth First Search [60 problems]
+### HackerEarth - Depth First Search `60 problems`
 
 - [range query 2](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/range-query-2/)
 - [areas](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/areas-0475fb6e/)
@@ -140,7 +140,7 @@
 - [the tree](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/the-tree/)
 - [edge strength](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/edge-strength-67ff0bae/)
 
-## HackerEarth - Shortest Path [45 problems]
+### HackerEarth - Shortest Path `45 problems`
 
 - [saving ms w](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/saving-ms-w-7b3d36df/)
 - [robot in grid](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/robot-in-grid-b7d391f7/)
@@ -188,7 +188,7 @@
 - [furthest vertex](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/furthest-vertex/)
 - [wifi routers](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/wifi-routers/)
 
-## HackerEarth - Minimum Spanning Tree [10 problems]
+### HackerEarth - Minimum Spanning Tree `10 problems`
 
 - [friendless dr sheldon cooper 14](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/friendless-dr-sheldon-cooper-14/)
 - [pilgrims and portals](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/pilgrims-and-portals/)
