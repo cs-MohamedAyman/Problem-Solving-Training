@@ -1,14 +1,14 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Data Structures (50 problems) `40 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Data Structures `50 problems` `40 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Arrays & Linked Lists*** [20 problems]
-- ***Stacks & Queues*** [10 problems]
-- ***Trees & Balanced Trees*** [20 problems]
+- ***Arrays & Linked Lists*** `20 problems`
+- ***Stacks & Queues*** `10 problems`
+- ***Trees & Balanced Trees*** `20 problems`
 
-## HackerRank - Arrays & Linked Lists [20 problems]
+### HackerRank - Arrays & Linked Lists `20 problems`
 
 - [arrays ds](https://www.hackerrank.com/challenges/arrays-ds/problem)
 - [2d array](https://www.hackerrank.com/challenges/2d-array/problem)
@@ -32,7 +32,7 @@
 - [sparse arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - [crush](https://www.hackerrank.com/challenges/crush/problem)
 
-## HackerRank - Stacks & Queues [10 problems]
+### HackerRank - Stacks & Queues `10 problems`
 
 - [equal stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)
 - [queue using two stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
@@ -47,7 +47,7 @@
 - [poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)
 - [and-xor-or](https://www.hackerrank.com/challenges/and-xor-or/problem)
 
-## HackerRank - Trees & Balanced Trees [20 problems]
+### HackerRank - Trees & Balanced Trees `20 problems`
 
 - [tree preorder traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
 - [tree postorder traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)
