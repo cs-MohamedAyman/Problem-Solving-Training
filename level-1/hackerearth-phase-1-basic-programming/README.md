@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Basic Programming `130 problems` `100 hrs`
+## [HackerEarth](http://hackerearth.com/) OJ - Basic Programming `130 problems` `100 hrs`
 
-## Table of Content
+### Table of Content
 
 - ***Input/Output*** `50 problems`
 - ***Bit Manipulation*** `70 problems`
 - ***Operators*** `5 problems`
 - ***Recursion*** `10 problems`
 
-## HackerEarth - Input/Output `50 problems`
+### HackerEarth - Input/Output `50 problems`
 
 - [a b 4](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/)
 - [vowel game](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/)
@@ -60,7 +60,7 @@
 - [magical word](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/)
 - [make all equal](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/make-all-equal-90a21ab2/)
 
-## HackerEarth - Bit Manipulation `70 problems`
+### HackerEarth - Bit Manipulation `70 problems`
 
 - [mystery 30](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/mystery-30/)
 - [subham and binary strings](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/subham-and-binary-strings/)
@@ -132,7 +132,7 @@
 - [substring queries](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/substring-queries/)
 - [chandan and balanced strings](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/chandan-and-balanced-strings/)
 
-## HackerEarth - Operators `5 problems`
+### HackerEarth - Operators `5 problems`
 
 - [a b 4](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/)
 - [vowel game](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/)
@@ -141,7 +141,7 @@
 - [yet another partition problem](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/)
 - [birthday party 12](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/)
 
-## HackerEarth - Recursion `10 problems`
+### HackerEarth - Recursion `10 problems`
 
 - [gcd strings](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/gcd-strings/)
 - [lockdown game](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/lockdown-game/)
