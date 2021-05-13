@@ -1,13 +1,13 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Div3 Contests (50 contests) `40 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Div3 Contests `50 contests` `100 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Codeforces Div3 Contests I*** [25 contests]
-- ***Codeforces Div3 Contests II*** [25 contests]
+- ***Codeforces Div3 Contests I*** `25 contests`
+- ***Codeforces Div3 Contests II*** `25 contests`
 
-## Codeforces -  Div3 Contests I [25 contests]
+### Codeforces -  Div3 Contests I `25 contests`
 
 - CF-Round 479: https://codeforces.com/contest/977
 - CF-Round 481: https://codeforces.com/contest/978
@@ -35,7 +35,7 @@
 - CF-Round 570: https://codeforces.com/contest/1183
 - CF-Round 575: https://codeforces.com/contest/1196
 
-## Codeforces -  Div3 Contests II [25 contests]
+### Codeforces -  Div3 Contests II `25 contests`
 
 - CF-Round 579: https://codeforces.com/contest/1203
 - CF-Round 582: https://codeforces.com/contest/1213
