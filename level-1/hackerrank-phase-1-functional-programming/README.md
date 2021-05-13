@@ -1,17 +1,17 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Functional Programming (80 problems) `80 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Functional Programming `80 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Introduction*** [25 problems]
-- ***Recursion*** [20 problems]
-- ***Functional Structures*** [10 problems]
-- ***Memoization*** [10 problems]
-- ***Ad-Hoc*** [15 problems]
-- ***Misc*** [5 problems]
+- ***Introduction*** `25 problems`
+- ***Recursion*** `20 problems`
+- ***Functional Structures*** `10 problems`
+- ***Memoization*** `10 problems`
+- ***Ad-Hoc*** `15 problems`
+- ***Misc*** `5 problems`
 
-## HackerRank - Introduction [25 problems]
+### HackerRank - Introduction `25 problems`
 
 - [fp solve me first](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)
 - [fp hello world](https://www.hackerrank.com/challenges/fp-hello-world/problem)
@@ -39,7 +39,7 @@
 - [lambda calculus evaluate the expression 1](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-1/problem)
 - [lambda calculus evaluate the expression 2](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-2/problem)
 
-## HackerRank - Recursion [20 problems]
+### HackerRank - Recursion `20 problems`
 
 - [functional programming warmups in recursion gcd](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
 - [functional programming warmups in recursion fibonacci numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
@@ -60,7 +60,7 @@
 - [crosswords 101](https://www.hackerrank.com/challenges/crosswords-101/problem)
 - [super queens on a chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem)
 
-## HackerRank - Functional Sructures [10 problems]
+### HackerRank - Functional Sructures `10 problems`
 
 - [lists and gcd](https://www.hackerrank.com/challenges/lists-and-gcd/problem)
 - [swap nodes](https://www.hackerrank.com/challenges/swap-nodes/problem)
@@ -76,7 +76,7 @@
 - [order exercises](https://www.hackerrank.com/challenges/order-exercises/problem)
 - [mirko at construction site](https://www.hackerrank.com/challenges/mirko-at-construction-site/problem)
 
-## HackerRank - Memoization [10 problems]
+### HackerRank - Memoization `10 problems`
 
 - [pentagonal numbers](https://www.hackerrank.com/challenges/pentagonal-numbers/problem)
 - [fibonacci fp](https://www.hackerrank.com/challenges/fibonacci-fp/problem)
@@ -89,7 +89,7 @@
 - [bangalore bank](https://www.hackerrank.com/challenges/bangalore-bank/problem)
 - [expressions](https://www.hackerrank.com/challenges/expressions/problem)
 
-## HackerRank - Ad-hoc [15 problems]
+### HackerRank - Ad-hoc `15 problems`
 
 - [rotate string](https://www.hackerrank.com/challenges/rotate-string/problem)
 - [remove duplicates](https://www.hackerrank.com/challenges/remove-duplicates/problem)
@@ -109,7 +109,7 @@
 - [challenges](https://www.hackerrank.com/challenges/elementary-watson)
 - [convolutional coding](https://www.hackerrank.com/challenges/convolutional-coding/problem)
 
-## HackerRank - misc [5 problems]
+### HackerRank - misc `5 problems`
 
 - [simplify the algebraic expressions](https://www.hackerrank.com/challenges/simplify-the-algebraic-expressions/problem)
 - [brainf k interpreter fp](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp/problem)
