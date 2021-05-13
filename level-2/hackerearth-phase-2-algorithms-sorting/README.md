@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Algorithms Sorting (60 problems) `40H`
+# [HackerEarth](http://hackerearth.com/) OJ - Algorithms Sorting (60 problems) `40 hrs`
 
 ## Table of Content
 

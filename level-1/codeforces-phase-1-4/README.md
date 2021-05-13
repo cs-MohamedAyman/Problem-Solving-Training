@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Phase 1.4 (105 problems) `80H`
+# [Codeforces](https://codeforces.com/) OJ - Phase 1.4 (105 problems) `80 hrs`
 
 ## Table of Content
 
