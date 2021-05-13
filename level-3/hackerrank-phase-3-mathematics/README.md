@@ -1,16 +1,16 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Mathematical Algorithms (115 problems) `80H`
+## [HackerRank](https://www.hackerrank.com/) OJ - Mathematical Algorithms `115 problems` `100 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Fundamentals*** [20 problems]
-- ***Number Theory*** [35 problems]
-- ***Combinatorics*** [30 problems]
-- ***Algebra*** [20 problems]
-- ***Linear Algebra Foundations*** [10 problems]
+- ***Fundamentals***                `20 problems`
+- ***Number Theory***               `35 problems`
+- ***Combinatorics***               `30 problems`
+- ***Algebra***                     `20 problems`
+- ***Linear Algebra Foundations***  `10 problems`
 
-## HackerRank - Fundamentals [20 problems]
+### HackerRank - Fundamentals `20 problems`
 
 - [find point](https://www.hackerrank.com/challenges/find-point)
 - [maximum draws](https://www.hackerrank.com/challenges/maximum-draws/problem)
@@ -33,7 +33,7 @@
 - [most distant](https://www.hackerrank.com/challenges/most-distant/problem)
 - [possible path](https://www.hackerrank.com/challenges/possible-path)
 
-## HackerRank - Number Theory [35 problems]
+### HackerRank - Number Theory `35 problems`
 
 - [constructing a number](https://www.hackerrank.com/challenges/constructing-a-number)
 - [sherlock and gcd](https://www.hackerrank.com/challenges/sherlock-and-gcd)
@@ -69,7 +69,7 @@
 - [niceclique](https://www.hackerrank.com/challenges/niceclique/problem)
 - [down the rabbit hole](https://www.hackerrank.com/challenges/down-the-rabbit-hole/problem)
 
-## HackerRank - Combinatorics [30 problems]
+### HackerRank - Combinatorics `30 problems`
 
 - [a chocolate fiesta](https://www.hackerrank.com/challenges/a-chocolate-fiesta/problem)
 - [picking cards](https://www.hackerrank.com/challenges/picking-cards/problem)
@@ -100,7 +100,7 @@
 - [costly graphs](https://www.hackerrank.com/challenges/costly-graphs/problem)
 - [bridges and harbors](https://www.hackerrank.com/challenges/bridges-and-harbors/problem)
 
-## HackerRank - Algebra [20 problems]
+### HackerRank - Algebra `20 problems`
 
 - [difference and product](https://www.hackerrank.com/challenges/difference-and-product/problem)
 - [pythagorean triple](https://www.hackerrank.com/challenges/pythagorean-triple/problem)
@@ -124,7 +124,7 @@
 - [introduction to algebra](https://www.hackerrank.com/challenges/introduction-to-algebra/problem)
 - [cross matrix](https://www.hackerrank.com/challenges/cross-matrix/problem)
 
-## HackerRank - Linear Algebra Foundations [10 problems]
+### HackerRank - Linear Algebra Foundations `10 problems`
 
 - [linear algebra foundations 1](https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem)
 - [linear algebra foundations 1 matrix subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem)
