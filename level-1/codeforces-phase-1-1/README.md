@@ -1,16 +1,16 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Phase 1.1 (160 problems) `120 hrs`
+# [Codeforces](https://codeforces.com/) OJ - Phase 1.1 `160 problems` `120 hrs`
 
 ## Table of Content
 
-- ***Basic Operator*** [15 problems]
-- ***Condition***      [15 problems]
-- ***Loop***           [35 problems]
-- ***String***         [35 problems]
-- ***List***           [60 problems]
+- ***Basic Operator*** `15 problems`
+- ***Condition***      `15 problems`
+- ***Loop***           `35 problems`
+- ***String***         `35 problems`
+- ***List***           `60 problems`
 
-## Codeforces - Basic Operator [15 problems]
+## Codeforces - Basic Operator `15 problems`
 
 - CF-Round 340: https://codeforces.com/problemset/problem/617/A
 - CF-Round 304: https://codeforces.com/problemset/problem/546/A
@@ -28,7 +28,7 @@
 - CF-Round 47: https://codeforces.com/problemset/problem/50/A
 - CF-Round 9: https://codeforces.com/problemset/problem/9/A
 
-## Codeforces - Condition [15 problems]
+## Codeforces - Condition `15 problems`
 
 - CF-Round 322: https://codeforces.com/problemset/problem/581/A
 - CF-Round 388: https://codeforces.com/problemset/problem/749/A
@@ -49,7 +49,7 @@
 - CF-Round 44: https://codeforces.com/problemset/problem/47/A
 - CF-Round 4: https://codeforces.com/problemset/problem/4/A
 
-## Codeforces - Loop [35 problems]
+## Codeforces - Loop `35 problems`
 
 - CF-Round 366: https://codeforces.com/problemset/problem/705/A
 - CF-Round 200: https://codeforces.com/problemset/problem/344/A
@@ -86,7 +86,7 @@
 - CF-Round 38: https://codeforces.com/problemset/problem/38/A
 - CF-Round 479: https://codeforces.com/problemset/problem/977/A
 
-## Codeforces - String [35 problems]
+## Codeforces - String `35 problems`
 
 - CF-Round 369: https://codeforces.com/problemset/problem/711/A
 - CF-Round 374: https://codeforces.com/problemset/problem/721/A
@@ -123,7 +123,7 @@
 - CF-Round 14: https://codeforces.com/problemset/problem/14/A
 - CF-Round 12: https://codeforces.com/problemset/problem/12/A
 
-## Codeforces - List [60 problems]
+## Codeforces - List `60 problems`
 
 - CF-Round 161: https://codeforces.com/problemset/problem/263/A
 - CF-Round 289: https://codeforces.com/problemset/problem/509/A
