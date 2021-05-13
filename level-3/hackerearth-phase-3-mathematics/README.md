@@ -1,16 +1,16 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Mathematical Algorithms (80 problems) `60H`
+## [HackerEarth](http://hackerearth.com/) OJ - Mathematical Algorithms `80 problems` `60 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Basic Number Theory*** [30 problems]
-- ***Primality Tests*** [15 problems]
-- ***Totient Function*** [5 problems]
-- ***Basics of Combinatorics*** [20 problems]
-- ***Inclusione-Exclusion*** [10 problems]
+- ***Basic Number Theory***     `30 problems`
+- ***Primality Tests***         `15 problems`
+- ***Totient Function***        `5 problems`
+- ***Basics of Combinatorics*** `20 problems`
+- ***Inclusione-Exclusion***    `10 problems`
 
-## HackerEarth - Basic Number Theory [30 problems]
+### HackerEarth - Basic Number Theory `30 problems`
 
 - [can you guess](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess/)
 - [can you guess 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess-1/)
@@ -46,7 +46,7 @@
 - [akashs girlfriend](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/akashs-girlfriend/)
 - [holi and division function](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/holi-and-division-function-1dfc3294/)
 
-## HackerEarth - Primality Tests [15 problems]
+### HackerEarth - Primality Tests `15 problems`
 
 - [ultra prime](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/ultra-prime/)
 - [little shino and prime difference](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/little-shino-and-prime-difference-38c91b0d/)
@@ -65,7 +65,7 @@
 - [shweta riddhima and their happiness](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/shweta-riddhima-and-their-happiness-a-1880323b-0bd1d040/)
 - [primestring](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/primestring/)
 
-## HackerEarth - Totient Function [5 problems]
+### HackerEarth - Totient Function `5 problems`
 
 - [phi phi phi](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/phi-phi-phi/)
 - [nanachi and euler totient 4](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/nanachi-and-euler-totient-4-1f3f29ca/)
@@ -74,7 +74,7 @@
 - [akash and gcd 2 15](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/akash-and-gcd-2-15/)
 - [fredo and maths 1](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/fredo-and-maths-1/)
 
-## HackerEarth - Basics of Combinatorics [20 problems]
+### HackerEarth - Basics of Combinatorics `20 problems`
 
 - [monica and gaming obsession 2](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/monica-and-gaming-obsession-2/)
 - [bob and internship](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/bob-and-internship/)
@@ -95,7 +95,7 @@
 - [numbers in a range](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/numbers-in-a-range-be689998/)
 - [sara 029cdaac](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/sara-029cdaac/)
 
-## HackerEarth - Inclusione-Exclusion [10 problems]
+### HackerEarth - Inclusione-Exclusion `10 problems`
 
 - [mayanks network](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/mayanks-network/)
 - [rheas homework](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/rheas-homework/)
