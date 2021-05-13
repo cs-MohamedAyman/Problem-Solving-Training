@@ -1,17 +1,17 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Gym Contests (150 contests) `450H`
+## [Codeforces](https://codeforces.com/) OJ - Gym Contests `150 contests` `450 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Codeforces GYM Contests 2***     	[20 contests]
-- ***Codeforces GYM Contests 3 I*** 	[25 contests]
-- ***Codeforces GYM Contests 3 II*** 	[15 contests]
-- ***Codeforces GYM Contests 3 III*** 	[30 contests]
-- ***Codeforces GYM Contests 3 IV*** 	[30 contests]
-- ***Codeforces GYM Contests 3 V*** 	[30 contests]
+- ***Codeforces GYM Contests 2***     	`20 contests`
+- ***Codeforces GYM Contests 3 I*** 	  `25 contests`
+- ***Codeforces GYM Contests 3 II*** 	  `15 contests`
+- ***Codeforces GYM Contests 3 III*** 	`30 contests`
+- ***Codeforces GYM Contests 3 IV*** 	  `30 contests`
+- ***Codeforces GYM Contests 3 V*** 	  `30 contests`
 
-## Codeforces - GYM Contests 2 [20 contests]
+### Codeforces - GYM Contests 2 `20 contests`
 
 - Asu Coding Cup 4: https://codeforces.com/gym/102397
 - II Simulado Ingressantes: https://codeforces.com/gym/101744
@@ -35,7 +35,7 @@
 - The 2019 University of Jordan Collegiate Programming Contest: https://codeforces.com/gym/102267
 - IME++ Starters Try-outs 2019: https://codeforces.com/gym/102254
 
-## Codeforces -  GYM Contests 3 I [25 contests]
+### Codeforces -  GYM Contests 3 I `25 contests`
 
 - 2011-2012 Wroclaw Short Training Contest (contest 7): https://codeforces.com/gym/100048
 - 2011-2012 Wroclaw Short Training Contest (contest 8): https://codeforces.com/gym/100049
@@ -62,7 +62,7 @@
 - Local Contest: https://codeforces.com/gym/100004
 - 2016-2017 ACM-ICPC Pacific Northwest Regional Contest (Div. 2): https://codeforces.com/gym/101291
 
-## Codeforces -  GYM Contests 3 II [15 contests]
+### Codeforces -  GYM Contests 3 II `15 contests`
 
 - 2017-2018 ACM-ICPC Pacific Northwest Regional Contest (Div. 2): https://codeforces.com/gym/101652
 - 2017 ACM Amman Collegiate Programming Contest: https://codeforces.com/gym/101498
@@ -82,7 +82,7 @@
 - 2018 JUST Programming Contest 1.0: https://codeforces.com/gym/101778
 - 2016 PSUT Coding Marathon: https://codeforces.com/gym/100989
 
-## Codeforces -  GYM Contests 3 III [30 contests]
+### Codeforces -  GYM Contests 3 III `30 contests`
 
 - 2018-2019 ACM-ICPC Pacific Northwest Regional Contest (Div. 1): https://codeforces.com/gym/101982
 - ACM ICPC, Arabella Collegiate Programming Contest (2018): https://codeforces.com/gym/101972
@@ -115,7 +115,7 @@
 - 2015 Tishreen Collegiate Programming Contest: https://codeforces.com/gym/100935
 - 2019 ICPC Malaysia National: https://codeforces.com/gym/102219
 
-## Codeforces -  GYM Contests 3 IV [30 contests]
+### Codeforces -  GYM Contests 3 IV `30 contests`
 
 - 2015 HIAST Collegiate Programming Contest: https://codeforces.com/gym/100952
 - 2019, XII Samara Regional Intercollegiate Programming Contest: https://codeforces.com/gym/102215
@@ -148,7 +148,7 @@
 - 2015 USP-ICMC: https://codeforces.com/gym/100733
 - 2015 ICL, Finals, Div. 2: https://codeforces.com/gym/100637
 
-## Codeforces -  GYM Contests 3 V [30 contests]
+### Codeforces -  GYM Contests 3 V `30 contests`
 
 - KTU Programming Camp (Day 1): https://codeforces.com/gym/100735
 - KTU Programming Camp (Day 2): https://codeforces.com/gym/100738
