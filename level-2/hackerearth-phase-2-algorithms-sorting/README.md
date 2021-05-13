@@ -1,14 +1,14 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Algorithms Sorting (60 problems) `40 hrs`
+## [HackerEarth](http://hackerearth.com/) OJ - Algorithms Sorting `60 problems` `40 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Bubble & Selection & Insertion*** [15 problems]
-- ***Merge*** [25 problems]
-- ***Quick & Count & Heap*** [25 problems]
+- ***Bubble & Selection & Insertion*** `15 problems`
+- ***Merge*** `25 problems`
+- ***Quick & Count & Heap*** `25 problems`
 
-## HackerEarth - Bubble & Selection & Insertion [15 problems]
+### HackerEarth - Bubble & Selection & Insertion `15 problems`
 
 - [min max difference](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference/)
 - [sort it out](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/sort-it-out/)
@@ -25,7 +25,7 @@
 - [old keypad in a foreign land 24](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/practice-problems/algorithm/old-keypad-in-a-foreign-land-24/)
 - [the rise of the weird things 1](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/practice-problems/algorithm/the-rise-of-the-weird-things-1/)
 
-## HackerEarth - Merge [25 problems]
+### HackerEarth - Merge `25 problems`
 
 - [i think its easy](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/i-think-its-easy/)
 - [pebbles game 1](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/pebbles-game-1/)
@@ -54,7 +54,7 @@
 - [the sorted array](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/the-sorted-array/)
 - [fredo and sums 1](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/fredo-and-sums-1-605205cd/)
 
-## HackerEarth - Quick & Count & Heap [25 problems]
+### HackerEarth - Quick & Count & Heap `25 problems`
 
 - [grovyle string](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/grovyle-string/)
 - [lex finds beauty](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/lex-finds-beauty-0d0bc1b6/)
