@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Non-linear Data Structure (90 problems) `80 hrs`
+## [HackerEarth](http://hackerearth.com/) OJ - Non-linear Data Structure `90 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Binary Tree*** [10 problems]
-- ***Binary Search Tree*** [10 problems]
-- ***Heaps / Priority Queues*** [20 problems]
-- ***Hash Tables*** [50 problems]
+- ***Binary Tree*** `10 problems`
+- ***Binary Search Tree*** `10 problems`
+- ***Heaps / Priority Queues*** `20 problems`
+- ***Hash Tables*** `50 problems`
 
-## HackerEarth - Binary Tree [10 problems]
+### HackerEarth - Binary Tree `10 problems`
 
 - [mirror image 2](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/mirror-image-2/)
 - [magical tree 1](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/magical-tree-1-e7f8cabd/)
@@ -21,7 +21,7 @@
 - [gandhi tree march](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/gandhi-tree-march/)
 - [count the tree](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/count-the-tree/)
 
-## HackerEarth - Binary Search Tree [10 problems]
+### HackerEarth - Binary Search Tree `10 problems`
 
 - [monk watching fight](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-watching-fight/)
 - [monk and his friends](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/)
@@ -34,7 +34,7 @@
 - [little monk and swaps](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/little-monk-and-swaps/)
 - [mst revisited](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/mst-revisited-3f9d614c/)
 
-## HackerEarth - Heaps / Priority Queues [20 problems]
+### HackerEarth - Heaps / Priority Queues `20 problems`
 
 - [little monk and abd](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/little-monk-and-abd/)
 - [seating arrangement](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/seating-arrangement-6b8562ad/)
@@ -59,7 +59,7 @@
 - [booble the search engine](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/booble-the-search-engine/)
 - [theatre](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/theatre-830bdbff/)
 
-## HackerEarth - Hash Tables [50 problems]
+### HackerEarth - Hash Tables `50 problems`
 
 - [perfect pair](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/perfect-pair-df920e90/)
 - [kth character 2](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/kth-character-2/)
