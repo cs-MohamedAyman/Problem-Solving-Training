@@ -1,14 +1,14 @@
 <img align="right" width="65" height="65" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-# [HackerRank](https://www.hackerrank.com/) OJ - Dynamic Programming (60 problems) `40H`
+## [HackerRank](https://www.hackerrank.com/) OJ - Dynamic Programming `60 problems` `40 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Bit Manipulation*** [15 problems]
-- ***Dynamic Programming*** [40 problems]
-- ***Constructive Algorithms*** [5 problems]
+- ***Bit Manipulation***          `15 problems`
+- ***Dynamic Programming***       `40 problems`
+- ***Constructive Algorithms***   `5 problems`
 
-## HackerRank - Bit Manipulation [15 problems]
+### HackerRank - Bit Manipulation `15 problems`
 
 - [lonely integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
 - [maximizing xor](https://www.hackerrank.com/challenges/maximizing-xor/problem)
@@ -25,7 +25,7 @@
 - [whats next](https://www.hackerrank.com/challenges/whats-next/problem)
 - [aorb](https://www.hackerrank.com/challenges/aorb/problem)
 
-## HackerRank - Dynamic Programming [40 problems]
+### HackerRank - Dynamic Programming `40 problems`
 
 - [coin change](https://www.hackerrank.com/challenges/coin-change/problem)
 - [equal](https://www.hackerrank.com/challenges/equal/problem)
@@ -67,7 +67,7 @@
 - [swappermutation](https://www.hackerrank.com/challenges/swappermutation/problem)
 - [extremum permutations](https://www.hackerrank.com/challenges/extremum-permutations/problem)
 
-## HackerRank - Constructive Algorithms [5 problems]
+## HackerRank - Constructive Algorithms `5 problems`
 
 - [lena sort](https://www.hackerrank.com/challenges/lena-sort/problem)
 - [flipping the matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
