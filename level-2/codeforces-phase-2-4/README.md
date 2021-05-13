@@ -1,16 +1,16 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Phase 2.4 (145 problems) `120 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 2.4 `145 problems` `120 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Data Structure*** [30 problems]
-- ***String***         [30 problems]
-- ***Mathematics***    [40 problems]
-- ***Greedy***         [30 problems]
-- ***Brute Force***    [15 problems]
+- ***Data Structure*** `30 problems`
+- ***String***         `30 problems`
+- ***Mathematics***    `40 problems`
+- ***Greedy***         `30 problems`
+- ***Brute Force***    `15 problems`
 
-## Codeforces - Data Structure [30 problems]
+### Codeforces - Data Structure `30 problems`
 
 - CF-Round 138: https://codeforces.com/problemset/problem/224/B
 - CF-Round 147: https://codeforces.com/problemset/problem/237/B
@@ -43,7 +43,7 @@
 - CF-Round 66: https://codeforces.com/problemset/problem/73/B
 - CF-Round 2: https://codeforces.com/problemset/problem/2/B
 
-## Codeforces - String [30 problems]
+### Codeforces - String `30 problems`
 
 - CF-Round 148: https://codeforces.com/problemset/problem/239/B
 - CF-Round 170: https://codeforces.com/problemset/problem/278/B
@@ -78,7 +78,7 @@
 - CF-Round 233: https://codeforces.com/problemset/problem/399/B
 - CF-Round 179: https://codeforces.com/problemset/problem/296/B
 
-## Codeforces - Mathematics [40 problems]
+### Codeforces - Mathematics `40 problems`
 
 - CF-Round 237: https://codeforces.com/problemset/problem/404/B
 - CF-Round 240: https://codeforces.com/problemset/problem/415/B
@@ -119,7 +119,7 @@
 - CF-Round 113: https://codeforces.com/problemset/problem/166/B
 - CF-Round 198: https://codeforces.com/problemset/problem/340/B
 
-## Codeforces - Greedy [30 problems]
+### Codeforces - Greedy `30 problems`
 
 - CF-Round 105: https://codeforces.com/problemset/problem/148/B
 - CF-Round 112: https://codeforces.com/problemset/problem/165/B
@@ -151,7 +151,7 @@
 - CF-Round 319: https://codeforces.com/problemset/problem/577/B
 - CF-Round 3: https://codeforces.com/problemset/problem/3/B
 
-## Codeforces - Brute Force [15 problems]
+### Codeforces - Brute Force `15 problems`
 
 - CF-Round 155: https://codeforces.com/problemset/problem/254/B
 - CF-Round 283: https://codeforces.com/problemset/problem/496/B
