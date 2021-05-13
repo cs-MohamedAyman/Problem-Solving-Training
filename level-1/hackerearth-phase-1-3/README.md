@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Phase 1.3 (100 problems) `80 hrs`
+# [HackerEarth](http://hackerearth.com/) OJ - Phase 1.3 `100 problems` `80 hrs`
 
 ## Table of Content
 
-- ***Implementation I*** [25 problems]
-- ***Implementation II*** [25 problems]
-- ***Implementation III*** [25 problems]
-- ***Implementation IV*** [25 problems]
+- ***Implementation I*** `25 problems`
+- ***Implementation II*** `25 problems`
+- ***Implementation III*** `25 problems`
+- ***Implementation IV*** `25 problems`
 
-## HackerEarth - Implementation I [25 problems]
+## HackerEarth - Implementation I `25 problems`
 
 - [perfect baseline](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/perfect-baseline/)
 - [recursive sums](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/recursive-sums/)
@@ -37,7 +37,7 @@
 - [sahils computer address 20](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sahils-computer-address-20/)
 - [monk and digital world code monk](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/monk-and-digital-world-code-monk/)
 
-## HackerEarth - Implementation II [25 problems]
+## HackerEarth - Implementation II `25 problems`
 
 - [swapping string 4](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/swapping-string-4/)
 - [encrypted love](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/encrypted-love/)
@@ -65,7 +65,7 @@
 - [shil and square sum qualifier2](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shil-and-square-sum-qualifier2/)
 - [dummy1 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/dummy1-3/)
 
-## HackerEarth - Implementation III [25 problems]
+## HackerEarth - Implementation III `25 problems`
 
 - [equal bitwise operations](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/equal-bitwise-operations-33fa5acd/)
 - [sherlock and special count](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-special-count/)
@@ -93,7 +93,7 @@
 - [aman and his birthday gift](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/aman-and-his-birthday-gift-b5268b97/)
 - [problem 16](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/problem-16-b45b3a5d/)
 
-## HackerEarth - Implementation IV [25 problems]
+## HackerEarth - Implementation IV `25 problems`
 
 - [anil and stocks](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/anil-and-stocks-628d668e/)
 - [recursive function](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/recursive-function/)
