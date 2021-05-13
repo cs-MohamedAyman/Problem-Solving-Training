@@ -67,7 +67,7 @@
 - [swappermutation](https://www.hackerrank.com/challenges/swappermutation/problem)
 - [extremum permutations](https://www.hackerrank.com/challenges/extremum-permutations/problem)
 
-## HackerRank - Constructive Algorithms `5 problems`
+### HackerRank - Constructive Algorithms `5 problems`
 
 - [lena sort](https://www.hackerrank.com/challenges/lena-sort/problem)
 - [flipping the matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
