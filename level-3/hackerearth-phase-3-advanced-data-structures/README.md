@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Advanced Data Structure (140 problems) `90H`
+## [HackerEarth](http://hackerearth.com/) OJ - Advanced Data Structure `140 problems` `100 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Disjoint Sets*** [30 problems]
-- ***Trie*** [20 problems]
-- ***Segment Tree*** [55 problems]
-- ***Binary Indexed Tree*** [35 problems]
+- ***Disjoint Sets***       `30 problems`
+- ***Trie***                `20 problems`
+- ***Segment Tree***        `55 problems`
+- ***Binary Indexed Tree*** `35 problems`
 
-## HackerEarth - Disjoint Sets [30 problems]
+### HackerEarth - Disjoint Sets `30 problems`
 
 - [owl fight](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/owl-fight/)
 - [city and flood 1](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/)
@@ -43,7 +43,7 @@
 - [classic task](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/classic-task-39656dbf/)
 - [tri state area](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/tri-state-area-58343781/)
 
-## HackerEarth - Trie [25 problems]
+### HackerEarth - Trie `25 problems`
 
 - [tries](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/tries-78733022/)
 - [xterminus wars final episode this is the way](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xterminus-wars-final-episode-this-is-the-way/)
@@ -69,7 +69,7 @@
 - [shil and lcp pairsmonk](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/shil-and-lcp-pairsmonk/)
 - [xor sequence](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-sequence-aad3111f/)
 
-## HackerEarth - Segment Tree [55 problems]
+### HackerEarth - Segment Tree `55 problems`
 
 - [tree query 3](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/tree-query-3-5d98588f/)
 - [blocks 2](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/blocks-2/)
@@ -128,7 +128,7 @@
 - [akash and gcd 1 15](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/akash-and-gcd-1-15/)
 - [xor in tree 1](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xor-in-tree-1/)
 
-## HackerEarth - Binary Indexed Tree [35 problems]
+### HackerEarth - Binary Indexed Tree `35 problems`
 
 - [smallest dividable segment](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/smallest-dividable-segment-82dc8519/)
 - [help ashu 1](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/)
