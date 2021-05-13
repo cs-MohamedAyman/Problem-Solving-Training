@@ -1,16 +1,16 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-# [Codeforces](https://codeforces.com/) OJ - Phase 1.2 (115 problems) `80 hrs`
+# [Codeforces](https://codeforces.com/) OJ - Phase 1.2 `115 problems` `80 hrs`
 
 ## Table of Content
 
-- ***Basic Operator*** [10 problems]
-- ***Condition***      [15 problems]
-- ***Loop***           [20 problems]
-- ***String***         [30 problems]
-- ***List***           [35 problems]
+- ***Basic Operator*** `10 problems`
+- ***Condition***      `15 problems`
+- ***Loop***           `20 problems`
+- ***String***         `30 problems`
+- ***List***           `35 problems`
 
-## Codeforces - Basic Operator [10 problems]
+## Codeforces - Basic Operator `10 problems`
 
 - CF-Round 327: https://codeforces.com/problemset/problem/591/A
 - CF-Round 125: https://codeforces.com/problemset/problem/199/A
@@ -23,7 +23,7 @@
 - CF-Round 92: https://codeforces.com/problemset/problem/124/A
 - CF-Round 272: https://codeforces.com/problemset/problem/476/A
 
-## Codeforces - Condition [15 problems]
+## Codeforces - Condition `15 problems`
 
 - CF-Round 186: https://codeforces.com/problemset/problem/313/A
 - CF-Round 114: https://codeforces.com/problemset/problem/168/A
@@ -42,7 +42,7 @@
 - CF-Round 346: https://codeforces.com/problemset/problem/659/A
 - CF-Round 394: https://codeforces.com/problemset/problem/761/A
 
-## Codeforces - Loop [20 problems]
+## Codeforces - Loop `20 problems`
 
 - CF-Round 400: https://codeforces.com/problemset/problem/776/A
 - CF-Round 151: https://codeforces.com/problemset/problem/246/A
@@ -65,7 +65,7 @@
 - CF-Round 319: https://codeforces.com/problemset/problem/577/A
 - CF-Round 102: https://codeforces.com/problemset/problem/143/A
 
-## Codeforces - String [30 problems]
+## Codeforces - String `30 problems`
 
 - CF-Round 265: https://codeforces.com/problemset/problem/465/A
 - CF-Round 309: https://codeforces.com/problemset/problem/554/A
@@ -102,7 +102,7 @@
 - CF-Round 391: https://codeforces.com/problemset/problem/757/A
 - CF-Round 211: https://codeforces.com/problemset/problem/363/A
 
-## Codeforces - List [35 problems]
+## Codeforces - List `35 problems`
 
 - CF-Round 239: https://codeforces.com/problemset/problem/408/A
 - CF-Round 240: https://codeforces.com/problemset/problem/415/A
