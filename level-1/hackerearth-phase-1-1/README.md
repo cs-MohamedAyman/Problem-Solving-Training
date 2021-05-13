@@ -1,15 +1,15 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Phase 1.1 `100 problems` `80 hrs`
+## [HackerEarth](http://hackerearth.com/) OJ - Phase 1.1 `100 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
 - ***Implementation I*** `25 problems`
 - ***Implementation II*** `25 problems`
 - ***Implementation III*** `25 problems`
 - ***Implementation IV*** `25 problems`
 
-## HackerEarth - Implementation I `25 problems`
+### HackerEarth - Implementation I `25 problems`
 
 - [pair sum 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pair-sum-1-0062d9ab/)
 - [digit problem:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
@@ -37,7 +37,7 @@
 - [complete the syllabus](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/complete-the-syllabus/)
 - [jarvis and seven segments 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jarvis-and-seven-segments-1/)
 
-## HackerEarth - Implementation II `25 problems`
+### HackerEarth - Implementation II `25 problems`
 
 - [batman and tick tack toe](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/batman-and-tick-tack-toe/)
 - [presidential problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/presidential-problem/)
@@ -65,7 +65,7 @@
 - [heman anil and soubhik](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/heman-anil-and-soubhik/)
 - [killjee and superdromes](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-superdromes-1f1d31c3/)
 
-## HackerEarth - Implementation III `25 problems`
+### HackerEarth - Implementation III `25 problems`
 
 - [shitty fortune](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shitty-fortune/)
 - [mancunian in palindromia 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mancunian-in-palindromia-3/)
@@ -93,7 +93,7 @@
 - [square in triangle](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/square-in-triangle/)
 - [string restoration ather](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-restoration-ather-b41289af/)
 
-## HackerEarth - Implementation IV `25 problems`
+### HackerEarth - Implementation IV `25 problems`
 
 - [attendance 70](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/attendance-70-3369f484/)
 - [lets prepare for exams](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/lets-prepare-for-exams-a7f00d14/)
