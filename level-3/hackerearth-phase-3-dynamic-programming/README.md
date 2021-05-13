@@ -1,14 +1,14 @@
 <img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-# [HackerEarth](http://hackerearth.com/) OJ - Dynamic Programming (110 problems) `80H`
+## [HackerEarth](http://hackerearth.com/) OJ - Dynamic Programming `110 problems` `80 hrs`
 
-## Table of Content
+### Table of Content
 
-- ***Dynamic Programming*** [50 problems]
-- ***Dynamic Programming 2 Dimensional*** [45 problems]
-- ***Dynamic Programming and Bit Masking*** [15 problems]
+- ***Dynamic Programming***                 `50 problems`
+- ***Dynamic Programming 2 Dimensional***   `45 problems`
+- ***Dynamic Programming and Bit Masking*** `15 problems`
 
-## HackerEarth - Dynamic Programming [50 problems]
+### HackerEarth - Dynamic Programming `50 problems`
 
 - [win the game](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/win-the-game/)
 - [angry neighbours](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/angry-neighbours/)
@@ -64,7 +64,7 @@
 - [pankaj and his in laws](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/pankaj-and-his-in-laws/)
 - [angles 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/angles-2/)
 
-## HackerEarth - Dynamic Programming 2 Dimensional [45 problems]
+### HackerEarth - Dynamic Programming 2 Dimensional `45 problems`
 
 - [palindromic sub string length](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindromic-sub-string-length/)
 - [real estate 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/real-estate-1-059f5228/)
@@ -112,7 +112,7 @@
 - [queensland and schools](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/queensland-and-schools-1d351e31/)
 - [tom jerry 2025](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/tom-jerry-2025/)
 
-## HackerEarth - Dynamic Programming and Bit Masking [15 problems]
+### HackerEarth - Dynamic Programming and Bit Masking `15 problems`
 
 - [fifth 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/fifth-1/)
 - [sherlock and coprime subset](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/sherlock-and-coprime-subset/)
