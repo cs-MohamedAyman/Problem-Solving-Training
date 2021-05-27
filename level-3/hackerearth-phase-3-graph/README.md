@@ -1,6 +1,6 @@
-<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ - Graph Algorithms `175 problems` `160 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Graph Algorithms `175 problems` `160 hrs`
 
 ### Table of Content
 

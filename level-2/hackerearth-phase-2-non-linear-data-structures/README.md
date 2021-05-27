@@ -1,12 +1,12 @@
-<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](http://hackerearth.com/) OJ - Non-linear Data Structure `90 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Non-linear Data Structure `90 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Binary Tree*** `10 problems`
 - ***Binary Search Tree*** `10 problems`
-- ***Heaps / Priority Queues*** `20 problems`
+- ***Binary Heap / Priority Queue*** `20 problems`
 - ***Hash Tables*** `50 problems`
 
 ### HackerEarth - Binary Tree `10 problems`
@@ -34,7 +34,7 @@
 - [little monk and swaps](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/little-monk-and-swaps/)
 - [mst revisited](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/mst-revisited-3f9d614c/)
 
-### HackerEarth - Heaps / Priority Queues `20 problems`
+### HackerEarth - Binary Heap / Priority Queue `20 problems`
 
 - [little monk and abd](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/little-monk-and-abd/)
 - [seating arrangement](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/seating-arrangement-6b8562ad/)

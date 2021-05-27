@@ -1,15 +1,15 @@
-<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ - Phase 3.4 `100 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Graph***    			        `10 problems`
+- ***Graph***    			    `10 problems`
 - ***String***         		    `10 problems`
 - ***Data Structure*** 		    `20 problems`
 - ***Mathematics***    		    `30 problems`
 - ***Greedy***         		    `20 problems`
-- ***Dynamic Programming***   `10 problems`
+- ***Dynamic Programming***     `10 problems`
 
 ### Codeforces - Graph `10 problems`
 

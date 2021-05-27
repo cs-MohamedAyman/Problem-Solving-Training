@@ -1,11 +1,11 @@
-<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ - Phase 3.2 `100 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Divide and Conquer***  `10 problems`
-- ***Graph***    			    `10 problems`
+- ***Graph***    			`10 problems`
 - ***String***         		`10 problems`
 - ***Data Structure*** 		`20 problems`
 - ***Mathematics***    		`30 problems`
