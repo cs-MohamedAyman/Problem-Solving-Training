@@ -1,4 +1,4 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/problem-solving-training.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/problem-solving-training.jpg">
 
 # Problem-Solving-Training
 
