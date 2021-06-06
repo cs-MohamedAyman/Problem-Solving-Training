@@ -12,7 +12,7 @@
 - ***Dynamic Programming II*** 	`30 problems`
 - ***Dynamic Programming II*** 	`30 problems`
 
-## LeetCode - Breadth First Search `20 problems`
+### LeetCode - Breadth First Search `20 problems`
 
 - [minimum number of flips to convert binary matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
 - [sliding puzzle](https://leetcode.com/problems/sliding-puzzle/)
@@ -38,8 +38,7 @@
 - [escape a large maze](https://leetcode.com/problems/escape-a-large-maze/)
 - [word ladder](https://leetcode.com/problems/word-ladder/)
 
-
-## LeetCode - Depth First Search `20 problems`
+### LeetCode - Depth First Search `20 problems`
 
 - [robot room cleaner](https://leetcode.com/problems/robot-room-cleaner/)
 - [recover a tree from preorder traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
@@ -60,7 +59,7 @@
 - [binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [frog position after t seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)
 
-## LeetCode - Backtracking I `35 problems`
+### LeetCode - Backtracking I `35 problems`
 
 - [count of matches in tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 - [sum of all subset xor totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
@@ -98,7 +97,7 @@
 - [count numbers with unique digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 - [construct the lexicographically largest valid sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)
 
-## LeetCode - Backtracking II `35 problems`
+### LeetCode - Backtracking II `35 problems`
 
 - [factor combinations](https://leetcode.com/problems/factor-combinations/)
 - [numbers with same consecutive differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
@@ -136,7 +135,7 @@
 - [wildcard matching](https://leetcode.com/problems/wildcard-matching/)
 - [word ladder ii](https://leetcode.com/problems/word-ladder-ii/)
 
-## LeetCode - Dynamic Programming I `30 problems`
+### LeetCode - Dynamic Programming I `30 problems`
 
 - [reducing dishes](https://leetcode.com/problems/reducing-dishes/)
 - [cherry pickup ii](https://leetcode.com/problems/cherry-pickup-ii/)
@@ -171,7 +170,7 @@
 - [stone game viii](https://leetcode.com/problems/stone-game-viii/)
 - [encode string with shortest length](https://leetcode.com/problems/encode-string-with-shortest-length/)
 
-## LeetCode - Dynamic Programming II `30 problems`
+### LeetCode - Dynamic Programming II `30 problems`
 
 - [palindrome partitioning iv](https://leetcode.com/problems/palindrome-partitioning-iv/)
 - [paint house iii](https://leetcode.com/problems/paint-house-iii/)
@@ -214,7 +213,7 @@
 - [number of ways to wear different hats to each other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
 - [maximum number of groups getting fresh donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/)
 
-## LeetCode - Dynamic Programming III `30 problems`
+### LeetCode - Dynamic Programming III `30 problems`
 
 - [minimum time to build blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/)
 - [find all good strings](https://leetcode.com/problems/find-all-good-strings/)

@@ -12,7 +12,7 @@
 - ***Dynamic Programming II*** 	`30 problems`
 - ***Dynamic Programming III*** `30 problems`
 
-## LeetCode - Breadth First Search I `25 problems`
+### LeetCode - Breadth First Search I `25 problems`
 
 - [maximum depth of n ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 - [employee importance](https://leetcode.com/problems/employee-importance/)
@@ -43,7 +43,7 @@
 - [binary tree level order traversal ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [number of operations to make network connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 
-## LeetCode - Breadth First Search II `25 problems`
+### LeetCode - Breadth First Search II `25 problems`
 
 - [the maze](https://leetcode.com/problems/the-maze/)
 - [open the lock](https://leetcode.com/problems/open-the-lock/)
@@ -70,7 +70,7 @@
 - [minimum jumps to reach home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
 - [jump game vii](https://leetcode.com/problems/jump-game-vii/)
 
-## LeetCode - Depth First Search I `35 problems`
+### LeetCode - Depth First Search I `35 problems`
 
 - [range sum of bst](https://leetcode.com/problems/range-sum-of-bst/)
 - [find all the lonely nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)
@@ -107,7 +107,7 @@
 - [number of provinces](https://leetcode.com/problems/number-of-provinces/)
 - [convert bst to greater tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 
-## LeetCode - Depth First Search II `35 problems`
+### LeetCode - Depth First Search II `35 problems`
 
 - [lonely pixel i](https://leetcode.com/problems/lonely-pixel-i/)
 - [number of enclaves](https://leetcode.com/problems/number-of-enclaves/)
@@ -144,7 +144,7 @@
 - [out of boundary paths](https://leetcode.com/problems/out-of-boundary-paths/)
 - [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
-## LeetCode - Dynamic Programming I `30 problems`
+### LeetCode - Dynamic Programming I `30 problems`
 
 - [counting bits](https://leetcode.com/problems/counting-bits/)
 - [divisor game](https://leetcode.com/problems/divisor-game/)
@@ -180,7 +180,7 @@
 - [maximum length of pair chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 - [longest palindromic subsequence ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii/)
 
-## LeetCode - Dynamic Programming II `30 problems`
+### LeetCode - Dynamic Programming II `30 problems`
 
 - [integer break](https://leetcode.com/problems/integer-break/)
 - [largest sum of averages](https://leetcode.com/problems/largest-sum-of-averages/)
@@ -216,7 +216,7 @@
 - [range sum query 2d immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - [unique binary search trees ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 
-## LeetCode - Dynamic Programming III `30 problems`
+### LeetCode - Dynamic Programming III `30 problems`
 
 - [house robber](https://leetcode.com/problems/house-robber/)
 - [ones and zeroes](https://leetcode.com/problems/ones-and-zeroes/)

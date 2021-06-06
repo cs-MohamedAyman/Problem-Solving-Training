@@ -10,7 +10,7 @@
 - ***Linked List*** `30 problems`
 - ***Stack*** 		`10 problems`
 
-## LeetCode - Array I `50 problems`
+### LeetCode - Array I `50 problems`
 
 - [subrectangle queries](https://leetcode.com/problems/subrectangle-queries/)
 - [minimum number of operations to move all balls to each box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
@@ -64,7 +64,7 @@
 - [shortest word distance iii](https://leetcode.com/problems/shortest-word-distance-iii/)
 - [max chunks to make sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
 
-## LeetCode - Array II `50 problems`
+### LeetCode - Array II `50 problems`
 
 - [rle iterator](https://leetcode.com/problems/rle-iterator/)
 - [least number of unique integers after k removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
@@ -118,7 +118,7 @@
 - [set matrix zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 
-## LeetCode - Array III `50 problems`
+### LeetCode - Array III `50 problems`
 
 - [friends of appropriate ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
 - [find the celebrity](https://leetcode.com/problems/find-the-celebrity/)
@@ -172,7 +172,7 @@
 - [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [word ladder ii](https://leetcode.com/problems/word-ladder-ii/)
 
-## LeetCode - Linked List `30 problems`
+### LeetCode - Linked List `30 problems`
 
 - [merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
 - [remove duplicates from an unsorted linked list](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)
@@ -206,7 +206,7 @@
 - [design linked list](https://leetcode.com/problems/design-linked-list/)
 - [reverse nodes in k group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
-## LeetCode - Stack `10 problems`
+### LeetCode - Stack `10 problems`
 
 - [number of valid subarrays](https://leetcode.com/problems/number-of-valid-subarrays/)
 - [maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/)

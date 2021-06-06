@@ -11,7 +11,7 @@
 - ***Sort II*** 			`40 problems`
 - ***Greedy*** 				`20 problems`
 
-## LeetCode - Binary Search I `30 problems`
+### LeetCode - Binary Search I `30 problems`
 
 - [count negative numbers in a sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [the k weakest rows in a matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
@@ -49,7 +49,7 @@
 - [shortest distance to target color](https://leetcode.com/problems/shortest-distance-to-target-color/)
 - [minimum limit of balls in a bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
 
-## LeetCode - Binary Search II `30 problems`
+### LeetCode - Binary Search II `30 problems`
 
 - [minimum number of days to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 - [online election](https://leetcode.com/problems/online-election/)
@@ -86,7 +86,7 @@
 - [ugly number iii](https://leetcode.com/problems/ugly-number-iii/)
 - [divide two integers](https://leetcode.com/problems/divide-two-integers/)
 
-## LeetCode - Divide and Conquer `20 problems`
+### LeetCode - Divide and Conquer `20 problems`
 
 - [majority element](https://leetcode.com/problems/majority-element/)
 - [maximum subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -110,7 +110,7 @@
 - [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [reverse pairs](https://leetcode.com/problems/reverse-pairs/)
 
-## LeetCode - Sort I `40 problems`
+### LeetCode - Sort I `40 problems`
 
 - [shuffle string](https://leetcode.com/problems/shuffle-string/)
 - [sorting the sentence](https://leetcode.com/problems/sorting-the-sentence/)
@@ -153,7 +153,7 @@
 - [least number of unique integers after k removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 - [rank teams by votes](https://leetcode.com/problems/rank-teams-by-votes/)
 
-## LeetCode - Sort II `40 problems`
+### LeetCode - Sort II `40 problems`
 
 - [people whose list of favorite companies is not a subset of another list](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)
 - [minimum deletions to make character frequencies unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
@@ -194,7 +194,7 @@
 - [random pick with blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
 - [closest room](https://leetcode.com/problems/closest-room/)
 
-## LeetCode - Greedy `20 problems`
+### LeetCode - Greedy `20 problems`
 
 - [split a string in balanced strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [number of rectangles that can form the largest square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)

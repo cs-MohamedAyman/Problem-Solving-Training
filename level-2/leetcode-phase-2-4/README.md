@@ -10,7 +10,7 @@
 - ***Heap Tree*** 		`30 problems`
 - ***Hash Table*** 		`10 problems`
 
-## LeetCode - Binary Tree I `30 problems`
+### LeetCode - Binary Tree I `30 problems`
 
 - [deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - [sum of nodes with even valued grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
@@ -46,7 +46,7 @@
 - [flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 - [maximum binary tree ii](https://leetcode.com/problems/maximum-binary-tree-ii/)
 
-## LeetCode - Binary Tree II `30 problems`
+### LeetCode - Binary Tree II `30 problems`
 
 - [maximum average subtree](https://leetcode.com/problems/maximum-average-subtree/)
 - [kth smallest element in a bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -86,7 +86,7 @@
 - [construct binary tree from inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [populating next right pointers in each node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-## LeetCode - Binary Tree III `30 problems`
+### LeetCode - Binary Tree III `30 problems`
 
 - [count complete tree nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 - [path sum ii](https://leetcode.com/problems/path-sum-ii/)
@@ -121,7 +121,7 @@
 - [tree of coprimes](https://leetcode.com/problems/tree-of-coprimes/)
 - [redundant connection ii](https://leetcode.com/problems/redundant-connection-ii/)
 
-## LeetCode - Heap Tree `30 problems`
+### LeetCode - Heap Tree `30 problems`
 
 - [employee free time](https://leetcode.com/problems/employee-free-time/)
 - [find the kth smallest sum of a matrix with sorted rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)
@@ -156,7 +156,7 @@
 - [longest chunked palindrome decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
 - [distinct echo substrings](https://leetcode.com/problems/distinct-echo-substrings/)
 
-## LeetCode - Hash Table `10 problems`
+### LeetCode - Hash Table `10 problems`
 
 - [smallest range covering elements from k lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 - [number of distinct islands ii](https://leetcode.com/problems/number-of-distinct-islands-ii/)

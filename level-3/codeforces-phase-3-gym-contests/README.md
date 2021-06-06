@@ -5,11 +5,11 @@
 ### Table of Content
 
 - ***Codeforces GYM Contests 2***     	`20 contests`
-- ***Codeforces GYM Contests 3 I*** 	  `25 contests`
-- ***Codeforces GYM Contests 3 II*** 	  `15 contests`
+- ***Codeforces GYM Contests 3 I*** 	`25 contests`
+- ***Codeforces GYM Contests 3 II*** 	`15 contests`
 - ***Codeforces GYM Contests 3 III*** 	`30 contests`
-- ***Codeforces GYM Contests 3 IV*** 	  `30 contests`
-- ***Codeforces GYM Contests 3 V*** 	  `30 contests`
+- ***Codeforces GYM Contests 3 IV*** 	`30 contests`
+- ***Codeforces GYM Contests 3 V*** 	`30 contests`
 
 ### Codeforces - GYM Contests 2 `20 contests`
 

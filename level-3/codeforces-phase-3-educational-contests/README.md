@@ -4,10 +4,10 @@
 
 ### Table of Content
 
-- ***Educational Codeforces Rounds I*** `25 contests`
-- ***Educational Codeforces Rounds II*** `25 contests`
-- ***Educational Codeforces Rounds III*** `25 contests`
-- ***Educational Codeforces Rounds IV*** `25 contests`
+- ***Educational Codeforces Rounds I*** 	`25 contests`
+- ***Educational Codeforces Rounds II*** 	`25 contests`
+- ***Educational Codeforces Rounds III*** 	`25 contests`
+- ***Educational Codeforces Rounds IV*** 	`25 contests`
 
 ### Codeforces - Educational Rounds I `25 contests`
 

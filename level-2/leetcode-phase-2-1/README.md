@@ -12,7 +12,7 @@
 - ***Queue and Dequeue*** 	`40 problems`
 
 
-## LeetCode - Array I `40 problems`
+### LeetCode - Array I `40 problems`
 
 - [running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
@@ -55,7 +55,7 @@
 - [relative sort array](https://leetcode.com/problems/relative-sort-array/)
 - [fibonacci number](https://leetcode.com/problems/fibonacci-number/)
 
-## LeetCode - Array II `40 problems`
+### LeetCode - Array II `40 problems`
 
 - [available captures for rook](https://leetcode.com/problems/available-captures-for-rook/)
 - [number of students unable to eat lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
@@ -98,7 +98,7 @@
 - [rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)
 - [check if a number is majority element in a sorted array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)
 
-## LeetCode - Array III `40 problems`
+### LeetCode - Array III `40 problems`
 
 - [most visited sector in a circular track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
 - [find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
@@ -144,7 +144,7 @@
 - [third maximum number](https://leetcode.com/problems/third-maximum-number/)
 - [missing ranges](https://leetcode.com/problems/missing-ranges/)
 
-## LeetCode - Linked List `10 problems`
+### LeetCode - Linked List `10 problems`
 
 - [convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - [delete n nodes after m nodes of a linked list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)
@@ -158,7 +158,7 @@
 - [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)
 - [remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
-## LeetCode - Stack `50 problems`
+### LeetCode - Stack `50 problems`
 
 - [remove outermost parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
@@ -209,7 +209,7 @@
 - [remove k digits](https://leetcode.com/problems/remove-k-digits/)
 - [decoded string at index](https://leetcode.com/problems/decoded-string-at-index/)
 
-## LeetCode - Queue and Dequeue `40 problems`
+### LeetCode - Queue and Dequeue `40 problems`
 
 - [moving average from data stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)

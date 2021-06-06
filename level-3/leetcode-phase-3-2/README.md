@@ -11,8 +11,7 @@
 - ***Graph I*** 		`30 problems`
 - ***Graph II*** 		`30 problems`
 
-
-## LeetCode - Binary Search `30 problems`
+### LeetCode - Binary Search `30 problems`
 
 - [swim in rising water](https://leetcode.com/problems/swim-in-rising-water/)
 - [divide chocolate](https://leetcode.com/problems/divide-chocolate/)
@@ -43,7 +42,7 @@
 - [super egg drop](https://leetcode.com/problems/super-egg-drop/)
 - [shortest subarray with sum at least k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
 
-## LeetCode - Greedy I `40 problems`
+### LeetCode - Greedy I `40 problems`
 
 - [minimize product sum of two arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/)
 - [partitioning into minimum number of deci binary numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
@@ -85,7 +84,7 @@
 - [4 keys keyboard](https://leetcode.com/problems/4-keys-keyboard/)
 - [maximum absolute sum of any subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
 
-## LeetCode - Greedy II `40 problems`
+### LeetCode - Greedy II `40 problems`
 
 - [longest happy string](https://leetcode.com/problems/longest-happy-string/)
 - [task scheduler](https://leetcode.com/problems/task-scheduler/)
@@ -127,7 +126,7 @@
 - [cinema seat allocation](https://leetcode.com/problems/cinema-seat-allocation/)
 - [minimum moves to make array complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)
 
-## LeetCode - Greedy III `40 problems`
+### LeetCode - Greedy III `40 problems`
 
 - [minimum number of swaps to make the binary string alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/)
 - [jump game](https://leetcode.com/problems/jump-game/)
@@ -168,7 +167,7 @@
 - [construct target array with multiple sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [create maximum number](https://leetcode.com/problems/create-maximum-number/)
 
-## LeetCode - Graph I `30 problems`
+### LeetCode - Graph I `30 problems`
 
 - [find the town judge](https://leetcode.com/problems/find-the-town-judge/)
 - [find center of star graph](https://leetcode.com/problems/find-center-of-star-graph/)
@@ -200,7 +199,7 @@
 - [possible bipartition](https://leetcode.com/problems/possible-bipartition/)
 - [shortest path in a hidden grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/)
 
-## LeetCode - Graph II `30 problems`
+### LeetCode - Graph II `30 problems`
 
 - [graph valid tree](https://leetcode.com/problems/graph-valid-tree/)
 - [all paths from source lead to destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/)

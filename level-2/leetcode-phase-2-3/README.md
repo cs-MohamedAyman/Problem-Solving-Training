@@ -11,7 +11,7 @@
 - ***Hash Table II*** 	`40 problems`
 - ***Hash Table III*** 	`40 problems`
 
-## LeetCode - Recursion `30 problems`
+### LeetCode - Recursion `30 problems`
 
 - [sum of all subset xor totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [range sum of bst](https://leetcode.com/problems/range-sum-of-bst/)
@@ -48,7 +48,7 @@
 - [strobogrammatic number iii](https://leetcode.com/problems/strobogrammatic-number-iii/)
 - [binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-## LeetCode - Binary Tree `30 problems`
+### LeetCode - Binary Tree `30 problems`
 
 - [find all the lonely nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)
 - [merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
@@ -84,7 +84,7 @@
 - [balance a binary search tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 - [maximum sum bst in binary tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
 
-## LeetCode - Heap Tree `30 problems`
+### LeetCode - Heap Tree `30 problems`
 
 - [last stone weight](https://leetcode.com/problems/last-stone-weight/)
 - [kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
@@ -114,7 +114,7 @@
 - [find k pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [design twitter](https://leetcode.com/problems/design-twitter/)
 
-## LeetCode - Hash Table I `40 problems`
+### LeetCode - Hash Table I `40 problems`
 
 - [number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [jewels and stones](https://leetcode.com/problems/jewels-and-stones/)
@@ -157,7 +157,7 @@
 - [longest harmonious subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 - [longest word in dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
 
-## LeetCode - Hash Table II `40 problems`
+### LeetCode - Hash Table II `40 problems`
 
 - [two sum](https://leetcode.com/problems/two-sum/)
 - [strobogrammatic number](https://leetcode.com/problems/strobogrammatic-number/)
@@ -200,7 +200,7 @@
 - [max number of k sum pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - [number of boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
 
-## LeetCode - Hash Table III `40 problems`
+### LeetCode - Hash Table III `40 problems`
 
 - [minimum area rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
 - [vowel spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
