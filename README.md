@@ -144,7 +144,7 @@ The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-M
 
 ## [Level 2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
 
-This level simply consists of 12 sheets, 6 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
+This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
 ## Prerequisites
 
@@ -218,6 +218,59 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 | Educational Codeforces Rounds II   | 25 contests |
 | Educational Codeforces Rounds III  | 25 contests |
 | Educational Codeforces Rounds IV   | 25 contests |
+
+</details>
+
+<img align="right" width="60" height="60" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+
+## LeetCode OJ sheets
+
+The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4) contain linear and non-linear data structures problems, and each sheet of them divided into 7 classes of problems (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
+
+<details>
+	<summary>LeetCode OJ sheets (4 sheets)</summary>
+
+### Agenda of [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1) (220 problems) `160 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Array I            | 40 problems |
+| Array II           | 40 problems |
+| Array III          | 40 problems |
+| Linked List        | 10 problems |
+| Stack              | 50 problems |
+| Queue and Dequeue  | 40 problems |
+
+### Agenda of [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2) (190 problems) `140 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Array I            | 50 problems |
+| Array II           | 50 problems |
+| Array III          | 50 problems |
+| Linked List        | 30 problems |
+| Stack              | 10 problems |
+
+### Agenda of [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3) (210 problems) `160 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Recursion        | 30 problems |
+| Binary Tree      | 30 problems |
+| Heap Tree        | 30 problems |
+| Hash Table I     | 40 problems |
+| Hash Table II    | 40 problems |
+| Hash Table III   | 40 problems |
+
+### Agenda of [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4) (130 problems) `80 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Binary Tree I    | 30 problems |
+| Binary Tree II   | 30 problems |
+| Binary Tree III  | 30 problems |
+| Heap Tree        | 30 problems |
+| Hash Table       | 10 problems |
 
 </details>
 
@@ -304,7 +357,7 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 
 ## [Level 3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3)
 
-This level simply consists of 16 sheets, 7 sheets of them on Codeforces Online Judge, plus 5 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
+This level simply consists of 20 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 5 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
 
 ## Prerequisites
 
