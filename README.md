@@ -138,7 +138,7 @@ The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-M
 
 ### Notes
 
-* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
+* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
 
@@ -298,7 +298,7 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 
 ### Notes
 
-* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
+* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
 
@@ -323,7 +323,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Mathematics - String - Greedy - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests) that focus on div3-contests (easy contests) and contains ~50 contests, and [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) that focus on gym-contests that contains ~150 contests. 
 
 <details>
-	<summary>Codeforces OJ sheets (5 sheets)</summary>
+	<summary>Codeforces OJ sheets (7 sheets)</summary>
 
 ### Agenda of [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1) (100 problems) `80 Hrs`
 
@@ -500,7 +500,7 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 
 ### Notes
 
-* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Codejam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
+* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
 
