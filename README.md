@@ -115,7 +115,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 </details>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## HackerRank OJ sheets
 
@@ -321,7 +321,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 </details>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## HackerRank OJ sheets
 
@@ -508,7 +508,7 @@ The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAym
 
 </details>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## HackerRank OJ sheets
 
