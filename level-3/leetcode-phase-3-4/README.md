@@ -4,8 +4,8 @@
 
 ### Table of Content
 
-- ***Breadth First Search I*** 	`20 problems`
-- ***Depth First Search I*** 	`20 problems`
+- ***Breadth First Search*** 	`20 problems`
+- ***Depth First Search*** 	`20 problems`
 - ***Backtracking I*** 			`35 problems`
 - ***Backtracking II*** 		`35 problems`
 - ***Dynamic Programming I*** 	`30 problems`
