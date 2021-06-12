@@ -493,6 +493,68 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
 	
 </details>
 
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+
+## LeetCode OJ sheets
+
+<details>
+	<summary>LeetCode OJ sheets description</summary>
+
+The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4) contain search algorithms, sorting algorithms, divide and conquer algorithms, greedy algorithms, graph algorithms, and dynamic programming problems, and each sheet of them divided into 6 classes of problems (Binary Search - Divide and Conquer - Sort - Greedy - Graph - Breadth First Search - Depth First Search - Backtracking - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
+
+</details>
+
+<details>
+	<summary>LeetCode OJ sheets (4 sheets)</summary>
+
+### Agenda of [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1) (180 problems) `100 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Binary Search I     | 30 problems |
+| Binary Search II    | 30 problems |
+| Divide and Conquer  | 20 problems |
+| Sort I              | 40 problems |
+| Sort II             | 40 problems |
+| Greedy              | 20 problems |
+
+### Agenda of [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2) (210 problems) `160 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Binary Search       | 30 problems |
+| Greedy I            | 40 problems |
+| Greedy II           | 40 problems |
+| Greedy III          | 40 problems |
+| Graph I             | 30 problems |
+| Graph II            | 30 problems |
+
+### Agenda of [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3) (210 problems) `160 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Breadth First Search I   | 25 problems |
+| Breadth First Search II  | 25 problems |
+| Depth First Search I     | 35 problems |
+| Depth First Search II    | 35 problems |
+| Dynamic Programming I    | 30 problems |
+| Dynamic Programming II   | 30 problems |
+| Dynamic Programming III  | 30 problems |
+
+### Agenda of [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4) (200 problems) `160 Hrs`
+
+| Category        | Problems    |
+| ------|:-----:|
+| Breadth First Search    | 20 problems |
+| Depth First Search      | 20 problems |
+| Backtracking I          | 35 problems |
+| Backtracking II         | 35 problems |
+| Dynamic Programming I   | 30 problems |
+| Dynamic Programming II  | 30 problems |
+| Dynamic Programming III | 30 problems |
+
+</details>
+
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
 ## HackerEarth OJ sheets
