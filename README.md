@@ -1,6 +1,6 @@
 <img align="right" width="180" height="180" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/problem-solving-training.jpg">
 
-# Problem-Solving-Training
+# Problem Solving Training
 Problem solving training for computer science students.
 
 <br>
