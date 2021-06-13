@@ -5,21 +5,21 @@ Problem solving training for computer science students.
 
 <br>
 
-## [Level 1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
+## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
 
 This level simply consists of 9 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
-## Prerequisites
+## `Prerequisites`
 
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings)***.
 
-### Related Repositories
+### `Related Repositories`
 * [Python-Programming-Language](https://github.com/cs-MohamedAyman/Python-Programming-Language) Repository
 * [Cpp-Programming-Language](https://github.com/cs-MohamedAyman/Cpp-Programming-Language) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## Codeforces OJ sheets
+## `Codeforces OJ sheets`
 
 <details>
 	<summary>Codeforces OJ sheets description</summary>
@@ -75,7 +75,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## HackerEarth OJ sheets
+## `HackerEarth OJ sheets`
 
 <details>
 	<summary>HackerEarth OJ sheets description</summary>
@@ -127,7 +127,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## HackerRank OJ sheets
+## `HackerRank OJ sheets`
 
 <details>
 	<summary>HackerRank OJ sheets description</summary>
@@ -152,27 +152,28 @@ The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-M
 
 </details>
 
-### Notes
+### `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
+<br>
 
-## [Level 2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
+## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
 
 This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
-## Prerequisites
+## `Prerequisites`
 
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 
-### Related Repositories
+### `Related Repositories`
 * [Data-Structures](https://github.com/cs-MohamedAyman/Data-Structures) Repository
 * [Algorithms-Analysis-and-Design](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## Codeforces OJ sheets
+## `Codeforces OJ sheets`
 
 <details>
 	<summary>Codeforces OJ sheets description</summary>
@@ -244,7 +245,7 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## LeetCode OJ sheets
+## `LeetCode OJ sheets`
 
 <details>
 	<summary>LeetCode OJ sheets description</summary>
@@ -302,7 +303,7 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## HackerEarth OJ sheets
+## `HackerEarth OJ sheets`
 
 <details>
 	<summary>HackerEarth OJ sheets description</summary>
@@ -353,7 +354,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## HackerRank OJ sheets
+## `HackerRank OJ sheets`
 
 <details>
 	<summary>HackerRank OJ sheets description</summary>
@@ -385,21 +386,22 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 
 </details>
 
-### Notes
+### `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
+<br>
 
-## [Level 3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3)
+## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3)
 
 This level simply consists of 20 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 5 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
 
-## Prerequisites
+## `Prerequisites`
 
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Intermediate Data Structures - Divide and Conquer Algorithms - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 
-### Related Repositories
+### `Related Repositories`
 * [Data-Structures](https://github.com/cs-MohamedAyman/Data-Structures) Repository
 * [Algorithms-Analysis-and-Design](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design) Repository
 * [Advanced-Data-Structures](https://github.com/cs-MohamedAyman/Advanced-Data-Structures) Repository
@@ -407,7 +409,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## Codeforces OJ sheets
+## `Codeforces OJ sheets`
 
 <details>
 	<summary>Codeforces OJ sheets description</summary>
@@ -479,7 +481,6 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
 | Educational Codeforces Rounds III  | 25 contests |
 | Educational Codeforces Rounds IV   | 25 contests |
 
-
 ### Agenda of [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) (130 contests) `400 Hrs`
 
 | Category                      | Problems    |
@@ -495,7 +496,7 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## LeetCode OJ sheets
+## `LeetCode OJ sheets`
 
 <details>
 	<summary>LeetCode OJ sheets description</summary>
@@ -557,7 +558,7 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## HackerEarth OJ sheets
+## `HackerEarth OJ sheets`
 
 <details>
 	<summary>HackerEarth OJ sheets description</summary>
@@ -617,7 +618,7 @@ The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAym
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## HackerRank OJ sheets
+## `HackerRank OJ sheets`
 
 <details>
 	<summary>HackerRank OJ sheets description</summary>
@@ -664,15 +665,16 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 
 </details>
 
-### Notes
+### `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
+<br>
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
-## Textbooks
+## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
