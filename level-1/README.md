@@ -5,21 +5,21 @@ Problem solving training for computer science students.
 
 <br>
 
-## [Level 1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
+## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
 
 This level simply consists of 9 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
-## Prerequisites
+## `Prerequisites`
 
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings)***.
 
-### Related Repositories
+### `Related Repositories`
 * [Python-Programming-Language](https://github.com/cs-MohamedAyman/Python-Programming-Language) Repository
 * [Cpp-Programming-Language](https://github.com/cs-MohamedAyman/Cpp-Programming-Language) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## Codeforces OJ sheets
+## `Codeforces OJ sheets`
 
 The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
 
@@ -70,7 +70,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## HackerEarth OJ sheets
+## `HackerEarth OJ sheets`
 
 The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. For the last sheet [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) that focus on the basic programming problems, It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~130 problems.
 
@@ -117,7 +117,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## HackerRank OJ sheets
+## `HackerRank OJ sheets`
 
 The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was ordered based on  the problem difficulty and grouped by the problem type. Finally, this sheet contains ~80 problems.
 
@@ -137,7 +137,7 @@ The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-M
 
 </details>
 
-### Notes
+### `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
