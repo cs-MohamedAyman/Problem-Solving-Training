@@ -19,7 +19,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## `Codeforces OJ sheets`
+## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 <details>
 	<summary>Codeforces OJ sheets description</summary>
@@ -75,7 +75,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## `HackerEarth OJ sheets`
+## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 <details>
 	<summary>HackerEarth OJ sheets description</summary>
@@ -127,7 +127,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## `HackerRank OJ sheets`
+## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 <details>
 	<summary>HackerRank OJ sheets description</summary>
@@ -173,7 +173,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## `Codeforces OJ sheets`
+## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
 <details>
 	<summary>Codeforces OJ sheets description</summary>
@@ -245,7 +245,7 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## `LeetCode OJ sheets`
+## [`LeetCode OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
 <details>
 	<summary>LeetCode OJ sheets description</summary>
@@ -303,7 +303,7 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## `HackerEarth OJ sheets`
+## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
 <details>
 	<summary>HackerEarth OJ sheets description</summary>
@@ -354,7 +354,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## `HackerRank OJ sheets`
+## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
 <details>
 	<summary>HackerRank OJ sheets description</summary>
@@ -409,7 +409,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## `Codeforces OJ sheets`
+## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
 <details>
 	<summary>Codeforces OJ sheets description</summary>
@@ -496,7 +496,7 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## `LeetCode OJ sheets`
+## [`LeetCode OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
 <details>
 	<summary>LeetCode OJ sheets description</summary>
@@ -558,7 +558,7 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## `HackerEarth OJ sheets`
+## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
 <details>
 	<summary>HackerEarth OJ sheets description</summary>
@@ -618,7 +618,7 @@ The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAym
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## `HackerRank OJ sheets`
+## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
 <details>
 	<summary>HackerRank OJ sheets description</summary>
