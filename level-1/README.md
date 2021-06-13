@@ -5,7 +5,7 @@ Problem solving training for computer science students.
 
 <br>
 
-## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
+## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 This level simply consists of 9 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
