@@ -5,7 +5,7 @@ Problem solving training for computer science students.
 
 <br>
 
-## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1)
+## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 This level simply consists of 9 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
 
@@ -159,7 +159,7 @@ The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-M
 
 <br>
 
-## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2)
+## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
 This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
@@ -393,7 +393,7 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 
 <br>
 
-## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3)
+## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
 This level simply consists of 20 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 5 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
 
