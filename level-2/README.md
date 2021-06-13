@@ -21,12 +21,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 ## Codeforces OJ sheets
 
-<details>
-	<summary>Codeforces OJ sheets description</summary>
-
 The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 2 sheets [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests) that focus on div3-contests (easy contests) and contains ~50 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests.
-
-</details>
 
 <details>
 	<summary>Codeforces OJ sheets (6 sheets)</summary>
@@ -93,12 +88,7 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 
 ## LeetCode OJ sheets
 
-<details>
-	<summary>LeetCode OJ sheets description</summary>
-
 The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4) contain linear and non-linear data structures problems, and each sheet of them divided into 7 classes of problems (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
-
-</details>
 
 <details>
 	<summary>LeetCode OJ sheets (4 sheets)</summary>
@@ -151,12 +141,7 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 
 ## HackerEarth OJ sheets
 
-<details>
-	<summary>HackerEarth OJ sheets description</summary>
-
 The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures), [phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures), [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching), [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting), Each sheet contains linear and non-linear data structures problems, in addition to searching and sorting algorithms. These sheets were ordered based on the problem difficulty and each sheet contains ~100 problems.
-
-</details>
 
 <details>
 	<summary>HackerEarth OJ sheets (4 sheets)</summary>
@@ -202,12 +187,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 ## HackerRank OJ sheets
 
-<details>
-	<summary>HackerRank OJ sheets description</summary>
-
 The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~80 problems.
-
-</details>
 
 <details>
 	<summary>HackerRank OJ sheets (2 sheets)</summary>
