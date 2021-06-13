@@ -676,10 +676,11 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
+* ***Introduction to the Design and Analysis of Algorithms***, Anany V. Levitin
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
 * ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
-* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Competitive Programming 3***, Steven Halim
 * ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
 * ***The Algorithm Design Manual***, Steven S. Skiena
