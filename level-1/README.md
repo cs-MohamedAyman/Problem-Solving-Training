@@ -7,7 +7,7 @@ Problem solving training for computer science students.
 
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
-This level simply consists of 9 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last sheet on HackerRank Online Judge.
+This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 3 sheets on HackerRank Online Judge.
 
 ## `Prerequisites`
 
@@ -119,10 +119,34 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 ## `HackerRank OJ sheets`
 
-The HackerRank OJ sheet [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was ordered based on  the problem difficulty and grouped by the problem type. Finally, this sheet contains ~80 problems.
+The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 8 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance - Misc). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems. [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~80 problems.
 
 <details>
-	<summary>HackerRank OJ sheets (1 sheet)</summary>
+	<summary>HackerRank OJ sheets (3 sheets)</summary>
+
+### Agenda of [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) (70 problems) `80 Hrs`
+
+| Category               | Problems    |
+| ---------|:-----:|
+| Introduction                | 15 problems |
+| Conditionals and Loops      | 5 problems  |
+| Arrays and Strings          | 10 problems |
+| Functions                   | 5 problems  |
+| Standard Template Libraries | 5 problems  |
+| Structs and Enums           | 5 problems  |
+| Classes and Inheritance     | 15 problems |
+| Misc                        | 10 problems |
+
+### Agenda of [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python) (100 problems) `80 Hrs`
+
+| Category               | Problems    |
+| ---------|:-----:|
+| Introduction        | 5 problems  |
+| Basic Data Types    | 20 problems |
+| Collections         | 30 problems |
+| Functions           | 10 problems |
+| Standard Libraries  | 25 problems |
+| Classes             | 10 problems |
 
 ### Agenda of [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming) (80 problems) `80 Hrs`
 
