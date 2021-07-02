@@ -4,12 +4,12 @@
 
 ### Table of Content
 
-- ***Introduction*** `25 problems`
-- ***Recursion*** `20 problems`
-- ***Functional Structures*** `10 problems`
-- ***Memoization*** `10 problems`
-- ***Ad-Hoc*** `15 problems`
-- ***Misc*** `5 problems`
+- ***Introduction*** 			`25 problems`
+- ***Recursion*** 				`20 problems`
+- ***Functional Structures*** 	`10 problems`
+- ***Memoization*** 			`10 problems`
+- ***Ad-Hoc*** 					`15 problems`
+- ***Misc*** 					`5 problems`
 
 ### HackerRank - Introduction `25 problems`
 
