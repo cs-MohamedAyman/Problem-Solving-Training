@@ -23,8 +23,7 @@ This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online J
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
 ### `Related Repositories`
-* [Python-Programming-Language](https://github.com/cs-MohamedAyman/Python-Programming-Language) Repository
-* [Cpp-Programming-Language](https://github.com/cs-MohamedAyman/Cpp-Programming-Language) Repository
+* [Programming-Languages](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
