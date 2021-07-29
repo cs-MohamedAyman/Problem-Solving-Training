@@ -1,8 +1,17 @@
-<img align="right" width="180" height="180" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/problem-solving-training.jpg">
-
 # Problem Solving Training
-Problem solving training for computer science students.
+Problem Solving Training for computer science students.
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/algoexpert.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
+
+<br>
+<br>
+<br>
 <br>
 
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
