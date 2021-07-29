@@ -200,8 +200,7 @@ This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online J
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 
 ### `Related Repositories`
-* [Data-Structures](https://github.com/cs-MohamedAyman/Data-Structures) Repository
-* [Algorithms-Analysis-and-Design](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design) Repository
+* [Data-Structures-and-Algorithms-Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
