@@ -1,8 +1,17 @@
-<img align="right" width="180" height="180" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/problem-solving-training.jpg">
-
 # Problem Solving Training
-Problem solving training for computer science students.
+Problem Solving Training for computer science students.
 
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/algoexpert.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
+
+<br>
+<br>
+<br>
 <br>
 
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
@@ -11,7 +20,7 @@ This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online J
 
 ## `Prerequisites`
 
-The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists - Strings)***.
+The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
 ### `Related Repositories`
 * [Python-Programming-Language](https://github.com/cs-MohamedAyman/Python-Programming-Language) Repository
@@ -21,7 +30,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## `Codeforces OJ sheets`
 
-The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
+The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
 
 <details>
 	<summary>Codeforces OJ sheets (4 sheets)</summary>
@@ -34,7 +43,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 | Condition       | 15 problems |
 | Loop            | 35 problems |
 | String          | 35 problems |
-| List            | 60 problems |
+| List/Array      | 60 problems |
 
 ### Agenda of [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2) (115 problems) `80 Hrs`
 
@@ -44,7 +53,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 | Condition       | 15 problems |
 | Loop            | 20 problems |
 | String          | 30 problems |
-| List            | 35 problems |
+| List/Array      | 35 problems |
 
 ### Agenda of [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3) (115 problems) `80 Hrs`
 
@@ -54,7 +63,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 | Condition       | 20 problems |
 | Loop            | 25 problems |
 | String          | 30 problems |
-| List            | 35 problems |
+| List/Array      | 35 problems |
 
 ### Agenda of [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4) (105 problems) `80 Hrs`
 
@@ -64,7 +73,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 | Condition       | 20 problems |
 | Loop            | 20 problems |
 | String          | 30 problems |
-| List            | 30 problems |
+| List/Array      | 30 problems |
 
 </details>
 
