@@ -23,10 +23,7 @@ This level simply consists of 20 sheets, 7 sheets of them on Codeforces Online J
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Advanced Data Structures - Divide and Conquer Algorithms - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 
 ### `Related Repositories`
-* [Data-Structures](https://github.com/cs-MohamedAyman/Data-Structures) Repository
-* [Algorithms-Analysis-and-Design](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design) Repository
-* [Advanced-Data-Structures](https://github.com/cs-MohamedAyman/Advanced-Data-Structures) Repository
-* [Advanced-Algorithms-Analysis-and-Design](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design) Repository
+* [Advanced-Data-Structures-and-Algorithms-Analysis](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
