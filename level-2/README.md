@@ -18,12 +18,11 @@ Problem Solving Training for computer science students.
 
 This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
-## `Prerequisites`
-
+### `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 
-### `Related Repositories`
-* [Data-Structures-and-Algorithms-Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
+### `Related Training`
+* [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
