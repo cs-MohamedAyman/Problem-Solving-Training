@@ -18,12 +18,11 @@ Problem Solving Training for computer science students.
 
 This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 3 sheets on HackerRank Online Judge.
 
-## `Prerequisites`
-
+### `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
-### `Related Repositories`
-* [Programming-Languages](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
+### `Related Training`
+* [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
