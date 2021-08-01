@@ -18,14 +18,11 @@ Problem Solving Training for computer science students.
 
 This level simply consists of 20 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 5 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
 
-## `Prerequisites`
-
+### `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Advanced Data Structures - Divide and Conquer Algorithms - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 
-### `Related Repositories`
-* [Advanced-Data-Structures-and-Algorithms-Analysis](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training) Repository
-
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+### `Related Training`
+* [Advanced Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training) Repository
 
 ## `Codeforces OJ sheets`
 
