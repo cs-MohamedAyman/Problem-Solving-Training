@@ -4,11 +4,13 @@
 
 ### Table of Content
 
-- ***Array I*** 	`50 problems`
-- ***Array II*** 	`50 problems`
-- ***Array III*** 	`50 problems`
-- ***Linked List*** `30 problems`
-- ***Stack*** 		`10 problems`
+- ***Array I*** 			`50 problems`
+- ***Array II*** 			`50 problems`
+- ***Array III*** 			`50 problems`
+- ***Linked List*** 		`30 problems`
+- ***Stack*** 		        `10 problems`
+- ***Queue and Dequeue*** 	`20 problems`
+
 
 ### LeetCode - Array I `50 problems`
 
@@ -220,3 +222,31 @@
 - [basic calculator](https://leetcode.com/problems/basic-calculator/)
 - [largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [tag validator](https://leetcode.com/problems/tag-validator/)
+
+### LeetCode - Queue and Dequeue `20 problems`
+
+- [diet plan performance](https://leetcode.com/problems/diet-plan-performance/)
+- [find k length substrings with no repeated characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/)
+- [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [minimum swaps to group all 1s together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)
+- [grumpy bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
+- [maximum number of vowels in a substring of given length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+- [moving stones until consecutive ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)
+- [longest substring with at most two distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+- [longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [maximum points you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+- [longest turbulent subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
+- [longest substring with at most k distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+- [permutation in string](https://leetcode.com/problems/permutation-in-string/)
+- [longest continuous subarray with absolute diff less than or equal to limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+- [get equal substrings within budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
+- [number of subsequences that satisfy the given sum condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+- [minimum operations to reduce x to zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+- [subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+- [minimum number of k consecutive bit flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
+- [max value of equation](https://leetcode.com/problems/max-value-of-equation/)
+- [minimum window subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+- [sliding window median](https://leetcode.com/problems/sliding-window-median/)
+- [minimum window substring](https://leetcode.com/problems/minimum-window-substring/)
