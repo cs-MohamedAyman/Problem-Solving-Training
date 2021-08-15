@@ -13,7 +13,7 @@ Problem Solving Training for computer science students.
 <br>
 <br>
 
-## Table of contents
+## Table of Contents
   * [Level 1](#level-1)
      * [Prerequisite Knowledge](#prerequisite-knowledge)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
