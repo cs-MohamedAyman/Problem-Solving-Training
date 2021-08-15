@@ -15,12 +15,12 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Level 2](#level-2)
-     * [Prerequisite Knowledge](#prerequisite-knowledge-1)
-     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-1)
+     * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
      * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets-1)
-     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-1)
-     * [Notes](#notes-1)
+     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+     * [Notes](#notes)
 
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
