@@ -31,7 +31,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
 
 <details>
-	<summary>Codeforces OJ sheets (4 sheets)</summary>
+    <summary>Codeforces OJ sheets (4 sheets)</summary>
 
 ### Agenda of [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1) (160 problems) `120 Hrs`
 
@@ -82,7 +82,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. For the last sheet [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) that focus on the basic programming problems, It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~130 problems.
 
 <details>
-	<summary>HackerEarth OJ sheets (4 sheets)</summary>
+    <summary>HackerEarth OJ sheets (4 sheets)</summary>
 
 ### Agenda of [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1) (100 problems) `80 Hrs`
 
@@ -129,7 +129,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 8 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance - Misc). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems. [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~80 problems.
 
 <details>
-	<summary>HackerRank OJ sheets (3 sheets)</summary>
+    <summary>HackerRank OJ sheets (3 sheets)</summary>
 
 ### Agenda of [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) (70 problems) `80 Hrs`
 
