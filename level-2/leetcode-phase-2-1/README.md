@@ -1,6 +1,6 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Phase 2.1 `220 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Phase 2.1 `200 problems` `140 hrs`
 
 ### Table of Content
 
