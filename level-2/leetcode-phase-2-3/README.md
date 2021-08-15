@@ -1,15 +1,15 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Phase 2.3 `210 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Phase 2.3 `170 problems` `100 hrs`
 
 ### Table of Content
 
 - ***Recursion*** 		`30 problems`
 - ***Binary Tree*** 	`30 problems`
 - ***Heap Tree*** 		`30 problems`
-- ***Hash Table I*** 	`40 problems`
-- ***Hash Table II*** 	`40 problems`
-- ***Hash Table III*** 	`40 problems`
+- ***Hash Table I*** 	`30 problems`
+- ***Hash Table II*** 	`30 problems`
+- ***Hash Table III*** 	`20 problems`
 
 ### LeetCode - Recursion `30 problems`
 
@@ -114,7 +114,7 @@
 - [find k pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [design twitter](https://leetcode.com/problems/design-twitter/)
 
-### LeetCode - Hash Table I `40 problems`
+### LeetCode - Hash Table I `30 problems`
 
 - [number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [jewels and stones](https://leetcode.com/problems/jewels-and-stones/)
@@ -147,6 +147,9 @@
 - [find the difference](https://leetcode.com/problems/find-the-difference/)
 - [shortest completing word](https://leetcode.com/problems/shortest-completing-word/)
 - [contains duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+### LeetCode - Hash Table II `30 problems`
+
 - [kth missing positive number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [first unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -156,9 +159,6 @@
 - [happy number](https://leetcode.com/problems/happy-number/)
 - [longest harmonious subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 - [longest word in dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
-
-### LeetCode - Hash Table II `40 problems`
-
 - [two sum](https://leetcode.com/problems/two-sum/)
 - [strobogrammatic number](https://leetcode.com/problems/strobogrammatic-number/)
 - [sentence similarity](https://leetcode.com/problems/sentence-similarity/)
@@ -180,6 +180,9 @@
 - [design a leaderboard](https://leetcode.com/problems/design-a-leaderboard/)
 - [evaluate the bracket pairs of a string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)
 - [sort features by popularity](https://leetcode.com/problems/sort-features-by-popularity/)
+
+### LeetCode - Hash Table III `20 problems`
+
 - [sparse matrix multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)
 - [find duplicate file in system](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - [flip columns for maximum number of equal rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
@@ -199,41 +202,3 @@
 - [time based key value store](https://leetcode.com/problems/time-based-key-value-store/)
 - [max number of k sum pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - [number of boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
-
-### LeetCode - Hash Table III `40 problems`
-
-- [minimum area rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
-- [vowel spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
-- [brick wall](https://leetcode.com/problems/brick-wall/)
-- [alphabet board path](https://leetcode.com/problems/alphabet-board-path/)
-- [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
-- [valid sudoku](https://leetcode.com/problems/valid-sudoku/)
-- [maximum length of repeated subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-- [first unique number](https://leetcode.com/problems/first-unique-number/)
-- [design authentication manager](https://leetcode.com/problems/design-authentication-manager/)
-- [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)
-- [maximum size subarray sum equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
-- [longest arithmetic subsequence of given difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
-- [find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-- [binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
-- [bulls and cows](https://leetcode.com/problems/bulls-and-cows/)
-- [get watched videos by your friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/)
-- [contiguous array](https://leetcode.com/problems/contiguous-array/)
-- [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
-- [powerful integers](https://leetcode.com/problems/powerful-integers/)
-- [analyze user website visit pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)
-- [repeated dna sequences](https://leetcode.com/problems/repeated-dna-sequences/)
-- [prison cells after n days](https://leetcode.com/problems/prison-cells-after-n-days/)
-- [maximum distance in arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
-- [count nice pairs in an array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
-- [number of ways where square of number is equal to product of two numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/)
-- [h index](https://leetcode.com/problems/h-index/)
-- [4sum](https://leetcode.com/problems/4sum/)
-- [array of doubled pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
-- [line reflection](https://leetcode.com/problems/line-reflection/)
-- [making file names unique](https://leetcode.com/problems/making-file-names-unique/)
-- [make sum divisible by p](https://leetcode.com/problems/make-sum-divisible-by-p/)
-- [count good meals](https://leetcode.com/problems/count-good-meals/)
-- [avoid flood in the city](https://leetcode.com/problems/avoid-flood-in-the-city/)
-- [unique word abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)
-- [fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)

@@ -1,6 +1,6 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Phase 2.4 `130 problems` `80 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Phase 2.4 `180 problems` `100 hrs`
 
 ### Table of Content
 
@@ -8,7 +8,8 @@
 - ***Binary Tree II*** 	`30 problems`
 - ***Binary Tree III*** `30 problems`
 - ***Heap Tree*** 		`30 problems`
-- ***Hash Table*** 		`10 problems`
+- ***Hash Table I*** 	`30 problems`
+- ***Hash Table II*** 	`30 problems`
 
 ### LeetCode - Binary Tree I `30 problems`
 
@@ -156,8 +157,46 @@
 - [longest chunked palindrome decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
 - [distinct echo substrings](https://leetcode.com/problems/distinct-echo-substrings/)
 
-### LeetCode - Hash Table `10 problems`
+### LeetCode - Hash Table I `25 problems`
 
+- [minimum area rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
+- [vowel spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
+- [brick wall](https://leetcode.com/problems/brick-wall/)
+- [alphabet board path](https://leetcode.com/problems/alphabet-board-path/)
+- [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- [valid sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [maximum length of repeated subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+- [first unique number](https://leetcode.com/problems/first-unique-number/)
+- [design authentication manager](https://leetcode.com/problems/design-authentication-manager/)
+- [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [maximum size subarray sum equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
+- [longest arithmetic subsequence of given difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
+- [find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+- [bulls and cows](https://leetcode.com/problems/bulls-and-cows/)
+- [get watched videos by your friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/)
+- [contiguous array](https://leetcode.com/problems/contiguous-array/)
+- [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [powerful integers](https://leetcode.com/problems/powerful-integers/)
+- [analyze user website visit pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)
+- [repeated dna sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+
+### LeetCode - Hash Table II `25 problems`
+
+- [prison cells after n days](https://leetcode.com/problems/prison-cells-after-n-days/)
+- [maximum distance in arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
+- [count nice pairs in an array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+- [number of ways where square of number is equal to product of two numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/)
+- [h index](https://leetcode.com/problems/h-index/)
+- [4sum](https://leetcode.com/problems/4sum/)
+- [array of doubled pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
+- [line reflection](https://leetcode.com/problems/line-reflection/)
+- [making file names unique](https://leetcode.com/problems/making-file-names-unique/)
+- [make sum divisible by p](https://leetcode.com/problems/make-sum-divisible-by-p/)
+- [count good meals](https://leetcode.com/problems/count-good-meals/)
+- [avoid flood in the city](https://leetcode.com/problems/avoid-flood-in-the-city/)
+- [unique word abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)
+- [fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 - [smallest range covering elements from k lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 - [number of distinct islands ii](https://leetcode.com/problems/number-of-distinct-islands-ii/)
 - [sudoku solver](https://leetcode.com/problems/sudoku-solver/)
