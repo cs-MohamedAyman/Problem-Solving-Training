@@ -13,11 +13,34 @@ Problem Solving Training for computer science students.
 <br>
 <br>
 
+## Table of contents
+  * [Level 1](#level-1)
+     * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+     * [Notes](#notes)
+  * [Level 2](#level-2)
+     * [Prerequisite Knowledge](#prerequisite-knowledge-1)
+     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-1)
+     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
+     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets-1)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-1)
+     * [Notes](#notes-1)
+  * [Level 3](#level-3)
+     * [Prerequisite Knowledge](#prerequisite-knowledge-2)
+     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-2)
+     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets-1)
+     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets-2)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-2)
+     * [Notes](#notes-2)
+
+
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 3 sheets on HackerRank Online Judge.
 
-### `Prerequisite Knowledge`
+## `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 <br>
 Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
@@ -71,7 +94,7 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
 | `6` | Structs and Enums           | `5 problems`  | Classes            | `10 problems` | Misc                  | `5 problems`  |
 | `7` | Classes and Inheritance     | `15 problems` |                    |               |                       |               |
 
-### `Notes`
+## `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
@@ -82,7 +105,7 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
 
 This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
-### `Prerequisite Knowledge`
+## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 <br>
 Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
@@ -171,7 +194,7 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 | `4` |                        |               | Search         | `25 problems` |
 | `5` |                        |               | Implementation | `65 problems` |
 
-### `Notes`
+## `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
@@ -182,7 +205,7 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 
 This level simply consists of 19 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
 
-### `Prerequisite Knowledge`
+## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
 Related Training: [Advanced Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training) Repository
@@ -281,7 +304,7 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 | `2` | Dynamic Programming     | `40 problems` | Advanced I                 | `25 problems` |
 | `3` | Constructive Algorithms | `5 problems`  | Advanced II                | `25 problems` |
 
-### `Notes`
+## `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google Code-jam or Google Kick-start or Facebook Hackercup***, so it's recommended to start with ***Codeforces sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets*** and ***HackerRank sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
