@@ -1,12 +1,14 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Dynamic Programming `110 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Dynamic Programming and Greedy `180 problems` `100 hrs`
 
 ### Table of Content
 
 - ***Dynamic Programming***                 `50 problems`
 - ***Dynamic Programming 2 Dimensional***   `45 problems`
 - ***Dynamic Programming and Bit Masking*** `15 problems`
+- ***Greedy Algorithms I***                 `35 problems`
+- ***Greedy Algorithms II***                `35 problems`
 
 ### HackerEarth - Dynamic Programming `50 problems`
 
@@ -128,3 +130,85 @@
 - [every digit](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/every-digit/)
 - [misha and boxes](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/misha-and-boxes-b7e70bc6/)
 - [trophy of xorasia](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/trophy-of-xorasia-0a2d466a/)
+
+### HackerEarth - Greedy Algorithms I `35 problems`
+
+- [coprimed](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/coprimed-32042ef1/)
+- [pikachu and the game of strings 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/pikachu-and-the-game-of-strings-1-8c22a8ce/)
+- [exploring ruins](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/exploring-ruins/)
+- [motu and patlu 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/motu-and-patlu-1-ab612ad8/)
+- [subxor](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/subxor-e114a622/)
+- [unique sorting](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/unique-sorting-17d60d9f/)
+- [bob and walls](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-walls/)
+- [decode the code 2](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/decode-the-code-2/)
+- [problem 17](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/problem-17-f8bc297f/)
+- [binary matrix 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/binary-matrix-1-d77d7d00/)
+- [little jhool and his punishment](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-jhool-and-his-punishment/)
+- [chandu and his toy stack](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chandu-and-his-toy-stack/)
+- [in search of samosa pledge easy 3](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/in-search-of-samosa-pledge-easy-3/)
+- [fast sort 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/fast-sort-1/)
+- [jetha and cars](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/jetha-and-cars-2d835131/)
+- [hunger games](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/hunger-games/)
+- [minimum flips](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-flips/)
+- [chandu and consecutive letters](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chandu-and-consecutive-letters/)
+- [magic squares](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/magic-squares/)
+- [dorsplen](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/dorsplen/)
+- [one swap to palindrome](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/one-swap-to-palindrome-d96d4e21/)
+- [maximum range](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximum-range-7cb6dd0c/)
+- [monster gouketsu](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/monster-gouketsu/)
+- [little jhool and his addiction 2 4](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-jhool-and-his-addiction-2-4/)
+- [arjit and printing press](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/arjit-and-printing-press/)
+- [minimum cabs](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-cabs-0798cfa5/)
+- [c 32](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/c-32/)
+- [swap it 2](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-it-2/)
+- [my girlfriend and her love for cats 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/my-girlfriend-and-her-love-for-cats-1/)
+- [hectic game](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/hectic-game-2e74ada4/)
+- [raj his slippers](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/raj-his-slippers/)
+- [flip the world](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/)
+- [bob and profit](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-profit-fd9f0ee3/)
+- [mathison and the funny substring](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mathison-and-the-funny-substring-b3f58587/)
+- [introduction to programming](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/introduction-to-programming/)
+- [k friends](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/)
+- [easy strong permutation](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/easy-strong-permutation/)
+
+### HackerEarth - Greedy Algorithms II `35 problems`
+
+- [forbidden pairs](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/forbidden-pairs/)
+- [stranger game 3](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/stranger-game-3-1f0d2f47/)
+- [sharpen the pencils 2](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/sharpen-the-pencils-2/)
+- [add subtract](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/add-subtract/)
+- [yet another array problem 2](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/yet-another-array-problem-2/)
+- [filip kotinioo](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/filip-kotinioo-39795217/)
+- [protect the cities](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities/)
+- [the ancient algorithm](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-ancient-algorithm/)
+- [toy box](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/toy-box-5044b3ed/)
+- [destination cost](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/destination-cost-2b27f15b/)
+- [bob and gcd](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-gcd-d6d86b3b/)
+- [ankur 2](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ankur-2/)
+- [mike and lms](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mike-and-lms/)
+- [array modification](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/array-modification-4569e6e6/)
+- [operations on an array](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/operations-on-an-array-2187f48a/)
+- [protect the cities 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1/)
+- [division of salary](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/division-of-salary-e495efbb/)
+- [eat or not 22](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/eat-or-not-22/)
+- [ab string](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ab-string-5f6b213a/)
+- [smallest chosen word](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/smallest-chosen-word-0108fd21/)
+- [harry and ron play a game of chess](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-ron-play-a-game-of-chess/)
+- [assorted arrangement 3](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/assorted-arrangement-3/)
+- [an easy problem 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/an-easy-problem-1-47aac9ac/)
+- [maximize it](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximize-it/)
+- [milly and chocolates iv 6](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/milly-and-chocolates-iv-6/)
+- [playing cards 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/playing-cards-1-8abea701/)
+- [taxi please](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/taxi-please/)
+- [the falling eagle 5](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-falling-eagle-5/)
+- [harry and horcrux 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-horcrux-1-df65f8e9/)
+- [arrays force easy contest](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/arrays-force-easy-contest/)
+- [threequal parts](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/threequal-parts-ecf91f02/)
+- [help 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/help-1-0315faf6/)
+- [dexter and points](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/dexter-and-points-39399feb/)
+- [maximal subsequence](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximal-subsequence-c9f19b0a/)
+- [max num](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/max-num-eb15ff4f/)
+- [rooms 1](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/rooms-1/)
+- [tree tearing easy contest](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/tree-tearing-easy-contest/)
+- [the friendly bear](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-friendly-bear-960ef1b2/)
+- [interesting game 4](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/interesting-game-4-b6515135/)
