@@ -7,8 +7,7 @@
 - ***Fundamentals***                `20 problems`
 - ***Number Theory***               `35 problems`
 - ***Combinatorics***               `30 problems`
-- ***Algebra***                     `20 problems`
-- ***Linear Algebra Foundations***  `10 problems`
+- ***Algebra***                     `30 problems`
 
 ### HackerRank - Fundamentals `20 problems`
 
@@ -123,9 +122,6 @@
 - [permutation equations](https://www.hackerrank.com/challenges/permutation-equations/problem)
 - [introduction to algebra](https://www.hackerrank.com/challenges/introduction-to-algebra/problem)
 - [cross matrix](https://www.hackerrank.com/challenges/cross-matrix/problem)
-
-### HackerRank - Linear Algebra Foundations `10 problems`
-
 - [linear algebra foundations 1](https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem)
 - [linear algebra foundations 1 matrix subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem)
 - [linear algebra foundations 3 matrix multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem)
