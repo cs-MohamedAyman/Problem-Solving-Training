@@ -13,6 +13,15 @@ Problem Solving Training for computer science students.
 <br>
 <br>
 
+## Table of Contents
+  * [Level 1](#level-1)
+     * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+     * [Notes](#notes)
+
+
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 3 sheets on HackerRank Online Judge.
