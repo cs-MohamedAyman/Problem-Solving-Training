@@ -38,7 +38,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
-This level simply consists of 11 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 3 sheets on HackerRank Online Judge.
+This level simply consists of 10 sheets, 4 sheets of them on Codeforces Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -81,18 +81,18 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 ## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
-The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 8 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance - Misc). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems. [phase-1-functional-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming), It's divided into 6 classes of problems (Introduction - Recursion - Functional Structures - Memoization - Ad-Hoc - Misc). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~80 problems.
+The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 8 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance - Misc). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems.
 
-|     | Phase Name         | # Problems    | Phase Name        | # Problems   | Phase Name        | # Problems   |
-|:---:|:------------------:|:-------------:|:-----------------:|:------------:|:-----------------:|:------------:|
-|  | [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp)                          | 60 problems                      | [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python)                    | 100 problems                    | [phase-1-functions](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-functional-programming) | 80 problems |
-| `1` | Introduction                | `15 problems` | Introduction       | `5 problems`  | Introduction          | `25 problems` |
-| `2` | Conditionals and Loops      | `5 problems`  | Basic Data Types   | `20 problems` | Recursion             | `20 problems` |
-| `3` | Arrays and Strings          | `10 problems` | Collections        | `30 problems` | Functional Structures | `10 problems` |
-| `4` | Functions                   | `5 problems`  | Functions          | `10 problems` | Memoization           | `10 problems` |
-| `5` | Standard Template Libraries | `5 problems`  | Standard Libraries | `25 problems` | Ad-Hoc                | `15 problems` |
-| `6` | Structs and Enums           | `5 problems`  | Classes            | `10 problems` | Misc                  | `5 problems`  |
-| `7` | Classes and Inheritance     | `15 problems` |                    |               |                       |               |
+|     | Phase Name         | # Problems    | Phase Name        | # Problems   |
+|:---:|:------------------:|:-------------:|:-----------------:|:------------:|
+|  | [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp)                          | 60 problems                      | [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python)                    | 100 problems  |
+| `1` | Introduction                | `15 problems` | Introduction       | `5 problems`  |
+| `2` | Conditionals and Loops      | `5 problems`  | Basic Data Types   | `20 problems` |
+| `3` | Arrays and Strings          | `10 problems` | Collections        | `30 problems` |
+| `4` | Functions                   | `5 problems`  | Functions          | `10 problems` |
+| `5` | Standard Template Libraries | `5 problems`  | Standard Libraries | `25 problems` |
+| `6` | Structs and Enums           | `5 problems`  | Classes            | `10 problems` |
+| `7` | Classes and Inheritance     | `15 problems` |                    |               |
 
 ## `Notes`
 
