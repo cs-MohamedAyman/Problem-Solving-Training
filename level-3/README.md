@@ -102,8 +102,8 @@ The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAym
 | `5` | Inclusione-Exclusion    | `20 problems` | Minimum Spanning Tree  | `10 problems` |
 |  | [phase-3-dynamic-programming-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-greedy) | 180 problems  | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures) | 140 problems  |
 | `1` | Dynamic Programming                  | `50 problems` | Disjoint Sets          | `30 problems` |
-| `2` | Dynamic Programming 2 Dimensional    | `45 problems` | Trie                   | `20 problems` |
-| `3` | Dynamic Programming and Bit Masking  | `15 problems` | Segment Tree           | `55 problems` |
+| `2` | Dynamic Programming 2D               | `45 problems` | Trie                   | `20 problems` |
+| `3` | DP and Bit Masking                   | `15 problems` | Segment Tree           | `55 problems` |
 | `4` | Greedy Algorithms I                  | `35 problems` | Binary Indexed Tree    | `35 problems` |
 | `5` | Greedy Algorithms II                 | `35 problems` |                        |               |
 
