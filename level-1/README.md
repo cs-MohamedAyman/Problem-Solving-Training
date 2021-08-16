@@ -57,7 +57,7 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 | | | [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1)                                                               | [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2)                                                               | [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3)                                                               | [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) |
 |:---:|:-------------------:|:-------------:|:-------------:|:-------------:|:------------------------------:|
 |     |                     | 100 problems  | 100 problems  | 100 problems  | 130 problems                   |
-| `1` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Input/Output     `50 problems` |
+| `1` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Input / Output   `50 problems` |
 | `2` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Bit Manipulation `70 problems` |
 | `3` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Recursion        `10 problems` |
 | `4` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Operators        `5 problems`  |
