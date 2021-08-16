@@ -99,7 +99,7 @@
 - [costly graphs](https://www.hackerrank.com/challenges/costly-graphs/problem)
 - [bridges and harbors](https://www.hackerrank.com/challenges/bridges-and-harbors/problem)
 
-### HackerRank - Algebra `20 problems`
+### HackerRank - Algebra `30 problems`
 
 - [difference and product](https://www.hackerrank.com/challenges/difference-and-product/problem)
 - [pythagorean triple](https://www.hackerrank.com/challenges/pythagorean-triple/problem)
