@@ -25,9 +25,9 @@ Problem Solving Training for computer science students.
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-This level simply consists of 16 sheets, 6 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
+This level simply consists of 17 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
-### `Prerequisite Knowledge`
+## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
 <br>
 Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
@@ -37,7 +37,7 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 2 sheets [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests) that focus on div3-contests (easy contests) and contains ~50 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests.
+The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 2 sheets [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) that focus on gym-contests that contains ~200 contests.
 
 | | | [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1)                                                                 | [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2)                                                                 | [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)                                                                 | [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)   |
 |:---:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -48,13 +48,15 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 | `4` | Greedy          | `30 problems` | `35 problems` | `25 problems` | `30 problems` |
 | `5` | Brute Force     | `15 problems` | `15 problems` | `10 problems` | `15 problems` |
 
-|  | [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests)                                        | [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests) |
-|:---:|:-------------------------------:|:------------------------------------:|
-|     | 100 contests                    | 100 contests                         |
-| `1` | Div3 Contests I   `25 contests` | Educational Rounds I   `25 contests` |
-| `2` | Div3 Contests II  `25 contests` | Educational Rounds II  `25 contests` |
-| `3` | Div3 Contests III `25 contests` | Educational Rounds III `25 contests` |
-| `4` | Div3 Contests IV  `25 contests` | Educational Rounds IV  `25 contests` |
+|  | [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests)                                        | [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests)                          | [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests)                 |
+|:---:|:-------------------------------:|:------------------------------------:|:--------------------------------:|
+|     | 100 contests                    | 100 contests                         | 200 contests                     |
+| `1` | Div3 Contests I   `25 contests` | Educational Rounds I   `25 contests` | GYM Contests 2     `20 contests` |
+| `2` | Div3 Contests II  `25 contests` | Educational Rounds II  `25 contests` | GYM Contests 3 I   `25 contests` |
+| `3` | Div3 Contests III `25 contests` | Educational Rounds III `25 contests` | GYM Contests 3 II  `15 contests` |
+| `4` | Div3 Contests IV  `25 contests` | Educational Rounds IV  `25 contests` | GYM Contests 3 III `30 contests` |
+| `5` |                                 |                                      | GYM Contests 3 IV  `30 contests` |
+| `6` |                                 |                                      | GYM Contests 3 V   `30 contests` |
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 <br>
@@ -116,7 +118,7 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 | `4` |                        |               | Search         | `25 problems` |
 | `5` |                        |               | Implementation | `65 problems` |
 
-### `Notes`
+## `Notes`
 
 * If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google CodeJam or Google KickStart or Facebook Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***AlgoExpert sheets*** and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
