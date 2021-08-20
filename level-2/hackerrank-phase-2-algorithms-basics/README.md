@@ -4,13 +4,12 @@
 
 ### Table of Content
 
-- ***Warmup*** `10 problems`
-- ***Recursion*** `10 problems`
+- ***Warmup & Recursion*** `20 problems`
 - ***Sorting*** `15 problems`
 - ***Search*** `25 problems`
 - ***Implementation*** `65 problems`
 
-### HackerEarth - Warmup `10 problems`
+### HackerEarth - Warmup & Recursion `20 problems`
 
 - [simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -21,9 +20,6 @@
 - [mini max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 - [birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 - [time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
-
-### HackerEarth - Recursion `10 problems`
-
 - [the power sum](https://www.hackerrank.com/challenges/the-power-sum/problem)
 - [crossword puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)
 - [recursive digit sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)
