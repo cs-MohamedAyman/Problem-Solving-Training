@@ -112,11 +112,10 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
 |     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
 |:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
 |  | [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures)     | 50 problems                  | [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics) | 125 problems |
-| `1` | Arrays & Linked Lists  | `20 problems` | Warm-up        | `10 problems` |
-| `2` | Stacks & Queues        | `10 problems` | Recursion      | `10 problems` |
-| `3` | Trees & Balanced Trees | `20 problems` | Sorting        | `15 problems` |
-| `4` |                        |               | Search         | `25 problems` |
-| `5` |                        |               | Implementation | `65 problems` |
+| `1` | Arrays & Linked Lists  | `20 problems` | Warm-up & Recursion | `20 problems` |
+| `2` | Stacks & Queues        | `10 problems` | Sorting             | `15 problems` |
+| `3` | Trees & Balanced Trees | `20 problems` | Search              | `25 problems` |
+| `4` |                        |               | Implementation      | `65 problems` |
 
 ## `Notes`
 
