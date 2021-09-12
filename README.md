@@ -304,7 +304,7 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 
 |     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
 |:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics)    | 250 problems                          | [phase-3-graph-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string)  | 130 problems |
+|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics)    | 250 problems                          | [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string)  | 130 problems |
 | `1` | Fundamentals             | `25 problems` | Graph Theory I  | `30 problems` |
 | `2` | Number Theory I          | `35 problems` | Graph Theory II | `30 problems` |
 | `3` | Number Theory II         | `35 problems` | Greedy          | `25 problems` |
