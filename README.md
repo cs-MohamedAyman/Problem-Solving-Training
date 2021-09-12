@@ -284,7 +284,6 @@ The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAym
 | `6` | Inclusione-Exclusion            | `20 problems` | Shortest Path                                   | `50 problems` |
 | `7` |                                 |               | Minimum Spanning Tree & Biconnected Components  | `30 problems` |
 | `8` |                                 |               | Minimum Cost & Maximum Flow & Min-Cut           | `30 problems` |
-
 |  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming) | 220 problems  | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures) | 230 problems  |
 | `1` | Dynamic Programming I           | `50 problems` | Disjoint Sets              | `30 problems` |
 | `2` | Dynamic Programming II          | `50 problems` | Trie                       | `20 problems` |
@@ -312,7 +311,6 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 | `5` | Algebra                  | `55 problems` |                 |               |
 | `6` | Geometry                 | `30 problems` |                 |               |
 | `7` | Probability              | `25 problems` |                 |               |
-
 |  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures)         | 60 problems  |
 | `1` | Bit Manipulation I        | `15 problems` | Heap & Disjoint Set & Trie | `10 problems` |
 | `2` | Bit Manipulation II       | `15 problems` | Advanced I                 | `25 problems` |
