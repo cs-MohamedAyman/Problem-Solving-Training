@@ -253,14 +253,18 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 |     | Phase Name         | # Problems    | Phase Name        | # Problems   |
 |:---:|:------------------:|:-------------:|:-----------------:|:------------:|
 |  | [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1)                     |   180 problems                              | [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2)                     |   210 problems  |
+| `1` | Backtracking            | `35 problems` | Backtracking            | `35 problems` |
+| `2` | Breadth First Search I  | `25 problems` | Breadth First Search    | `20 problems` |
+| `3` | Breadth First Search II | `25 problems` | Depth First Search      | `20 problems` |
+| `4` | Depth First Search I    | `35 problems` | Graph  I                | `30 problems` |
+| `5` | Depth First Search II   | `35 problems` | Graph  II               | `30 problems` |
+| `6` | Dynamic Programming     | `50 problems` | Dynamic Programming     | `30 problems` |
 |  | [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3)                     |   160 problems                              | [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4)                     |   160 problems  |
-| `1` | Breadth First Search I  | `25 problems` | Breadth First Search    | `20 problems` |
-| `2` | Breadth First Search II | `25 problems` | Depth First Search      | `20 problems` |
-| `3` | Depth First Search I    | `35 problems` | Backtracking I          | `35 problems` |
-| `4` | Depth First Search II   | `35 problems` | Backtracking II         | `35 problems` |
-| `5` | Dynamic Programming I   | `30 problems` | Dynamic Programming I   | `30 problems` |
-| `6` | Dynamic Programming II  | `30 problems` | Dynamic Programming II  | `30 problems` |
-| `7` | Dynamic Programming III | `30 problems` | Dynamic Programming III | `30 problems` |
+| `1` | Union Find & Binary Indexed Tree & Trie  | `30 problems` | Segment Tree & Suffix Array & Geometry  | `30 problems` |
+| `2` | Math I                                   | `30 problems` | Math I                                  | `30 problems` |
+| `3` | Math II                                  | `30 problems` | Math II                                 | `30 problems` |
+| `4` | String                                   | `50 problems` | String                                  | `50 problems` |
+| `5` | Dynamic Programming                      | `50 problems` | Dynamic Programming                     | `50 problems` |
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
