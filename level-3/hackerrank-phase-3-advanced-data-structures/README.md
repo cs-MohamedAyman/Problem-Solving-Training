@@ -1,12 +1,12 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ - Data Structures `60 problems` `40 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Advanced Data Structures `60 problems` `40 hrs`
 
 ### Table of Content
 
 - ***Heap & Disjoint Set & Trie*** `10 problems`
-- ***Advanced*** `25 problems`
-- ***Advanced*** `25 problems`
+- ***Advanced I***                 `25 problems`
+- ***Advanced II***                `25 problems`
 
 ### HackerRank - Heap & Disjoint Set & Trie `10 problems`
 
@@ -21,7 +21,7 @@
 - [maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)
 - [no prefix set](https://www.hackerrank.com/challenges/no-prefix-set/problem)
 
-### HackerRank - Advanced `25 problems`
+### HackerRank - Advanced I `25 problems`
 
 - [kindergarten adventures](https://www.hackerrank.com/challenges/kindergarten-adventures/problem)
 - [x and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem)
@@ -47,7 +47,7 @@
 - [net admin](https://www.hackerrank.com/challenges/net-admin/problem)
 - [net admin](https://www.hackerrank.com/challenges/net-admin/problem)
 
-### HackerRank - Advanced `25 problems`
+### HackerRank - Advanced II `25 problems`
 
 - [subsequence weighting](https://www.hackerrank.com/challenges/subsequence-weighting/problem)
 - [self driving bus](https://www.hackerrank.com/challenges/self-driving-bus/problem)

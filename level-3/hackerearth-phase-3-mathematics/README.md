@@ -1,16 +1,17 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Mathematical Algorithms `80 problems` `60 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Mathematical Algorithms `150 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Basic Number Theory***     `30 problems`
-- ***Primality Tests***         `15 problems`
-- ***Totient Function***        `5 problems`
-- ***Basics of Combinatorics*** `20 problems`
-- ***Inclusione-Exclusion***    `10 problems`
+- ***Basic Number Theory I***   `30 problems`
+- ***Basic Number Theory II***  `30 problems`
+- ***Primality Tests***         `30 problems`
+- ***Totient Function***        `10 problems`
+- ***Basics of Combinatorics*** `30 problems`
+- ***Inclusione-Exclusion***    `20 problems`
 
-### HackerEarth - Basic Number Theory `30 problems`
+### HackerEarth - Basic Number Theory I `30 problems`
 
 - [can you guess](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess/)
 - [can you guess 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess-1/)
@@ -19,14 +20,14 @@
 - [panda and chain reaction](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/panda-and-chain-reaction/)
 - [priment](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/priment/)
 - [riyas birthday party 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/riyas-birthday-party-1/)
-- [handshakes](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/handshakes-c5ab2577/)
+- [handshakes c5ab2577](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/handshakes-c5ab2577/)
 - [tic tac toe](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/tic-tac-toe/)
 - [the confused monk](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-confused-monk/)
 - [find me 67](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/find-me-67/)
 - [hell 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/hell-1/)
 - [permutation again](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/permutation-again/)
 - [selection of cities 2](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/selection-of-cities-2/)
-- [the easy one](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-easy-one-0de35805/)
+- [the easy one 0de35805](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-easy-one-0de35805/)
 - [calculate the power](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/)
 - [roy and birthday](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/roy-and-birthday/)
 - [average student](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/average-student/)
@@ -35,21 +36,54 @@
 - [sheero and the party](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/sheero-and-the-party/)
 - [mike and gcd issues](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/mike-and-gcd-issues/)
 - [ashu and prime factors 4](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/ashu-and-prime-factors-4/)
-- [nearest prime](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/nearest-prime-a828361b/)
+- [nearest prime a828361b](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/nearest-prime-a828361b/)
 - [zrzr](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/zrzr/)
 - [bob and the clever scoop](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/bob-and-the-clever-scoop/)
 - [sahil returns](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/sahil-returns/)
 - [zoro and his curiosity 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/zoro-and-his-curiosity-1/)
-- [too much to count](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/)
+- [too much to count fb914aed](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/)
 - [sum of primes 7](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/sum-of-primes-7/)
-- [is it finite](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/is-it-finite-36fe70d5/)
-- [akashs girlfriend](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/akashs-girlfriend/)
-- [holi and division function](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/holi-and-division-function-1dfc3294/)
+- [is it finite 36fe70d5](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/is-it-finite-36fe70d5/)
 
-### HackerEarth - Primality Tests `15 problems`
+### HackerEarth - Basic Number Theory II `30 problems`
+
+- [akashs girlfriend](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/akashs-girlfriend/)
+- [holi and division function 1dfc3294](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/holi-and-division-function-1dfc3294/)
+- [great arjit and numbers](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/great-arjit-and-numbers/)
+- [kala set](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/kala-set/)
+- [lucky string jackpot 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lucky-string-jackpot-1/)
+- [name count](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count/)
+- [rhezo and big powers 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/rhezo-and-big-powers-1/)
+- [mancunian and pandigital numbers 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/mancunian-and-pandigital-numbers-1/)
+- [joseph and arrayaugclash](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/joseph-and-arrayaugclash/)
+- [a to b 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/a-to-b-1/)
+- [diedie](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/diedie/)
+- [beautiful primes](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/beautiful-primes/)
+- [viva time](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/viva-time/)
+- [the final fight 6](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-final-fight-6/)
+- [the dragon type 123](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-dragon-type-123/)
+- [candy distribution 3 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/candy-distribution-3-1/)
+- [archery 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/archery-1/)
+- [mancunian and multiplicative queries 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/mancunian-and-multiplicative-queries-1/)
+- [course of study 2](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/course-of-study-2/)
+- [annoying criteria](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/golf/annoying-criteria/)
+- [bob and mathematics 2](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/bob-and-mathematics-2/)
+- [modulo fermats theorem 728658be](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/modulo-fermats-theorem-728658be/)
+- [f lukas and stickman](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/f-lukas-and-stickman/)
+- [connected components 1](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/connected-components-1/)
+- [4141](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/4141/)
+- [bet 2](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/bet-2/)
+- [hacker with prime bebe28ac](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/hacker-with-prime-bebe28ac/)
+- [b prime counting](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/b-prime-counting/)
+- [numbers summation](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/numbers-summation/)
+- [decide nahi hai](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/decide-nahi-hai/)
+- [output of function 14aa5863](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/output-of-function-14aa5863/)
+- [as fast as possible 2c144111](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/as-fast-as-possible-2c144111/)
+
+### HackerEarth - Primality Tests `30 problems`
 
 - [ultra prime](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/ultra-prime/)
-- [little shino and prime difference](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/little-shino-and-prime-difference-38c91b0d/)
+- [little shino and prime difference 38c91b0d](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/little-shino-and-prime-difference-38c91b0d/)
 - [in love with primes](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/in-love-with-primes/)
 - [another prime problem](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/another-prime-problem/)
 - [monks problem ffeebf8a](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/monks-problem-ffeebf8a/)
@@ -60,42 +94,69 @@
 - [prime interval](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-interval/)
 - [jadoo and primes](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/jadoo-and-primes/)
 - [prime 6](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-6/)
-- [does it divide](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/does-it-divide-3c60b8fb/)
+- [does it divide 3c60b8fb](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/does-it-divide-3c60b8fb/)
 - [micro and prime prime 1](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/)
-- [shweta riddhima and their happiness](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/shweta-riddhima-and-their-happiness-a-1880323b-0bd1d040/)
+- [shweta riddhima and their happiness a 1880323b 0bd1d040](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/shweta-riddhima-and-their-happiness-a-1880323b-0bd1d040/)
 - [primestring](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/primestring/)
+- [nakul and gold coins](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/nakul-and-gold-coins/)
+- [save girlfriend](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/save-girlfriend/)
+- [help rachit 2](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/help-rachit-2/)
+- [little jhool and his primes](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/little-jhool-and-his-primes/)
+- [smithnumbers](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/smithnumbers/)
+- [coprcopr](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/coprcopr/)
+- [roy and rangoli 1](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/roy-and-rangoli-1/)
+- [war begin](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/war-begin/)
+- [the euler conjecture 96cd269e](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/the-euler-conjecture-96cd269e/)
+- [perfect cubes 9fa08e3e](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/perfect-cubes-9fa08e3e/)
+- [misha and divisor sum 6104d81d](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/misha-and-divisor-sum-6104d81d/)
+- [prime ministers number](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-ministers-number/)
+- [shweta riddhima and their happiness b 5d887f21 8afc8d25](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/shweta-riddhima-and-their-happiness-b-5d887f21-8afc8d25/)
 
-### HackerEarth - Totient Function `5 problems`
+### HackerEarth - Totient Function `10 problems`
 
+- [monk and etf](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/monk-and-etf/)
+- [kasrioo 145db44b](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/kasrioo-145db44b/)
 - [phi phi phi](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/phi-phi-phi/)
-- [nanachi and euler totient 4](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/nanachi-and-euler-totient-4-1f3f29ca/)
+- [nanachi and euler totient 4 1f3f29ca](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/nanachi-and-euler-totient-4-1f3f29ca/)
 - [exam time 2](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/exam-time-2/)
 - [dummy2 2](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/dummy2-2/)
 - [akash and gcd 2 15](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/akash-and-gcd-2-15/)
 - [fredo and maths 1](https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/fredo-and-maths-1/)
 
-### HackerEarth - Basics of Combinatorics `20 problems`
+### HackerEarth - Basics of Combinatorics `30 problems`
 
 - [monica and gaming obsession 2](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/monica-and-gaming-obsession-2/)
 - [bob and internship](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/bob-and-internship/)
 - [happy and sets](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/happy-and-sets/)
 - [win the game 33](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/win-the-game-33/)
-- [k special cells](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/k-special-cells-93550252/)
-- [shinos k special cells](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/shinos-k-special-cells-c8538ebb/)
-- [airplane arrangements](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/airplane-arrangements-4d8a1bca/)
+- [k special cells 93550252](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/k-special-cells-93550252/)
+- [shinos k special cells c8538ebb](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/shinos-k-special-cells-c8538ebb/)
+- [airplane arrangements 4d8a1bca](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/airplane-arrangements-4d8a1bca/)
 - [velma and triplets](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/velma-and-triplets/)
-- [matrix game](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/approximate/matrix-game-9febd80a/)
-- [sherlock and the good subsequences](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/sherlock-and-the-good-subsequences-0635a484/)
-- [intersection of intervals](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/intersection-of-intervals-73b0d7a8/)
+- [matrix game 9febd80a](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/approximate/matrix-game-9febd80a/)
+- [sherlock and the good subsequences 0635a484](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/sherlock-and-the-good-subsequences-0635a484/)
+- [intersection of intervals 73b0d7a8](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/intersection-of-intervals-73b0d7a8/)
 - [number game 10](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/number-game-10/)
 - [word rank 1](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/word-rank-1/)
 - [hardik and boxes 1](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/hardik-and-boxes-1/)
-- [mosquito mesh](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/mosquito-mesh-db48986b/)
+- [mosquito mesh db48986b](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/mosquito-mesh-db48986b/)
 - [fibonacci substring](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/fibonacci-substring/)
-- [numbers in a range](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/numbers-in-a-range-be689998/)
+- [numbers in a range be689998](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/numbers-in-a-range-be689998/)
 - [sara 029cdaac](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/sara-029cdaac/)
+- [tv and remote 183262c5](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/tv-and-remote-183262c5/)
+- [power set game 3](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/power-set-game-3/)
+- [counting stars 1](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/counting-stars-1/)
+- [counting quadruples of points 26250f44](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/counting-quadruples-of-points-26250f44/)
+- [influential groups f5b40db9](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/influential-groups-f5b40db9/)
+- [stuck in an infinite grid 49ff62d2](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/stuck-in-an-infinite-grid-49ff62d2/)
+- [permutaions and querys 52af7b15](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/permutaions-and-querys-52af7b15/)
+- [killjee and base x b6698888](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/killjee-and-base-x-b6698888/)
+- [innocent swaps and his emotions 1](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/innocent-swaps-and-his-emotions-1/)
+- [summing the weird series 12c1cec6](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/summing-the-weird-series-12c1cec6/)
+- [future failure d516bdf2](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/future-failure-d516bdf2/)
+- [last question 3b04d266 f6d8f210](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/last-question-3b04d266-f6d8f210/)
 
-### HackerEarth - Inclusione-Exclusion `10 problems`
+### HackerEarth - Inclusione-Exclusion `20 problems`
 
 - [mayanks network](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/mayanks-network/)
 - [rheas homework](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/rheas-homework/)
@@ -103,8 +164,19 @@
 - [andrew and wengaluru city](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/andrew-and-wengaluru-city/)
 - [tree permutations](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/tree-permutations/)
 - [gcd on a tree](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/gcd-on-a-tree/)
-- [climbing](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/climbing-2e2d637a/)
+- [climbing 2e2d637a](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/climbing-2e2d637a/)
 - [thl cake1](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/thl-cake1/)
 - [cronoavirus](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/cronoavirus/)
 - [gadget fan](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/gadget-fan/)
 - [candy distribution 4](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/candy-distribution-4/)
+- [important killers 5990f168](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/important-killers-5990f168/)
+- [counting bipartite graphs b7517e70](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/counting-bipartite-graphs-b7517e70/)
+- [count numbers 7](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/count-numbers-7/)
+- [killjee and 2 factor 8f3ac3a5](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/killjee-and-2-factor-8f3ac3a5/)
+- [average sum](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/average-sum/)
+- [permutation intersections](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/permutation-intersections/)
+- [education enumeration](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/education-enumeration/)
+- [m good arrays](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/m-good-arrays/)
+- [string sets 1 d9d9e893](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/string-sets-1-d9d9e893/)
+- [divisible digits](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/divisible-digits/)
+- [mancunian and birthday gifts d44faa15](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/mancunian-and-birthday-gifts-d44faa15/)
