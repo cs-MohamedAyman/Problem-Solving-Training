@@ -8,10 +8,7 @@ Problem Solving Training for computer science students.
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ## Table of Contents
   * [Level 2](#level-2)
@@ -25,10 +22,10 @@ Problem Solving Training for computer science students.
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-This level simply consists of 17 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
+This level simply consists of 19 sheets, 7 sheets of them on Codeforces Online Judge, 6 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 <br>
 Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
 
@@ -63,7 +60,7 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 
 ## [`LeetCode OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4) contain linear and non-linear data structures problems, and each sheet of them divided into 7 classes of problems (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
+The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4), [phase-2-5](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5), [phase-2-6](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6) contain linear and non-linear data structures problems, searching and sorting algorithms, and each sheet of them divided into 6 classes of problems (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) in addition to (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
 
 |     | Phase Name         | # Problems    | Phase Name        | # Problems   |
 |:---:|:------------------:|:-------------:|:-----------------:|:------------:|
@@ -81,6 +78,13 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 | `4` | Hash Table I      | `30 problems` | Heap Tree         | `30 problems` |
 | `5` | Hash Table II     | `30 problems` | Hash Table I      | `30 problems` |
 | `6` | Hash Table III    | `20 problems` | Hash Table II     | `30 problems` |
+|  | [phase-2-5](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5)                     |   190 problems                              | [phase-2-6](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6)                     |   200 problems  |
+| `1` | Binary Search I    | `35 problems` | Binary Search       | `30 problems` |
+| `2` | Binary Search II   | `35 problems` | Greedy I            | `40 problems` |
+| `3` | Divide and Conquer | `20 problems` | Greedy II           | `40 problems` |
+| `4` | Sorting  I         | `40 problems` | Greedy III          | `40 problems` |
+| `5` | Sorting  II        | `40 problems` | Bit Manipulation I  | `25 problems` |
+| `6` | Greedy             | `20 problems` | Bit Manipulation II | `25 problems` |
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
@@ -96,11 +100,11 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 | `2` | Arrays Multi-dimensional | `20 problems` | Binary Search Tree      | `10 problems` |
 | `3` | Stacks                   | `25 problems` | Heaps / Priority Queues | `20 problems` |
 | `4` | Queues                   | `5 problems`  | Hash Tables             | `50 problems` |
-| | [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching)  | 120 problems         | [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting)      | 60 problems      |
-| `1` | Linear Search            | `15 problems` | Bubble & Selection & Insertion | `15 problems` |
-| `2` | Binary Search I          | `50 problems` | Merge                          | `25 problems` |
-| `3` | Binary Search II         | `50 problems` | Quick & Count & Heap           | `25 problems` |
-| `4` | Ternary Search           | `5 problems`  |                                |               |
+| | [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching)  | 120 problems         | [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting)      | 140 problems      |
+| `1` | Linear Search            | `15 problems` | Bubble & Selection & Insertion & Merge | `40 problems` |
+| `2` | Binary Search I          | `50 problems` | Quick & Count & Heap                   | `20 problems` |
+| `3` | Binary Search II         | `50 problems` | Greedy Algorithms I                    | `40 problems` |
+| `4` | Ternary Search           | `5 problems`  | Greedy Algorithms II                   | `40 problems` |
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
