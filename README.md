@@ -312,6 +312,7 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 | `5` | Algebra                  | `55 problems` |                 |               |
 | `6` | Geometry                 | `30 problems` |                 |               |
 | `7` | Probability              | `25 problems` |                 |               |
+
 |  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures)         | 60 problems  |
 | `1` | Bit Manipulation I        | `15 problems` | Heap & Disjoint Set & Trie | `10 problems` |
 | `2` | Bit Manipulation II       | `15 problems` | Advanced I                 | `25 problems` |
