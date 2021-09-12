@@ -8,10 +8,7 @@ Problem Solving Training for computer science students.
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ## Table of Contents
   * [Level 3](#level-3)
@@ -70,61 +67,71 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 |     | Phase Name         | # Problems    | Phase Name        | # Problems   |
 |:---:|:------------------:|:-------------:|:-----------------:|:------------:|
 |  | [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1)                     |   180 problems                              | [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2)                     |   210 problems  |
-| `1` | Binary Search I    | `30 problems` | Binary Search     | `30 problems` |
-| `2` | Binary Search II   | `30 problems` | Greedy I          | `40 problems` |
-| `3` | Divide and Conquer | `20 problems` | Greedy II         | `40 problems` |
-| `4` | Sort I             | `40 problems` | Greedy III        | `40 problems` |
-| `5` | Sort II            | `40 problems` | Graph I           | `30 problems` |
-| `6` | Greedy             | `20 problems` | Graph II          | `30 problems` |
+| `1` | Backtracking            | `35 problems` | Backtracking            | `35 problems` |
+| `2` | Breadth First Search I  | `25 problems` | Breadth First Search    | `20 problems` |
+| `3` | Breadth First Search II | `25 problems` | Depth First Search      | `20 problems` |
+| `4` | Depth First Search I    | `35 problems` | Graph  I                | `30 problems` |
+| `5` | Depth First Search II   | `35 problems` | Graph  II               | `30 problems` |
+| `6` | Dynamic Programming     | `50 problems` | Dynamic Programming     | `30 problems` |
 |  | [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3)                     |   160 problems                              | [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4)                     |   160 problems  |
-| `1` | Breadth First Search I  | `25 problems` | Breadth First Search    | `20 problems` |
-| `2` | Breadth First Search II | `25 problems` | Depth First Search      | `20 problems` |
-| `3` | Depth First Search I    | `35 problems` | Backtracking I          | `35 problems` |
-| `4` | Depth First Search II   | `35 problems` | Backtracking II         | `35 problems` |
-| `5` | Dynamic Programming I   | `30 problems` | Dynamic Programming I   | `30 problems` |
-| `6` | Dynamic Programming II  | `30 problems` | Dynamic Programming II  | `30 problems` |
-| `7` | Dynamic Programming III | `30 problems` | Dynamic Programming III | `30 problems` |
+| `1` | Union Find & Binary Indexed Tree & Trie  | `30 problems` | Segment Tree & Suffix Array & Geometry  | `30 problems` |
+| `2` | Math I                                   | `30 problems` | Math I                                  | `30 problems` |
+| `3` | Math II                                  | `30 problems` | Math II                                 | `30 problems` |
+| `4` | String                                   | `50 problems` | String                                  | `50 problems` |
+| `5` | Dynamic Programming                      | `50 problems` | Dynamic Programming                     | `50 problems` |
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-greedy), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains graph, greedy, mathematics, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~110 problems.
+The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains graph, greedy, mathematics, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~110 problems.
 
 |     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
 |:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics)   | 80 problems                            | [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph)               | 175 problems |
-| `1` | Basic Number Theory     | `30 problems` | Graph Representation   | `25 problems` |
-| `2` | Primality Tests         | `15 problems` | Breadth First Search   | `35 problems` |
-| `3` | Totient Function        | `5 problems`  | Depth First Search     | `60 problems` |
-| `4` | Basics of Combinatorics | `20 problems` | Shortest Path          | `45 problems` |
-| `5` | Inclusione-Exclusion    | `20 problems` | Minimum Spanning Tree  | `10 problems` |
-|  | [phase-3-dynamic-programming-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-greedy) | 180 problems  | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures) | 140 problems  |
-| `1` | Dynamic Programming                  | `50 problems` | Disjoint Sets          | `30 problems` |
-| `2` | Dynamic Programming 2D               | `45 problems` | Trie                   | `20 problems` |
-| `3` | DP and Bit Masking                   | `15 problems` | Segment Tree           | `55 problems` |
-| `4` | Greedy Algorithms I                  | `35 problems` | Binary Indexed Tree    | `35 problems` |
-| `5` | Greedy Algorithms II                 | `35 problems` |                        |               |
+|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics)   | 150 problems                            | [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph)               | 300 problems |
+| `1` | Basic Number Theory I           | `30 problems` | Graph Representation                            | `35 problems` |
+| `2` | Basic Number Theory II          | `30 problems` | Breadth First Search                            | `35 problems` |
+| `3` | Primality Tests                 | `30 problems` | Depth First Search I                            | `40 problems` |
+| `4` | Totient Function                | `10 problems` | Depth First Search II                           | `40 problems` |
+| `5` | Basics of Combinatorics         | `30 problems` | Depth First Search III                          | `40 problems` |
+| `6` | Inclusione-Exclusion            | `20 problems` | Shortest Path                                   | `50 problems` |
+| `7` |                                 |               | Minimum Spanning Tree & Biconnected Components  | `30 problems` |
+| `8` |                                 |               | Minimum Cost & Maximum Flow & Min-Cut           | `30 problems` |
+|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming) | 220 problems  | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures) | 230 problems  |
+| `1` | Dynamic Programming I           | `50 problems` | Disjoint Sets              | `30 problems` |
+| `2` | Dynamic Programming II          | `50 problems` | Trie                       | `20 problems` |
+| `3` | Dynamic Programming 2D I        | `45 problems` | Segment Tree I             | `35 problems` |
+| `4` | Dynamic Programming 2D II       | `45 problems` | Segment Tree II            | `35 problems` |
+| `5` | DP and Bit Masking              | `30 problems` | Segment Tree III           | `30 problems` |
+| `6` | DP and Bit Masking              | `30 problems` | Binary Indexed Tree I      | `30 problems` |
+| `7` |                                 |               | Binary Indexed Tree II     | `30 problems` |
+| `8` |                                 |               | Suffix Tree & Suffix Array | `20 problems` |
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics), [phase-3-graph-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-greedy), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), [phase-3-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-data-structures), These sheets contain graph, greedy, mathematics, and dynamic programming problems, in addition to data structures. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~70 problems.
+The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics), [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures), These sheets contain graph, greedy, mathematics, and dynamic programming problems, in addition to data structures. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~70 problems.
 
 |     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
 |:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics)    | 115 problems                          | [phase-3-graph-greedy](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-greedy)  | 55 problems |
-| `1` | Fundamentals             | `20 problems` | Graph Theory | `40 problems` |
-| `2` | Number Theory            | `35 problems` | Greedy       | `15 problems` |
-| `3` | Combinatorics            | `30 problems` |              |               |
-| `4` | Algebra                  | `30 problems` |              |               |
-|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 60 problems              | [phase-3-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-data-structures)         | 60 problems  |
-| `1` | Bit Manipulation        | `15 problems` | Heap & Disjoint Set & Trie | `10 problems` |
-| `2` | Dynamic Programming     | `40 problems` | Advanced I                 | `25 problems` |
-| `3` | Constructive Algorithms | `5 problems`  | Advanced II                | `25 problems` |
+|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics)    | 250 problems                          | [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string)  | 130 problems |
+| `1` | Fundamentals             | `25 problems` | Graph Theory I  | `30 problems` |
+| `2` | Number Theory I          | `35 problems` | Graph Theory II | `30 problems` |
+| `3` | Number Theory II         | `35 problems` | Greedy          | `25 problems` |
+| `4` | Combinatorics            | `50 problems` | Strings         | `45 problems` |
+| `5` | Algebra                  | `55 problems` |                 |               |
+| `6` | Geometry                 | `30 problems` |                 |               |
+| `7` | Probability              | `25 problems` |                 |               |
+|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures)         | 60 problems  |
+| `1` | Bit Manipulation I        | `15 problems` | Heap & Disjoint Set & Trie | `10 problems` |
+| `2` | Bit Manipulation II       | `15 problems` | Advanced I                 | `25 problems` |
+| `3` | Dynamic Programming I     | `40 problems` | Advanced II                | `25 problems` |
+| `4` | Dynamic Programming II    | `30 problems` |                            |               |
+| `5` | Dynamic Programming III   | `30 problems` |                            |               |
+| `6` | Constructive Algorithms   | `10 problems` |                            |               |
 
 ## `Notes`
 
