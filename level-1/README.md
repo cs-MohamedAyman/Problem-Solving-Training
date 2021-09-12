@@ -8,10 +8,7 @@ Problem Solving Training for computer science students.
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ## Table of Contents
   * [Level 1](#level-1)
