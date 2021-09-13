@@ -1,6 +1,6 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Mathematical Algorithms `150 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Mathematical & Strings Algorithms `150 problems` `80 hrs`
 
 ### Table of Content
 
@@ -10,6 +10,8 @@
 - ***Totient Function***        `10 problems`
 - ***Basics of Combinatorics*** `30 problems`
 - ***Inclusione-Exclusion***    `20 problems`
+- ***Basics of String Manipulation***  `40 problems`
+- ***String Searching & Z Algorithm*** `40 problems`
 
 ### HackerEarth - Basic Number Theory I `30 problems`
 
@@ -180,3 +182,86 @@
 - [string sets 1 d9d9e893](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/string-sets-1-d9d9e893/)
 - [divisible digits](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/divisible-digits/)
 - [mancunian and birthday gifts d44faa15](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/mancunian-and-birthday-gifts-d44faa15/)
+
+### LeetCode - Basics of String Manipulation `40 problems`
+
+- [unique subsequence 264057c9](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/unique-subsequence-264057c9/)
+- [rotation 1 38ecf5a7](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/rotation-1-38ecf5a7/)
+- [good sequences 46c31a23](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/good-sequences-46c31a23/)
+- [aliceandstrings 9da62aa7](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/aliceandstrings-9da62aa7/)
+- [master cf6dadd7](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/master-cf6dadd7/)
+- [largest balanced string bf93ce85](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/largest-balanced-string-bf93ce85/)
+- [lexicographically minimum string 269d7f34](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/lexicographically-minimum-string-269d7f34/)
+- [binary swap b91d9bef](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/binary-swap-b91d9bef/)
+- [special substrings 9fb5dbe8](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/special-substrings-9fb5dbe8/)
+- [can you count 11795975](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/can-you-count-11795975/)
+- [decode 1 6eab2976](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/decode-1-6eab2976/)
+- [caesars cipher 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/caesars-cipher-1/)
+- [lexical analyzer 3](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/lexical-analyzer-3/)
+- [string division](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/string-division/)
+- [xenny and partially sorted strings 7](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/xenny-and-partially-sorted-strings-7/)
+- [upup](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/upup/)
+- [sumit and rohil](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sumit-and-rohil/)
+- [terrible chandu](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/terrible-chandu/)
+- [palindromes 3](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/palindromes-3/)
+- [sorted string](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sorted-string/)
+- [remove duplicates 3](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/remove-duplicates-3/)
+- [ashish and binary matrix 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/ashish-and-binary-matrix-1/)
+- [nobita and string 4](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/nobita-and-string-4/)
+- [count enemies 5](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/count-enemies-5/)
+- [the strongest string 1 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/the-strongest-string-1-1/)
+- [mirror of mahatma gandhi](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/mirror-of-mahatma-gandhi/)
+- [password 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/password-1/)
+- [compiler version 2](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/compiler-version-2/)
+- [string queries 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/string-queries-1/)
+- [swapping game 6](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/swapping-game-6/)
+- [dont jump](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/dont-jump/)
+- [missing alphabets 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/missing-alphabets-1/)
+- [find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)
+- [make the cheapest palindrome 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/make-the-cheapest-palindrome-1/)
+- [letter most fb72d803](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/letter-most-fb72d803/)
+- [strongest string 4103a929](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/strongest-string-4103a929/)
+- [jump and achieve 1 4588741c](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/jump-and-achieve-1-4588741c/)
+- [common prime 5a915755](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/common-prime-5a915755/)
+- [minimum rotations 8d545eb1](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/minimum-rotations-8d545eb1/)
+- [the flight optimization 0267b2b5](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/the-flight-optimization-0267b2b5/)
+- [string 4 d1093b86](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/string-4-d1093b86/)
+- [twitter trends](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/twitter-trends/)
+
+### LeetCode - String Searching & Z Algorithm `40 problems`
+
+- [solitary string](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/solitary-string/)
+- [playful string 6](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/playful-string-6/)
+- [hamming 3](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/hamming-3/)
+- [playful strings](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/playful-strings/)
+- [prefpref](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/prefpref/)
+- [predict ad clicks](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/machine-learning/predict-ad-clicks/)
+- [predict the road sign 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/machine-learning/predict-the-road-sign-1/)
+- [ororor 5ea10c51](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/ororor-5ea10c51/)
+- [special palindrome 11f52457](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/special-palindrome-11f52457/)
+- [make them equal ac0bab4a](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/make-them-equal-ac0bab4a/)
+- [maximum substring 9b97fc5f](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/maximum-substring-9b97fc5f/)
+- [palindrome queries eefd5c23](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/palindrome-queries-eefd5c23/)
+- [missing string c28c0934](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/missing-string-c28c0934/)
+- [forming almost similar string d551fc3d](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/forming-almost-similar-string-d551fc3d/)
+- [monk and monster 1acbb78c](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/monk-and-monster-1acbb78c/)
+- [string fight 2](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/string-fight-2/)
+- [where is checkerboard](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/where-is-checkerboard/)
+- [game of strings 2](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/game-of-strings-2/)
+- [largest lexicographical rotation ii](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/largest-lexicographical-rotation-ii/)
+- [make them equal too 89585e71](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/make-them-equal-too-89585e71/)
+- [hidden leaf village 790b2618](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/hidden-leaf-village-790b2618/)
+- [prefix and substring queries 87616b64](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/prefix-and-substring-queries-87616b64/)
+- [lost in strings 11fa4a5d](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/lost-in-strings-11fa4a5d/)
+- [septembereasy substring queries f75c15fc](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/septembereasy-substring-queries-f75c15fc/)
+- [fun with strings 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/fun-with-strings-1/)
+- [ascii value](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/ascii-value/)
+- [divide array 2](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/divide-array-2/)
+- [tour](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/tour/)
+- [omar and strings 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/omar-and-strings-1/)
+- [rhezo and division](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/rhezo-and-division/)
+- [cyclic permutations 15](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/cyclic-permutations-15/)
+- [prefix number f5c76976](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/prefix-number-f5c76976/)
+- [statistics of strings 3bec3843](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/statistics-of-strings-3bec3843/)
+- [easypalindrome 8671e4e3](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/practice-problems/algorithm/easypalindrome-8671e4e3/)
+- [last forever](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/practice-problems/algorithm/last-forever/)
