@@ -183,7 +183,7 @@
 - [divisible digits](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/divisible-digits/)
 - [mancunian and birthday gifts d44faa15](https://www.hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/mancunian-and-birthday-gifts-d44faa15/)
 
-### LeetCode - Basics of String Manipulation `40 problems`
+### HackerEarth - Basics of String Manipulation `40 problems`
 
 - [unique subsequence](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/unique-subsequence-264057c9/)
 - [rotation 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/rotation-1-38ecf5a7/)
@@ -228,7 +228,7 @@
 - [string 4](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/string-4-d1093b86/)
 - [twitter trends](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/twitter-trends/)
 
-### LeetCode - String Searching & Z Algorithm `40 problems`
+### HackerEarth - String Searching & Z Algorithm `40 problems`
 
 - [solitary string](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/solitary-string/)
 - [playful string 6](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/playful-string-6/)
