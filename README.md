@@ -271,19 +271,19 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 
 ## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The HackerEarth OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains string, graph, greedy, mathematics, number theory, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~200 problems.
+The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains string, graph, greedy, mathematics, number theory, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~250 problems.
 
 |     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
 |:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics)   | 150 problems                          | [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph)               | 300 problems |
+|  | [phase-3-mathematics-strings](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings)  | 230 problems            | [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph)               | 300 problems |
 | `1` | Basic Number Theory I           | `30 problems` | Graph Representation                            | `35 problems` |
 | `2` | Basic Number Theory II          | `30 problems` | Breadth First Search                            | `35 problems` |
 | `3` | Primality Tests                 | `30 problems` | Depth First Search I                            | `40 problems` |
 | `4` | Totient Function                | `10 problems` | Depth First Search II                           | `40 problems` |
 | `5` | Basics of Combinatorics         | `30 problems` | Depth First Search III                          | `40 problems` |
 | `6` | Inclusione-Exclusion            | `20 problems` | Shortest Path                                   | `50 problems` |
-| `7` |                                 |               | Minimum Spanning Tree & Biconnected Components  | `30 problems` |
-| `8` |                                 |               | Minimum Cost & Maximum Flow & Min-Cut           | `30 problems` |
+| `7` | Basics of String Manipulation   | `40 problems` | Minimum Spanning Tree & Biconnected Components  | `30 problems` |
+| `8` | String Searching & Z Algorithm  | `40 problems` | Minimum Cost & Maximum Flow & Min-Cut           | `30 problems` |
 |  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming) | 220 problems  | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures) | 230 problems  |
 | `1` | Dynamic Programming I           | `50 problems` | Disjoint Sets              | `30 problems` |
 | `2` | Dynamic Programming II          | `50 problems` | Trie                       | `20 problems` |
