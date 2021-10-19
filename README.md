@@ -160,8 +160,6 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         <tr><td>Stack</td><td>50 problems</td><td>Stack</td><td>10 problems</td></tr>
         <tr><td>Queue and Dequeue</td><td>20 problems</td><td>Queue and Dequeue</td><td>20 problems</td></tr>
     </tbody>
-</table>
-<table>
     <thead>
         <tr>
             <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3">phase-2-3</a></td>
@@ -178,8 +176,6 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         <tr><td>Hash Table II</td><td>30 problems</td><td>Hash Table I</td><td>30 problems</td></tr>
         <tr><td>Hash Table III</td><td>20 problems</td><td>Hash Table II</td><td>30 problems</td></tr>
     </tbody>
-</table>
-<table>
     <thead>
         <tr>
             <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5">phase-2-5</a></td>
@@ -197,6 +193,7 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         <tr><td>Greedy</td><td>20 problems</td><td>Bit Manipulation II</td><td>25 problems</td></tr>
     </tbody>
 </table>
+
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
