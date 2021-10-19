@@ -281,21 +281,39 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
 
 The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4) contain graph algorithms, mathematical algorithms, number theory, string algorithms, and dynamic programming problems, in addition to advanced data structures, Each sheet of them divided into 6 classes of problems (Binary Search - Divide and Conquer - Sort - Greedy - Graph - Breadth First Search - Depth First Search - Backtracking - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
 
-|     | Phase Name         | # Problems    | Phase Name        | # Problems   |
-|:---:|:------------------:|:-------------:|:-----------------:|:------------:|
-|  | [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1)                     |   180 problems                              | [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2)                     |   210 problems  |
-| `1` | Backtracking            | `35 problems` | Backtracking            | `35 problems` |
-| `2` | Breadth First Search I  | `25 problems` | Breadth First Search    | `20 problems` |
-| `3` | Breadth First Search II | `25 problems` | Depth First Search      | `20 problems` |
-| `4` | Depth First Search I    | `35 problems` | Graph  I                | `30 problems` |
-| `5` | Depth First Search II   | `35 problems` | Graph  II               | `30 problems` |
-| `6` | Dynamic Programming     | `50 problems` | Dynamic Programming     | `30 problems` |
-|  | [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3)                     |   160 problems                              | [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4)                     |   160 problems  |
-| `1` | Union Find & Binary Indexed Tree & Trie  | `30 problems` | Segment Tree & Suffix Array & Geometry  | `30 problems` |
-| `2` | Math I                                   | `30 problems` | Math I                                  | `30 problems` |
-| `3` | Math II                                  | `30 problems` | Math II                                 | `30 problems` |
-| `4` | String                                   | `50 problems` | String                                  | `50 problems` |
-| `5` | Dynamic Programming                      | `50 problems` | Dynamic Programming                     | `50 problems` |
+<table>
+    <thead>
+        <tr>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1">phase-3-1</a></td>
+            <th align=left width="200px">180 problems</th>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2">phase-3-2</a></td>
+            <th align=left width="200px">210 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Backtracking</td><td>35 problems</td><td>Backtracking</td><td>35 problems</td></tr>
+        <tr><td>Breadth First Search I</td><td>25 problems</td><td>Breadth First Search</td><td>20 problems</td></tr>
+        <tr><td>Breadth First Search II</td><td>25 problems</td><td>Depth First Search</td><td>20 problems</td></tr>
+        <tr><td>Depth First Search I</td><td>35 problems</td><td>Graph  I</td><td>30 problems</td></tr>
+        <tr><td>Depth First Search II</td><td>35 problems</td><td>Graph  II</td><td>30 problems</td></tr>
+        <tr><td>Dynamic Programming</td><td>50 problems</td><td>Dynamic Programming</td><td>30 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3">phase-3-3</a></td>
+            <th align=left width="200px">160 problems</th>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4">phase-3-4</a></td>
+            <th align=left width="200px">160 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Union Find & Binary Indexed Tree & Trie</td><td>30 problems</td><td>Segment Tree & Suffix Array & Geometry</td><td>30 problems</td></tr>
+        <tr><td>Math I</td><td>30 problems</td><td>Math I</td><td>30 problems</td></tr>
+        <tr><td>Math II</td><td>30 problems</td><td>Math II</td><td>30 problems</td></tr>
+        <tr><td>String</td><td>50 problems</td><td>String</td><td>50 problems</td></tr>
+        <tr><td>Dynamic Programming</td><td>50 problems</td><td>Dynamic Programming</td><td>50 problems</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
