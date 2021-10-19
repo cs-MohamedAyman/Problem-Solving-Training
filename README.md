@@ -143,29 +143,60 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 
 The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4), [phase-2-5](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5), [phase-2-6](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6) contain linear and non-linear data structures problems, searching and sorting algorithms, and each sheet of them divided into 6 classes of problems (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) in addition to (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
 
-|     | Phase Name         | # Problems    | Phase Name        | # Problems   |
-|:---:|:------------------:|:-------------:|:-----------------:|:------------:|
-|  | [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1)                     |   200 problems                              | [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2)                     |   210 problems  |
-| `1` | Array I           | `40 problems` | Array I           | `50 problems` |
-| `2` | Array II          | `40 problems` | Array II          | `50 problems` |
-| `3` | Array III         | `40 problems` | Array III         | `50 problems` |
-| `4` | Linked List       | `10 problems` | Linked List       | `30 problems` |
-| `5` | Stack             | `50 problems` | Stack             | `10 problems` |
-| `6` | Queue and Dequeue | `20 problems` | Queue and Dequeue | `20 problems` |
-|  | [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3)                     |   170 problems                              | [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4)                     |   180 problems  |
-| `1` | Recursion         | `30 problems` | Binary Tree I     | `30 problems` |
-| `2` | Binary Tree       | `30 problems` | Binary Tree II    | `30 problems` |
-| `3` | Heap Tree         | `30 problems` | Binary Tree III   | `30 problems` |
-| `4` | Hash Table I      | `30 problems` | Heap Tree         | `30 problems` |
-| `5` | Hash Table II     | `30 problems` | Hash Table I      | `30 problems` |
-| `6` | Hash Table III    | `20 problems` | Hash Table II     | `30 problems` |
-|  | [phase-2-5](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5)                     |   190 problems                              | [phase-2-6](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6)                     |   200 problems  |
-| `1` | Binary Search I    | `35 problems` | Binary Search       | `30 problems` |
-| `2` | Binary Search II   | `35 problems` | Greedy I            | `40 problems` |
-| `3` | Divide and Conquer | `20 problems` | Greedy II           | `40 problems` |
-| `4` | Sorting  I         | `40 problems` | Greedy III          | `40 problems` |
-| `5` | Sorting  II        | `40 problems` | Bit Manipulation I  | `25 problems` |
-| `6` | Greedy             | `20 problems` | Bit Manipulation II | `25 problems` |
+<table>
+    <thead>
+        <tr>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1">phase-2-1</a></td>
+            <th align=left width="200px">200 problems</th>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2">phase-2-2</a></td>
+            <th align=left width="200px">210 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Array I</td><td>40 problems</td><td>Array I</td><td>50 problems</td></tr>
+        <tr><td>Array II</td><td>40 problems</td><td>Array II</td><td>50 problems</td></tr>
+        <tr><td>Array III</td><td>40 problems</td><td>Array III</td><td>50 problems</td></tr>
+        <tr><td>Linked List</td><td>10 problems</td><td>Linked List</td><td>30 problems</td></tr>
+        <tr><td>Stack</td><td>50 problems</td><td>Stack</td><td>10 problems</td></tr>
+        <tr><td>Queue and Dequeue</td><td>20 problems</td><td>Queue and Dequeue</td><td>20 problems</td></tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3">phase-2-3</a></td>
+            <th align=left width="200px">170 problems</th>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4">phase-2-4</a></td>
+            <th align=left width="200px">180 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Recursion</td><td>30 problems</td><td>Binary Tree I</td><td>30 problems</td></tr>
+        <tr><td>Binary Tree</td><td>30 problems</td><td>Binary Tree II</td><td>30 problems</td></tr>
+        <tr><td>Heap Tree</td><td>30 problems</td><td>Binary Tree III</td><td>30 problems</td></tr>
+        <tr><td>Hash Table I</td><td>30 problems</td><td>Heap Tree</td><td>30 problems</td></tr>
+        <tr><td>Hash Table II</td><td>30 problems</td><td>Hash Table I</td><td>30 problems</td></tr>
+        <tr><td>Hash Table III</td><td>20 problems</td><td>Hash Table II</td><td>30 problems</td></tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5">phase-2-5</a></td>
+            <th align=left width="200px">190 problems</th>
+            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6">phase-2-6</a></td>
+            <th align=left width="200px">200 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Binary Search I</td><td>35 problems</td><td>Binary Search</td><td>30 problems</td></tr>
+        <tr><td>Binary Search II</td><td>35 problems</td><td>Greedy I</td><td>40 problems</td></tr>
+        <tr><td>Divide and Conquer</td><td>20 problems</td><td>Greedy II</td><td>40 problems</td></tr>
+        <tr><td>Sorting I</td><td>40 problems</td><td>Greedy III</td><td>40 problems</td></tr>
+        <tr><td>Sorting II</td><td>40 problems</td><td>Bit Manipulation I</td><td>25 problems</td></tr>
+        <tr><td>Greedy</td><td>20 problems</td><td>Bit Manipulation II</td><td>25 problems</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
