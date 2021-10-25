@@ -89,17 +89,17 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
     <thead>
         <tr>
             <td align=center width="200px"></td>
-            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></td>
-            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></td>
-            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></td>
-            <td align=center width="350px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming">phase-1-basic-programming</a></td>
+            <td align=center width="200px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></td>
+            <td align=center width="200px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></td>
+            <td align=center width="200px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></td>
+            <td align=center width="400px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming">phase-1-basic-programming</a></td>
         </tr>
         <tr>
             <td align=center width="200px"></td>
-            <th align=center width="150px">100 problems</th>
-            <th align=center width="150px">100 problems</th>
-            <th align=center width="150px">100 problems</th>
-            <th align=center width="350px" colspan="2">130 problems</th>
+            <th align=center width="200px">100 problems</th>
+            <th align=center width="200px">100 problems</th>
+            <th align=center width="200px">100 problems</th>
+            <th align=center width="400px" colspan="2">130 problems</th>
         </tr>
     </thead>
     <tbody>
