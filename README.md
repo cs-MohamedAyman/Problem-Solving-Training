@@ -117,16 +117,27 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 8 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance - Misc). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems.
 
-|     | Phase Name         | # Problems    | Phase Name        | # Problems   |
-|:---:|:------------------:|:-------------:|:-----------------:|:------------:|
-|  | [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp)                          | 60 problems                      | [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python)                    | 100 problems  |
-| `1` | Introduction                | `15 problems` | Introduction       | `5 problems`  |
-| `2` | Conditionals and Loops      | `5 problems`  | Basic Data Types   | `20 problems` |
-| `3` | Arrays and Strings          | `10 problems` | Collections        | `30 problems` |
-| `4` | Functions                   | `5 problems`  | Functions          | `10 problems` |
-| `5` | Standard Template Libraries | `5 problems`  | Standard Libraries | `25 problems` |
-| `6` | Structs and Enums           | `5 problems`  | Classes            | `10 problems` |
-| `7` | Classes and Inheritance     | `15 problems` |                    |               |
+<table>
+    <thead>
+        <tr>
+            <td align=center width="700px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></td>
+            <td align=center width="700px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></td>
+        </tr>
+        <tr>
+            <th align=center width="700px" colspan="2">60 problems</th>
+            <th align=center width="700px" colspan="2">100 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Introduction</td><td>15 problems</td><td>Introduction</td><td>5 problems</td>
+        <tr><td>Conditionals and Loops</td><td>5 problems</td><td>Basic Data Types</td><td>20 problems</td>
+        <tr><td>Arrays and Strings</td><td>10 problems</td><td>Collections</td><td>30 problems</td>
+        <tr><td>Functions</td><td>5 problems</td><td>Functions</td><td>10 problems</td>
+        <tr><td>Standard Template Libraries</td><td>5 problems</td><td>Standard Libraries</td><td>25 problems</td>
+        <tr><td>Structs and Enums</td><td>5 problems</td><td>Classes</td><td>10 problems</td>
+        <tr><td>Classes and Inheritance</td><td>15 problems</td><td></td><td></td>
+    </tbody>
+</table>
 
 ## `Notes`
 
