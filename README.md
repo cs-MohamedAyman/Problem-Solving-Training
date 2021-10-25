@@ -120,12 +120,10 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
 <table>
     <thead>
         <tr>
-            <td align=center width="700px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></td>
-            <td align=center width="700px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></td>
-        </tr>
-        <tr>
-            <th align=center width="700px" colspan="2">60 problems</th>
-            <th align=center width="700px" colspan="2">100 problems</th>
+            <td align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></td>
+            <td align=center width="150px">60 problems</td>
+            <td align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></td>
+            <td align=center width="150px">100 problems</td>
         </tr>
     </thead>
     <tbody>
