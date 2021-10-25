@@ -55,14 +55,14 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 <table>
     <thead>
         <tr>
-            <td align=center width="500px"></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1">phase-1-1</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2">phase-1-2</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3">phase-1-3</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">phase-1-4</a></td>
+            <th align=center width="500px"></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1">phase-1-1</a></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2">phase-1-2</a></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3">phase-1-3</a></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">phase-1-4</a></th>
         </tr>
         <tr>
-            <td align=center width="500px"></td>
+            <th align=center width="500px"></th>
             <th align=center width="250px">160 problems</th>
             <th align=center width="250px">115 problems</th>
             <th align=center width="250px">115 problems</th>
@@ -70,11 +70,11 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td>15 problems</td><td>10 problems</td><td>5 problems</td><td>5 problems</td>
-        <tr><td>Condition</td><td>15 problems</td><td>15 problems</td><td>20 problems</td><td>20 problems</td>
-        <tr><td>Loop</td><td>35 problems</td><td>20 problems</td><td>25 problems</td><td>20 problems</td>
-        <tr><td>String</td><td>35 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td>
-        <tr><td>List / Array</td><td>60 problems</td><td>35 problems</td><td>35 problems</td><td>30 problems</td>
+        <tr><td>Basic Operator</td><td>15 problems</td><td>10 problems</td><td>5 problems</td><td>5 problems</td></tr>
+        <tr><td>Condition</td><td>15 problems</td><td>15 problems</td><td>20 problems</td><td>20 problems</td></tr>
+        <tr><td>Loop</td><td>35 problems</td><td>20 problems</td><td>25 problems</td><td>20 problems</td></tr>
+        <tr><td>String</td><td>35 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td></tr>
+        <tr><td>List / Array</td><td>60 problems</td><td>35 problems</td><td>35 problems</td><td>30 problems</td></tr>
     </tbody>
 </table>
 
@@ -88,14 +88,14 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 <table>
     <thead>
         <tr>
-            <td align=center width="200px"></td>
-            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></td>
-            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></td>
-            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></td>
-            <td align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming">phase-1-basic-programming</a></td>
+            <th align=center width="200px"></th>
+            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></th>
+            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></th>
+            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></th>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming">phase-1-basic-programming</a></th>
         </tr>
         <tr>
-            <td align=center width="200px"></td>
+            <th align=center width="200px"></th>
             <th align=center width="150px">100 problems</th>
             <th align=center width="150px">100 problems</th>
             <th align=center width="150px">100 problems</th>
@@ -103,10 +103,10 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
         </tr>
     </thead>
     <tbody>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Input / Output</td><td>50 problems</td>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Bit Manipulation</td><td>70 problems</td>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Recursion</td><td>10 problems</td>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Operators</td><td>5 problems</td>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Input / Output</td><td>50 problems</td></tr>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Bit Manipulation</td><td>70 problems</td></tr>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Recursion</td><td>10 problems</td></tr>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Operators</td><td>5 problems</td></tr>
     </tbody>
 </table>
 
@@ -120,20 +120,20 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
 <table>
     <thead>
         <tr>
-            <td align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></td>
-            <td align=center width="150px">60 problems</td>
-            <td align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></td>
-            <td align=center width="150px">100 problems</td>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></th>
+            <th align=center width="150px">60 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></th>
+            <th align=center width="150px">100 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Introduction</td><td>15 problems</td><td>Introduction</td><td>5 problems</td>
-        <tr><td>Conditionals and Loops</td><td>5 problems</td><td>Basic Data Types</td><td>20 problems</td>
-        <tr><td>Arrays and Strings</td><td>10 problems</td><td>Collections</td><td>30 problems</td>
-        <tr><td>Functions</td><td>5 problems</td><td>Functions</td><td>10 problems</td>
-        <tr><td>Standard Template Libraries</td><td>5 problems</td><td>Standard Libraries</td><td>25 problems</td>
-        <tr><td>Structs and Enums</td><td>5 problems</td><td>Classes</td><td>10 problems</td>
-        <tr><td>Classes and Inheritance</td><td>15 problems</td><td></td><td></td>
+        <tr><td>Introduction</td><td>15 problems</td><td>Introduction</td><td>5 problems</td></tr>
+        <tr><td>Conditionals and Loops</td><td>5 problems</td><td>Basic Data Types</td><td>20 problems</td></tr>
+        <tr><td>Arrays and Strings</td><td>10 problems</td><td>Collections</td><td>30 problems</td></tr>
+        <tr><td>Functions</td><td>5 problems</td><td>Functions</td><td>10 problems</td></tr>
+        <tr><td>Standard Template Libraries</td><td>5 problems</td><td>Standard Libraries</td><td>25 problems</td></tr>
+        <tr><td>Structs and Enums</td><td>5 problems</td><td>Classes</td><td>10 problems</td></tr>
+        <tr><td>Classes and Inheritance</td><td>15 problems</td><td></td><td></td></tr>
     </tbody>
 </table>
 
@@ -163,11 +163,11 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
 <table>
     <thead>
         <tr>
-            <td align=center width="500px"></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1">phase-2-1</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2">phase-2-2</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3">phase-2-3</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4">phase-2-4</a></td>
+            <th align=center width="500px"></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1">phase-2-1</a></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2">phase-2-2</a></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3">phase-2-3</a></th>
+            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4">phase-2-4</a></th>
         </tr>
         <tr>
             <td align=center width="500px"></td>
@@ -178,23 +178,36 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Data Structure</td><td>10 problems</td><td>20 problems</td><td>30 problems</td><td>30 problems</td>
-        <tr><td>String</td><td>40 problems</td><td>25 problems</td><td>5 problems</td><td>30 problems</td>
-        <tr><td>Mathematics</td><td>25 problems</td><td>35 problems</td><td>35 problems</td><td>40 problems</td>
-        <tr><td>Greedy</td><td>30 problems</td><td>35 problems</td><td>25 problems</td><td>30 problems</td>
-        <tr><td>Brute Force</td><td>15 problems</td><td>15 problems</td><td>10 problems</td><td>15 problems</td>
+        <tr><td>Data Structure</td><td>10 problems</td><td>20 problems</td><td>30 problems</td><td>30 problems</td></tr>
+        <tr><td>String</td><td>40 problems</td><td>25 problems</td><td>5 problems</td><td>30 problems</td></tr>
+        <tr><td>Mathematics</td><td>25 problems</td><td>35 problems</td><td>35 problems</td><td>40 problems</td></tr>
+        <tr><td>Greedy</td><td>30 problems</td><td>35 problems</td><td>25 problems</td><td>30 problems</td></tr>
+        <tr><td>Brute Force</td><td>15 problems</td><td>15 problems</td><td>10 problems</td><td>15 problems</td></tr>
     </tbody>
 </table>
 
-|  | [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests)                                        | [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests)                          | [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests)                 |
-|:---:|:-------------------------------:|:------------------------------------:|:--------------------------------:|
-|     | 100 contests                    | 100 contests                         | 200 contests                     |
-| `1` | Div3 Contests I   `25 contests` | Educational Rounds I   `25 contests` | GYM Contests 2     `20 contests` |
-| `2` | Div3 Contests II  `25 contests` | Educational Rounds II  `25 contests` | GYM Contests 3 I   `25 contests` |
-| `3` | Div3 Contests III `25 contests` | Educational Rounds III `25 contests` | GYM Contests 3 II  `15 contests` |
-| `4` | Div3 Contests IV  `25 contests` | Educational Rounds IV  `25 contests` | GYM Contests 3 III `30 contests` |
-| `5` |                                 |                                      | GYM Contests 3 IV  `30 contests` |
-| `6` |                                 |                                      | GYM Contests 3 V   `30 contests` |
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests">phase-2-div3-contests</a></th>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests">phase-2-educational-contests</a></th>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests">phase-2-gym-contests</a></th>
+        </tr>
+        <tr>
+            <th align=center width="500px" colspan="2">100 contests</th>
+            <th align=center width="500px" colspan="2">100 contests</th>
+            <th align=center width="500px" colspan="2">200 contests</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Div3 Contests I</td><td>25 Contests</td><td>Educational Rounds I</td><td>25 Contests</td><td>GYM Contests 2</td><td>20 Contests</td></tr>
+        <tr><td>Div3 Contests II</td><td>25 Contests</td><td>Educational Rounds II</td><td>25 Contests</td><td>GYM Contests 3 I</td><td>25 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II</td><td>15 Contests</td></tr>
+        <tr><td>Div3 Contests IV</td><td>25 Contests</td><td>Educational Rounds IV</td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
+        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 IV</td><td>30 Contests</td></tr>
+        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 V</td><td>30 Contests</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 <br>
@@ -206,9 +219,9 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 <table>
     <thead>
         <tr>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1">phase-2-1</a></td>
+            <th align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1">phase-2-1</a></th>
             <th align=left width="200px">200 problems</th>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2">phase-2-2</a></td>
+            <th align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2">phase-2-2</a></th>
             <th align=left width="200px">210 problems</th>
         </tr>
     </thead>
@@ -254,7 +267,6 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
     </tbody>
 </table>
 
-
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
 
@@ -262,18 +274,36 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 
 The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures), [phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures), [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching), [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting), Each sheet contains linear and non-linear data structures problems, in addition to searching and sorting algorithms. These sheets were ordered based on the problem difficulty and each sheet contains ~100 problems.
 
-|     | Phase Name               | # Problems    | Phase Name              | # Problems   |
-|:---:|:------------------------:|:-------------:|:-----------------------:|:-------------:|
-| | [phase-2-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures) | 110 problems       | [phase-2-non-linear-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures) | 90 problems |
-| `1` | Arrays 1D                | `65 problems` | Binary Tree             | `10 problems` |
-| `2` | Arrays Multi-dimensional | `20 problems` | Binary Search Tree      | `10 problems` |
-| `3` | Stacks                   | `25 problems` | Heaps / Priority Queues | `20 problems` |
-| `4` | Queues                   | `5 problems`  | Hash Tables             | `50 problems` |
-| | [phase-2-algorithms-searching](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching)  | 120 problems         | [phase-2-algorithms-sorting](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting)      | 140 problems      |
-| `1` | Linear Search            | `15 problems` | Bubble & Selection & Insertion & Merge | `40 problems` |
-| `2` | Binary Search I          | `50 problems` | Quick & Count & Heap                   | `20 problems` |
-| `3` | Binary Search II         | `50 problems` | Greedy Algorithms I                    | `40 problems` |
-| `4` | Ternary Search           | `5 problems`  | Greedy Algorithms II                   | `40 problems` |
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures">phase-2-linear-data-structures</a></th>
+            <th align=center width="200px">110 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures">phase-2-non-linear-data-structures</a></th>
+            <th align=center width="200px">90 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Arrays 1D</td><td>65 problems</td><td>Binary Tree</td><td>10 problems</td></tr>
+        <tr><td>Arrays Multi-dimensional</td><td>20 problems</td><td>Binary Search Tree</td><td>10 problems</td></tr>
+        <tr><td>Stacks</td><td>25 problems</td><td>Heaps / Priority Queues</td><td>20 problems</td></tr>
+        <tr><td>Queues</td><td>5 problems</td><td>Hash Tables</td><td>50 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching">phase-2-algorithms-searching</a></th>
+            <th align=center width="200px">120 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting">phase-2-algorithms-sorting</a></th>
+            <th align=center width="200px">140 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Linear Search</td><td>15 problems</td><td>Bubble & Selection & Insertion & Merge</td><td>40 problems</td></tr>
+        <tr><td>Binary Search I</td><td>50 problems</td><td>Quick & Count & Heap</td><td>20 problems</td></tr>
+        <tr><td>Binary Search II</td><td>50 problems</td><td>Greedy Algorithms I</td><td>40 problems</td></tr>
+        <tr><td>Ternary Search</td><td>5 problems</td><td>Greedy Algorithms II</td><td>40 problems</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
@@ -282,13 +312,22 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~80 problems.
 
-|     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
-|:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures)     | 80 problems                  | [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics) | 90 problems |
-| `1` | Arrays & Linked Lists  | `20 problems` | Warm-up & Recursion | `20 problems` |
-| `2` | Stacks & Queues        | `10 problems` | Sorting             | `15 problems` |
-| `3` | Trees & Balanced Trees | `20 problems` | Search              | `25 problems` |
-| `4` | Implementation         | `30 problems` | Implementation      | `30 problems` |
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
+            <th align=center width="200px">80 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
+            <th align=center width="200px">90 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Arrays & Linked Lists</td><td>20 problems</td><td>Warm-up & Recursion</td><td>20 problems</td></tr>
+        <tr><td>Stacks & Queues</td><td>10 problems</td><td>Sorting</td><td>15 problems</td></tr>
+        <tr><td>Trees & Balanced Trees</td><td>25 problems</td><td>Search</td><td>25 problems</td></tr>
+        <tr><td>Implementation</td><td>30 problems</td><td>Implementation</td><td>30 problems</td></tr>
+    </tbody>
+</table>
 
 ## `Notes`
 
@@ -341,15 +380,28 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
     </tbody>
 </table>
 
-|  | [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests)                                        | [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests)                          | [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests)                 |
-|:---:|:-------------------------------:|:------------------------------------:|:--------------------------------:|
-|     | 100 contests                    | 100 contests                         | 200 contests                     |
-| `1` | Div3 Contests I   `25 contests` | Educational Rounds I   `25 contests` | GYM Contests 2     `20 contests` |
-| `2` | Div3 Contests II  `25 contests` | Educational Rounds II  `25 contests` | GYM Contests 3 I   `25 contests` |
-| `3` | Div3 Contests III `25 contests` | Educational Rounds III `25 contests` | GYM Contests 3 II  `15 contests` |
-| `4` | Div3 Contests IV  `25 contests` | Educational Rounds IV  `25 contests` | GYM Contests 3 III `30 contests` |
-| `5` |                                 |                                      | GYM Contests 3 IV  `30 contests` |
-| `6` |                                 |                                      | GYM Contests 3 V   `30 contests` |
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests">phase-3-div3-contests</a></th>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests">phase-3-educational-contests</a></th>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests">phase-3-gym-contests</a></th>
+        </tr>
+        <tr>
+            <th align=center width="500px" colspan="2">100 contests</th>
+            <th align=center width="500px" colspan="2">100 contests</th>
+            <th align=center width="500px" colspan="2">200 contests</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Div3 Contests I</td><td>25 Contests</td><td>Educational Rounds I</td><td>25 Contests</td><td>GYM Contests 2</td><td>20 Contests</td></tr>
+        <tr><td>Div3 Contests II</td><td>25 Contests</td><td>Educational Rounds II</td><td>25 Contests</td><td>GYM Contests 3 I</td><td>25 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II</td><td>15 Contests</td></tr>
+        <tr><td>Div3 Contests IV</td><td>25 Contests</td><td>Educational Rounds IV</td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
+        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 IV</td><td>30 Contests</td></tr>
+        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 V</td><td>30 Contests</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 <br>
@@ -399,26 +451,44 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 
 The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings), [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures), Each sheet contains string, graph, greedy, mathematics, number theory, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~250 problems.
 
-|     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
-|:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-3-mathematics-strings](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings)  | 230 problems            | [phase-3-graph](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph)               | 300 problems |
-| `1` | Basic Number Theory I           | `30 problems` | Graph Representation                            | `35 problems` |
-| `2` | Basic Number Theory II          | `30 problems` | Breadth First Search                            | `35 problems` |
-| `3` | Primality Tests                 | `30 problems` | Depth First Search I                            | `40 problems` |
-| `4` | Totient Function                | `10 problems` | Depth First Search II                           | `40 problems` |
-| `5` | Basics of Combinatorics         | `30 problems` | Depth First Search III                          | `40 problems` |
-| `6` | Inclusione-Exclusion            | `20 problems` | Shortest Path                                   | `50 problems` |
-| `7` | Basics of String Manipulation   | `40 problems` | Minimum Spanning Tree & Biconnected Components  | `30 problems` |
-| `8` | String Searching & Z Algorithm  | `40 problems` | Minimum Cost & Maximum Flow & Min-Cut           | `30 problems` |
-|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming) | 220 problems  | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures) | 230 problems  |
-| `1` | Dynamic Programming I           | `50 problems` | Disjoint Sets              | `30 problems` |
-| `2` | Dynamic Programming II          | `50 problems` | Trie                       | `20 problems` |
-| `3` | Dynamic Programming 2D I        | `45 problems` | Segment Tree I             | `35 problems` |
-| `4` | Dynamic Programming 2D II       | `45 problems` | Segment Tree II            | `35 problems` |
-| `5` | DP and Bit Masking              | `30 problems` | Segment Tree III           | `30 problems` |
-| `6` | DP and Bit Masking              | `30 problems` | Binary Indexed Tree I      | `30 problems` |
-| `7` |                                 |               | Binary Indexed Tree II     | `30 problems` |
-| `8` |                                 |               | Suffix Tree & Suffix Array | `20 problems` |
+<table>
+    <thead>
+        <tr>
+            <th align=center width="450px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings">phase-3-mathematics-strings</a></th>
+            <th align=center width="200px">230 problems</th>
+            <th align=center width="550px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph">phase-3-graph</a></th>
+            <th align=center width="200px">300 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Basic Number Theory I         </td><td>30 problems</td><td>Graph Representation                          </td><td>35 problems</td></tr>
+        <tr><td>Basic Number Theory II        </td><td>30 problems</td><td>Breadth First Search                          </td><td>35 problems</td></tr>
+        <tr><td>Primality Tests               </td><td>30 problems</td><td>Depth First Search I                          </td><td>40 problems</td></tr>
+        <tr><td>Totient Function              </td><td>10 problems</td><td>Depth First Search II                         </td><td>40 problems</td></tr>
+        <tr><td>Basics of Combinatorics       </td><td>30 problems</td><td>Depth First Search III                        </td><td>40 problems</td></tr>
+        <tr><td>Inclusione-Exclusion          </td><td>20 problems</td><td>Shortest Path                                 </td><td>50 problems</td></tr>
+        <tr><td>Basics of String Manipulation </td><td>40 problems</td><td>Spanning Tree & Biconnected Components</td><td>30 problems</td></tr>
+        <tr><td>String Searching & Z Algorithm</td><td>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut         </td><td>30 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="450px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
+            <th align=center width="200px">220 problems</th>
+            <th align=center width="550px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures">phase-3-advanced-data-structures</a></th>
+            <th align=center width="200px">230 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Dynamic Programming I    </td><td>50 problems</td><td>Disjoint Sets             </td><td>30 problems</td></tr>
+        <tr><td>Dynamic Programming II   </td><td>50 problems</td><td>Trie                      </td><td>20 problems</td></tr>
+        <tr><td>Dynamic Programming 2D I </td><td>45 problems</td><td>Segment Tree I            </td><td>35 problems</td></tr>
+        <tr><td>Dynamic Programming 2D II</td><td>45 problems</td><td>Segment Tree II           </td><td>35 problems</td></tr>
+        <tr><td>DP and Bit Masking       </td><td>30 problems</td><td>Segment Tree III          </td><td>30 problems</td></tr>
+        <tr><td>DP and Bit Masking       </td><td>30 problems</td><td>Binary Indexed Tree I     </td><td>30 problems</td></tr>
+        <tr><td>                         </td><td>           </td><td>Binary Indexed Tree II    </td><td>30 problems</td></tr>
+        <tr><td>                         </td><td>           </td><td>Suffix Tree & Suffix Array</td><td>20 problems</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
