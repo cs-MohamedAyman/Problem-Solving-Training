@@ -85,13 +85,30 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 
 The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. For the last sheet [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) that focus on the basic programming problems, It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~130 problems.
 
-| | | [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1)                                                               | [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2)                                                               | [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3)                                                               | [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) |
-|:---:|:-------------------:|:-------------:|:-------------:|:-------------:|:------------------------------:|
-|     |                     | 100 problems  | 100 problems  | 100 problems  | 130 problems                   |
-| `1` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Input / Output   `50 problems` |
-| `2` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Bit Manipulation `70 problems` |
-| `3` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Recursion        `10 problems` |
-| `4` | Implementation      | `25 problems` | `25 problems` | `25 problems` | Operators        `5 problems`  |
+<table>
+    <thead>
+        <tr>
+            <td align=center width="200px"></td>
+            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></td>
+            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></td>
+            <td align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></td>
+            <td align=center width="350px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming">phase-1-basic-programming</a></td>
+        </tr>
+        <tr>
+            <td align=center width="200px"></td>
+            <th align=center width="150px">100 problems</th>
+            <th align=center width="150px">100 problems</th>
+            <th align=center width="150px">100 problems</th>
+            <th align=center width="350px" colspan="2">130 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Input / Output</td><td>50 problems</td>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Bit Manipulation</td><td>70 problems</td>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Recursion</td><td>10 problems</td>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Operators</td><td>5 problems</td>
+    </tbody>
+</table>
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
