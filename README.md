@@ -454,9 +454,9 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
 <table>
     <thead>
         <tr>
-            <th align=center width="450px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings">phase-3-mathematics-strings</a></th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings">phase-3-mathematics-strings</a></th>
             <th align=center width="200px">230 problems</th>
-            <th align=center width="550px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph">phase-3-graph</a></th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph">phase-3-graph</a></th>
             <th align=center width="200px">300 problems</th>
         </tr>
     </thead>
@@ -472,9 +472,9 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
     </tbody>
     <thead>
         <tr>
-            <th align=center width="450px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
             <th align=center width="200px">220 problems</th>
-            <th align=center width="550px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures">phase-3-advanced-data-structures</a></th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures">phase-3-advanced-data-structures</a></th>
             <th align=center width="200px">230 problems</th>
         </tr>
     </thead>
