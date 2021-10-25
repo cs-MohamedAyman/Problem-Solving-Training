@@ -70,11 +70,11 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td>15 problems</td><td>10 problems</td><td>5 problems</td><td>5 problems</td></tr>
-        <tr><td>Condition</td><td>15 problems</td><td>15 problems</td><td>20 problems</td><td>20 problems</td></tr>
-        <tr><td>Loop</td><td>35 problems</td><td>20 problems</td><td>25 problems</td><td>20 problems</td></tr>
-        <tr><td>String</td><td>35 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td></tr>
-        <tr><td>List / Array</td><td>60 problems</td><td>35 problems</td><td>35 problems</td><td>30 problems</td></tr>
+        <tr><td>Basic Operator</td><td>15 problems</td><td>10 problems</td><td> 5 problems</td><td> 5 problems</td></tr>
+        <tr><td>Condition     </td><td>15 problems</td><td>15 problems</td><td>20 problems</td><td>20 problems</td></tr>
+        <tr><td>Loop          </td><td>35 problems</td><td>20 problems</td><td>25 problems</td><td>20 problems</td></tr>
+        <tr><td>String        </td><td>35 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td></tr>
+        <tr><td>List / Array  </td><td>60 problems</td><td>35 problems</td><td>35 problems</td><td>30 problems</td></tr>
     </tbody>
 </table>
 
@@ -103,10 +103,10 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
         </tr>
     </thead>
     <tbody>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Input / Output</td><td>50 problems</td></tr>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Input / Output  </td><td>50 problems</td></tr>
         <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Bit Manipulation</td><td>70 problems</td></tr>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Recursion</td><td>10 problems</td></tr>
-        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Operators</td><td>5 problems</td></tr>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Recursion       </td><td>10 problems</td></tr>
+        <tr><td>Implementation</td><td>25 problems</td><td>25 problems</td><td>25 problems</td><td>Operators       </td><td> 5 problems</td></tr>
     </tbody>
 </table>
 
@@ -127,13 +127,13 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
         </tr>
     </thead>
     <tbody>
-        <tr><td>Introduction</td><td>15 problems</td><td>Introduction</td><td>5 problems</td></tr>
-        <tr><td>Conditionals and Loops</td><td>5 problems</td><td>Basic Data Types</td><td>20 problems</td></tr>
-        <tr><td>Arrays and Strings</td><td>10 problems</td><td>Collections</td><td>30 problems</td></tr>
-        <tr><td>Functions</td><td>5 problems</td><td>Functions</td><td>10 problems</td></tr>
-        <tr><td>Standard Template Libraries</td><td>5 problems</td><td>Standard Libraries</td><td>25 problems</td></tr>
-        <tr><td>Structs and Enums</td><td>5 problems</td><td>Classes</td><td>10 problems</td></tr>
-        <tr><td>Classes and Inheritance</td><td>15 problems</td><td></td><td></td></tr>
+        <tr><td>Introduction               </td><td>15 problems</td><td>Introduction      </td><td> 5 problems</td></tr>
+        <tr><td>Conditionals and Loops     </td><td> 5 problems</td><td>Basic Data Types  </td><td>20 problems</td></tr>
+        <tr><td>Arrays and Strings         </td><td>10 problems</td><td>Collections       </td><td>30 problems</td></tr>
+        <tr><td>Functions                  </td><td> 5 problems</td><td>Functions         </td><td>10 problems</td></tr>
+        <tr><td>Standard Template Libraries</td><td> 5 problems</td><td>Standard Libraries</td><td>25 problems</td></tr>
+        <tr><td>Structs and Enums          </td><td> 5 problems</td><td>Classes           </td><td>10 problems</td></tr>
+        <tr><td>Classes and Inheritance    </td><td>15 problems</td><td>                  </td><td>           </td></tr>
     </tbody>
 </table>
 
@@ -179,10 +179,10 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
     </thead>
     <tbody>
         <tr><td>Data Structure</td><td>10 problems</td><td>20 problems</td><td>30 problems</td><td>30 problems</td></tr>
-        <tr><td>String</td><td>40 problems</td><td>25 problems</td><td>5 problems</td><td>30 problems</td></tr>
-        <tr><td>Mathematics</td><td>25 problems</td><td>35 problems</td><td>35 problems</td><td>40 problems</td></tr>
-        <tr><td>Greedy</td><td>30 problems</td><td>35 problems</td><td>25 problems</td><td>30 problems</td></tr>
-        <tr><td>Brute Force</td><td>15 problems</td><td>15 problems</td><td>10 problems</td><td>15 problems</td></tr>
+        <tr><td>String        </td><td>40 problems</td><td>25 problems</td><td> 5 problems</td><td>30 problems</td></tr>
+        <tr><td>Mathematics   </td><td>25 problems</td><td>35 problems</td><td>35 problems</td><td>40 problems</td></tr>
+        <tr><td>Greedy        </td><td>30 problems</td><td>35 problems</td><td>25 problems</td><td>30 problems</td></tr>
+        <tr><td>Brute Force   </td><td>15 problems</td><td>15 problems</td><td>10 problems</td><td>15 problems</td></tr>
     </tbody>
 </table>
 
@@ -200,12 +200,12 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I</td><td>25 Contests</td><td>Educational Rounds I</td><td>25 Contests</td><td>GYM Contests 2</td><td>20 Contests</td></tr>
-        <tr><td>Div3 Contests II</td><td>25 Contests</td><td>Educational Rounds II</td><td>25 Contests</td><td>GYM Contests 3 I</td><td>25 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II</td><td>15 Contests</td></tr>
-        <tr><td>Div3 Contests IV</td><td>25 Contests</td><td>Educational Rounds IV</td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
-        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 IV</td><td>30 Contests</td></tr>
-        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 V</td><td>30 Contests</td></tr>
+        <tr><td>Div3 Contests I  </td><td>25 Contests</td><td>Educational Rounds I  </td><td>25 Contests</td><td>GYM Contests 2    </td><td>20 Contests</td></tr>
+        <tr><td>Div3 Contests II </td><td>25 Contests</td><td>Educational Rounds II </td><td>25 Contests</td><td>GYM Contests 3 I  </td><td>25 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II </td><td>15 Contests</td></tr>
+        <tr><td>Div3 Contests IV </td><td>25 Contests</td><td>Educational Rounds IV </td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
+        <tr><td>                 </td><td>           </td><td>                      </td><td>           </td><td>GYM Contests 3 IV </td><td>30 Contests</td></tr>
+        <tr><td>                 </td><td>           </td><td>                      </td><td>           </td><td>GYM Contests 3 V  </td><td>30 Contests</td></tr>
     </tbody>
 </table>
 
@@ -226,11 +226,11 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         </tr>
     </thead>
     <tbody>
-        <tr><td>Array I</td><td>40 problems</td><td>Array I</td><td>50 problems</td></tr>
-        <tr><td>Array II</td><td>40 problems</td><td>Array II</td><td>50 problems</td></tr>
-        <tr><td>Array III</td><td>40 problems</td><td>Array III</td><td>50 problems</td></tr>
-        <tr><td>Linked List</td><td>10 problems</td><td>Linked List</td><td>30 problems</td></tr>
-        <tr><td>Stack</td><td>50 problems</td><td>Stack</td><td>10 problems</td></tr>
+        <tr><td>Array I          </td><td>40 problems</td><td>Array I          </td><td>50 problems</td></tr>
+        <tr><td>Array II         </td><td>40 problems</td><td>Array II         </td><td>50 problems</td></tr>
+        <tr><td>Array III        </td><td>40 problems</td><td>Array III        </td><td>50 problems</td></tr>
+        <tr><td>Linked List      </td><td>10 problems</td><td>Linked List      </td><td>30 problems</td></tr>
+        <tr><td>Stack            </td><td>50 problems</td><td>Stack            </td><td>10 problems</td></tr>
         <tr><td>Queue and Dequeue</td><td>20 problems</td><td>Queue and Dequeue</td><td>20 problems</td></tr>
     </tbody>
     <thead>
@@ -242,12 +242,12 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         </tr>
     </thead>
     <tbody>
-        <tr><td>Recursion</td><td>30 problems</td><td>Binary Tree I</td><td>30 problems</td></tr>
-        <tr><td>Binary Tree</td><td>30 problems</td><td>Binary Tree II</td><td>30 problems</td></tr>
-        <tr><td>Heap Tree</td><td>30 problems</td><td>Binary Tree III</td><td>30 problems</td></tr>
-        <tr><td>Hash Table I</td><td>30 problems</td><td>Heap Tree</td><td>30 problems</td></tr>
-        <tr><td>Hash Table II</td><td>30 problems</td><td>Hash Table I</td><td>30 problems</td></tr>
-        <tr><td>Hash Table III</td><td>20 problems</td><td>Hash Table II</td><td>30 problems</td></tr>
+        <tr><td>Recursion     </td><td>30 problems</td><td>Binary Tree I  </td><td>30 problems</td></tr>
+        <tr><td>Binary Tree   </td><td>30 problems</td><td>Binary Tree II </td><td>30 problems</td></tr>
+        <tr><td>Heap Tree     </td><td>30 problems</td><td>Binary Tree III</td><td>30 problems</td></tr>
+        <tr><td>Hash Table I  </td><td>30 problems</td><td>Heap Tree      </td><td>30 problems</td></tr>
+        <tr><td>Hash Table II </td><td>30 problems</td><td>Hash Table I   </td><td>30 problems</td></tr>
+        <tr><td>Hash Table III</td><td>20 problems</td><td>Hash Table II  </td><td>30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -258,12 +258,12 @@ The LeetCode OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search I</td><td>35 problems</td><td>Binary Search</td><td>30 problems</td></tr>
-        <tr><td>Binary Search II</td><td>35 problems</td><td>Greedy I</td><td>40 problems</td></tr>
-        <tr><td>Divide and Conquer</td><td>20 problems</td><td>Greedy II</td><td>40 problems</td></tr>
-        <tr><td>Sorting I</td><td>40 problems</td><td>Greedy III</td><td>40 problems</td></tr>
-        <tr><td>Sorting II</td><td>40 problems</td><td>Bit Manipulation I</td><td>25 problems</td></tr>
-        <tr><td>Greedy</td><td>20 problems</td><td>Bit Manipulation II</td><td>25 problems</td></tr>
+        <tr><td>Binary Search I   </td><td>35 problems</td><td>Binary Search      </td><td>30 problems</td></tr>
+        <tr><td>Binary Search II  </td><td>35 problems</td><td>Greedy I           </td><td>40 problems</td></tr>
+        <tr><td>Divide and Conquer</td><td>20 problems</td><td>Greedy II          </td><td>40 problems</td></tr>
+        <tr><td>Sorting I         </td><td>40 problems</td><td>Greedy III         </td><td>40 problems</td></tr>
+        <tr><td>Sorting II        </td><td>40 problems</td><td>Bit Manipulation I </td><td>25 problems</td></tr>
+        <tr><td>Greedy            </td><td>20 problems</td><td>Bit Manipulation II</td><td>25 problems</td></tr>
     </tbody>
 </table>
 
@@ -284,10 +284,10 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays 1D</td><td>65 problems</td><td>Binary Tree</td><td>10 problems</td></tr>
-        <tr><td>Arrays Multi-dimensional</td><td>20 problems</td><td>Binary Search Tree</td><td>10 problems</td></tr>
-        <tr><td>Stacks</td><td>25 problems</td><td>Heaps / Priority Queues</td><td>20 problems</td></tr>
-        <tr><td>Queues</td><td>5 problems</td><td>Hash Tables</td><td>50 problems</td></tr>
+        <tr><td>Arrays 1D               </td><td>65 problems</td><td>Binary Tree            </td><td>10 problems</td></tr>
+        <tr><td>Arrays Multi-dimensional</td><td>20 problems</td><td>Binary Search Tree     </td><td>10 problems</td></tr>
+        <tr><td>Stacks                  </td><td>25 problems</td><td>Heaps / Priority Queues</td><td>20 problems</td></tr>
+        <tr><td>Queues                  </td><td> 5 problems</td><td>Hash Tables            </td><td>50 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -298,10 +298,10 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
         </tr>
     </thead>
     <tbody>
-        <tr><td>Linear Search</td><td>15 problems</td><td>Bubble & Selection & Insertion & Merge</td><td>40 problems</td></tr>
-        <tr><td>Binary Search I</td><td>50 problems</td><td>Quick & Count & Heap</td><td>20 problems</td></tr>
-        <tr><td>Binary Search II</td><td>50 problems</td><td>Greedy Algorithms I</td><td>40 problems</td></tr>
-        <tr><td>Ternary Search</td><td>5 problems</td><td>Greedy Algorithms II</td><td>40 problems</td></tr>
+        <tr><td>Linear Search   </td><td>15 problems</td><td>Bubble & Selection & Insertion & Merge</td><td>40 problems</td></tr>
+        <tr><td>Binary Search I </td><td>50 problems</td><td>Quick & Count & Heap                  </td><td>20 problems</td></tr>
+        <tr><td>Binary Search II</td><td>50 problems</td><td>Greedy Algorithms I                   </td><td>40 problems</td></tr>
+        <tr><td>Ternary Search  </td><td> 5 problems</td><td>Greedy Algorithms II                  </td><td>40 problems</td></tr>
     </tbody>
 </table>
 
@@ -322,10 +322,10 @@ The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-Mohamed
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays & Linked Lists</td><td>20 problems</td><td>Warm-up & Recursion</td><td>20 problems</td></tr>
-        <tr><td>Stacks & Queues</td><td>10 problems</td><td>Sorting</td><td>15 problems</td></tr>
-        <tr><td>Trees & Balanced Trees</td><td>25 problems</td><td>Search</td><td>25 problems</td></tr>
-        <tr><td>Implementation</td><td>30 problems</td><td>Implementation</td><td>30 problems</td></tr>
+        <tr><td>Arrays & Linked Lists </td><td>20 problems</td><td>Warm-up & Recursion</td><td>20 problems</td></tr>
+        <tr><td>Stacks & Queues       </td><td>10 problems</td><td>Sorting            </td><td>15 problems</td></tr>
+        <tr><td>Trees & Balanced Trees</td><td>25 problems</td><td>Search             </td><td>25 problems</td></tr>
+        <tr><td>Implementation        </td><td>30 problems</td><td>Implementation     </td><td>30 problems</td></tr>
     </tbody>
 </table>
 
@@ -370,13 +370,13 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer</td><td>10 problems</td><td>10 problems</td><td></td><td></td>
-        <tr><td>Graph</td><td>10 problems</td><td>10 problems</td><td>10 problems</td><td>10 problems</td>
-        <tr><td>String</td><td>10 problems</td><td>10 problems</td><td>10 problems</td><td>10 problems</td>
-        <tr><td>Data Structure</td><td>20 problems</td><td>20 problems</td><td>20 problems</td><td>20 problems</td>
-        <tr><td>Mathematics</td><td>30 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td>
-        <tr><td>Greedy</td><td>20 problems</td><td>20 problems</td><td>20 problems</td><td>20 problems</td>
-        <tr><td>Dynamic Programming</td><td></td><td></td><td>10 problems</td><td>10 problems</td>
+        <tr><td>Divide and Conquer </td><td>10 problems</td><td>10 problems</td><td>           </td><td>           </td>
+        <tr><td>Graph              </td><td>10 problems</td><td>10 problems</td><td>10 problems</td><td>10 problems</td>
+        <tr><td>String             </td><td>10 problems</td><td>10 problems</td><td>10 problems</td><td>10 problems</td>
+        <tr><td>Data Structure     </td><td>20 problems</td><td>20 problems</td><td>20 problems</td><td>20 problems</td>
+        <tr><td>Mathematics        </td><td>30 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td>
+        <tr><td>Greedy             </td><td>20 problems</td><td>20 problems</td><td>20 problems</td><td>20 problems</td>
+        <tr><td>Dynamic Programming</td><td>           </td><td>           </td><td>10 problems</td><td>10 problems</td>
     </tbody>
 </table>
 
@@ -394,12 +394,12 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I</td><td>25 Contests</td><td>Educational Rounds I</td><td>25 Contests</td><td>GYM Contests 2</td><td>20 Contests</td></tr>
-        <tr><td>Div3 Contests II</td><td>25 Contests</td><td>Educational Rounds II</td><td>25 Contests</td><td>GYM Contests 3 I</td><td>25 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II</td><td>15 Contests</td></tr>
-        <tr><td>Div3 Contests IV</td><td>25 Contests</td><td>Educational Rounds IV</td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
-        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 IV</td><td>30 Contests</td></tr>
-        <tr><td></td><td></td><td></td><td></td><td>GYM Contests 3 V</td><td>30 Contests</td></tr>
+        <tr><td>Div3 Contests I  </td><td>25 Contests</td><td>Educational Rounds I  </td><td>25 Contests</td><td>GYM Contests 2    </td><td>20 Contests</td></tr>
+        <tr><td>Div3 Contests II </td><td>25 Contests</td><td>Educational Rounds II </td><td>25 Contests</td><td>GYM Contests 3 I  </td><td>25 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II </td><td>15 Contests</td></tr>
+        <tr><td>Div3 Contests IV </td><td>25 Contests</td><td>Educational Rounds IV </td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
+        <tr><td>                 </td><td>           </td><td>                      </td><td>           </td><td>GYM Contests 3 IV </td><td>30 Contests</td></tr>
+        <tr><td>                 </td><td>           </td><td>                      </td><td>           </td><td>GYM Contests 3 V  </td><td>30 Contests</td></tr>
     </tbody>
 </table>
 
@@ -420,12 +420,12 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
         </tr>
     </thead>
     <tbody>
-        <tr><td>Backtracking</td><td>35 problems</td><td>Backtracking</td><td>35 problems</td></tr>
-        <tr><td>Breadth First Search I</td><td>25 problems</td><td>Breadth First Search</td><td>20 problems</td></tr>
-        <tr><td>Breadth First Search II</td><td>25 problems</td><td>Depth First Search</td><td>20 problems</td></tr>
-        <tr><td>Depth First Search I</td><td>35 problems</td><td>Graph  I</td><td>30 problems</td></tr>
-        <tr><td>Depth First Search II</td><td>35 problems</td><td>Graph  II</td><td>30 problems</td></tr>
-        <tr><td>Dynamic Programming</td><td>50 problems</td><td>Dynamic Programming</td><td>30 problems</td></tr>
+        <tr><td>Backtracking           </td><td>35 problems</td><td>Backtracking        </td><td>35 problems</td></tr>
+        <tr><td>Breadth First Search I </td><td>25 problems</td><td>Breadth First Search</td><td>20 problems</td></tr>
+        <tr><td>Breadth First Search II</td><td>25 problems</td><td>Depth First Search  </td><td>20 problems</td></tr>
+        <tr><td>Depth First Search I   </td><td>35 problems</td><td>Graph  I            </td><td>30 problems</td></tr>
+        <tr><td>Depth First Search II  </td><td>35 problems</td><td>Graph  II           </td><td>30 problems</td></tr>
+        <tr><td>Dynamic Programming    </td><td>50 problems</td><td>Dynamic Programming </td><td>30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -437,10 +437,10 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
     </thead>
     <tbody>
         <tr><td>Union Find & Binary Indexed Tree & Trie</td><td>30 problems</td><td>Segment Tree & Suffix Array & Geometry</td><td>30 problems</td></tr>
-        <tr><td>Math I</td><td>30 problems</td><td>Math I</td><td>30 problems</td></tr>
-        <tr><td>Math II</td><td>30 problems</td><td>Math II</td><td>30 problems</td></tr>
-        <tr><td>String</td><td>50 problems</td><td>String</td><td>50 problems</td></tr>
-        <tr><td>Dynamic Programming</td><td>50 problems</td><td>Dynamic Programming</td><td>50 problems</td></tr>
+        <tr><td>Math I                                 </td><td>30 problems</td><td>Math I                                </td><td>30 problems</td></tr>
+        <tr><td>Math II                                </td><td>30 problems</td><td>Math II                               </td><td>30 problems</td></tr>
+        <tr><td>String                                 </td><td>50 problems</td><td>String                                </td><td>50 problems</td></tr>
+        <tr><td>Dynamic Programming                    </td><td>50 problems</td><td>Dynamic Programming                   </td><td>50 problems</td></tr>
     </tbody>
 </table>
 
@@ -461,14 +461,14 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Number Theory I         </td><td>30 problems</td><td>Graph Representation                          </td><td>35 problems</td></tr>
-        <tr><td>Basic Number Theory II        </td><td>30 problems</td><td>Breadth First Search                          </td><td>35 problems</td></tr>
-        <tr><td>Primality Tests               </td><td>30 problems</td><td>Depth First Search I                          </td><td>40 problems</td></tr>
-        <tr><td>Totient Function              </td><td>10 problems</td><td>Depth First Search II                         </td><td>40 problems</td></tr>
-        <tr><td>Basics of Combinatorics       </td><td>30 problems</td><td>Depth First Search III                        </td><td>40 problems</td></tr>
-        <tr><td>Inclusione-Exclusion          </td><td>20 problems</td><td>Shortest Path                                 </td><td>50 problems</td></tr>
+        <tr><td>Basic Number Theory I         </td><td>30 problems</td><td>Graph Representation                  </td><td>35 problems</td></tr>
+        <tr><td>Basic Number Theory II        </td><td>30 problems</td><td>Breadth First Search                  </td><td>35 problems</td></tr>
+        <tr><td>Primality Tests               </td><td>30 problems</td><td>Depth First Search I                  </td><td>40 problems</td></tr>
+        <tr><td>Totient Function              </td><td>10 problems</td><td>Depth First Search II                 </td><td>40 problems</td></tr>
+        <tr><td>Basics of Combinatorics       </td><td>30 problems</td><td>Depth First Search III                </td><td>40 problems</td></tr>
+        <tr><td>Inclusione-Exclusion          </td><td>20 problems</td><td>Shortest Path                         </td><td>50 problems</td></tr>
         <tr><td>Basics of String Manipulation </td><td>40 problems</td><td>Spanning Tree & Biconnected Components</td><td>30 problems</td></tr>
-        <tr><td>String Searching & Z Algorithm</td><td>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut         </td><td>30 problems</td></tr>
+        <tr><td>String Searching & Z Algorithm</td><td>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td>30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
