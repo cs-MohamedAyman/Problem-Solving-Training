@@ -1,13 +1,14 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ - Algorithms Basics `90 problems` `40 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Algorithms Basics `120 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Warmup & Recursion*** `20 problems`
 - ***Sorting*** `15 problems`
 - ***Search*** `25 problems`
-- ***Implementation*** `30 problems`
+- ***Implementation I*** `30 problems`
+- ***Implementation II*** `30 problems`
 
 ### HackerEarth - Warmup & Recursion `20 problems`
 
@@ -79,7 +80,43 @@
 - [challenges](https://www.hackerrank.com/challenges/almost-integer-rock-garden)
 - [distant pairs](https://www.hackerrank.com/challenges/distant-pairs/problem)
 
-### HackerEarth - Implementation `30 problems`
+### HackerEarth - Implementation I `30 problems`
+
+- [grading](https://www.hackerrank.com/challenges/grading/problem)
+- [apple and orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+- [kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
+- [between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
+- [breaking best and worst records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+- [the birthday bar](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+- [divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+- [migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+- [day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
+- [bon appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+- [sock merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)
+- [counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+- [electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+- [cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+- [counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+- [the hurdle race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+- [designer pdf viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+- [utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [angry professor](https://www.hackerrank.com/challenges/angry-professor/problem)
+- [beautiful days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+- [strange advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
+- [save the prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+- [circular array rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+- [permutation equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
+- [jumping on the clouds revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+- [find digits](https://www.hackerrank.com/challenges/find-digits/problem)
+- [append and delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
+- [sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+- [library fine](https://www.hackerrank.com/challenges/library-fine/problem)
+- [cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+- [repeated string](https://www.hackerrank.com/challenges/repeated-string/problem)
+- [jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+
+### HackerEarth - Implementation II `30 problems`
 
 - [equality in a array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 - [acm icpc team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)

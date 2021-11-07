@@ -1,13 +1,14 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ - Data Structures `80 problems` `40 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Data Structures `120 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Array and Linked List*** `20 problems`
 - ***Stack and Queue*** `10 problems`
 - ***Binary Tree and Balanced Binary Tree*** `20 problems`
-- ***Implementation*** `30 problems`
+- ***Heap & Disjoint Set & Trie*** `10 problems`
+- ***Advanced*** `50 problems`
 
 ### HackerRank - Array and Linked List `20 problems`
 
@@ -70,38 +71,71 @@
 - [kittys calculations on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)
 - [array pairs](https://www.hackerrank.com/challenges/array-pairs/problem)
 
-### HackerEarth - Implementation `30 problems`
+### HackerRank - Heap & Disjoint Set & Trie `10 problems`
 
-- [grading](https://www.hackerrank.com/challenges/grading/problem)
-- [apple and orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
-- [kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
-- [between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
-- [breaking best and worst records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
-- [the birthday bar](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
-- [divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
-- [migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
-- [day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
-- [bon appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
-- [sock merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
-- [drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)
-- [counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
-- [electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
-- [cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
-- [counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
-- [the hurdle race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
-- [designer pdf viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
-- [utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
-- [angry professor](https://www.hackerrank.com/challenges/angry-professor/problem)
-- [beautiful days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
-- [strange advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
-- [save the prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
-- [circular array rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
-- [permutation equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
-- [jumping on the clouds revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
-- [find digits](https://www.hackerrank.com/challenges/find-digits/problem)
-- [append and delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
-- [sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
-- [library fine](https://www.hackerrank.com/challenges/library-fine/problem)
-- [cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
-- [repeated string](https://www.hackerrank.com/challenges/repeated-string/problem)
-- [jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+- [qheap1](https://www.hackerrank.com/challenges/qheap1/problem)
+- [jesse and cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)
+- [components in graph](https://www.hackerrank.com/challenges/components-in-graph/problem)
+- [contacts](https://www.hackerrank.com/challenges/contacts/problem)
+- [merging communities](https://www.hackerrank.com/challenges/merging-communities/problem)
+- [kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)
+- [find the running median](https://www.hackerrank.com/challenges/find-the-running-median/problem)
+- [minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)
+- [maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)
+- [no prefix set](https://www.hackerrank.com/challenges/no-prefix-set/problem)
+
+### HackerRank - Advanced `50 problems`
+
+- [kindergarten adventures](https://www.hackerrank.com/challenges/kindergarten-adventures/problem)
+- [x and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem)
+- [jim and the skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem)
+- [find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem)
+- [cube summation](https://www.hackerrank.com/challenges/cube-summation/problem)
+- [direct connections](https://www.hackerrank.com/challenges/direct-connections/problem)
+- [palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem)
+- [polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem)
+- [costly intervals](https://www.hackerrank.com/challenges/costly-intervals/problem)
+- [the strange function](https://www.hackerrank.com/challenges/the-strange-function/problem)
+- [lazy white falcon](https://www.hackerrank.com/challenges/lazy-white-falcon/problem)
+- [heavy light white falcon](https://www.hackerrank.com/challenges/heavy-light-white-falcon/problem)
+- [heavy light 2 white falcon](https://www.hackerrank.com/challenges/heavy-light-2-white-falcon/problem)
+- [burger happiness](https://www.hackerrank.com/challenges/burger-happiness/problem)
+- [roy and alpha beta trees](https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees/problem)
+- [coloring tree](https://www.hackerrank.com/challenges/coloring-tree/problem)
+- [recalling early days gp with trees](https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem)
+- [white falcon and tree](https://www.hackerrank.com/challenges/white-falcon-and-tree/problem)
+- [jagia playing with numbers](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/problem)
+- [weird queries](https://www.hackerrank.com/challenges/weird-queries/problem)
+- [rooted tree](https://www.hackerrank.com/challenges/rooted-tree/problem)
+- [net admin](https://www.hackerrank.com/challenges/net-admin/problem)
+- [net admin](https://www.hackerrank.com/challenges/net-admin/problem)
+- [subsequence weighting](https://www.hackerrank.com/challenges/subsequence-weighting/problem)
+- [self driving bus](https://www.hackerrank.com/challenges/self-driving-bus/problem)
+- [unique colors](https://www.hackerrank.com/challenges/unique-colors/problem)
+- [functional palindromes](https://www.hackerrank.com/challenges/functional-palindromes/problem)
+- [little alexey and sum of maximums](https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums/problem)
+- [heavy light 2 white falcon](https://www.hackerrank.com/challenges/heavy-light-2-white-falcon/problem)
+- [starfleet](https://www.hackerrank.com/challenges/starfleet/problem)
+- [swaps and sum](https://www.hackerrank.com/challenges/swaps-and-sum/problem)
+- [arithmetic progressions](https://www.hackerrank.com/challenges/arithmetic-progressions/problem)
+- [coolguy and two subsequences](https://www.hackerrank.com/challenges/coolguy-and-two-subsequences/problem)
+- [subtrees and paths](https://www.hackerrank.com/challenges/subtrees-and-paths/problem)
+- [triplets](https://www.hackerrank.com/challenges/triplets/problem)
+- [beautiful segments](https://www.hackerrank.com/challenges/beautiful-segments/problem)
+- [taxicab drivers problem](https://www.hackerrank.com/challenges/taxicab-drivers-problem/problem)
+- [jagia playing with numbers](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/problem)
+- [helix](https://www.hackerrank.com/challenges/helix/problem)
+- [company retreat](https://www.hackerrank.com/challenges/company-retreat/problem)
+- [counting on a tree](https://www.hackerrank.com/challenges/counting-on-a-tree/problem)
+- [fibonacci numbers tree](https://www.hackerrank.com/challenges/fibonacci-numbers-tree/problem)
+- [pair sums](https://www.hackerrank.com/challenges/pair-sums/problem)
+- [ticket to ride](https://www.hackerrank.com/challenges/ticket-to-ride/problem)
+- [number game on a tree](https://www.hackerrank.com/challenges/number-game-on-a-tree/problem)
+- [almost equal advanced](https://www.hackerrank.com/challenges/almost-equal-advanced/problem)
+- [almost sorted interval](https://www.hackerrank.com/challenges/almost-sorted-interval/problem)
+- [beautiful segments](https://www.hackerrank.com/challenges/beautiful-segments/problem)
+- [ab0](https://www.hackerrank.com/challenges/ab0/problem)
+- [easy addition](https://www.hackerrank.com/challenges/easy-addition/problem)
+- [find the permutation](https://www.hackerrank.com/challenges/find-the-permutation/problem)
+- [box operations](https://www.hackerrank.com/challenges/box-operations/problem)
+- [max transform](https://www.hackerrank.com/challenges/max-transform/problem)

@@ -310,22 +310,23 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 ## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems, and basic algorithms problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~80 problems.
+The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems plus advanced data structures problems, and basic algorithms problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
 
 <table>
     <thead>
         <tr>
             <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
-            <th align=center width="200px">80 problems</th>
+            <th align=center width="200px">120 problems</th>
             <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
-            <th align=center width="200px">90 problems</th>
+            <th align=center width="200px">120 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays & Linked Lists </td><td align=center>20 problems</td><td>Warm-up & Recursion</td><td align=center>20 problems</td></tr>
-        <tr><td>Stacks & Queues       </td><td align=center>10 problems</td><td>Sorting            </td><td align=center>15 problems</td></tr>
-        <tr><td>Trees & Balanced Trees</td><td align=center>25 problems</td><td>Search             </td><td align=center>25 problems</td></tr>
-        <tr><td>Implementation        </td><td align=center>30 problems</td><td>Implementation     </td><td align=center>30 problems</td></tr>
+        <tr><td>Arrays & Linked Lists     </td><td align=center>20 problems</td><td>Warm-up & Recursion</td><td align=center>20 problems</td></tr>
+        <tr><td>Stacks & Queues           </td><td align=center>10 problems</td><td>Sorting            </td><td align=center>15 problems</td></tr>
+        <tr><td>Trees & Balanced Trees    </td><td align=center>25 problems</td><td>Search             </td><td align=center>25 problems</td></tr>
+        <tr><td>Heap & Disjoint Set & Trie</td><td align=center>30 problems</td><td>Implementation I   </td><td align=center>30 problems</td></tr>
+        <tr><td>Advanced                  </td><td align=center>50 problems</td><td>Implementation II  </td><td align=center>30 problems</td></tr>
     </tbody>
 </table>
 
