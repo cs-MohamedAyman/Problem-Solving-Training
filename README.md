@@ -496,25 +496,40 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
 
 ## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics), [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures), These sheets contain string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming problems, in addition to advanced data structures. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~150 problems.
+The HackerRank OJ sheets [phase-3-mathematics-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1), [phase-3-mathematics-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2), [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), These sheets contain string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~130 problems.
 
-|     | Phase Name                           | # Problems    | Phase Name             | # Problems    |
-|:---:|:------------------------------------:|:-------------:|:----------------------:|:-------------:|
-|  | [phase-3-mathematics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics)    | 250 problems                          | [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string)  | 130 problems |
-| `1` | Fundamentals             | `25 problems` | Graph Theory I  | `30 problems` |
-| `2` | Number Theory I          | `35 problems` | Graph Theory II | `30 problems` |
-| `3` | Number Theory II         | `35 problems` | Greedy          | `25 problems` |
-| `4` | Combinatorics            | `50 problems` | Strings         | `45 problems` |
-| `5` | Algebra                  | `55 problems` |                 |               |
-| `6` | Geometry                 | `30 problems` |                 |               |
-| `7` | Probability              | `25 problems` |                 |               |
-|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              |
-| `1` | Bit Manipulation I        | `15 problems` |
-| `2` | Bit Manipulation II       | `15 problems` |
-| `3` | Dynamic Programming I     | `40 problems` |
-| `4` | Dynamic Programming II    | `30 problems` |
-| `5` | Dynamic Programming III   | `30 problems` |
-| `6` | Constructive Algorithms   | `10 problems` |
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">phase-3-mathematics-1</a></th>
+            <th align=center width="200px">120 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">phase-3-mathematics-2</a></th>
+            <th align=center width="200px">120 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Fundamentals </td><td align=center>10 problems</td><td>Fundamentals </td><td align=center>10 problems</td></tr>
+        <tr><td>Number Theory</td><td align=center>35 problems</td><td>Number Theory</td><td align=center>35 problems</td></tr>
+        <tr><td>Combinatorics</td><td align=center>25 problems</td><td>Combinatorics</td><td align=center>25 problems</td></tr>
+        <tr><td>Algebra      </td><td align=center>25 problems</td><td>Algebra      </td><td align=center>25 problems</td></tr>
+        <tr><td>Geometry     </td><td align=center>30 problems</td><td>Probability  </td><td align=center>25 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">phase-3-graph-string</a></th>
+            <th align=center width="200px">130 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
+            <th align=center width="200px">140 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Graph Theory I </td><td align=center>30 problems</td><td>Bit Manipulation       </td><td align=center>30 problems</td></tr>
+        <tr><td>Graph Theory II</td><td align=center>30 problems</td><td>Dynamic Programming I  </td><td align=center>40 problems</td></tr>
+        <tr><td>Greedy         </td><td align=center>25 problems</td><td>Dynamic Programming II </td><td align=center>30 problems</td></tr>
+        <tr><td>Strings I      </td><td align=center>20 problems</td><td>Dynamic Programming III</td><td align=center>30 problems</td></tr>
+        <tr><td>Strings II     </td><td align=center>20 problems</td><td>Constructive Algorithms</td><td align=center>10 problems</td></tr>
+    </tbody>
+</table>
 
 ## `Notes`
 

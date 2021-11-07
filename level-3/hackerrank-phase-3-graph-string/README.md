@@ -7,7 +7,8 @@
 - ***Graph Theory I***   `30 problems`
 - ***Graph Theory II***  `30 problems`
 - ***Greedy***           `25 problems`
-- ***Strings***          `45 problems`
+- ***Strings I***        `25 problems`
+- ***Strings II***       `25 problems`
 
 ### HackerRank - Graph Theory I `30 problems`
 
@@ -106,7 +107,7 @@
 - [reverse shuffle merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)
 - [team formation](https://www.hackerrank.com/challenges/team-formation/problem)
 
-### HackerRank - Strings `45 problems`
+### HackerRank - Strings I `25 problems`
 
 - [challenges](https://www.hackerrank.com/challenges/reduced-string)
 - [camelcase](https://www.hackerrank.com/challenges/camelcase/problem)
@@ -133,6 +134,9 @@
 - [challenges](https://www.hackerrank.com/challenges/richie-rich)
 - [challenges](https://www.hackerrank.com/challenges/maximum-palindromes)
 - [challenges](https://www.hackerrank.com/challenges/sherlock-and-anagrams)
+
+### HackerRank - Strings II `25 problems`
+
 - [challenges](https://www.hackerrank.com/challenges/common-child)
 - [bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem)
 - [determining dna health](https://www.hackerrank.com/challenges/determining-dna-health/problem)

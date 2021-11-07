@@ -77,7 +77,7 @@
 - [king richards knights](https://www.hackerrank.com/challenges/king-richards-knights/problem)
 - [task scheduling](https://www.hackerrank.com/challenges/task-scheduling/problem)
 - [similarpair](https://www.hackerrank.com/challenges/similarpair/problem)
-- [challenges](https://www.hackerrank.com/challenges/almost-integer-rock-garden)
+- [almost integer rock garden](https://www.hackerrank.com/challenges/almost-integer-rock-garden/problem)
 - [distant pairs](https://www.hackerrank.com/challenges/distant-pairs/problem)
 
 ### HackerEarth - Implementation I `30 problems`
@@ -149,4 +149,4 @@
 - [two pluses](https://www.hackerrank.com/challenges/two-pluses/problem)
 - [larrys array](https://www.hackerrank.com/challenges/larrys-array/problem)
 - [almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
-- [challenges](https://www.hackerrank.com/challenges/matrix-rotation-algo)
+- [matrix rotation algo](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
