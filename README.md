@@ -421,12 +421,12 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
         </tr>
     </thead>
     <tbody>
-        <tr><td>Backtracking           </td><td>35 problems</td><td>Backtracking        </td><td>35 problems</td></tr>
-        <tr><td>Breadth First Search I </td><td>25 problems</td><td>Breadth First Search</td><td>20 problems</td></tr>
-        <tr><td>Breadth First Search II</td><td>25 problems</td><td>Depth First Search  </td><td>20 problems</td></tr>
-        <tr><td>Depth First Search I   </td><td>35 problems</td><td>Graph  I            </td><td>30 problems</td></tr>
-        <tr><td>Depth First Search II  </td><td>35 problems</td><td>Graph  II           </td><td>30 problems</td></tr>
-        <tr><td>Dynamic Programming    </td><td>50 problems</td><td>Dynamic Programming </td><td>30 problems</td></tr>
+        <tr><td>Backtracking           </td><td align=center>35 problems</td><td>Backtracking        </td><td align=center>35 problems</td></tr>
+        <tr><td>Breadth First Search I </td><td align=center>25 problems</td><td>Breadth First Search</td><td align=center>20 problems</td></tr>
+        <tr><td>Breadth First Search II</td><td align=center>25 problems</td><td>Depth First Search  </td><td align=center>20 problems</td></tr>
+        <tr><td>Depth First Search I   </td><td align=center>35 problems</td><td>Graph  I            </td><td align=center>30 problems</td></tr>
+        <tr><td>Depth First Search II  </td><td align=center>35 problems</td><td>Graph  II           </td><td align=center>30 problems</td></tr>
+        <tr><td>Dynamic Programming    </td><td align=center>50 problems</td><td>Dynamic Programming </td><td align=center>30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -508,7 +508,7 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 | `5` | Algebra                  | `55 problems` |                 |               |
 | `6` | Geometry                 | `30 problems` |                 |               |
 | `7` | Probability              | `25 problems` |                 |               |
-|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures)         | 60 problems  |
+|  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              |
 | `1` | Bit Manipulation I        | `15 problems` |
 | `2` | Bit Manipulation II       | `15 problems` |
 | `3` | Dynamic Programming I     | `40 problems` |
