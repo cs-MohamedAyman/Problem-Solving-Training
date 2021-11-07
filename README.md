@@ -455,39 +455,60 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings">phase-3-mathematics-strings</a></th>
-            <th align=center width="200px">230 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph">phase-3-graph</a></th>
-            <th align=center width="200px">300 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-1">phase-3-mathematics-strings-1</a></th>
+            <th align=center width="200px">110 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-2">phase-3-mathematics-strings-2</a></th>
+            <th align=center width="200px">110 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Number Theory I         </td><td align=center>30 problems</td><td>Graph Representation                  </td><td align=center>35 problems</td></tr>
-        <tr><td>Basic Number Theory II        </td><td align=center>30 problems</td><td>Breadth First Search                  </td><td align=center>35 problems</td></tr>
-        <tr><td>Primality Tests               </td><td align=center>30 problems</td><td>Depth First Search I                  </td><td align=center>40 problems</td></tr>
-        <tr><td>Totient Function              </td><td align=center>10 problems</td><td>Depth First Search II                 </td><td align=center>40 problems</td></tr>
-        <tr><td>Basics of Combinatorics       </td><td align=center>30 problems</td><td>Depth First Search III                </td><td align=center>40 problems</td></tr>
-        <tr><td>Inclusione-Exclusion          </td><td align=center>20 problems</td><td>Shortest Path                         </td><td align=center>50 problems</td></tr>
-        <tr><td>Basics of String Manipulation </td><td align=center>40 problems</td><td>Spanning Tree & Biconnected Components</td><td align=center>30 problems</td></tr>
-        <tr><td>String Searching & Z Algorithm</td><td align=center>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td align=center>30 problems</td></tr>
+        <tr><td>Basic Number Theory          </td><td align=center>30 problems</td><tr><td>Basic Number Theory       </td><td align=center>30 problems</td></tr>
+        <tr><td>Primality Tests              </td><td align=center>30 problems</td><td>Basics of Combinatorics       </td><td align=center>30 problems</td></tr>
+        <tr><td>Totient Function             </td><td align=center>10 problems</td><td>Inclusione-Exclusion          </td><td align=center>20 problems</td></tr>
+        <tr><td>Basics of String Manipulation</td><td align=center>40 problems</td><td>String Searching & Z Algorithm</td><td align=center>35 problems</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
-            <th align=center width="200px">220 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures">phase-3-advanced-data-structures</a></th>
-            <th align=center width="200px">230 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-1">phase-3-graph-1</a></th>
+            <th align=center width="200px">150 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-2">phase-3-graph-2</a></th>
+            <th align=center width="200px">150 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Dynamic Programming I    </td><td align=center>50 problems</td><td>Disjoint Sets             </td><td align=center>30 problems</td></tr>
-        <tr><td>Dynamic Programming II   </td><td align=center>50 problems</td><td>Trie                      </td><td align=center>20 problems</td></tr>
-        <tr><td>Dynamic Programming 2D I </td><td align=center>45 problems</td><td>Segment Tree I            </td><td align=center>35 problems</td></tr>
-        <tr><td>Dynamic Programming 2D II</td><td align=center>45 problems</td><td>Segment Tree II           </td><td align=center>35 problems</td></tr>
-        <tr><td>DP and Bit Masking       </td><td align=center>30 problems</td><td>Segment Tree III          </td><td align=center>30 problems</td></tr>
-        <tr><td>DP and Bit Masking       </td><td align=center>30 problems</td><td>Binary Indexed Tree I     </td><td align=center>30 problems</td></tr>
-        <tr><td>                         </td><td align=center>           </td><td>Binary Indexed Tree II    </td><td align=center>30 problems</td></tr>
-        <tr><td>                         </td><td align=center>           </td><td>Suffix Tree & Suffix Array</td><td align=center>20 problems</td></tr>
+        <tr><td>Graph Representation </td><td align=center>35 problems</td><td>Depth First Search III                </td><td align=center>40 problems</td></tr>
+        <tr><td>Breadth First Search </td><td align=center>35 problems</td><td>Shortest Path                         </td><td align=center>50 problems</td></tr>
+        <tr><td>Depth First Search I </td><td align=center>40 problems</td><td>Spanning Tree & Biconnected Components</td><td align=center>30 problems</td></tr>
+        <tr><td>Depth First Search II</td><td align=center>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td align=center>30 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-1">phase-3-dynamic-programming-1</a></th>
+            <th align=center width="200px">110 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-2">phase-3-dynamic-programming-2</a></th>
+            <th align=center width="200px">120 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Dynamic Programming I    </td><td align=center>25 problems</td><td>Dynamic Programming I    </td><td align=center>25 problems</td></tr>
+        <tr><td>Dynamic Programming II   </td><td align=center>25 problems</td><td>Dynamic Programming II   </td><td align=center>25 problems</td></tr>
+        <tr><td>Dynamic Programming 2D I </td><td align=center>25 problems</td><td>Dynamic Programming 2D I </td><td align=center>25 problems</td></tr>
+        <tr><td>Dynamic Programming 2D II</td><td align=center>25 problems</td><td>Dynamic Programming 2D II</td><td align=center>25 problems</td></tr>
+        <tr><td>DP and Bit Masking       </td><td align=center>10 problems</td><td>DP and Bit Masking       </td><td align=center>10 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-1">phase-3-advanced-data-structures-1</a></th>
+            <th align=center width="200px">120 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-2">phase-3-advanced-data-structures-2</a></th>
+            <th align=center width="200px">110 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Disjoint Sets  </td><td align=center>30 problems</td><td>Segment Tree              </td><td align=center>30 problems</td></tr>
+        <tr><td>Trie           </td><td align=center>20 problems</td><td>Binary Indexed Tree I     </td><td align=center>30 problems</td></tr>
+        <tr><td>Segment Tree I </td><td align=center>35 problems</td><td>Binary Indexed Tree II    </td><td align=center>30 problems</td></tr>
+        <tr><td>Segment Tree II</td><td align=center>35 problems</td><td>Suffix Tree & Suffix Array</td><td align=center>20 problems</td></tr>
     </tbody>
 </table>
 
