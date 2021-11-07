@@ -371,13 +371,13 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer </td><td>10 problems</td><td>10 problems</td><td>           </td><td>           </td>
-        <tr><td>Graph              </td><td>10 problems</td><td>10 problems</td><td>10 problems</td><td>10 problems</td>
-        <tr><td>String             </td><td>10 problems</td><td>10 problems</td><td>10 problems</td><td>10 problems</td>
-        <tr><td>Data Structure     </td><td>20 problems</td><td>20 problems</td><td>20 problems</td><td>20 problems</td>
-        <tr><td>Mathematics        </td><td>30 problems</td><td>30 problems</td><td>30 problems</td><td>30 problems</td>
-        <tr><td>Greedy             </td><td>20 problems</td><td>20 problems</td><td>20 problems</td><td>20 problems</td>
-        <tr><td>Dynamic Programming</td><td>           </td><td>           </td><td>10 problems</td><td>10 problems</td>
+        <tr><td>Divide and Conquer </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>           </td><td align=center>           </td>
+        <tr><td>Graph              </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>String             </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>Data Structure     </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
+        <tr><td>Mathematics        </td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td>
+        <tr><td>Greedy             </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
+        <tr><td>Dynamic Programming</td><td align=center>           </td><td align=center>           </td><td align=center>10 problems</td><td align=center>10 problems</td>
     </tbody>
 </table>
 
@@ -395,12 +395,12 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I  </td><td>25 Contests</td><td>Educational Rounds I  </td><td>25 Contests</td><td>GYM Contests 2    </td><td>20 Contests</td></tr>
-        <tr><td>Div3 Contests II </td><td>25 Contests</td><td>Educational Rounds II </td><td>25 Contests</td><td>GYM Contests 3 I  </td><td>25 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td>25 Contests</td><td>Educational Rounds III</td><td>25 Contests</td><td>GYM Contests 3 II </td><td>15 Contests</td></tr>
-        <tr><td>Div3 Contests IV </td><td>25 Contests</td><td>Educational Rounds IV </td><td>25 Contests</td><td>GYM Contests 3 III</td><td>30 Contests</td></tr>
-        <tr><td>                 </td><td>           </td><td>                      </td><td>           </td><td>GYM Contests 3 IV </td><td>30 Contests</td></tr>
-        <tr><td>                 </td><td>           </td><td>                      </td><td>           </td><td>GYM Contests 3 V  </td><td>30 Contests</td></tr>
+        <tr><td>Div3 Contests I  </td><td align=center>25 Contests</td><td align=center>Educational Rounds I  </td><td align=center>25 Contests</td><td align=center>GYM Contests 2    </td><td align=center>20 Contests</td></tr>
+        <tr><td>Div3 Contests II </td><td align=center>25 Contests</td><td align=center>Educational Rounds II </td><td align=center>25 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>25 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td align=center>25 Contests</td><td align=center>Educational Rounds III</td><td align=center>25 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>15 Contests</td></tr>
+        <tr><td>Div3 Contests IV </td><td align=center>25 Contests</td><td align=center>Educational Rounds IV </td><td align=center>25 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>30 Contests</td></tr>
+        <tr><td>                 </td><td align=center>           </td><td align=center>                      </td><td align=center>           </td><td align=center>GYM Contests 3 IV </td><td align=center>30 Contests</td></tr>
+        <tr><td>                 </td><td align=center>           </td><td align=center>                      </td><td align=center>           </td><td align=center>GYM Contests 3 V  </td><td align=center>30 Contests</td></tr>
     </tbody>
 </table>
 
@@ -437,11 +437,11 @@ The LeetCode OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
         </tr>
     </thead>
     <tbody>
-        <tr><td>Union Find & Binary Indexed Tree & Trie</td><td>30 problems</td><td>Segment Tree & Suffix Array & Geometry</td><td>30 problems</td></tr>
-        <tr><td>Math I                                 </td><td>30 problems</td><td>Math I                                </td><td>30 problems</td></tr>
-        <tr><td>Math II                                </td><td>30 problems</td><td>Math II                               </td><td>30 problems</td></tr>
-        <tr><td>String                                 </td><td>50 problems</td><td>String                                </td><td>50 problems</td></tr>
-        <tr><td>Dynamic Programming                    </td><td>50 problems</td><td>Dynamic Programming                   </td><td>50 problems</td></tr>
+        <tr><td>Union Find & Binary Indexed Tree & Trie</td><td align=center>30 problems</td><td>Segment Tree & Suffix Array & Geometry</td><td align=center>30 problems</td></tr>
+        <tr><td>Math I                                 </td><td align=center>30 problems</td><td>Math I                                </td><td align=center>30 problems</td></tr>
+        <tr><td>Math II                                </td><td align=center>30 problems</td><td>Math II                               </td><td align=center>30 problems</td></tr>
+        <tr><td>String                                 </td><td align=center>50 problems</td><td>String                                </td><td align=center>50 problems</td></tr>
+        <tr><td>Dynamic Programming                    </td><td align=center>50 problems</td><td>Dynamic Programming                   </td><td align=center>50 problems</td></tr>
     </tbody>
 </table>
 
@@ -462,14 +462,14 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Number Theory I         </td><td>30 problems</td><td>Graph Representation                  </td><td>35 problems</td></tr>
-        <tr><td>Basic Number Theory II        </td><td>30 problems</td><td>Breadth First Search                  </td><td>35 problems</td></tr>
-        <tr><td>Primality Tests               </td><td>30 problems</td><td>Depth First Search I                  </td><td>40 problems</td></tr>
-        <tr><td>Totient Function              </td><td>10 problems</td><td>Depth First Search II                 </td><td>40 problems</td></tr>
-        <tr><td>Basics of Combinatorics       </td><td>30 problems</td><td>Depth First Search III                </td><td>40 problems</td></tr>
-        <tr><td>Inclusione-Exclusion          </td><td>20 problems</td><td>Shortest Path                         </td><td>50 problems</td></tr>
-        <tr><td>Basics of String Manipulation </td><td>40 problems</td><td>Spanning Tree & Biconnected Components</td><td>30 problems</td></tr>
-        <tr><td>String Searching & Z Algorithm</td><td>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td>30 problems</td></tr>
+        <tr><td>Basic Number Theory I         </td><td align=center>30 problems</td><td>Graph Representation                  </td><td align=center>35 problems</td></tr>
+        <tr><td>Basic Number Theory II        </td><td align=center>30 problems</td><td>Breadth First Search                  </td><td align=center>35 problems</td></tr>
+        <tr><td>Primality Tests               </td><td align=center>30 problems</td><td>Depth First Search I                  </td><td align=center>40 problems</td></tr>
+        <tr><td>Totient Function              </td><td align=center>10 problems</td><td>Depth First Search II                 </td><td align=center>40 problems</td></tr>
+        <tr><td>Basics of Combinatorics       </td><td align=center>30 problems</td><td>Depth First Search III                </td><td align=center>40 problems</td></tr>
+        <tr><td>Inclusione-Exclusion          </td><td align=center>20 problems</td><td>Shortest Path                         </td><td align=center>50 problems</td></tr>
+        <tr><td>Basics of String Manipulation </td><td align=center>40 problems</td><td>Spanning Tree & Biconnected Components</td><td align=center>30 problems</td></tr>
+        <tr><td>String Searching & Z Algorithm</td><td align=center>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td align=center>30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -480,14 +480,14 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings](https://github.com/cs-Mo
         </tr>
     </thead>
     <tbody>
-        <tr><td>Dynamic Programming I    </td><td>50 problems</td><td>Disjoint Sets             </td><td>30 problems</td></tr>
-        <tr><td>Dynamic Programming II   </td><td>50 problems</td><td>Trie                      </td><td>20 problems</td></tr>
-        <tr><td>Dynamic Programming 2D I </td><td>45 problems</td><td>Segment Tree I            </td><td>35 problems</td></tr>
-        <tr><td>Dynamic Programming 2D II</td><td>45 problems</td><td>Segment Tree II           </td><td>35 problems</td></tr>
-        <tr><td>DP and Bit Masking       </td><td>30 problems</td><td>Segment Tree III          </td><td>30 problems</td></tr>
-        <tr><td>DP and Bit Masking       </td><td>30 problems</td><td>Binary Indexed Tree I     </td><td>30 problems</td></tr>
-        <tr><td>                         </td><td>           </td><td>Binary Indexed Tree II    </td><td>30 problems</td></tr>
-        <tr><td>                         </td><td>           </td><td>Suffix Tree & Suffix Array</td><td>20 problems</td></tr>
+        <tr><td>Dynamic Programming I    </td><td align=center>50 problems</td><td>Disjoint Sets             </td><td align=center>30 problems</td></tr>
+        <tr><td>Dynamic Programming II   </td><td align=center>50 problems</td><td>Trie                      </td><td align=center>20 problems</td></tr>
+        <tr><td>Dynamic Programming 2D I </td><td align=center>45 problems</td><td>Segment Tree I            </td><td align=center>35 problems</td></tr>
+        <tr><td>Dynamic Programming 2D II</td><td align=center>45 problems</td><td>Segment Tree II           </td><td align=center>35 problems</td></tr>
+        <tr><td>DP and Bit Masking       </td><td align=center>30 problems</td><td>Segment Tree III          </td><td align=center>30 problems</td></tr>
+        <tr><td>DP and Bit Masking       </td><td align=center>30 problems</td><td>Binary Indexed Tree I     </td><td align=center>30 problems</td></tr>
+        <tr><td>                         </td><td align=center>           </td><td>Binary Indexed Tree II    </td><td align=center>30 problems</td></tr>
+        <tr><td>                         </td><td align=center>           </td><td>Suffix Tree & Suffix Array</td><td align=center>20 problems</td></tr>
     </tbody>
 </table>
 
@@ -509,12 +509,12 @@ The HackerRank OJ sheets [phase-3-mathematics](https://github.com/cs-MohamedAyma
 | `6` | Geometry                 | `30 problems` |                 |               |
 | `7` | Probability              | `25 problems` |                 |               |
 |  | [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming) | 140 problems              | [phase-3-advanced-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-advanced-data-structures)         | 60 problems  |
-| `1` | Bit Manipulation I        | `15 problems` | Heap & Disjoint Set & Trie | `10 problems` |
-| `2` | Bit Manipulation II       | `15 problems` | Advanced I                 | `25 problems` |
-| `3` | Dynamic Programming I     | `40 problems` | Advanced II                | `25 problems` |
-| `4` | Dynamic Programming II    | `30 problems` |                            |               |
-| `5` | Dynamic Programming III   | `30 problems` |                            |               |
-| `6` | Constructive Algorithms   | `10 problems` |                            |               |
+| `1` | Bit Manipulation I        | `15 problems` |
+| `2` | Bit Manipulation II       | `15 problems` |
+| `3` | Dynamic Programming I     | `40 problems` |
+| `4` | Dynamic Programming II    | `30 problems` |
+| `5` | Dynamic Programming III   | `30 problems` |
+| `6` | Constructive Algorithms   | `10 problems` |
 
 ## `Notes`
 
