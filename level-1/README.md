@@ -1,13 +1,15 @@
 # Problem Solving Training
 Problem Solving Training for computer science students.
 
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/algoexpert.jpg">
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/algoexpert.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/topcoder.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/spoj.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img>
 <br><br><br><br>
 
 ## Table of Contents
@@ -17,7 +19,6 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [Notes](#notes)
-
 
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
@@ -66,7 +67,7 @@ The Codeforces OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-
 
 ## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
-The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. For the last sheet [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) that focus on the basic programming problems, It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). Also, this sheet was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~130 problems.
+The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3), [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). 
 
 <table>
     <thead>
@@ -122,5 +123,5 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
 
 ## `Notes`
 
-* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google CodeJam or Google KickStart or Facebook Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets*** and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***AlgoExpert sheets*** and ***LeetCode sheets***.
+* If the student has a target to compete in the programming competitions like ***ACM-ICPC or Google CodeJam or Google KickStart or Facebook Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets***, ***Spoj sheets***, and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***AlgoExpert sheets***, ***URI sheets***, and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
