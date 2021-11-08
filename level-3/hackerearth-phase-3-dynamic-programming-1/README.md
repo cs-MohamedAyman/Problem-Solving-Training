@@ -1,0 +1,136 @@
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+
+## [HackerEarth](https://hackerearth.com/) OJ - Dynamic Programming 1 `110 problems` `80 hrs`
+
+### Table of Content
+
+- ***Dynamic Programming I***               `25 problems`
+- ***Dynamic Programming II***              `25 problems`
+- ***Dynamic Programming 2D I***            `25 problems`
+- ***Dynamic Programming 2D II***           `25 problems`
+- ***Dynamic Programming and Bit Masking*** `10 problems`
+
+### HackerEarth - Dynamic Programming `25 problems`
+
+- [win the game](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/win-the-game/)
+- [angry neighbours](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/angry-neighbours/)
+- [intelligent girl 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/intelligent-girl-1/)
+- [special palindrome 3](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/special-palindrome-3/)
+- [odd even subarrays](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/odd-even-subarrays-72ad69db/)
+- [coin toss](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/coin-toss/)
+- [xsquare and balanced strings](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-balanced-strings/)
+- [ultimate stairway to heaven](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/ultimate-stairway-to-heaven/)
+- [lets begin](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/lets-begin/)
+- [accomodation](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/accomodation-a5c006f3/)
+- [choosing the judges 7](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/choosing-the-judges-7/)
+- [hp and counting number of ways](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hp-and-counting-number-of-ways-1d73a6a4/)
+- [studious little jhool](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/studious-little-jhool/)
+- [xsquare and two arrays](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-two-arrays/)
+- [prateek and theories 3](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prateek-and-theories-3/)
+- [the philosophers pearl](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/the-philosophers-pearl/)
+- [tablets](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/tablets/)
+- [equal array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/equal-array-84cf6c5f/)
+- [jump k forward](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/)
+- [dhoni and holidays](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/dhoni-and-holidays/)
+- [sumits sub array and sub sequence](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/sumits-sub-array-and-sub-sequence/)
+- [roses for valentine](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roses-for-valentine-4a795f72/)
+- [rhezo and prime problems](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/rhezo-and-prime-problems/)
+- [once upon a time in time land](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/once-upon-a-time-in-time-land/)
+- [yogi and his steps](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/yogi-and-his-steps-65b27a4b/)
+- [abcd 26](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/abcd-26-81bc0a09/)
+
+### HackerEarth - Dynamic Programming II `25 problems`
+
+- [prime numbers again](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prime-numbers-again/)
+- [help patwari](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/help-patwari/)
+- [the chocolate boy](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/the-chocolate-boy-738c799b/)
+- [analytically stable](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/analytically-stable-123d6381/)
+- [maximum sum 12](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/maximum-sum-12/)
+- [maze 5](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/maze-5/)
+- [xsquare and chocolates bars 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-chocolates-bars-2/)
+- [xsquare and coin collection 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-coin-collection-2/)
+- [flat earth society](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/flat-earth-society/)
+- [tower of hanoi 17](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/tower-of-hanoi-17/)
+- [super two letter strings](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/super-two-letter-strings/)
+- [bike trip](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/bike-trip/)
+- [maximum chocolate 3](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/maximum-chocolate-3/)
+- [panda and numbers](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/panda-and-numbers/)
+- [roy and sweets](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-sweets/)
+- [save rishabhs kidney](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/save-rishabhs-kidney/)
+- [array modification 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/array-modification-2-dc88ff8a/)
+- [hasan and points pairing](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-points-pairing/)
+- [hasan and trip](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-trip/)
+- [fredo and two strings 247e6c24](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/fredo-and-two-strings-247e6c24/)
+- [the demonetization dilemma](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/the-demonetization-dilemma/)
+- [beautiful sequence](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/beautiful-sequence/)
+- [numerical armageddon round 1 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/numerical-armageddon-round-1-1/)
+- [a weird game](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/a-weird-game-e2b9afe4/)
+- [game of colors](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/game-of-colors/)
+- [pankaj and his in laws](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/pankaj-and-his-in-laws/)
+
+### HackerEarth - Dynamic Programming 2D I `25 problems`
+
+- [palindromic sub string length](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindromic-sub-string-length/)
+- [real estate 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/real-estate-1-059f5228/)
+- [ball elimination](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/ball-elimination/)
+- [harry potter and spells](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/harry-potter-and-spells-277e11c7/)
+- [largest subsequence](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/largest-subsequence-c554fb8c/)
+- [bino sum 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/bino-sum-1/)
+- [help ashwin](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/help-ashwin/)
+- [final voyage 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/final-voyage-1/)
+- [vanya and gcd array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/)
+- [prime game 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/prime-game-1-2604365b/)
+- [roy and flower farm](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/roy-and-flower-farm/)
+- [palindrome count 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindrome-count-1/)
+- [number formation](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/number-formation-1cae96c5/)
+- [binomial sum of products caff260f](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/binomial-sum-of-products-caff260f/)
+- [gold mines 10](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/gold-mines-10/)
+- [k cut and product](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/k-cut-and-product-e5998b3f/)
+- [boolean expressions 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/boolean-expressions-2/)
+- [weird sum](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/weird-sum-1d2a0a2e/)
+- [the maze runner](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/the-maze-runner/)
+- [color the bricks 446ade81](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/color-the-bricks-446ade81/)
+- [panda and xor](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/panda-and-xor/)
+- [sum conversion](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/sum-conversion-b97a174a/)
+- [next lucky number](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/next-lucky-number/)
+
+### HackerEarth - Dynamic Programming 2D II `25 problems`
+
+- [longest increasing path 9](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/longest-increasing-path-9/)
+- [maximise xor](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/maximise-xor-f240c1e1/)
+- [partitioning binary strings 857646e9](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/partitioning-binary-strings-857646e9/)
+- [bob and forest](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/bob-and-forest-2571cd1f/)
+- [nimxor and bit strings](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/nimxor-and-bit-strings/)
+- [cross the stairs](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/cross-the-stairs/)
+- [booboo and travelling circuits](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/booboo-and-travelling-circuits/)
+- [packers n movers](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/packers-n-movers/)
+- [gudi and the magical orbs july easy](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/gudi-and-the-magical-orbs-july-easy/)
+- [dummy2 5](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/dummy2-5/)
+- [47s dilemma](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/47s-dilemma/)
+- [finding greedy path 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/finding-greedy-path-2/)
+- [reversal sort](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/reversal-sort/)
+- [set selection 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/set-selection-1/)
+- [help him](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/help-him-9659b063/)
+- [help raj play table tennis](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/help-raj-play-table-tennis/)
+- [array and sums](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/array-and-sums-6e5e7323/)
+- [rook path](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/rook-path-142e55ee/)
+- [traditional array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/traditional-array/)
+- [the final confusion](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/the-final-confusion/)
+- [queensland and schools](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/queensland-and-schools-1d351e31/)
+- [tom jerry 2025](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/tom-jerry-2025/)
+
+### HackerEarth - Dynamic Programming and Bit Masking `10 problems`
+
+- [fifth 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/fifth-1/)
+- [sherlock and coprime subset](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/sherlock-and-coprime-subset/)
+- [the ghost type](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/the-ghost-type/)
+- [micro and lucky tree](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/micro-and-lucky-tree/)
+- [misha and subsequence sum](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/misha-and-subsequence-sum-fe9b0fc3/)
+- [mehta and the tricky triplets](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/mehta-and-the-tricky-triplets/)
+- [brofree](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/brofree-34df073d/)
+- [broken amit](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/broken-amit/)
+- [when the integers got upset](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/when-the-integers-got-upset/)
+- [faizu on a space war](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/faizu-on-a-space-war/)
+- [akatsuki vs leaf circuit](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/akatsuki-vs-leaf-circuit/)
+- [every digit](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/every-digit/)
+- [misha and boxes](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/misha-and-boxes-b7e70bc6/)

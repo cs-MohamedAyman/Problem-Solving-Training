@@ -4,14 +4,13 @@
 
 ### Table of Content
 
-- ***Bit Manipulation I***        `15 problems`
-- ***Bit Manipulation II***       `15 problems`
+- ***Bit Manipulation***          `30 problems`
 - ***Dynamic Programming I***     `40 problems`
 - ***Dynamic Programming II***    `30 problems`
 - ***Dynamic Programming III***   `30 problems`
 - ***Constructive Algorithms***   `10 problems`
 
-### HackerRank - Bit Manipulation I `15 problems`
+### HackerRank - Bit Manipulation `30 problems`
 
 - [lonely integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
 - [maximizing xor](https://www.hackerrank.com/challenges/maximizing-xor/problem)
@@ -27,9 +26,6 @@
 - [cipher](https://www.hackerrank.com/challenges/cipher/problem)
 - [whats next](https://www.hackerrank.com/challenges/whats-next/problem)
 - [aorb](https://www.hackerrank.com/challenges/aorb/problem)
-
-### HackerRank - Bit Manipulation II `15 problems`
-
 - [xoring ninja](https://www.hackerrank.com/challenges/xoring-ninja/problem)
 - [xor matrix](https://www.hackerrank.com/challenges/xor-matrix/problem)
 - [string transmission](https://www.hackerrank.com/challenges/string-transmission/problem)
