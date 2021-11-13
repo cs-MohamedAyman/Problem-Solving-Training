@@ -38,7 +38,7 @@ Related Training: [Advanced Data Structures and Algorithms Analysis Training](ht
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Mathematics - String - Greedy - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) that focus on gym-contests that contains ~200 contests. 
+The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) that focus on gym-contests that contains ~200 contests. 
 
 <table>
     <thead>
@@ -51,20 +51,20 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
         <tr>
             <td align=center width="500px"></td>
-            <th align=center width="250px">100 problems</th>
-            <th align=center width="250px">100 problems</th>
-            <th align=center width="250px">100 problems</th>
-            <th align=center width="250px">100 problems</th>
+            <th align=center width="250px">120 problems</th>
+            <th align=center width="250px">120 problems</th>
+            <th align=center width="250px">120 problems</th>
+            <th align=center width="250px">130 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>           </td><td align=center>           </td>
-        <tr><td>Graph              </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
-        <tr><td>String             </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>Divide and Conquer </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>15 problems</td>
+        <tr><td>Graph              </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>String             </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
         <tr><td>Data Structure     </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
         <tr><td>Mathematics        </td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td>
-        <tr><td>Greedy             </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
-        <tr><td>Dynamic Programming</td><td align=center>           </td><td align=center>           </td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>Greedy             </td><td align=center>25 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
+        <tr><td>Dynamic Programming</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
     </tbody>
 </table>
 
