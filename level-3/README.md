@@ -58,13 +58,13 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>15 problems</td>
-        <tr><td>Graph              </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
-        <tr><td>String             </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
-        <tr><td>Data Structure     </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
-        <tr><td>Mathematics        </td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td>
-        <tr><td>Greedy             </td><td align=center>25 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
-        <tr><td>Dynamic Programming</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>Divide and Conquer    </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>15 problems</td>
+        <tr><td>Graph                 </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>String                </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>Data Structure        </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
+        <tr><td>Math and Number Theory</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td>
+        <tr><td>Greedy and Brute Force</td><td align=center>25 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
+        <tr><td>Dynamic Programming   </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
     </tbody>
 </table>
 
