@@ -18,20 +18,60 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Level 3](#level-3)
      * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
      * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [Notes](#notes-2)
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 23 sheets, 7 sheets of them on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, plus 8 sheets on HackerEarth Online Judge, and the last 4 sheets on HackerRank Online Judge.
+This level simply consists of 23 sheets, 4 sheets of them on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
 Related Training: [Advanced Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training) Repository
+
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<br>
+
+## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+
+The HackerRank OJ sheets [phase-3-mathematics-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1), [phase-3-mathematics-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2), [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), These sheets contain string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~130 problems.
+
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">phase-3-mathematics-1</a></th>
+            <th align=center width="200px">120 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">phase-3-mathematics-2</a></th>
+            <th align=center width="200px">120 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Fundamentals </td><td align=center>10 problems</td><td>Fundamentals </td><td align=center>10 problems</td></tr>
+        <tr><td>Number Theory</td><td align=center>35 problems</td><td>Number Theory</td><td align=center>35 problems</td></tr>
+        <tr><td>Combinatorics</td><td align=center>25 problems</td><td>Combinatorics</td><td align=center>25 problems</td></tr>
+        <tr><td>Algebra      </td><td align=center>25 problems</td><td>Algebra      </td><td align=center>25 problems</td></tr>
+        <tr><td>Geometry     </td><td align=center>30 problems</td><td>Probability  </td><td align=center>25 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">phase-3-graph-string</a></th>
+            <th align=center width="200px">130 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
+            <th align=center width="200px">140 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Graph Theory I </td><td align=center>30 problems</td><td>Bit Manipulation       </td><td align=center>30 problems</td></tr>
+        <tr><td>Graph Theory II</td><td align=center>30 problems</td><td>Dynamic Programming I  </td><td align=center>40 problems</td></tr>
+        <tr><td>Greedy         </td><td align=center>25 problems</td><td>Dynamic Programming II </td><td align=center>30 problems</td></tr>
+        <tr><td>Strings I      </td><td align=center>20 problems</td><td>Dynamic Programming III</td><td align=center>30 problems</td></tr>
+        <tr><td>Strings II     </td><td align=center>20 problems</td><td>Constructive Algorithms</td><td align=center>10 problems</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 <br>
@@ -196,46 +236,6 @@ The HackerEarth OJ sheets [phase-3-mathematics-strings-1](https://github.com/cs-
         <tr><td>Trie           </td><td align=center>20 problems</td><td>Binary Indexed Tree I     </td><td align=center>30 problems</td></tr>
         <tr><td>Segment Tree I </td><td align=center>35 problems</td><td>Binary Indexed Tree II    </td><td align=center>30 problems</td></tr>
         <tr><td>Segment Tree II</td><td align=center>35 problems</td><td>Suffix Tree & Suffix Array</td><td align=center>20 problems</td></tr>
-    </tbody>
-</table>
-
-<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
-<br>
-
-## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
-
-The HackerRank OJ sheets [phase-3-mathematics-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1), [phase-3-mathematics-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2), [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming), These sheets contain string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~130 problems.
-
-<table>
-    <thead>
-        <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">phase-3-mathematics-1</a></th>
-            <th align=center width="200px">120 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">phase-3-mathematics-2</a></th>
-            <th align=center width="200px">120 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Fundamentals </td><td align=center>10 problems</td><td>Fundamentals </td><td align=center>10 problems</td></tr>
-        <tr><td>Number Theory</td><td align=center>35 problems</td><td>Number Theory</td><td align=center>35 problems</td></tr>
-        <tr><td>Combinatorics</td><td align=center>25 problems</td><td>Combinatorics</td><td align=center>25 problems</td></tr>
-        <tr><td>Algebra      </td><td align=center>25 problems</td><td>Algebra      </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry     </td><td align=center>30 problems</td><td>Probability  </td><td align=center>25 problems</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">phase-3-graph-string</a></th>
-            <th align=center width="200px">130 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
-            <th align=center width="200px">140 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Graph Theory I </td><td align=center>30 problems</td><td>Bit Manipulation       </td><td align=center>30 problems</td></tr>
-        <tr><td>Graph Theory II</td><td align=center>30 problems</td><td>Dynamic Programming I  </td><td align=center>40 problems</td></tr>
-        <tr><td>Greedy         </td><td align=center>25 problems</td><td>Dynamic Programming II </td><td align=center>30 problems</td></tr>
-        <tr><td>Strings I      </td><td align=center>20 problems</td><td>Dynamic Programming III</td><td align=center>30 problems</td></tr>
-        <tr><td>Strings II     </td><td align=center>20 problems</td><td>Constructive Algorithms</td><td align=center>10 problems</td></tr>
     </tbody>
 </table>
 

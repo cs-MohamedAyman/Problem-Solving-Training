@@ -18,20 +18,105 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Level 2](#level-2)
      * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [URI Online Judge Sheets](#uri-oj-sheets)
+     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
      * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [Notes](#notes)
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-This level simply consists of 19 sheets, 7 sheets of them on Codeforces Online Judge, 6 sheets of them on LeetCode Online Judge, plus 4 sheets on HackerEarth Online Judge, and the last 2 sheets on HackerRank Online Judge.
+This level simply consists of 25 sheets, 6 sheets of them on URI Online Judge, 2 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 6 sheets of them on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 <br>
 Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
+
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
+<br>
+
+## [`URI OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
+
+The URI OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-2-4), [phase-2-5](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-2-5), [phase-2-6](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-2-6) each sheet of them divided into 7 classes of problems (Ad-Hoc - Strings - Data Structures - Mathematics - Graph - Paradigms - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~160 problems.
+
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-1">phase-2-1</a></th>
+            <th align=center width="150px">160 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-2">phase-2-2</a></th>
+            <th align=center width="150px">160 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Ad-Hoc         </td><td align=center>25 problems</td><td>Ad-Hoc         </td><td align=center>25 problems</td></tr>
+        <tr><td>Strings        </td><td align=center>15 problems</td><td>Strings        </td><td align=center>15 problems</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
+        <tr><td>Mathematics    </td><td align=center>20 problems</td><td>Mathematics    </td><td align=center>20 problems</td></tr>
+        <tr><td>Graph          </td><td align=center>40 problems</td><td>Graph          </td><td align=center>40 problems</td></tr>
+        <tr><td>Paradigms      </td><td align=center>35 problems</td><td>Paradigms      </td><td align=center>35 problems</td></tr>
+        <tr><td>Geometry       </td><td align=center>10 problems</td><td>Geometry       </td><td align=center>10 problems</td></tr>
+    </tbody>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-3">phase-2-3</a></th>
+            <th align=center width="150px">160 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-4">phase-2-4</a></th>
+            <th align=center width="150px">160 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Ad-Hoc         </td><td align=center>25 problems</td><td>Ad-Hoc         </td><td align=center>25 problems</td></tr>
+        <tr><td>Strings        </td><td align=center>15 problems</td><td>Strings        </td><td align=center>15 problems</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
+        <tr><td>Mathematics    </td><td align=center>20 problems</td><td>Mathematics    </td><td align=center>20 problems</td></tr>
+        <tr><td>Graph          </td><td align=center>40 problems</td><td>Graph          </td><td align=center>40 problems</td></tr>
+        <tr><td>Paradigms      </td><td align=center>35 problems</td><td>Paradigms      </td><td align=center>35 problems</td></tr>
+        <tr><td>Geometry       </td><td align=center>10 problems</td><td>Geometry       </td><td align=center>10 problems</td></tr>
+    </tbody>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-5">phase-2-5</a></th>
+            <th align=center width="150px">125 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-6">phase-2-6</a></th>
+            <th align=center width="150px">125 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Ad-Hoc         </td><td align=center>15 problems</td><td>Ad-Hoc         </td><td align=center>15 problems</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
+        <tr><td>Data Structures</td><td align=center>10 problems</td><td>Data Structures</td><td align=center>10 problems</td></tr>
+        <tr><td>Mathematics    </td><td align=center>10 problems</td><td>Mathematics    </td><td align=center>10 problems</td></tr>
+        <tr><td>Graph          </td><td align=center>50 problems</td><td>Graph          </td><td align=center>50 problems</td></tr>
+        <tr><td>Paradigms      </td><td align=center>25 problems</td><td>Paradigms      </td><td align=center>25 problems</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+    </tbody>
+</table>
+
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<br>
+
+## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
+
+The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems plus advanced data structures problems, and basic algorithms problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
+
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
+            <th align=center width="200px">120 problems</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
+            <th align=center width="200px">120 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Arrays & Linked Lists     </td><td align=center>20 problems</td><td>Warm-up & Recursion</td><td align=center>20 problems</td></tr>
+        <tr><td>Stacks & Queues           </td><td align=center>10 problems</td><td>Sorting            </td><td align=center>15 problems</td></tr>
+        <tr><td>Trees & Balanced Trees    </td><td align=center>25 problems</td><td>Search             </td><td align=center>25 problems</td></tr>
+        <tr><td>Heap & Disjoint Set & Trie</td><td align=center>10 problems</td><td>Implementation I   </td><td align=center>30 problems</td></tr>
+        <tr><td>Advanced                  </td><td align=center>50 problems</td><td>Implementation II  </td><td align=center>30 problems</td></tr>
+    </tbody>
+</table>
 
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 <br>
@@ -182,31 +267,6 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
         <tr><td>Binary Search I </td><td align=center>50 problems</td><td>Quick & Count & Heap                  </td><td align=center>20 problems</td></tr>
         <tr><td>Binary Search II</td><td align=center>50 problems</td><td>Greedy Algorithms I                   </td><td align=center>40 problems</td></tr>
         <tr><td>Ternary Search  </td><td align=center> 5 problems</td><td>Greedy Algorithms II                  </td><td align=center>40 problems</td></tr>
-    </tbody>
-</table>
-
-<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
-<br>
-
-## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
-
-The HackerRank OJ sheets [phase-2-data-structures](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures), [phase-2-algorithms-basics](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics), These sheets contain linear and non-linear data structures problems plus advanced data structures problems, and basic algorithms problems. Also, these sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
-
-<table>
-    <thead>
-        <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
-            <th align=center width="200px">120 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
-            <th align=center width="200px">120 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Arrays & Linked Lists     </td><td align=center>20 problems</td><td>Warm-up & Recursion</td><td align=center>20 problems</td></tr>
-        <tr><td>Stacks & Queues           </td><td align=center>10 problems</td><td>Sorting            </td><td align=center>15 problems</td></tr>
-        <tr><td>Trees & Balanced Trees    </td><td align=center>25 problems</td><td>Search             </td><td align=center>25 problems</td></tr>
-        <tr><td>Heap & Disjoint Set & Trie</td><td align=center>10 problems</td><td>Implementation I   </td><td align=center>30 problems</td></tr>
-        <tr><td>Advanced                  </td><td align=center>50 problems</td><td>Implementation II  </td><td align=center>30 problems</td></tr>
     </tbody>
 </table>
 
