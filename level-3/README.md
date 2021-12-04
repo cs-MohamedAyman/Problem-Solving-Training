@@ -26,7 +26,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 23 sheets, 4 sheets of them on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets of them on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 23 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
