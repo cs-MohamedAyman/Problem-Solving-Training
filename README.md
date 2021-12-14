@@ -461,7 +461,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 23 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 25 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
@@ -563,6 +563,29 @@ The Codeforces OJ sheets [phase-3-1](https://github.com/cs-MohamedAyman/Problem-
         <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>30 Contests</td></tr>
         <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td align=center>Educational Rounds V  </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 IV </td><td align=center>30 Contests</td></tr>
         <tr><td>                 </td><td align=center>           </td><td align=center>                      </td><td align=center>           </td><td align=center>GYM Contests 3 V  </td><td align=center>30 Contests</td></tr>
+    </tbody>
+</table>
+
+<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<br>
+
+## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+
+The AtCoder OJ sheets [phase-3-beginner-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-beginner-contests), [phase-3-regular-grand-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-regular-grand-contests), These sheets focus on beginner contests (easy contests) and contains ~180 contests, and focus on regular + Grand contests (medium contests) and contains ~120 contests
+
+<table>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-beginner-contests">phase-3-beginner-contests</a></th>
+            <th align=center width="200px">180 contests</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-regular-grand-contests">phase-3-regular-grand-contests</a></th>
+            <th align=center width="200px">120 contests</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>2016-2017 Beginner Contests</td><td align=center>40 contests</td><td>Regular Contests</td><td align=center>70 contests</td></tr>
+        <tr><td>2018-2019 Beginner Contests</td><td align=center>60 contests</td><td>Grand Contests  </td><td align=center>50 contests</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align=center>80 contests</td><td>                </td><td align=center>           </td></tr>
     </tbody>
 </table>
 
