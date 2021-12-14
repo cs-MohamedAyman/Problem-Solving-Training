@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
 
 ## [AtCoder](https://atcoder.jp/) OJ - Regular and Grand Contests `120 contests` `120 hrs`
 
