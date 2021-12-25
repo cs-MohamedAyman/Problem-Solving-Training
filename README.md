@@ -510,7 +510,7 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 3 sheet2 on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 3 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
