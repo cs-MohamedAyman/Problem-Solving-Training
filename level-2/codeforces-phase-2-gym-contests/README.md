@@ -4,12 +4,11 @@
 
 ### Table of Content
 
-- ***Codeforces GYM Contests 2***     	`25 contests`
-- ***Codeforces GYM Contests 3 I*** 	`35 contests`
-- ***Codeforces GYM Contests 3 II*** 	`35 contests`
-- ***Codeforces GYM Contests 3 III*** 	`35 contests`
-- ***Codeforces GYM Contests 3 IV*** 	`50 contests`
-- ***Codeforces GYM Contests 3 V*** 	`50 contests`
+- ***Codeforces GYM Contests 2***     `25 contests`
+- ***Codeforces GYM Contests 3 I***   `50 contests`
+- ***Codeforces GYM Contests 3 II***  `50 contests`
+- ***Codeforces GYM Contests 3 III*** `50 contests`
+- ***Codeforces GYM Contests 3 IV***  `50 contests`
 
 ### Codeforces - GYM Contests 2 `25 contests`
 
@@ -39,7 +38,7 @@
 - Municipal stage of the Russian Olympiad in Informatics (ROI), Smolensk: https://codeforces.com/gym/102894
 - Brookfield Computer Programming Challenge 1: https://codeforces.com/gym/102680
 
-### Codeforces -  GYM Contests 3 I `35 contests`
+### Codeforces -  GYM Contests 3 I `50 contests`
 
 - 2011-2012 Wroclaw Short Training Contest (contest 7): https://codeforces.com/gym/100048
 - 2011-2012 Wroclaw Short Training Contest (contest 8): https://codeforces.com/gym/100049
@@ -75,9 +74,6 @@
 - Semana i 2018: https://codeforces.com/gym/101917
 - 2018 JUST Programming Contest 1.0: https://codeforces.com/gym/101778
 - 2016 PSUT Coding Marathon: https://codeforces.com/gym/100989
-
-### Codeforces -  GYM Contests 3 II `35 contests`
-
 - KTU Programming Camp (Day 1): https://codeforces.com/gym/100735
 - KTU Programming Camp (Day 2): https://codeforces.com/gym/100738
 - KTU Programming Camp (Day 3): https://codeforces.com/gym/100739
@@ -93,6 +89,9 @@
 - Innopolis Open, Elimination round, 2016-2017: https://codeforces.com/gym/101182
 - Innopolis Open, Elimination round 1, 2017-2018: https://codeforces.com/gym/101627
 - Innopolis Open, Elimination round 2, 2017-2018: https://codeforces.com/gym/101640
+
+### Codeforces -  GYM Contests 3 II `50 contests`
+
 - Innopolis Open, First elimination round, 2018-2019: https://codeforces.com/gym/102032
 - Innopolis Open, Second elimination round, 2018-2019: https://codeforces.com/gym/102052
 - Innopolis Open 2019-2020, qualification, contest 1: https://codeforces.com/gym/102436
@@ -110,9 +109,6 @@
 - The 14-th BIT Campus Programming Contest: https://codeforces.com/gym/102174
 - NCD 2019: https://codeforces.com/gym/102163
 - 2017 Hackatari Codeathon: https://codeforces.com/gym/101257
-
-### Codeforces -  GYM Contests 3 III `35 contests`
-
 - 2010-2011 VII International Zhautykov Olympiad: https://codeforces.com/gym/100147
 - 2009-2010 VI International Zhautykov Olympiad: https://codeforces.com/gym/100143
 - 2008-2009 V International Zhautykov Olympiad: https://codeforces.com/gym/100142
@@ -146,7 +142,7 @@
 - 2014-2015 Kiev City School Programming Olympiad: https://codeforces.com/gym/100590
 - Team Olympiad for schoolchildren of the Nizhny Novgorod region in programming 2014: https://codeforces.com/gym/100528
 
-### Codeforces -  GYM Contests 3 IV `50 contests`
+### Codeforces -  GYM Contests 3 III `50 contests`
 
 - XXV Spain Olympiad in Informatics, Day 1: https://codeforces.com/gym/103214
 - XXV Spain Olympiad in Informatics, Day 2: https://codeforces.com/gym/103218
@@ -199,7 +195,7 @@
 - 2013-2014 Training SPbSU B # 5 Minimum spanning tree: https://codeforces.com/gym/100238
 - 2013-2014 Training SPbU B # 6 Fenwick tree: https://codeforces.com/gym/100246
 
-### Codeforces -  GYM Contests 3 V `50 contests`
+### Codeforces -  GYM Contests 3 IV `50 contests`
 
 - 2017 Spring Waterloo ACM Local Contest: https://codeforces.com/gym/101431
 - 2016-2017 ACM-ICPC Pacific Northwest Regional Contest (Div. 2): https://codeforces.com/gym/101291
