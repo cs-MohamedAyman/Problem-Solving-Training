@@ -34,6 +34,9 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 <br>
 Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
 
+## `Level Timeline`
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-timeline.jpg"></img>
+
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
 <br>
 
@@ -115,8 +118,7 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
         <tr><td>Arrays and Strings         </td><td align=center>10 problems</td><td>Collections       </td><td align=center>30 problems</td></tr>
         <tr><td>Functions                  </td><td align=center> 5 problems</td><td>Functions         </td><td align=center>10 problems</td></tr>
         <tr><td>Standard Template Libraries</td><td align=center> 5 problems</td><td>Standard Libraries</td><td align=center>25 problems</td></tr>
-        <tr><td>Structs and Enums          </td><td align=center> 5 problems</td><td>Classes           </td><td align=center>10 problems</td></tr>
-        <tr><td>Classes and Inheritance    </td><td align=center>15 problems</td><td>                  </td><td align=center>           </td></tr>
+        <tr><td>Structs and Classes        </td><td align=center>30 problems</td><td>Classes           </td><td align=center>10 problems</td></tr>
     </tbody>
 </table>
 
