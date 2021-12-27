@@ -122,7 +122,7 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
     <thead>
         <tr>
             <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></th>
-            <th align=center width="150px">60 problems</th>
+            <th align=center width="150px">70 problems</th>
             <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></th>
             <th align=center width="150px">100 problems</th>
         </tr>
@@ -133,8 +133,7 @@ The HackerRank OJ sheets [phase-1-cpp](https://github.com/cs-MohamedAyman/Proble
         <tr><td>Arrays and Strings         </td><td align=center>10 problems</td><td>Collections       </td><td align=center>30 problems</td></tr>
         <tr><td>Functions                  </td><td align=center> 5 problems</td><td>Functions         </td><td align=center>10 problems</td></tr>
         <tr><td>Standard Template Libraries</td><td align=center> 5 problems</td><td>Standard Libraries</td><td align=center>25 problems</td></tr>
-        <tr><td>Structs and Enums          </td><td align=center> 5 problems</td><td>Classes           </td><td align=center>10 problems</td></tr>
-        <tr><td>Classes and Inheritance    </td><td align=center>15 problems</td><td>                  </td><td align=center>           </td></tr>
+        <tr><td>Structs and Classes        </td><td align=center>30 problems</td><td>Classes           </td><td align=center>10 problems</td></tr>
     </tbody>
 </table>
 
@@ -392,16 +391,15 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
         <tr>
             <th align=center width="500px" colspan="2">100 contests</th>
             <th align=center width="500px" colspan="2">100 contests</th>
-            <th align=center width="500px" colspan="2">200 contests</th>
+            <th align=center width="500px" colspan="2">225 contests</th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td align=center>Educational Rounds I  </td><td align=center>20 Contests</td><td align=center>GYM Contests 2    </td><td align=center>25 Contests</td></tr>
-        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td align=center>Educational Rounds II </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>35 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td align=center>Educational Rounds III</td><td align=center>20 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>35 Contests</td></tr>
-        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>35 Contests</td></tr>
+        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td align=center>Educational Rounds II </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>50 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td align=center>Educational Rounds III</td><td align=center>20 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>50 Contests</td></tr>
+        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>50 Contests</td></tr>
         <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td align=center>Educational Rounds V  </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 IV </td><td align=center>50 Contests</td></tr>
-        <tr><td>                 </td><td align=center>           </td><td align=center>                      </td><td align=center>           </td><td align=center>GYM Contests 3 V  </td><td align=center>50 Contests</td></tr>
     </tbody>
 </table>
 
