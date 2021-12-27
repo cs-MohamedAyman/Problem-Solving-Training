@@ -1,6 +1,6 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Gym Contests `225 contests` `600 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Gym Contests `225 contests` `500 hrs`
 
 ### Table of Content
 
