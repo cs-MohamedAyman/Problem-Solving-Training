@@ -8,7 +8,7 @@
 - ***Condition***      `20 problems`
 - ***Loop***           `25 problems`
 - ***String***         `30 problems`
-- ***List***           `35 problems`
+- ***List / Array***   `35 problems`
 
 ### Codeforces - Basic Operator `5 problems`
 
@@ -102,7 +102,7 @@
 - CF-Round 409: https://codeforces.com/problemset/problem/801/A
 - CF-Round 442: https://codeforces.com/problemset/problem/877/A
 
-### Codeforces - List `35 problems`
+### Codeforces - List / Array `35 problems`
 
 - CF-Round 112: https://codeforces.com/problemset/problem/165/A
 - CF-Round 204: https://codeforces.com/problemset/problem/352/A
