@@ -4,14 +4,12 @@
 
 ### Table of Content
 
-- ***Introduction*** 				`15 problems`
-- ***Conditionals and Loops*** 		`5 problems`
-- ***Arrays and Strings*** 			`10 problems`
-- ***Functions*** 					`5 problems`
-- ***Standard Template Libraries*** `5 problems`
-- ***Structs and Enums*** 			`5 problems`
-- ***Classes and Inheritance*** 	`15 problems`
-- ***Misc*** 						`10 problems`
+- ***Introduction***                 `15 problems`
+- ***Conditionals and Loops***       `5 problems`
+- ***Arrays and Strings***           `10 problems`
+- ***Functions***                    `5 problems`
+- ***Standard Template Libraries***  `5 problems`
+- ***Structs and Classes***          `30 problems`
 
 ### HackerRank - Introduction `15 problems`
 
@@ -68,15 +66,12 @@
 - [prettyprint](https://www.hackerrank.com/challenges/prettyprint/problem)
 - [deque stl](https://www.hackerrank.com/challenges/deque-stl/problem)
 
-### HackerRank - Structs and Enums `5 problems`
+### HackerRank - Structs and Classes `30 problems`
 
 - [too high boxes](https://www.hackerrank.com/challenges/too-high-boxes/problem)
 - [small triangles large triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)
 - [post transition](https://www.hackerrank.com/challenges/post-transition/problem)
 - [structuring the document](https://www.hackerrank.com/challenges/structuring-the-document/problem)
-
-### HackerRank - Classes and Inheritance `15 problems`
-
 - [c tutorial struct](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)
 - [c tutorial class](https://www.hackerrank.com/challenges/c-tutorial-class/problem)
 - [classes objects](https://www.hackerrank.com/challenges/classes-objects/problem)
@@ -90,9 +85,6 @@
 - [multi level inheritance cpp](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem)
 - [accessing inherited functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem)
 - [magic spells](https://www.hackerrank.com/challenges/magic-spells/problem)
-
-### HackerRank - Misc `10 problems`
-
 - [c class templates](https://www.hackerrank.com/challenges/c-class-templates/problem)
 - [preprocessor solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem)
 - [overload operators](https://www.hackerrank.com/challenges/overload-operators/problem)
