@@ -35,6 +35,9 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 <br>
 Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
 
+## `Level Timeline`
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/level-2-timeline.jpg"></img>
+
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
 <br>
 
@@ -185,16 +188,15 @@ The Codeforces OJ sheets [phase-2-1](https://github.com/cs-MohamedAyman/Problem-
         <tr>
             <th align=center width="500px" colspan="2">100 contests</th>
             <th align=center width="500px" colspan="2">100 contests</th>
-            <th align=center width="500px" colspan="2">200 contests</th>
+            <th align=center width="500px" colspan="2">225 contests</th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td align=center>Educational Rounds I  </td><td align=center>20 Contests</td><td align=center>GYM Contests 2    </td><td align=center>25 Contests</td></tr>
-        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td align=center>Educational Rounds II </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>35 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td align=center>Educational Rounds III</td><td align=center>20 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>35 Contests</td></tr>
-        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>35 Contests</td></tr>
+        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td align=center>Educational Rounds II </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>50 Contests</td></tr>
+        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td align=center>Educational Rounds III</td><td align=center>20 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>50 Contests</td></tr>
+        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>50 Contests</td></tr>
         <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td align=center>Educational Rounds V  </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 IV </td><td align=center>50 Contests</td></tr>
-        <tr><td>                 </td><td align=center>           </td><td align=center>                      </td><td align=center>           </td><td align=center>GYM Contests 3 V  </td><td align=center>50 Contests</td></tr>
     </tbody>
 </table>
 
