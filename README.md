@@ -52,6 +52,9 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 <br>
 Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
 
+## `Level Timeline`
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-timeline.jpg"></img>
+
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
 <br>
 
@@ -240,6 +243,9 @@ This level simply consists of 27 sheets, 6 sheets on URI Online Judge, 2 sheets 
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 <br>
 Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
+
+## `Level Timeline`
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/level-2-timeline.jpg"></img>
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
 <br>
@@ -514,6 +520,9 @@ This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
 Related Training: [Advanced Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training) Repository
+
+## `Level Timeline`
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/level-3-timeline.jpg"></img>
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
