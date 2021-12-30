@@ -18,6 +18,7 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Level 3](#level-3)
      * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [Level Timeline](#level-timeline)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
