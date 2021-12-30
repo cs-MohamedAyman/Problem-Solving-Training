@@ -18,6 +18,7 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Level 1](#level-1)
      * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [Level Timeline](#level-timeline)
      * [URI Online Judge Sheets](#uri-oj-sheets)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
@@ -26,6 +27,7 @@ Problem Solving Training for computer science students.
      * [Notes](#notes)
   * [Level 2](#level-2)
      * [Prerequisite Knowledge](#prerequisite-knowledge-1)
+     * [Level Timeline](#level-timeline-1)
      * [URI Online Judge Sheets](#uri-oj-sheets-1)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-1)
      * [AtCoder Online Judge Sheets](#atcoder-oj-sheets-1)
@@ -35,6 +37,7 @@ Problem Solving Training for computer science students.
      * [Notes](#notes-1)
   * [Level 3](#level-3)
      * [Prerequisite Knowledge](#prerequisite-knowledge-2)
+     * [Level Timeline](#level-timeline-2)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-2)
      * [AtCoder Online Judge Sheets](#atcoder-oj-sheets-2)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-2)
