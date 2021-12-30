@@ -18,6 +18,7 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Level 2](#level-2)
      * [Prerequisite Knowledge](#prerequisite-knowledge)
+     * [Level Timeline](#level-timeline)
      * [URI Online Judge Sheets](#uri-oj-sheets)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
      * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
