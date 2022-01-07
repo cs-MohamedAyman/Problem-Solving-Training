@@ -8,7 +8,7 @@
 - ***2018-2019 Regular Contests*** 	`15 problems`
 - ***2020-2021 Regular Contests*** 	`25 problems`
 
-### AtCoder - Regular Contests `70 contests`
+### AtCoder - 2016-2017 Regular Contests `30 problems`
 
 - AtCoder Regular Contest 58: https://atcoder.jp/contests/arc058/tasks/arc058_b
 - AtCoder Regular Contest 59: https://atcoder.jp/contests/arc059/tasks/arc059_b
@@ -41,6 +41,9 @@
 - AtCoder Regular Contest 86: https://atcoder.jp/contests/arc086/tasks/arc086_b
 - AtCoder Regular Contest 87: https://atcoder.jp/contests/arc087/tasks/arc087_b
 - AtCoder Regular Contest 88: https://atcoder.jp/contests/arc088/tasks/arc088_b
+
+### AtCoder - 2018-2019 Regular Contests `15 problems`
+
 - AtCoder Regular Contest 89: https://atcoder.jp/contests/arc089/tasks/arc089_b
 - AtCoder Regular Contest 90: https://atcoder.jp/contests/arc090/tasks/arc090_b
 - AtCoder Regular Contest 91: https://atcoder.jp/contests/arc091/tasks/arc091_b
@@ -56,6 +59,9 @@
 - AtCoder Regular Contest 101: https://atcoder.jp/contests/arc101/tasks/arc101_b
 - AtCoder Regular Contest 102: https://atcoder.jp/contests/arc102/tasks/arc102_b
 - AtCoder Regular Contest 103: https://atcoder.jp/contests/arc103/tasks/arc103_b
+
+### AtCoder - 2020-2021 Regular Contests `25 problems`
+
 - AtCoder Regular Contest 104: https://atcoder.jp/contests/arc104/tasks/arc104_b
 - AtCoder Regular Contest 105: https://atcoder.jp/contests/arc105/tasks/arc105_b
 - AtCoder Regular Contest 106: https://atcoder.jp/contests/arc106/tasks/arc106_b
