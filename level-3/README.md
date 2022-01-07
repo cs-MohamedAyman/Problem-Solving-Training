@@ -13,7 +13,7 @@ Problem Solving Training for computer science students.
 <br><br><br><br>
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
 
 ## Table of Contents
   * [Level 3](#level-3)
