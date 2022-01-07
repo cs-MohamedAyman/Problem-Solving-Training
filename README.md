@@ -586,9 +586,9 @@ The AtCoder OJ sheet [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solv
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Regular Contests</td><td align=center>30 problems</td></tr><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td>
-        <tr><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Regular Contests</td><td align=center>15 problems</td></tr><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td>
-        <tr><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Regular Contests</td><td align=center>25 problems</td></tr><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td>
+        <tr><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td></tr>
+        <tr><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td></tr>
+        <tr><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td></tr>
     </tbody>
 </table>
 
