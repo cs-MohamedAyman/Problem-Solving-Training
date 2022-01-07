@@ -4,9 +4,11 @@
 
 ### Table of Content
 
-- ***Grand Contests*** 		`55 contests`
+- ***2016-2017 Grand Contests*** 	`20 problems`
+- ***2018-2019 Grand Contests*** 	`20 problems`
+- ***2020-2021 Grand Contests*** 	`15 problems`
 
-### AtCoder - Grand Contests `50 contests`
+### AtCoder - 2020-2021 Grand Contests `20 problems`
 
 - AtCoder Grand Contest 1: https://atcoder.jp/contests/agc001
 - AtCoder Grand Contest 2: https://atcoder.jp/contests/agc002
@@ -27,6 +29,9 @@
 - AtCoder Grand Contest 17: https://atcoder.jp/contests/agc017
 - AtCoder Grand Contest 18: https://atcoder.jp/contests/agc018
 - AtCoder Grand Contest 19: https://atcoder.jp/contests/agc019
+
+### AtCoder - 2018-2019 Grand Contests `20 problems`
+
 - AtCoder Grand Contest 20: https://atcoder.jp/contests/agc020
 - AtCoder Grand Contest 21: https://atcoder.jp/contests/agc021
 - AtCoder Grand Contest 22: https://atcoder.jp/contests/agc022
@@ -49,6 +54,9 @@
 - AtCoder Grand Contest 39: https://atcoder.jp/contests/agc039
 - AtCoder Grand Contest 40: https://atcoder.jp/contests/agc040
 - AtCoder Grand Contest 41: https://atcoder.jp/contests/agc041
+
+### AtCoder - 2016-2017 Grand Contests `15 problems`
+
 - AtCoder Grand Contest 43: https://atcoder.jp/contests/agc043
 - AtCoder Grand Contest 44: https://atcoder.jp/contests/agc044
 - AtCoder Grand Contest 45: https://atcoder.jp/contests/agc045
