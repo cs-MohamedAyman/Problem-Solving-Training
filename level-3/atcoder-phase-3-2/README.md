@@ -4,7 +4,9 @@
 
 ### Table of Content
 
-- ***Regular Contests*** 	`70 contests`
+- ***2016-2017 Regular Contests*** 	`30 problems`
+- ***2018-2019 Regular Contests*** 	`15 problems`
+- ***2020-2021 Regular Contests*** 	`25 problems`
 
 ### AtCoder - Regular Contests `70 contests`
 
