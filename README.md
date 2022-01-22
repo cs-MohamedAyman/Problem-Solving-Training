@@ -46,6 +46,8 @@ Problem Solving Training for computer science students.
      * [Notes](#notes-2)
 
 
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-cover.jpg"></img>
+
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
 This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
@@ -237,6 +239,8 @@ The HackerEarth OJ sheets [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
 <br>
+
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/level-2-cover.jpg"></img>
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
@@ -514,6 +518,8 @@ The HackerEarth OJ sheets [phase-2-linear-data-structures](https://github.com/cs
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***.
 
 <br>
+
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/level-3-cover.jpg"></img>
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 

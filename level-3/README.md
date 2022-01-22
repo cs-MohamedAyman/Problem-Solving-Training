@@ -26,6 +26,8 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes-2)
 
+<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/level-3-cover.jpg"></img>
+
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
 This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 3 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
