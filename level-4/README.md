@@ -17,9 +17,6 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Level 4](#level-4)
-     * [Prerequisite Knowledge](#prerequisite-knowledge)
-     * [Level Timeline](#level-timeline)
-     * [Notes](#notes)
 
 <img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/level-4-cover.jpg"></img>
 
