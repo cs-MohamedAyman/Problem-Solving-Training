@@ -186,7 +186,7 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 
 ## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
-The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3), [phase-1-basic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). 
+The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-4) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators). 
 
 <table>
     <thead>
@@ -195,7 +195,7 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
             <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></th>
             <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></th>
             <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-basic-programming">phase-1-basic-programming</a></th>
+            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-4">phase-1-4</a></th>
         </tr>
         <tr>
             <th align=center width="200px"></th>
