@@ -38,7 +38,94 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training)
 
 ## `Level Timeline`
-<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-timeline.jpg"></img>
+
+<table>
+    <thead>
+        <tr>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align=center>Phase 1.1</td>
+            <td align=center>Phase 1.2</td>
+            <td align=center>Phase 1.3</td>
+            <td align=center>Phase 1.4</td>
+            <td align=center>Phase 1.5</td>
+            <td align=center>Phase 1.6</td>
+        </tr>
+        <tr>
+            <td align=center>(175 problems) 2 Weeks</td>
+            <td align=center>(175 problems) 2 Weeks</td>
+            <td align=center>(175 problems) 2 Weeks</td>
+            <td align=center>(175 problems) 2 Weeks</td>
+            <td align=center>(175 problems) 2 Weeks</td>
+            <td align=center>(175 problems) 2 Weeks</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align=center>Phase c/c++</td>
+            <td align=center>Phase python</td>
+            <td align=center>Phase 1.1</td>
+            <td align=center>Phase 1.2</td>
+            <td align=center>Phase 1.1</td>
+            <td align=center>Phase 1.2</td>
+        </tr>
+        <tr>
+            <td align=center>(70 problems) 2 Weeks</td>
+            <td align=center>(100 problems) 2 Weeks</td>
+            <td align=center>(90 problems) 2 Weeks</td>
+            <td align=center>(90 problems) 2 Weeks</td>
+            <td align=center>(120 problems) 2 Weeks</td>
+            <td align=center>(120 problems) 2 Weeks</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align=center>Phase 1.3</td>
+            <td align=center>Phase 1.4</td>
+            <td align=center>Phase 1.1</td>
+            <td align=center>Phase 1.2</td>
+            <td align=center>Phase 1.3</td>
+            <td align=center>Phase 1.4</td>
+        </tr>
+        <tr>
+            <td align=center>(120 problems) 2 Weeks</td>
+            <td align=center>(120 problems) 2 Weeks</td>
+            <td align=center>(100 problems) 2 Weeks</td>
+            <td align=center>(100 problems) 2 Weeks</td>
+            <td align=center>(100 problems) 2 Weeks</td>
+            <td align=center>(100 problems) 2 Weeks</td>
+        </tr>
+    </tbody>
+</table>
+<br><br>
 
 <img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
 <br>
