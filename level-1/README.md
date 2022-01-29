@@ -60,12 +60,12 @@ Related Training: [Programming Languages Training](https://github.com/cs-Mohamed
             <td align=center>Phase 1.6</td>
         </tr>
         <tr>
-            <td align=center>175 problems in 2 Weeks</td>
-            <td align=center>175 problems in 2 Weeks</td>
-            <td align=center>175 problems in 2 Weeks</td>
-            <td align=center>175 problems in 2 Weeks</td>
-            <td align=center>175 problems in 2 Weeks</td>
-            <td align=center>175 problems in 2 Weeks</td>
+            <td align=center>175 problems in 2 weeks</td>
+            <td align=center>175 problems in 2 weeks</td>
+            <td align=center>175 problems in 2 weeks</td>
+            <td align=center>175 problems in 2 weeks</td>
+            <td align=center>175 problems in 2 weeks</td>
+            <td align=center>175 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -88,12 +88,12 @@ Related Training: [Programming Languages Training](https://github.com/cs-Mohamed
             <td align=center>Phase 1.2</td>
         </tr>
         <tr>
-            <td align=center>70 problems in 2 Weeks</td>
-            <td align=center>100 problems in 2 Weeks</td>
-            <td align=center>90 problems in 2 Weeks</td>
-            <td align=center>90 problems in 2 Weeks</td>
-            <td align=center>120 problems in 2 Weeks</td>
-            <td align=center>120 problems in 2 Weeks</td>
+            <td align=center>70 problems in 2 weeks</td>
+            <td align=center>100 problems in 2 weeks</td>
+            <td align=center>90 problems in 2 weeks</td>
+            <td align=center>90 problems in 2 weeks</td>
+            <td align=center>120 problems in 2 weeks</td>
+            <td align=center>120 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -116,12 +116,12 @@ Related Training: [Programming Languages Training](https://github.com/cs-Mohamed
             <td align=center>Phase 1.4</td>
         </tr>
         <tr>
-            <td align=center>120 problems in 2 Weeks</td>
-            <td align=center>120 problems in 2 Weeks</td>
-            <td align=center>100 problems in 2 Weeks</td>
-            <td align=center>100 problems in 2 Weeks</td>
-            <td align=center>100 problems in 2 Weeks</td>
-            <td align=center>100 problems in 2 Weeks</td>
+            <td align=center>120 problems in 2 weeks</td>
+            <td align=center>120 problems in 2 weeks</td>
+            <td align=center>100 problems in 2 weeks</td>
+            <td align=center>100 problems in 2 weeks</td>
+            <td align=center>100 problems in 2 weeks</td>
+            <td align=center>100 problems in 2 weeks</td>
         </tr>
     </tbody>
 </table>
