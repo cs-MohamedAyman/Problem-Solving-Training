@@ -43,12 +43,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
 <table>
     <thead>
         <tr>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
@@ -63,12 +63,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </tbody>
     <thead>
         <tr>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
@@ -83,12 +83,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </tbody>
     <thead>
         <tr>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
@@ -103,12 +103,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </tbody>
     <thead>
         <tr>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
-            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="80%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+            <td align=center width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
