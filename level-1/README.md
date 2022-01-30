@@ -52,12 +52,12 @@ Related Training: [Programming Languages Training](https://github.com/cs-Mohamed
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase 1.1 - 175 problems in 2 weeks</td>
-            <td align=center>Phase 1.2 - 175 problems in 2 weeks</td>
-            <td align=center>Phase 1.3 - 175 problems in 2 weeks</td>
-            <td align=center>Phase 1.4 - 175 problems in 2 weeks</td>
-            <td align=center>Phase 1.5 - 175 problems in 2 weeks</td>
-            <td align=center>Phase 1.6 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.1 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.2 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.3 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.4 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.5 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.6 - 175 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -72,12 +72,12 @@ Related Training: [Programming Languages Training](https://github.com/cs-Mohamed
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase c/c++ - 70 problems in 2 weeks</td>
-            <td align=center>Phase python - 100 problems in 2 weeks</td>
-            <td align=center>Phase 1.1 - 90 problems in 2 weeks</td>
-            <td align=center>Phase 1.2 - 90 problems in 2 weeks</td>
-            <td align=center>Phase 1.1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 1.2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase c/c++ - 70 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase python - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.1 - 90 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.2 - 90 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.2 - 120 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -92,12 +92,12 @@ Related Training: [Programming Languages Training](https://github.com/cs-Mohamed
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase 1.3 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 1.4 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 1.1 - 100 problems in 2 weeks</td>
-            <td align=center>Phase 1.2 - 100 problems in 2 weeks</td>
-            <td align=center>Phase 1.3 - 100 problems in 2 weeks</td>
-            <td align=center>Phase 1.4 - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.3 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.4 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.1 - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.2 - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.3 - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.4 - 100 problems in 2 weeks</td>
         </tr>
     </tbody>
 </table>

@@ -53,12 +53,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase 2.1 - 160 problems in 2 weeks</td>
-            <td align=center>Phase 2.2 - 160 problems in 2 weeks</td>
-            <td align=center>Phase 2.3 - 160 problems in 2 weeks</td>
-            <td align=center>Phase 2.4 - 160 problems in 2 weeks</td>
-            <td align=center>Phase 2.5 - 160 problems in 2 weeks</td>
-            <td align=center>Phase 2.6 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.1 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.2 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.3 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.4 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.5 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.6 - 160 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -73,12 +73,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase data structures - 120 problems in 2 weeks</td>
-            <td align=center>Phase algorithms basics - 120 problems in 2 weeks</td>
-            <td align=center>Phase 2.1 - 90 problems in 2 weeks</td>
-            <td align=center>Phase 2.2 - 90 problems in 2 weeks</td>
-            <td align=center>Phase 2.1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 2.2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase data structures - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase algorithms basics - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.1 - 90 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.2 - 90 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.2 - 120 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -93,12 +93,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase 2.3 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 2.4 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 2.1 - 190 problems in 2 weeks</td>
-            <td align=center>Phase 2.2 - 190 problems in 2 weeks</td>
-            <td align=center>Phase 2.3 - 190 problems in 2 weeks</td>
-            <td align=center>Phase 2.4 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.3 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.4 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.1 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.2 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.3 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.4 - 190 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -113,12 +113,12 @@ Related Training: [Data Structures and Algorithms Analysis Training](https://git
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase 2.5 - 190 problems in 2 weeks</td>
-            <td align=center>Phase 2.6 - 190 problems in 2 weeks</td>
-            <td align=center>Phase linear data structures - 100 problems in 2 weeks</td>
-            <td align=center>Phase non linear data structures - 100 problems in 2 weeks</td>
-            <td align=center>Phase algorithms searching - 100 problems in 2 weeks</td>
-            <td align=center>Phase algorithms sorting - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.5 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.6 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase linear data structures - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase non linear data structures - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase algorithms searching - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase algorithms sorting - 100 problems in 2 weeks</td>
         </tr>
     </tbody>
 </table>

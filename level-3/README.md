@@ -52,12 +52,12 @@ Related Training: [Advanced Data Structures and Algorithms Analysis Training](ht
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase math 1 - 130 problems in 2 weeks</td>
-            <td align=center>Phase math 2 - 130 problems in 2 weeks</td>
-            <td align=center>Phase graph & string - 130 problems in 2 weeks</td>
-            <td align=center>Phase dynamic programming - 130 problems in 2 weeks</td>
-            <td align=center>Phase 3.1 - 60 problems in 2 weeks</td>
-            <td align=center>Phase 3.2 - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase math 1 - 130 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase math 2 - 130 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase graph & string - 130 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase dynamic programming - 130 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.2 - 60 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -72,12 +72,12 @@ Related Training: [Advanced Data Structures and Algorithms Analysis Training](ht
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase grand contests - 60 problems in 2 weeks</td>
-            <td align=center>Phase grand contests - 60 problems in 2 weeks</td>
-            <td align=center>Phase 3.1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 3.2 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 3.3 - 120 problems in 2 weeks</td>
-            <td align=center>Phase 3.4 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase grand contests - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase grand contests - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.3 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.4 - 120 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -92,12 +92,12 @@ Related Training: [Advanced Data Structures and Algorithms Analysis Training](ht
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase 3.1 - 180 problems in 2 weeks</td>
-            <td align=center>Phase 3.2 - 180 problems in 2 weeks</td>
-            <td align=center>Phase 3.3 - 180 problems in 2 weeks</td>
-            <td align=center>Phase 3.4 - 180 problems in 2 weeks</td>
-            <td align=center>Phase math & strings 1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase math & strings 2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 - 180 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.2 - 180 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.3 - 180 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.4 - 180 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase math & strings 1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase math & strings 2 - 120 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -112,12 +112,12 @@ Related Training: [Advanced Data Structures and Algorithms Analysis Training](ht
     </thead>
     <tbody>
         <tr>
-            <td align=center>Phase graph 1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase graph 2 - 120 problems in 2 weeks</td>
-            <td align=center>Phase dynamic programming 1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase dynamic programming 2 - 120 problems in 2 weeks</td>
-            <td align=center>Phase advanced data structures 1 - 120 problems in 2 weeks</td>
-            <td align=center>Phase advanced data structures 2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase graph 1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase graph 2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase dynamic programming 1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase dynamic programming 2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase advanced data structures 1 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase advanced data structures 2 - 120 problems in 2 weeks</td>
         </tr>
     </tbody>
 </table>
