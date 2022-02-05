@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Beginner*** 			`45 problems`
-- ***Ad-Hoc I*** 			`40 problems`
-- ***Ad-Hoc II*** 			`35 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`25 problems`
-- ***Geometry***			`5 problems`
+- ***Beginner***          `45 problems`
+- ***Ad-Hoc I***          `40 problems`
+- ***Ad-Hoc II***         `35 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `25 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Beginner
+### URI - Beginner `45 problems`
 
 - [2542 - Iu-Di-Oh!](https://www.beecrowd.com.br/judge/en/problems/view/2542)
 - [3053 - Jogo Dos Copos](https://www.beecrowd.com.br/judge/en/problems/view/3053)
@@ -61,7 +61,7 @@
 - [3230 - Galactic Warlords](https://www.beecrowd.com.br/judge/en/problems/view/3230)
 - [3229 - Food Review](https://www.beecrowd.com.br/judge/en/problems/view/3229)
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc I `40 problems`
 
 - [2901 - Martian Volleyball](https://www.beecrowd.com.br/judge/en/problems/view/2901)
 - [2847 - Paper, Scissors, I Love You!](https://www.beecrowd.com.br/judge/en/problems/view/2847)
@@ -103,6 +103,9 @@
 - [2287 - Proteja sua Senha](https://www.beecrowd.com.br/judge/en/problems/view/2287)
 - [2321 - Detectando Colisões](https://www.beecrowd.com.br/judge/en/problems/view/2321)
 - [2283 - Keyboarding](https://www.beecrowd.com.br/judge/en/problems/view/2283)
+
+### URI - Ad-Hoc II `35 problems`
+
 - [1779 - Estimating the Mean](https://www.beecrowd.com.br/judge/en/problems/view/1779)
 - [1542 - Reading Books](https://www.beecrowd.com.br/judge/en/problems/view/1542)
 - [3018 - Gluing Pictures](https://www.beecrowd.com.br/judge/en/problems/view/3018)
@@ -139,7 +142,7 @@
 - [2324 - Pastas](https://www.beecrowd.com.br/judge/en/problems/view/2324)
 - [2009 - Just a Bit Sorted](https://www.beecrowd.com.br/judge/en/problems/view/2009)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168)
 - [2722 - Evergreen Trick](https://www.beecrowd.com.br/judge/en/problems/view/2722)
@@ -152,7 +155,7 @@
 - [2692 - Zoeiro Keyboard](https://www.beecrowd.com.br/judge/en/problems/view/2692)
 - [2880 - Enigma](https://www.beecrowd.com.br/judge/en/problems/view/2880)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [1077 - Infix to Posfix](https://www.beecrowd.com.br/judge/en/problems/view/1077)
 - [3239 - Dirty Driving](https://www.beecrowd.com.br/judge/en/problems/view/3239)
@@ -170,7 +173,7 @@
 - [3139 - Seeking New Followers](https://www.beecrowd.com.br/judge/en/problems/view/3139)
 - [1633 - SBC](https://www.beecrowd.com.br/judge/en/problems/view/1633)
 
-### URI - Mathematics
+### URI - Mathematics `25 problems`
 
 - [3079 - Illuminated Street](https://www.beecrowd.com.br/judge/en/problems/view/3079)
 - [1198 - Hashmat the Brave Warrior](https://www.beecrowd.com.br/judge/en/problems/view/1198)
@@ -198,7 +201,7 @@
 - [2033 - Interest on Loan](https://www.beecrowd.com.br/judge/en/problems/view/2033)
 - [2660 - Cigarras Periódicas](https://www.beecrowd.com.br/judge/en/problems/view/2660)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [1446 - Venn Diagram?](https://www.beecrowd.com.br/judge/en/problems/view/1446)
 - [2193 - Affine Mess](https://www.beecrowd.com.br/judge/en/problems/view/2193)
