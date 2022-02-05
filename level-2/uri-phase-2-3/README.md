@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Ad-Hoc*** 				`25 problems`
-- ***Strings*** 			`15 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`20 problems`
-- ***Graph***				`40 problems`
-- ***Paradigms***			`35 problems`
-- ***Geometry***			`10 problems`
+- ***Ad-Hoc***            `25 problems`
+- ***Strings***           `15 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `20 problems`
+- ***Graph***             `40 problems`
+- ***Paradigms***         `35 problems`
+- ***Geometry***          `10 problems`
 
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc `25 problems`
 
 - [1966 - The Voyage Home](https://www.beecrowd.com.br/judge/en/problems/view/1966)
 - [2795 - Palindrome](https://www.beecrowd.com.br/judge/en/problems/view/2795)
@@ -41,7 +41,7 @@
 - [1206 - Challenge of St. Petersburg](https://www.beecrowd.com.br/judge/en/problems/view/1206)
 - [2858 - Infinite Board](https://www.beecrowd.com.br/judge/en/problems/view/2858)
 
-### URI - Strings
+### URI - Strings `15 problems`
 
 - [2954 - The Game](https://www.beecrowd.com.br/judge/en/problems/view/2954)
 - [2535 - Adoption Fair](https://www.beecrowd.com.br/judge/en/problems/view/2535)
@@ -59,7 +59,7 @@
 - [1726 - Friends](https://www.beecrowd.com.br/judge/en/problems/view/1726)
 - [2336 - ABC](https://www.beecrowd.com.br/judge/en/problems/view/2336)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [2655 - Dangerous Trail](https://www.beecrowd.com.br/judge/en/problems/view/2655)
 - [1424 - Easy Problem from Rujia Liu?](https://www.beecrowd.com.br/judge/en/problems/view/1424)
@@ -77,7 +77,7 @@
 - [2526 - Menu](https://www.beecrowd.com.br/judge/en/problems/view/2526)
 - [2952 - Sustainable Living](https://www.beecrowd.com.br/judge/en/problems/view/2952)
 
-### URI - Mathematics
+### URI - Mathematics `20 problems`
 
 - [2828 - Anagrams](https://www.beecrowd.com.br/judge/en/problems/view/2828)
 - [1830 - Boxes of Chocolates](https://www.beecrowd.com.br/judge/en/problems/view/1830)
@@ -100,7 +100,7 @@
 - [1635 - Ballot Evaluation](https://www.beecrowd.com.br/judge/en/problems/view/1635)
 - [2007 - Fence the Vegetables Fail](https://www.beecrowd.com.br/judge/en/problems/view/2007)
 
-### URI - Graph
+### URI - Graph `40 problems`
 
 - [1724 - Hike on a Graph](https://www.beecrowd.com.br/judge/en/problems/view/1724)
 - [3220 - Flight Planning](https://www.beecrowd.com.br/judge/en/problems/view/3220)
@@ -143,7 +143,7 @@
 - [2079 - War Product](https://www.beecrowd.com.br/judge/en/problems/view/2079)
 - [1928 - Memory Game](https://www.beecrowd.com.br/judge/en/problems/view/1928)
 
-### URI - Paradigms
+### URI - Paradigms `35 problems`
 
 - [1396 - There's an Exam from Cris Today!](https://www.beecrowd.com.br/judge/en/problems/view/1396)
 - [2532 - Demogorgon](https://www.beecrowd.com.br/judge/en/problems/view/2532)
@@ -181,7 +181,7 @@
 - [1269 - ICPC Strikes Again](https://www.beecrowd.com.br/judge/en/problems/view/1269)
 - [1493 - Disjoint Water Supply](https://www.beecrowd.com.br/judge/en/problems/view/1493)
 
-### URI - Geometry
+### URI - Geometry `10 problems`
 
 - [3156 - Galactic Chess](https://www.beecrowd.com.br/judge/en/problems/view/3156)
 - [1378 - Isosceles Triangles](https://www.beecrowd.com.br/judge/en/problems/view/1378)
