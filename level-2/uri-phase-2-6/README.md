@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Ad-Hoc*** 				`15 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`10 problems`
-- ***Mathematics*** 		`10 problems`
-- ***Graph***				`50 problems`
-- ***Paradigms***			`25 problems`
-- ***Geometry***			`5 problems`
+- ***Ad-Hoc***            `15 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `10 problems`
+- ***Mathematics***       `10 problems`
+- ***Graph***             `50 problems`
+- ***Paradigms***         `25 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc `15 problems`
 
 - [3105 - Folding Paper](https://www.beecrowd.com.br/judge/en/problems/view/3105)
 - [1130 - Tic-tac-toe](https://www.beecrowd.com.br/judge/en/problems/view/1130)
@@ -30,7 +30,7 @@
 - [2772 - Plantation](https://www.beecrowd.com.br/judge/en/problems/view/2772)
 - [2350 - Game of Matchings](https://www.beecrowd.com.br/judge/en/problems/view/2350)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [1141 - Growing Strings](https://www.beecrowd.com.br/judge/en/problems/view/1141)
 - [1503 - Largest Common Palindrome Must You Find](https://www.beecrowd.com.br/judge/en/problems/view/1503)
@@ -46,7 +46,7 @@
 - [1335 - File Retrieval](https://www.beecrowd.com.br/judge/en/problems/view/1335)
 - [1853 - Daenerys' Game of Trust](https://www.beecrowd.com.br/judge/en/problems/view/1853)
 
-### URI - Data Structures
+### URI - Data Structures `10 problems`
 
 - [1535 - Couple-Bachelor-Spinster Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1535)
 - [2698 - Daunting Device](https://www.beecrowd.com.br/judge/en/problems/view/2698)
@@ -59,7 +59,7 @@
 - [2849 - Rangel and the Array Game II](https://www.beecrowd.com.br/judge/en/problems/view/2849)
 - [1854 - Winter in Winterfell](https://www.beecrowd.com.br/judge/en/problems/view/1854)
 
-### URI - Mathematics
+### URI - Mathematics `10 problems`
 
 - [1433 - The Splitting Club](https://www.beecrowd.com.br/judge/en/problems/view/1433)
 - [1505 - Curo Factories](https://www.beecrowd.com.br/judge/en/problems/view/1505)
@@ -73,7 +73,7 @@
 - [1949 - Shift Register](https://www.beecrowd.com.br/judge/en/problems/view/1949)
 - [1568 - {sum+=i++} to Reach N](https://www.beecrowd.com.br/judge/en/problems/view/1568)
 
-### URI - Graph
+### URI - Graph `50 problems`
 
 - [2490 - Garoto Ixpertinho](https://www.beecrowd.com.br/judge/en/problems/view/2490)
 - [1782 - Honorable Gift](https://www.beecrowd.com.br/judge/en/problems/view/1782)
@@ -123,7 +123,7 @@
 - [2652 - How Many Trees?](https://www.beecrowd.com.br/judge/en/problems/view/2652)
 - [1562 - Choosing the Pairs](https://www.beecrowd.com.br/judge/en/problems/view/1562)
 
-### URI - Paradigms
+### URI - Paradigms `25 problems`
 
 - [2480 - Red Lights](https://www.beecrowd.com.br/judge/en/problems/view/2480)
 - [2918 - Smart Digits](https://www.beecrowd.com.br/judge/en/problems/view/2918)
@@ -151,7 +151,7 @@
 - [1601 - Partition of The Herd](https://www.beecrowd.com.br/judge/en/problems/view/1601)
 - [2226 - Balloon Factory](https://www.beecrowd.com.br/judge/en/problems/view/2226)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [1971 - Insurrection](https://www.beecrowd.com.br/judge/en/problems/view/1971)
 - [1345 - Secure Region](https://www.beecrowd.com.br/judge/en/problems/view/1345)
