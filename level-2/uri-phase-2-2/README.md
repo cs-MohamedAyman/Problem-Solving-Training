@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Ad-Hoc*** 				`25 problems`
-- ***Strings*** 			`15 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`20 problems`
-- ***Graph***				`40 problems`
-- ***Paradigms***			`35 problems`
-- ***Geometry***			`10 problems`
+- ***Ad-Hoc***            `25 problems`
+- ***Strings***           `15 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `20 problems`
+- ***Graph***             `40 problems`
+- ***Paradigms***         `35 problems`
+- ***Geometry***          `10 problems`
 
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc `25 problems`
 
 - [2346 - Back to the Future](https://www.beecrowd.com.br/judge/en/problems/view/2346)
 - [2202 - Trash Removal](https://www.beecrowd.com.br/judge/en/problems/view/2202)
@@ -41,7 +41,7 @@
 - [1438 - Unloading Boxes](https://www.beecrowd.com.br/judge/en/problems/view/1438)
 - [2005 - Upset Fracil](https://www.beecrowd.com.br/judge/en/problems/view/2005)
 
-### URI - Strings
+### URI - Strings `15 problems`
 
 - [2025 - Joulupukki](https://www.beecrowd.com.br/judge/en/problems/view/2025)
 - [1024 - Encryption](https://www.beecrowd.com.br/judge/en/problems/view/1024)
@@ -59,7 +59,7 @@
 - [3180 - Code Theft](https://www.beecrowd.com.br/judge/en/problems/view/3180)
 - [1222 - Short Story Competition](https://www.beecrowd.com.br/judge/en/problems/view/1222)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [2720 - Large Presents](https://www.beecrowd.com.br/judge/en/problems/view/2720)
 - [2855 - Lucky Numbers](https://www.beecrowd.com.br/judge/en/problems/view/2855)
@@ -77,7 +77,7 @@
 - [1439 - Bora Bora](https://www.beecrowd.com.br/judge/en/problems/view/1439)
 - [1236 - Compressing Null and White](https://www.beecrowd.com.br/judge/en/problems/view/1236)
 
-### URI - Mathematics
+### URI - Mathematics `20 problems`
 
 - [2291 - Divine Numbers](https://www.beecrowd.com.br/judge/en/problems/view/2291)
 - [1544 - The Last Non-zero Digit](https://www.beecrowd.com.br/judge/en/problems/view/1544)
@@ -100,7 +100,7 @@
 - [2505 - Autopotential](https://www.beecrowd.com.br/judge/en/problems/view/2505)
 - [2869 - Talking about Divisor ...](https://www.beecrowd.com.br/judge/en/problems/view/2869)
 
-### URI - Graph
+### URI - Graph `40 problems`
 
 - [2440 - Famílias de Troia](https://www.beecrowd.com.br/judge/en/problems/view/2440)
 - [3194 - Nested Dolls](https://www.beecrowd.com.br/judge/en/problems/view/3194)
@@ -143,7 +143,7 @@
 - [1552 - Rescue in Free Fall](https://www.beecrowd.com.br/judge/en/problems/view/1552)
 - [2732 - Alice's Kingdom](https://www.beecrowd.com.br/judge/en/problems/view/2732)
 
-### URI - Paradigms
+### URI - Paradigms `35 problems`
 
 - [1579 - Transport of Solar Panels](https://www.beecrowd.com.br/judge/en/problems/view/1579)
 - [3073 - Vectors](https://www.beecrowd.com.br/judge/en/problems/view/3073)
@@ -181,7 +181,7 @@
 - [2713 - The Wizard is Relentless](https://www.beecrowd.com.br/judge/en/problems/view/2713)
 - [1265 - Computer DJ](https://www.beecrowd.com.br/judge/en/problems/view/1265)
 
-### URI - Geometry
+### URI - Geometry `10 problems`
 
 - [1124 - Elevator](https://www.beecrowd.com.br/judge/en/problems/view/1124)
 - [1464 - Onion Layers](https://www.beecrowd.com.br/judge/en/problems/view/1464)
