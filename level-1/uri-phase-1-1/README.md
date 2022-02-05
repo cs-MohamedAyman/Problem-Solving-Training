@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Beginner*** 			`45 problems`
-- ***Ad-Hoc I*** 			`40 problems`
-- ***Ad-Hoc II*** 			`35 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`25 problems`
-- ***Geometry***			`5 problems`
+- ***Beginner***          `45 problems`
+- ***Ad-Hoc I***          `40 problems`
+- ***Ad-Hoc II***         `35 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `25 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Beginner
+### URI - Beginner `45 problems`
 
 - [2702 - Hard Choice](https://www.beecrowd.com.br/judge/en/problems/view/2702)
 - [2754 - Output 8](https://www.beecrowd.com.br/judge/en/problems/view/2754)
@@ -61,7 +61,7 @@
 - [1759 - Ho Ho Ho](https://www.beecrowd.com.br/judge/en/problems/view/1759)
 - [1017 - Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017)
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc I `40 problems`
 
 - [1379 - Mean Median Problem](https://www.beecrowd.com.br/judge/en/problems/view/1379)
 - [2926 - So This is Christmas!](https://www.beecrowd.com.br/judge/en/problems/view/2926)
@@ -103,6 +103,9 @@
 - [3059 - Pares de Números](https://www.beecrowd.com.br/judge/en/problems/view/3059)
 - [1890 - Putting Plates on the Tuk-tuks](https://www.beecrowd.com.br/judge/en/problems/view/1890)
 - [2556 - CEI's Reopening](https://www.beecrowd.com.br/judge/en/problems/view/2556)
+
+### URI - Ad-Hoc II `35 problems`
+
 - [2472 - Tapetes](https://www.beecrowd.com.br/judge/en/problems/view/2472)
 - [1593 - Binary Function](https://www.beecrowd.com.br/judge/en/problems/view/1593)
 - [2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345)
@@ -139,7 +142,7 @@
 - [2399 - Campo Minado](https://www.beecrowd.com.br/judge/en/problems/view/2399)
 - [1533 - Detective Watson](https://www.beecrowd.com.br/judge/en/problems/view/1533)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [1632 - Variations](https://www.beecrowd.com.br/judge/en/problems/view/1632)
 - [2157 - Mirror Sequence](https://www.beecrowd.com.br/judge/en/problems/view/2157)
@@ -152,7 +155,7 @@
 - [1278 - Justifier II](https://www.beecrowd.com.br/judge/en/problems/view/1278)
 - [1871 - Zero means Zero](https://www.beecrowd.com.br/judge/en/problems/view/1871)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [3171 - String Led](https://www.beecrowd.com.br/judge/en/problems/view/3171)
 - [3248 - Mega Inversions](https://www.beecrowd.com.br/judge/en/problems/view/3248)
@@ -170,7 +173,7 @@
 - [3163 - Flying Control](https://www.beecrowd.com.br/judge/en/problems/view/3163)
 - [2496 - The Only Chance](https://www.beecrowd.com.br/judge/en/problems/view/2496)
 
-### URI - Mathematics
+### URI - Mathematics `25 problems`
 
 - [3165 - Twin Prime](https://www.beecrowd.com.br/judge/en/problems/view/3165)
 - [2218 - The Fearful Evil-Son](https://www.beecrowd.com.br/judge/en/problems/view/2218)
@@ -198,7 +201,7 @@
 - [1393 - Hexagonal Tiles](https://www.beecrowd.com.br/judge/en/problems/view/1393)
 - [1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [2840 - Balloon++](https://www.beecrowd.com.br/judge/en/problems/view/2840)
 - [3184 - Getting Gold](https://www.beecrowd.com.br/judge/en/problems/view/3184)
