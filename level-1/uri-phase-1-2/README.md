@@ -4,13 +4,13 @@
 
 ### Table of Content
 
-- ***Beginner*** 			`45 problems`
-- ***Ad-Hoc I*** 			`40 problems`
-- ***Ad-Hoc II*** 			`35 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`25 problems`
-- ***Geometry***			`5 problems`
+- ***Beginner***          `45 problems`
+- ***Ad-Hoc I***          `40 problems`
+- ***Ad-Hoc II***         `35 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `25 problems`
+- ***Geometry***          `5 problems`
 
 
 ### URI - Beginner `45 problems`
