@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Ad-Hoc*** 				`15 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`10 problems`
-- ***Mathematics*** 		`10 problems`
-- ***Graph***				`40 problems`
-- ***Paradigms***			`35 problems`
-- ***Geometry***			`5 problems`
+- ***Ad-Hoc***            `15 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `10 problems`
+- ***Mathematics***       `10 problems`
+- ***Graph***             `40 problems`
+- ***Paradigms***         `35 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc `15 problems`
 
 - [1331 - Blocks](https://www.beecrowd.com.br/judge/en/problems/view/1331)
 - [1575 - Chasing After Don Giovanni](https://www.beecrowd.com.br/judge/en/problems/view/1575)
@@ -30,7 +30,7 @@
 - [2948 - Açaí Planting](https://www.beecrowd.com.br/judge/en/problems/view/2948)
 - [1753 - Knights Of The Round Table](https://www.beecrowd.com.br/judge/en/problems/view/1753)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [1530 - How Many Substrings?](https://www.beecrowd.com.br/judge/en/problems/view/1530)
 - [1313 - Diccionario Portuñol](https://www.beecrowd.com.br/judge/en/problems/view/1313)
@@ -43,7 +43,7 @@
 - [2824 - Pudim](https://www.beecrowd.com.br/judge/en/problems/view/2824)
 - [2960 - Once Upon a Time...](https://www.beecrowd.com.br/judge/en/problems/view/2960)
 
-### URI - Data Structures
+### URI - Data Structures `10 problems`
 
 - [2656 - Rhombus](https://www.beecrowd.com.br/judge/en/problems/view/2656)
 - [1740 - Is it Ordered?](https://www.beecrowd.com.br/judge/en/problems/view/1740)
@@ -56,7 +56,7 @@
 - [1023 - Drought](https://www.beecrowd.com.br/judge/en/problems/view/1023)
 - [1856 - Arya's Death List](https://www.beecrowd.com.br/judge/en/problems/view/1856)
 
-### URI - Mathematics
+### URI - Mathematics `10 problems`
 
 - [1481 - Zing Zhu’s Oyster Farm](https://www.beecrowd.com.br/judge/en/problems/view/1481)
 - [1969 - Generations](https://www.beecrowd.com.br/judge/en/problems/view/1969)
@@ -71,7 +71,7 @@
 - [1841 - The Goblet of Fire](https://www.beecrowd.com.br/judge/en/problems/view/1841)
 - [1572 - The Unreal Tournament](https://www.beecrowd.com.br/judge/en/problems/view/1572)
 
-### URI - Graph
+### URI - Graph `40 problems`
 
 - [2566 - Trip to BH](https://www.beecrowd.com.br/judge/en/problems/view/2566)
 - [1330 - Uncle Tom’s Inherited Land](https://www.beecrowd.com.br/judge/en/problems/view/1330)
@@ -114,7 +114,7 @@
 - [2357 - Violence in Syldavia](https://www.beecrowd.com.br/judge/en/problems/view/2357)
 - [2155 - The Lizard's Icosahedrons](https://www.beecrowd.com.br/judge/en/problems/view/2155)
 
-### URI - Paradigms
+### URI - Paradigms `35 problems`
 
 - [2446 - Troco](https://www.beecrowd.com.br/judge/en/problems/view/2446)
 - [2921 - Alien Charts](https://www.beecrowd.com.br/judge/en/problems/view/2921)
@@ -152,7 +152,7 @@
 - [2934 - Noel and His Reindeer](https://www.beecrowd.com.br/judge/en/problems/view/2934)
 - [1892 - Freshman Beats Veteran?](https://www.beecrowd.com.br/judge/en/problems/view/1892)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [2245 - Shrinking Polygons Kit](https://www.beecrowd.com.br/judge/en/problems/view/2245)
 - [1613 - Goemon is in Trouble](https://www.beecrowd.com.br/judge/en/problems/view/1613)
