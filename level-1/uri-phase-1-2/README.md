@@ -13,7 +13,7 @@
 - ***Geometry***			`5 problems`
 
 
-### URI - Beginner
+### URI - Beginner `45 problems`
 
 - [1007 - Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007)
 - [3147 - The Battle of the Five Armies](https://www.beecrowd.com.br/judge/en/problems/view/3147)
@@ -61,7 +61,7 @@
 - [1182 - Column in Array](https://www.beecrowd.com.br/judge/en/problems/view/1182)
 - [1011 - Sphere](https://www.beecrowd.com.br/judge/en/problems/view/1011)
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc I `40 problems`
 
 - [1895 - Game of Limit](https://www.beecrowd.com.br/judge/en/problems/view/1895)
 - [1836 - Pokémon!](https://www.beecrowd.com.br/judge/en/problems/view/1836)
@@ -103,6 +103,9 @@
 - [2322 - Peça Perdida](https://www.beecrowd.com.br/judge/en/problems/view/2322)
 - [2217 - Nove](https://www.beecrowd.com.br/judge/en/problems/view/2217)
 - [1877 - Sansa's Snow Castle](https://www.beecrowd.com.br/judge/en/problems/view/1877)
+
+### URI - Ad-Hoc II `35 problems`
+
 - [1612 - Little Ant](https://www.beecrowd.com.br/judge/en/problems/view/1612)
 - [2303 - Margaridas](https://www.beecrowd.com.br/judge/en/problems/view/2303)
 - [1770 - Shuffle](https://www.beecrowd.com.br/judge/en/problems/view/1770)
@@ -139,7 +142,7 @@
 - [2450 - Matrix Ladder](https://www.beecrowd.com.br/judge/en/problems/view/2450)
 - [2569 - The 7 x 1 Witch](https://www.beecrowd.com.br/judge/en/problems/view/2569)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [3358 - Surname is not Easy](https://www.beecrowd.com.br/judge/en/problems/view/3358)
 - [2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866)
@@ -152,7 +155,7 @@
 - [3311 - Hudinho and his Work](https://www.beecrowd.com.br/judge/en/problems/view/3311)
 - [3300 - Recharged Unlucky Numbers](https://www.beecrowd.com.br/judge/en/problems/view/3300)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [3176 - Gnome's Teams](https://www.beecrowd.com.br/judge/en/problems/view/3176)
 - [1430 - Jingle Composing](https://www.beecrowd.com.br/judge/en/problems/view/1430)
@@ -170,7 +173,7 @@
 - [1709 - Shuffled Deck](https://www.beecrowd.com.br/judge/en/problems/view/1709)
 - [2729 - Shopping List](https://www.beecrowd.com.br/judge/en/problems/view/2729)
 
-### URI - Mathematics
+### URI - Mathematics `25 problems`
 
 - [2489 - Flecha no Coelho](https://www.beecrowd.com.br/judge/en/problems/view/2489)
 - [1240 - Fit or Dont Fit I](https://www.beecrowd.com.br/judge/en/problems/view/1240)
@@ -198,7 +201,7 @@
 - [1989 - Doing Nothing](https://www.beecrowd.com.br/judge/en/problems/view/1989)
 - [3185 - Hard Evidence](https://www.beecrowd.com.br/judge/en/problems/view/3185)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [2518 - FNDI's Staircase](https://www.beecrowd.com.br/judge/en/problems/view/2518)
 - [3260 - Robert Hood](https://www.beecrowd.com.br/judge/en/problems/view/3260)
