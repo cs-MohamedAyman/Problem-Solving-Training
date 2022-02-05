@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Beginner*** 			`45 problems`
-- ***Ad-Hoc I*** 			`40 problems`
-- ***Ad-Hoc II*** 			`35 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`25 problems`
-- ***Geometry***			`5 problems`
+- ***Beginner***          `45 problems`
+- ***Ad-Hoc I***          `40 problems`
+- ***Ad-Hoc II***         `35 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `25 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Beginner
+### URI - Beginner `45 problems`
 
 - [1156 - S Sequence II](https://www.beecrowd.com.br/judge/en/problems/view/1156)
 - [1046 - Game Time](https://www.beecrowd.com.br/judge/en/problems/view/1046)
@@ -61,7 +61,7 @@
 - [1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041)
 - [3181 - Dinner](https://www.beecrowd.com.br/judge/en/problems/view/3181)
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc I `40 problems`
 
 - [1337 - King’s Poker](https://www.beecrowd.com.br/judge/en/problems/view/1337)
 - [2156 - The Adventures of Pak-man](https://www.beecrowd.com.br/judge/en/problems/view/2156)
@@ -103,6 +103,9 @@
 - [2261 - Map Tiles](https://www.beecrowd.com.br/judge/en/problems/view/2261)
 - [2197 - Machine Works](https://www.beecrowd.com.br/judge/en/problems/view/2197)
 - [1920 - Fountain of Desires](https://www.beecrowd.com.br/judge/en/problems/view/1920)
+
+### URI - Ad-Hoc II `35 problems`
+
 - [2579 - Nagol](https://www.beecrowd.com.br/judge/en/problems/view/2579)
 - [1245 - Lost Boots](https://www.beecrowd.com.br/judge/en/problems/view/1245)
 - [2200 - Mummy Madness](https://www.beecrowd.com.br/judge/en/problems/view/2200)
@@ -139,7 +142,7 @@
 - [2902 - Rouba Monte](https://www.beecrowd.com.br/judge/en/problems/view/2902)
 - [3090 - Battlefield](https://www.beecrowd.com.br/judge/en/problems/view/3090)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [1868 - Square Spiral](https://www.beecrowd.com.br/judge/en/problems/view/1868)
 - [3262 - Timebomb](https://www.beecrowd.com.br/judge/en/problems/view/3262)
@@ -152,7 +155,7 @@
 - [1305 - Cut Off Rounder](https://www.beecrowd.com.br/judge/en/problems/view/1305)
 - [1367 - Help!](https://www.beecrowd.com.br/judge/en/problems/view/1367)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [1258 - T-Shirts](https://www.beecrowd.com.br/judge/en/problems/view/1258)
 - [1944 - FACE 2015 FREE GIFT](https://www.beecrowd.com.br/judge/en/problems/view/1944)
@@ -170,7 +173,7 @@
 - [1401 - Generating Fast, Sorted Permutation](https://www.beecrowd.com.br/judge/en/problems/view/1401)
 - [2065 - Supermarket Line](https://www.beecrowd.com.br/judge/en/problems/view/2065)
 
-### URI - Mathematics
+### URI - Mathematics `25 problems`
 
 - [2100 - Xing Tzen Zu’s Movie Theater](https://www.beecrowd.com.br/judge/en/problems/view/2100)
 - [3223 - Code Permutations](https://www.beecrowd.com.br/judge/en/problems/view/3223)
@@ -198,7 +201,7 @@
 - [1161 - Factorial Sum](https://www.beecrowd.com.br/judge/en/problems/view/1161)
 - [3002 - Save Lilly!](https://www.beecrowd.com.br/judge/en/problems/view/3002)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [3064 - Elástico](https://www.beecrowd.com.br/judge/en/problems/view/3064)
 - [1296 - Medians](https://www.beecrowd.com.br/judge/en/problems/view/1296)
