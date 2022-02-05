@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Ad-Hoc*** 				`25 problems`
-- ***Strings*** 			`15 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`20 problems`
-- ***Graph***				`40 problems`
-- ***Paradigms***			`35 problems`
-- ***Geometry***			`10 problems`
+- ***Ad-Hoc***            `25 problems`
+- ***Strings***           `15 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `20 problems`
+- ***Graph***             `40 problems`
+- ***Paradigms***         `35 problems`
+- ***Geometry***          `10 problems`
 
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc `25 problems`
 
 - [1092 - Longest Increasing Sub-sequence](https://www.beecrowd.com.br/judge/en/problems/view/1092)
 - [3033 - Help Maria](https://www.beecrowd.com.br/judge/en/problems/view/3033)
@@ -41,7 +41,7 @@
 - [1964 - The Wrath of Khan](https://www.beecrowd.com.br/judge/en/problems/view/1964)
 - [2572 - Line-up](https://www.beecrowd.com.br/judge/en/problems/view/2572)
 
-### URI - Strings
+### URI - Strings `15 problems`
 
 - [1456 - Brainfuck](https://www.beecrowd.com.br/judge/en/problems/view/1456)
 - [2825 - L as in Atreus!?](https://www.beecrowd.com.br/judge/en/problems/view/2825)
@@ -59,7 +59,7 @@
 - [1385 - Report Recovery](https://www.beecrowd.com.br/judge/en/problems/view/1385)
 - [2087 - Good And Bad Sets](https://www.beecrowd.com.br/judge/en/problems/view/2087)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [2671 - Decoding the Text](https://www.beecrowd.com.br/judge/en/problems/view/2671)
 - [1704 - Arranging Tasks](https://www.beecrowd.com.br/judge/en/problems/view/1704)
@@ -77,7 +77,7 @@
 - [1405 - The Halting Problem](https://www.beecrowd.com.br/judge/en/problems/view/1405)
 - [1746 - Dividing the Names](https://www.beecrowd.com.br/judge/en/problems/view/1746)
 
-### URI - Mathematics
+### URI - Mathematics `20 problems`
 
 - [1390 - Bases](https://www.beecrowd.com.br/judge/en/problems/view/1390)
 - [1981 - Shuffling Again](https://www.beecrowd.com.br/judge/en/problems/view/1981)
@@ -100,7 +100,7 @@
 - [1968 - The Undiscovered Country](https://www.beecrowd.com.br/judge/en/problems/view/1968)
 - [1703 - Jumping Stones](https://www.beecrowd.com.br/judge/en/problems/view/1703)
 
-### URI - Graph
+### URI - Graph `40 problems`
 
 - [1951 - Circuit Validator](https://www.beecrowd.com.br/judge/en/problems/view/1951)
 - [1384 - Lazy Jumping Frog](https://www.beecrowd.com.br/judge/en/problems/view/1384)
@@ -143,7 +143,7 @@
 - [1454 - The Country of Bicycles](https://www.beecrowd.com.br/judge/en/problems/view/1454)
 - [2085 - Little Red-Cap](https://www.beecrowd.com.br/judge/en/problems/view/2085)
 
-### URI - Paradigms
+### URI - Paradigms `35 problems`
 
 - [2919 - Best Order](https://www.beecrowd.com.br/judge/en/problems/view/2919)
 - [1408 - Mario](https://www.beecrowd.com.br/judge/en/problems/view/1408)
@@ -181,7 +181,7 @@
 - [1590 - Cuarenta and Two](https://www.beecrowd.com.br/judge/en/problems/view/1590)
 - [1522 - Stack Game](https://www.beecrowd.com.br/judge/en/problems/view/1522)
 
-### URI - Geometry
+### URI - Geometry `10 problems`
 
 - [1455 - ICPC Finals](https://www.beecrowd.com.br/judge/en/problems/view/1455)
 - [1358 - Cutting Edge](https://www.beecrowd.com.br/judge/en/problems/view/1358)
