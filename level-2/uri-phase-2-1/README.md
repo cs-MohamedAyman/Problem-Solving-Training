@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Ad-Hoc*** 				`25 problems`
-- ***Strings*** 			`15 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`20 problems`
-- ***Graph***				`40 problems`
-- ***Paradigms***			`35 problems`
-- ***Geometry***			`10 problems`
+- ***Ad-Hoc***            `25 problems`
+- ***Strings***           `15 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `20 problems`
+- ***Graph***             `40 problems`
+- ***Paradigms***         `35 problems`
+- ***Geometry***          `10 problems`
 
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc `25 problems`
 
 - [2701 - Gates of Uncertainty](https://www.beecrowd.com.br/judge/en/problems/view/2701)
 - [1420 - Counting Seconds](https://www.beecrowd.com.br/judge/en/problems/view/1420)
@@ -41,7 +41,7 @@
 - [3009 - Dominos](https://www.beecrowd.com.br/judge/en/problems/view/3009)
 - [2907 - Escape, Polygon!](https://www.beecrowd.com.br/judge/en/problems/view/2907)
 
-### URI - Strings
+### URI - Strings `15 problems`
 
 - [2023 - The Last Good Kid](https://www.beecrowd.com.br/judge/en/problems/view/2023)
 - [2108 - Counting Characters](https://www.beecrowd.com.br/judge/en/problems/view/2108)
@@ -59,7 +59,7 @@
 - [3275 - Clock Pictures](https://www.beecrowd.com.br/judge/en/problems/view/3275)
 - [1120 - Contract Revision](https://www.beecrowd.com.br/judge/en/problems/view/1120)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [1088 - Bubbles and Buckets](https://www.beecrowd.com.br/judge/en/problems/view/1088)
 - [1215 - Andy's First Dictionary](https://www.beecrowd.com.br/judge/en/problems/view/1215)
@@ -77,7 +77,7 @@
 - [1507 - Subsequences](https://www.beecrowd.com.br/judge/en/problems/view/1507)
 - [1083 - LEXSIM - Sintatic and Lexical Avaliator](https://www.beecrowd.com.br/judge/en/problems/view/1083)
 
-### URI - Mathematics
+### URI - Mathematics `20 problems`
 
 - [3179 - Best Compression Ever](https://www.beecrowd.com.br/judge/en/problems/view/3179)
 - [1660 - Flavius Josephus Reloaded](https://www.beecrowd.com.br/judge/en/problems/view/1660)
@@ -100,7 +100,7 @@
 - [2680 - Payroll](https://www.beecrowd.com.br/judge/en/problems/view/2680)
 - [2983 - Not Everything is Strike](https://www.beecrowd.com.br/judge/en/problems/view/2983)
 
-### URI - Graph
+### URI - Graph `40 problems`
 
 - [2428 - Capital](https://www.beecrowd.com.br/judge/en/problems/view/2428)
 - [2419 - Costa](https://www.beecrowd.com.br/judge/en/problems/view/2419)
@@ -143,7 +143,7 @@
 - [1894 - Phylogeny](https://www.beecrowd.com.br/judge/en/problems/view/1894)
 - [1948 - Compiler](https://www.beecrowd.com.br/judge/en/problems/view/1948)
 
-### URI - Paradigms
+### URI - Paradigms `35 problems`
 
 - [1608 - Maria's Cakes](https://www.beecrowd.com.br/judge/en/problems/view/1608)
 - [1822 - Constructions of China](https://www.beecrowd.com.br/judge/en/problems/view/1822)
@@ -181,7 +181,7 @@
 - [1354 - Bigger Square Please](https://www.beecrowd.com.br/judge/en/problems/view/1354)
 - [2109 - Spies's Duel](https://www.beecrowd.com.br/judge/en/problems/view/2109)
 
-### URI - Geometry
+### URI - Geometry `10 problems`
 
 - [1679 - Drink, on Ice](https://www.beecrowd.com.br/judge/en/problems/view/1679)
 - [1834 - Vogons!](https://www.beecrowd.com.br/judge/en/problems/view/1834)
