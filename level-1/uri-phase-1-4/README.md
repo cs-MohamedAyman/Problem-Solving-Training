@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Beginner*** 			`45 problems`
-- ***Ad-Hoc I*** 			`40 problems`
-- ***Ad-Hoc II*** 			`35 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`25 problems`
-- ***Geometry***			`5 problems`
+- ***Beginner***          `45 problems`
+- ***Ad-Hoc I***          `40 problems`
+- ***Ad-Hoc II***         `35 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `25 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Beginner
+### URI - Beginner `45 problems`
 
 - [1187 - Top Area](https://www.beecrowd.com.br/judge/en/problems/view/1187)
 - [2766 - Input and Output Reading and Skipping Names](https://www.beecrowd.com.br/judge/en/problems/view/2766)
@@ -61,7 +61,7 @@
 - [1002 - Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1002)
 - [1183 - Above the Main Diagonal](https://www.beecrowd.com.br/judge/en/problems/view/1183)
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc I `40 problems`
 
 - [2276 - Surveillance](https://www.beecrowd.com.br/judge/en/problems/view/2276)
 - [1349 - Noise Effect](https://www.beecrowd.com.br/judge/en/problems/view/1349)
@@ -103,6 +103,9 @@
 - [2192 - To Add or to Multiply](https://www.beecrowd.com.br/judge/en/problems/view/2192)
 - [2260 - Low Power](https://www.beecrowd.com.br/judge/en/problems/view/2260)
 - [1676 - Assistance Required](https://www.beecrowd.com.br/judge/en/problems/view/1676)
+
+### URI - Ad-Hoc II `35 problems`
+
 - [1771 - Random Bingo Cards](https://www.beecrowd.com.br/judge/en/problems/view/1771)
 - [3198 - Tour Guide](https://www.beecrowd.com.br/judge/en/problems/view/3198)
 - [2629 - Rodoido](https://www.beecrowd.com.br/judge/en/problems/view/2629)
@@ -139,7 +142,7 @@
 - [2433 - Vende-se](https://www.beecrowd.com.br/judge/en/problems/view/2433)
 - [2468 - Map](https://www.beecrowd.com.br/judge/en/problems/view/2468)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [2588 - Game of Palindromes](https://www.beecrowd.com.br/judge/en/problems/view/2588)
 - [1239 - Bloggo Shortcuts](https://www.beecrowd.com.br/judge/en/problems/view/1239)
@@ -152,7 +155,7 @@
 - [1257 - Array Hash](https://www.beecrowd.com.br/judge/en/problems/view/1257)
 - [1273 - Justifier](https://www.beecrowd.com.br/judge/en/problems/view/1273)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [2338 - Morse](https://www.beecrowd.com.br/judge/en/problems/view/2338)
 - [1063 - Rails Again... Tracing Movements](https://www.beecrowd.com.br/judge/en/problems/view/1063)
@@ -170,7 +173,7 @@
 - [1211 - Economic Phonebook](https://www.beecrowd.com.br/judge/en/problems/view/1211)
 - [1062 - Rails](https://www.beecrowd.com.br/judge/en/problems/view/1062)
 
-### URI - Mathematics
+### URI - Mathematics `25 problems`
 
 - [1353 - Super Poker](https://www.beecrowd.com.br/judge/en/problems/view/1353)
 - [1492 - Counting Ones](https://www.beecrowd.com.br/judge/en/problems/view/1492)
@@ -198,7 +201,7 @@
 - [3271 - Dice Game](https://www.beecrowd.com.br/judge/en/problems/view/3271)
 - [1734 - Bound Found](https://www.beecrowd.com.br/judge/en/problems/view/1734)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [1291 - Is This Integration?](https://www.beecrowd.com.br/judge/en/problems/view/1291)
 - [2521 - Ask the Geographer](https://www.beecrowd.com.br/judge/en/problems/view/2521)
