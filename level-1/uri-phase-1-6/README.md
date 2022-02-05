@@ -4,16 +4,16 @@
 
 ### Table of Content
 
-- ***Beginner*** 			`35 problems`
-- ***Ad-Hoc I*** 			`40 problems`
-- ***Ad-Hoc II*** 			`35 problems`
-- ***Strings*** 			`10 problems`
-- ***Data Structures*** 	`15 problems`
-- ***Mathematics*** 		`25 problems`
-- ***Geometry***			`5 problems`
+- ***Beginner***          `35 problems`
+- ***Ad-Hoc I***          `40 problems`
+- ***Ad-Hoc II***         `35 problems`
+- ***Strings***           `10 problems`
+- ***Data Structures***   `15 problems`
+- ***Mathematics***       `25 problems`
+- ***Geometry***          `5 problems`
 
 
-### URI - Beginner
+### URI - Beginner `35 problems`
 
 - [1000 - Hello World!](https://www.beecrowd.com.br/judge/en/problems/view/1000)
 - [2867 - Digits](https://www.beecrowd.com.br/judge/en/problems/view/2867)
@@ -50,7 +50,7 @@
 - [2709 - The Coins of Robbie](https://www.beecrowd.com.br/judge/en/problems/view/2709)
 - [1047 - Game Time with Minutes](https://www.beecrowd.com.br/judge/en/problems/view/1047)
 
-### URI - Ad-Hoc
+### URI - Ad-Hoc I `40 problems`
 
 - [2979 - Rook](https://www.beecrowd.com.br/judge/en/problems/view/2979)
 - [3227 - Doorman](https://www.beecrowd.com.br/judge/en/problems/view/3227)
@@ -93,6 +93,9 @@
 - [3012 - Algorithm Teaching](https://www.beecrowd.com.br/judge/en/problems/view/3012)
 - [3023 - Leverage MDT](https://www.beecrowd.com.br/judge/en/problems/view/3023)
 - [3054 - Matriz Super-legal](https://www.beecrowd.com.br/judge/en/problems/view/3054)
+
+### URI - Ad-Hoc II `35 problems`
+
 - [3074 - Queries on an Array](https://www.beecrowd.com.br/judge/en/problems/view/3074)
 - [2134 - Who Will Fail?](https://www.beecrowd.com.br/judge/en/problems/view/2134)
 - [3057 - Detetive](https://www.beecrowd.com.br/judge/en/problems/view/3057)
@@ -128,7 +131,7 @@
 - [1885 - Thai Lotery](https://www.beecrowd.com.br/judge/en/problems/view/1885)
 - [2318 - Quadrado Mágico](https://www.beecrowd.com.br/judge/en/problems/view/2318)
 
-### URI - Strings
+### URI - Strings `10 problems`
 
 - [2153 - Sanduicheiche](https://www.beecrowd.com.br/judge/en/problems/view/2153)
 - [3313 - Wordplay](https://www.beecrowd.com.br/judge/en/problems/view/3313)
@@ -141,7 +144,7 @@
 - [2049 - Numbers of Ahmoc](https://www.beecrowd.com.br/judge/en/problems/view/2049)
 - [1737 - Etaoin Shrdlu](https://www.beecrowd.com.br/judge/en/problems/view/1737)
 
-### URI - Data Structures
+### URI - Data Structures `15 problems`
 
 - [3190 - Optimal Parking](https://www.beecrowd.com.br/judge/en/problems/view/3190)
 - [1804 - Mathematicians Needed in Mars](https://www.beecrowd.com.br/judge/en/problems/view/1804)
@@ -159,7 +162,7 @@
 - [2519 - Winning Strategy](https://www.beecrowd.com.br/judge/en/problems/view/2519)
 - [1451 - Broken Keyboard](https://www.beecrowd.com.br/judge/en/problems/view/1451)
 
-### URI - Mathematics
+### URI - Mathematics `25 problems`
 
 - [1398 - Ocean Deep! Make it Shallow!!](https://www.beecrowd.com.br/judge/en/problems/view/1398)
 - [3216 - Allergic Test](https://www.beecrowd.com.br/judge/en/problems/view/3216)
@@ -187,7 +190,7 @@
 - [1289 - What is the Probability?](https://www.beecrowd.com.br/judge/en/problems/view/1289)
 - [1202 - White Nights Festival](https://www.beecrowd.com.br/judge/en/problems/view/1202)
 
-### URI - Geometry
+### URI - Geometry `5 problems`
 
 - [1982 - New Computers](https://www.beecrowd.com.br/judge/en/problems/view/1982)
 - [2517 - PoGro Challenge](https://www.beecrowd.com.br/judge/en/problems/view/2517)
