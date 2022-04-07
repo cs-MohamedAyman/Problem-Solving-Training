@@ -35,7 +35,7 @@ This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 <br>
-Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/master/README.md)
+Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/master/README.md)
 
 ## `Level Timeline`
 
