@@ -312,9 +312,9 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
 This level simply consists of 27 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 7 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 <br>
-Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training)
+Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training)
 
 ## `Level Timeline`
 
@@ -674,9 +674,9 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
 This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 3 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
+The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
-Related Training: [Advanced Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training)
+Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training)
 
 ## `Level Timeline`
 
