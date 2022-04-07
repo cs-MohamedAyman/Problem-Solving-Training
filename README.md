@@ -57,7 +57,7 @@ This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 <br>
-Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training)
+Related Training: [Programming Languages Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/README.md)
 
 ## `Level Timeline`
 
@@ -314,7 +314,7 @@ This level simply consists of 27 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 <br>
-Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training)
+Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training/blob/main/README.md)
 
 ## `Level Timeline`
 
@@ -676,7 +676,7 @@ This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
-Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training)
+Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/main/README.md)
 
 ## `Level Timeline`
 
