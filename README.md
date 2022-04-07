@@ -676,7 +676,7 @@ This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
-Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/main/README.md)
+Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md)
 
 ## `Level Timeline`
 
