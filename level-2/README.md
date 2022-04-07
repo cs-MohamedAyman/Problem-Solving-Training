@@ -36,7 +36,7 @@ This level simply consists of 27 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 <br>
-Related Training: [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training)
+Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/master/README.md)
 
 ## `Level Timeline`
 
