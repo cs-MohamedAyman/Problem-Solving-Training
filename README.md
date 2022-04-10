@@ -200,19 +200,21 @@ The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Probl
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></th>
             <th align=center width="150px">70 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></th>
             <th align=center width="150px">100 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Introduction               </td><td align=center>15 problems</td><td>Introduction      </td><td align=center> 5 problems</td></tr>
-        <tr><td>Conditionals and Loops     </td><td align=center> 5 problems</td><td>Basic Data Types  </td><td align=center>20 problems</td></tr>
-        <tr><td>Arrays and Strings         </td><td align=center>10 problems</td><td>Collections       </td><td align=center>30 problems</td></tr>
-        <tr><td>Functions                  </td><td align=center> 5 problems</td><td>Functions         </td><td align=center>10 problems</td></tr>
-        <tr><td>Standard Template Libraries</td><td align=center> 5 problems</td><td>Standard Libraries</td><td align=center>25 problems</td></tr>
-        <tr><td>Structs and Classes        </td><td align=center>30 problems</td><td>Classes           </td><td align=center>10 problems</td></tr>
+        <tr><td>Introduction               </td><td align=center>15 problems</td><td>solutions</td><td>Introduction      </td><td align=center> 5 problems</td><td>solutions</td></tr>
+        <tr><td>Conditionals and Loops     </td><td align=center> 5 problems</td><td>solutions</td><td>Basic Data Types  </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Arrays and Strings         </td><td align=center>10 problems</td><td>solutions</td><td>Collections       </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Functions                  </td><td align=center> 5 problems</td><td>solutions</td><td>Functions         </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Standard Template Libraries</td><td align=center> 5 problems</td><td>solutions</td><td>Standard Libraries</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Structs and Classes        </td><td align=center>30 problems</td><td>solutions</td><td>Classes           </td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -483,18 +485,20 @@ The HackerRank OJ sheets: [phase-2-data-structures](https://github.com/cs-Mohame
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
-            <th align=center width="200px">120 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
-            <th align=center width="200px">120 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays & Linked Lists     </td><td align=center>20 problems</td><td>Warm-up & Recursion</td><td align=center>20 problems</td></tr>
-        <tr><td>Stacks & Queues           </td><td align=center>10 problems</td><td>Sorting            </td><td align=center>15 problems</td></tr>
-        <tr><td>Trees & Balanced Trees    </td><td align=center>25 problems</td><td>Search             </td><td align=center>25 problems</td></tr>
-        <tr><td>Heap & Disjoint Set & Trie</td><td align=center>10 problems</td><td>Implementation I   </td><td align=center>30 problems</td></tr>
-        <tr><td>Advanced                  </td><td align=center>50 problems</td><td>Implementation II  </td><td align=center>30 problems</td></tr>
+        <tr><td>Arrays & Linked Lists     </td><td align=center>20 problems</td><td>solutions</td><td>Warm-up & Recursion</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Stacks & Queues           </td><td align=center>10 problems</td><td>solutions</td><td>Sorting            </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Trees & Balanced Trees    </td><td align=center>25 problems</td><td>solutions</td><td>Search             </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Heap & Disjoint Set & Trie</td><td align=center>10 problems</td><td>solutions</td><td>Implementation I   </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Advanced                  </td><td align=center>50 problems</td><td>solutions</td><td>Implementation II  </td><td align=center>30 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -786,33 +790,37 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">phase-3-mathematics-1</a></th>
-            <th align=center width="200px">120 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">phase-3-mathematics-2</a></th>
-            <th align=center width="200px">120 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">phase-3-mathematics-1</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">phase-3-mathematics-2</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Fundamentals </td><td align=center>10 problems</td><td>Fundamentals </td><td align=center>10 problems</td></tr>
-        <tr><td>Number Theory</td><td align=center>35 problems</td><td>Number Theory</td><td align=center>35 problems</td></tr>
-        <tr><td>Combinatorics</td><td align=center>25 problems</td><td>Combinatorics</td><td align=center>25 problems</td></tr>
-        <tr><td>Algebra      </td><td align=center>25 problems</td><td>Algebra      </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry     </td><td align=center>30 problems</td><td>Probability  </td><td align=center>25 problems</td></tr>
+        <tr><td>Fundamentals </td><td align=center>10 problems</td><td>solutions</td><td>Fundamentals </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Number Theory</td><td align=center>35 problems</td><td>solutions</td><td>Number Theory</td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Combinatorics</td><td align=center>25 problems</td><td>solutions</td><td>Combinatorics</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Algebra      </td><td align=center>25 problems</td><td>solutions</td><td>Algebra      </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry     </td><td align=center>30 problems</td><td>solutions</td><td>Probability  </td><td align=center>25 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">phase-3-graph-string</a></th>
-            <th align=center width="200px">130 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
-            <th align=center width="200px">140 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">phase-3-graph-string</a></th>
+            <th align=center width="150px">130 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
+            <th align=center width="150px">140 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Theory I </td><td align=center>30 problems</td><td>Bit Manipulation       </td><td align=center>30 problems</td></tr>
-        <tr><td>Graph Theory II</td><td align=center>30 problems</td><td>Dynamic Programming I  </td><td align=center>40 problems</td></tr>
-        <tr><td>Greedy         </td><td align=center>25 problems</td><td>Dynamic Programming II </td><td align=center>30 problems</td></tr>
-        <tr><td>Strings I      </td><td align=center>20 problems</td><td>Dynamic Programming III</td><td align=center>30 problems</td></tr>
-        <tr><td>Strings II     </td><td align=center>20 problems</td><td>Constructive Algorithms</td><td align=center>10 problems</td></tr>
+        <tr><td>Graph Theory I </td><td align=center>30 problems</td><td>solutions</td><td>Bit Manipulation       </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Graph Theory II</td><td align=center>30 problems</td><td>solutions</td><td>Dynamic Programming I  </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy         </td><td align=center>25 problems</td><td>solutions</td><td>Dynamic Programming II </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Strings I      </td><td align=center>20 problems</td><td>solutions</td><td>Dynamic Programming III</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Strings II     </td><td align=center>20 problems</td><td>solutions</td><td>Constructive Algorithms</td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
