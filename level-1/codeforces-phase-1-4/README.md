@@ -1,6 +1,6 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 1.4 `105 problems` `80 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 1.4 `120 problems` `80 hrs`
 
 ### Table of Content
 
@@ -8,7 +8,7 @@
 - ***Condition***      `20 problems`
 - ***Loop***           `20 problems`
 - ***String***         `30 problems`
-- ***List / Array***   `30 problems`
+- ***List / Array***   `45 problems`
 
 ### Codeforces - Basic Operator `5 problems`
 
@@ -98,8 +98,21 @@
 - CF-Round 233: https://codeforces.com/problemset/problem/399/A
 - CF-Round 21: https://codeforces.com/problemset/problem/21/A
 
-### Codeforces - List / Array `30 problems`
+### Codeforces - List / Array `45 problems`
 
+- CF-Round 181: https://codeforces.com/problemset/problem/300/A
+- CF-Round 202: https://codeforces.com/problemset/problem/349/A
+- CF-Round 248: https://codeforces.com/problemset/problem/433/A
+- CF-Round 260: https://codeforces.com/problemset/problem/456/A
+- CF-Round 269: https://codeforces.com/problemset/problem/471/A
+- CF-Round 282: https://codeforces.com/problemset/problem/495/A
+- CF-Round 288: https://codeforces.com/problemset/problem/508/A
+- CF-Round 312: https://codeforces.com/problemset/problem/558/A
+- CF-Round 316: https://codeforces.com/problemset/problem/570/A
+- CF-Round 331: https://codeforces.com/problemset/problem/596/A
+- CF-Round 333: https://codeforces.com/problemset/problem/602/A
+- CF-Round 398: https://codeforces.com/problemset/problem/767/A
+- CF-Round 407: https://codeforces.com/problemset/problem/789/A
 - CF-Round 137: https://codeforces.com/problemset/problem/222/A
 - CF-Round 191: https://codeforces.com/problemset/problem/327/A
 - CF-Round 318: https://codeforces.com/problemset/problem/574/A

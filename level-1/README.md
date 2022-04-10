@@ -229,10 +229,10 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
         </tr>
         <tr>
             <th align=center width="500px"></th>
-            <th align=center width="250px">160 problems</th>
-            <th align=center width="250px">115 problems</th>
-            <th align=center width="250px">115 problems</th>
-            <th align=center width="250px">105 problems</th>
+            <th align=center width="250px">140 problems</th>
+            <th align=center width="250px">120 problems</th>
+            <th align=center width="250px">120 problems</th>
+            <th align=center width="250px">120 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -240,7 +240,7 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
         <tr><td>Condition     </td><td align=center>15 problems</td><td align=center>15 problems</td><td align=center>20 problems</td><td align=center>20 problems</td></tr>
         <tr><td>Loop          </td><td align=center>35 problems</td><td align=center>20 problems</td><td align=center>25 problems</td><td align=center>20 problems</td></tr>
         <tr><td>String        </td><td align=center>35 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td></tr>
-        <tr><td>List / Array  </td><td align=center>60 problems</td><td align=center>35 problems</td><td align=center>35 problems</td><td align=center>30 problems</td></tr>
+        <tr><td>List / Array  </td><td align=center>40 problems</td><td align=center>40 problems</td><td align=center>40 problems</td><td align=center>45 problems</td></tr>
     </tbody>
 </table>
 
@@ -270,9 +270,9 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
     </thead>
     <tbody>
         <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Input / Output  </td><td align=center>50 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Bit Manipulation</td><td align=center>70 problems</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Bit Manipulation</td><td align=center>40 problems</td></tr>
         <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Recursion       </td><td align=center>10 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Operators       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Operators       </td><td align=center>35 problems</td></tr>
     </tbody>
 </table>
 

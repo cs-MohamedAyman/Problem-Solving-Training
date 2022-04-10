@@ -1,6 +1,6 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 1.3 `115 problems` `80 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 1.3 `120 problems` `80 hrs`
 
 ### Table of Content
 
@@ -8,7 +8,7 @@
 - ***Condition***      `20 problems`
 - ***Loop***           `25 problems`
 - ***String***         `30 problems`
-- ***List / Array***   `35 problems`
+- ***List / Array***   `40 problems`
 
 ### Codeforces - Basic Operator `5 problems`
 
@@ -102,8 +102,26 @@
 - CF-Round 409: https://codeforces.com/problemset/problem/801/A
 - CF-Round 442: https://codeforces.com/problemset/problem/877/A
 
-### Codeforces - List / Array `35 problems`
+### Codeforces - List / Array `40 problems`
 
+- CF-Round 108: https://codeforces.com/problemset/problem/152/A
+- CF-Round 251: https://codeforces.com/problemset/problem/439/A
+- CF-Round 325: https://codeforces.com/problemset/problem/586/A
+- CF-Round 428: https://codeforces.com/problemset/problem/839/A
+- CF-Round 426: https://codeforces.com/problemset/problem/834/A
+- CF-Round 418: https://codeforces.com/problemset/problem/814/A
+- CF-Round 415: https://codeforces.com/problemset/problem/810/A
+- CF-Round 11: https://codeforces.com/problemset/problem/11/A
+- CF-Round 94: https://codeforces.com/problemset/problem/129/A
+- CF-Round 440: https://codeforces.com/problemset/problem/872/A
+- CF-Round 446: https://codeforces.com/problemset/problem/892/A
+- CF-Round 458: https://codeforces.com/problemset/problem/914/A
+- CF-Round 495: https://codeforces.com/problemset/problem/1004/A
+- CF-Round 252: https://codeforces.com/problemset/problem/441/A
+- CF-Round 142: https://codeforces.com/problemset/problem/230/A
+- CF-Round 167: https://codeforces.com/problemset/problem/272/A
+- CF-Round 257: https://codeforces.com/problemset/problem/450/A
+- CF-Round 334: https://codeforces.com/problemset/problem/604/A
 - CF-Round 112: https://codeforces.com/problemset/problem/165/A
 - CF-Round 204: https://codeforces.com/problemset/problem/352/A
 - CF-Round 209: https://codeforces.com/problemset/problem/359/A
@@ -126,16 +144,3 @@
 - CF-Round 113: https://codeforces.com/problemset/problem/166/A
 - CF-Round 153: https://codeforces.com/problemset/problem/252/A
 - CF-Round 159: https://codeforces.com/problemset/problem/257/A
-- CF-Round 181: https://codeforces.com/problemset/problem/300/A
-- CF-Round 202: https://codeforces.com/problemset/problem/349/A
-- CF-Round 248: https://codeforces.com/problemset/problem/433/A
-- CF-Round 260: https://codeforces.com/problemset/problem/456/A
-- CF-Round 269: https://codeforces.com/problemset/problem/471/A
-- CF-Round 282: https://codeforces.com/problemset/problem/495/A
-- CF-Round 288: https://codeforces.com/problemset/problem/508/A
-- CF-Round 312: https://codeforces.com/problemset/problem/558/A
-- CF-Round 316: https://codeforces.com/problemset/problem/570/A
-- CF-Round 331: https://codeforces.com/problemset/problem/596/A
-- CF-Round 333: https://codeforces.com/problemset/problem/602/A
-- CF-Round 398: https://codeforces.com/problemset/problem/767/A
-- CF-Round 407: https://codeforces.com/problemset/problem/789/A
