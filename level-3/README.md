@@ -267,9 +267,9 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
     <thead>
         <tr>
             <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1">phase-3-1</a></td>
-            <th align=center width="200px">180 problems</th>
+            <th align=center width="200px">200 problems</th>
             <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2">phase-3-2</a></td>
-            <th align=center width="200px">210 problems</th>
+            <th align=center width="200px">185 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -283,9 +283,9 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
     <thead>
         <tr>
             <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3">phase-3-3</a></td>
-            <th align=center width="200px">160 problems</th>
+            <th align=center width="200px">190 problems</th>
             <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4">phase-3-4</a></td>
-            <th align=center width="200px">160 problems</th>
+            <th align=center width="200px">190 problems</th>
         </tr>
     </thead>
     <tbody>
