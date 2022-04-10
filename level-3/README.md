@@ -24,7 +24,7 @@ Problem Solving Training for computer science students.
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
      * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-     * [Notes](#notes-2)
+     * [Notes](#notes)
 
 <img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/level-3-cover.jpg"></img>
 
