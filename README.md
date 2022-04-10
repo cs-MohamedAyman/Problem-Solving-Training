@@ -648,31 +648,35 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures">phase-2-linear-data-structures</a></th>
-            <th align=center width="200px">110 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures">phase-2-non-linear-data-structures</a></th>
-            <th align=center width="200px">90 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures">phase-2-linear-data-structures</a></th>
+            <th align=center width="150px">110 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures">phase-2-non-linear-data-structures</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays 1D               </td><td align=center>45 problems</td><td>Binary Tree            </td><td align=center>10 problems</td></tr>
-        <tr><td>Arrays Multi-dimensional</td><td align=center>40 problems</td><td>Binary Search Tree     </td><td align=center>10 problems</td></tr>
-        <tr><td>Stacks                  </td><td align=center>25 problems</td><td>Heaps / Priority Queues</td><td align=center>20 problems</td></tr>
-        <tr><td>Queues                  </td><td align=center> 5 problems</td><td>Hash Tables            </td><td align=center>50 problems</td></tr>
+        <tr><td>Arrays 1D               </td><td align=center>45 problems</td><td>solutions</td><td>Binary Tree            </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Arrays Multi-dimensional</td><td align=center>40 problems</td><td>solutions</td><td>Binary Search Tree     </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Stacks                  </td><td align=center>25 problems</td><td>solutions</td><td>Heaps / Priority Queues</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Queues                  </td><td align=center> 5 problems</td><td>solutions</td><td>Hash Tables            </td><td align=center>50 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching">phase-2-algorithms-searching</a></th>
-            <th align=center width="200px">120 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting">phase-2-algorithms-sorting</a></th>
-            <th align=center width="200px">140 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching">phase-2-algorithms-searching</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting">phase-2-algorithms-sorting</a></th>
+            <th align=center width="150px">140 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Linear Search   </td><td align=center>15 problems</td><td>Bubble & Selection & Insertion & Merge</td><td align=center>40 problems</td></tr>
-        <tr><td>Binary Search I </td><td align=center>50 problems</td><td>Quick & Count & Heap                  </td><td align=center>20 problems</td></tr>
-        <tr><td>Binary Search II</td><td align=center>50 problems</td><td>Greedy Algorithms I                   </td><td align=center>40 problems</td></tr>
-        <tr><td>Ternary Search  </td><td align=center> 5 problems</td><td>Greedy Algorithms II                  </td><td align=center>40 problems</td></tr>
+        <tr><td>Linear Search   </td><td align=center>15 problems</td><td>solutions</td><td>Bubble & Selection & Insertion & Merge</td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Search I </td><td align=center>50 problems</td><td>solutions</td><td>Quick & Count & Heap                  </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Search II</td><td align=center>50 problems</td><td>solutions</td><td>Greedy Algorithms I                   </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ternary Search  </td><td align=center> 5 problems</td><td>solutions</td><td>Greedy Algorithms II                  </td><td align=center>40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -968,60 +972,68 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-1">phase-3-mathematics-strings-1</a></th>
-            <th align=center width="200px">110 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-2">phase-3-mathematics-strings-2</a></th>
-            <th align=center width="200px">110 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-1">phase-3-mathematics-strings-1</a></th>
+            <th align=center width="150px">110 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-2">phase-3-mathematics-strings-2</a></th>
+            <th align=center width="150px">110 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Number Theory          </td><td align=center>30 problems</td><td>Basic Number Theory           </td><td align=center>30 problems</td></tr>
-        <tr><td>Primality Tests              </td><td align=center>30 problems</td><td>Basics of Combinatorics       </td><td align=center>30 problems</td></tr>
-        <tr><td>Totient Function             </td><td align=center>10 problems</td><td>Inclusione-Exclusion          </td><td align=center>20 problems</td></tr>
-        <tr><td>Basics of String Manipulation</td><td align=center>40 problems</td><td>String Searching & Z Algorithm</td><td align=center>35 problems</td></tr>
+        <tr><td>Basic Number Theory          </td><td align=center>30 problems</td><td>solutions</td><td>Basic Number Theory           </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Primality Tests              </td><td align=center>30 problems</td><td>solutions</td><td>Basics of Combinatorics       </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Totient Function             </td><td align=center>10 problems</td><td>solutions</td><td>Inclusione-Exclusion          </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Basics of String Manipulation</td><td align=center>40 problems</td><td>solutions</td><td>String Searching & Z Algorithm</td><td align=center>35 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-1">phase-3-graph-1</a></th>
-            <th align=center width="200px">150 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-2">phase-3-graph-2</a></th>
-            <th align=center width="200px">150 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-1">phase-3-graph-1</a></th>
+            <th align=center width="150px">150 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-2">phase-3-graph-2</a></th>
+            <th align=center width="150px">150 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Representation </td><td align=center>35 problems</td><td>Depth First Search                    </td><td align=center>40 problems</td></tr>
-        <tr><td>Breadth First Search </td><td align=center>35 problems</td><td>Shortest Path                         </td><td align=center>50 problems</td></tr>
-        <tr><td>Depth First Search I </td><td align=center>40 problems</td><td>Spanning Tree & Biconnected Components</td><td align=center>30 problems</td></tr>
-        <tr><td>Depth First Search II</td><td align=center>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td align=center>30 problems</td></tr>
+        <tr><td>Graph Representation </td><td align=center>35 problems</td><td>solutions</td><td>Depth First Search                    </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search </td><td align=center>35 problems</td><td>solutions</td><td>Shortest Path                         </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search I </td><td align=center>40 problems</td><td>solutions</td><td>Spanning Tree & Biconnected Components</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search II</td><td align=center>40 problems</td><td>solutions</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td align=center>30 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-1">phase-3-dynamic-programming-1</a></th>
-            <th align=center width="200px">110 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-2">phase-3-dynamic-programming-2</a></th>
-            <th align=center width="200px">120 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-1">phase-3-dynamic-programming-1</a></th>
+            <th align=center width="150px">110 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-2">phase-3-dynamic-programming-2</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Dynamic Programming I    </td><td align=center>25 problems</td><td>Dynamic Programming I    </td><td align=center>25 problems</td></tr>
-        <tr><td>Dynamic Programming II   </td><td align=center>25 problems</td><td>Dynamic Programming II   </td><td align=center>25 problems</td></tr>
-        <tr><td>Dynamic Programming 2D I </td><td align=center>25 problems</td><td>Dynamic Programming 2D I </td><td align=center>25 problems</td></tr>
-        <tr><td>Dynamic Programming 2D II</td><td align=center>25 problems</td><td>Dynamic Programming 2D II</td><td align=center>25 problems</td></tr>
-        <tr><td>DP and Bit Masking       </td><td align=center>10 problems</td><td>DP and Bit Masking       </td><td align=center>10 problems</td></tr>
+        <tr><td>Dynamic Programming I    </td><td align=center>25 problems</td><td>solutions</td><td>Dynamic Programming I    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming II   </td><td align=center>25 problems</td><td>solutions</td><td>Dynamic Programming II   </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming 2D I </td><td align=center>25 problems</td><td>solutions</td><td>Dynamic Programming 2D I </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming 2D II</td><td align=center>25 problems</td><td>solutions</td><td>Dynamic Programming 2D II</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>DP and Bit Masking       </td><td align=center>10 problems</td><td>solutions</td><td>DP and Bit Masking       </td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-1">phase-3-advanced-data-structures-1</a></th>
-            <th align=center width="200px">120 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-2">phase-3-advanced-data-structures-2</a></th>
-            <th align=center width="200px">110 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-1">phase-3-advanced-data-structures-1</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-2">phase-3-advanced-data-structures-2</a></th>
+            <th align=center width="150px">110 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Disjoint Sets  </td><td align=center>30 problems</td><td>Segment Tree              </td><td align=center>30 problems</td></tr>
-        <tr><td>Trie           </td><td align=center>20 problems</td><td>Binary Indexed Tree I     </td><td align=center>30 problems</td></tr>
-        <tr><td>Segment Tree I </td><td align=center>35 problems</td><td>Binary Indexed Tree II    </td><td align=center>30 problems</td></tr>
-        <tr><td>Segment Tree II</td><td align=center>35 problems</td><td>Suffix Tree & Suffix Array</td><td align=center>20 problems</td></tr>
+        <tr><td>Disjoint Sets  </td><td align=center>30 problems</td><td>solutions</td><td>Segment Tree              </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Trie           </td><td align=center>20 problems</td><td>solutions</td><td>Binary Indexed Tree I     </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Segment Tree I </td><td align=center>35 problems</td><td>solutions</td><td>Binary Indexed Tree II    </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Segment Tree II</td><td align=center>35 problems</td><td>solutions</td><td>Suffix Tree & Suffix Array</td><td align=center>20 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
