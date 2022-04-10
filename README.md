@@ -969,7 +969,7 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Representation </td><td align=center>35 problems</td><td>Depth First Search III                </td><td align=center>40 problems</td></tr>
+        <tr><td>Graph Representation </td><td align=center>35 problems</td><td>Depth First Search                    </td><td align=center>40 problems</td></tr>
         <tr><td>Breadth First Search </td><td align=center>35 problems</td><td>Shortest Path                         </td><td align=center>50 problems</td></tr>
         <tr><td>Depth First Search I </td><td align=center>40 problems</td><td>Spanning Tree & Biconnected Components</td><td align=center>30 problems</td></tr>
         <tr><td>Depth First Search II</td><td align=center>40 problems</td><td>Minimum Cost & Maximum Flow & Min-Cut </td><td align=center>30 problems</td></tr>
