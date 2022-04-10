@@ -697,8 +697,8 @@ Related Training: [Advanced Data Structures and Algorithms Training](https://git
             <td align=center width="16.6%">Phase math 2 - 130 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase graph & string - 130 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase dynamic programming - 130 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.1 regular contests - 70 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.2 regular contests - 70 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 regular contests - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.2 regular contests - 60 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -733,10 +733,10 @@ Related Training: [Advanced Data Structures and Algorithms Training](https://git
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 3.1 - 180 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.2 - 180 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.3 - 180 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.4 - 180 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.2 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.3 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.4 - 190 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase math & strings 1 - 120 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase math & strings 2 - 120 problems in 2 weeks</td>
         </tr>
