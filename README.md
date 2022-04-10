@@ -200,10 +200,10 @@ The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Probl
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">cpp</a></th>
             <th align=center width="150px">70 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">python</a></th>
             <th align=center width="150px">100 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -485,10 +485,10 @@ The HackerRank OJ sheets: [phase-2-data-structures](https://github.com/cs-Mohame
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">phase-2-data-structures</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">data-structures</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">phase-2-algorithms-basics</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">algorithms-basics</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -654,10 +654,10 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures">phase-2-linear-data-structures</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures">linear-data-structures</a></th>
             <th align=center width="150px">110 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures">phase-2-non-linear-data-structures</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-non-linear-data-structures">non-linear-data-structures</a></th>
             <th align=center width="150px">90 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -670,10 +670,10 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
     </tbody>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching">phase-2-algorithms-searching</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching">algorithms-searching</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting">phase-2-algorithms-sorting</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-sorting">algorithms-sorting</a></th>
             <th align=center width="150px">140 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -800,10 +800,10 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">phase-3-mathematics-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-1">mathematics-1</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">phase-3-mathematics-2</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-mathematics-2">mathematics-2</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -817,10 +817,10 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
     </tbody>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">phase-3-graph-string</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-graph-string">graph-string</a></th>
             <th align=center width="150px">130 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">phase-3-dynamic-programming</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank-phase-3-dynamic-programming">dynamic-programming</a></th>
             <th align=center width="150px">140 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -982,10 +982,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-1">phase-3-mathematics-strings-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-1">mathematics-strings-1</a></th>
             <th align=center width="150px">110 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-2">phase-3-mathematics-strings-2</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-mathematics-strings-2">mathematics-strings-2</a></th>
             <th align=center width="150px">110 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -998,10 +998,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
     </tbody>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-1">phase-3-graph-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-1">graph-1</a></th>
             <th align=center width="150px">150 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-2">phase-3-graph-2</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-graph-2">graph-2</a></th>
             <th align=center width="150px">150 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -1014,10 +1014,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
     </tbody>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-1">phase-3-dynamic-programming-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-1">dynamic-programming-1</a></th>
             <th align=center width="150px">110 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-2">phase-3-dynamic-programming-2</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-dynamic-programming-2">dynamic-programming-2</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
         </tr>
@@ -1031,10 +1031,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
     </tbody>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-1">phase-3-advanced-data-structures-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-1">advanced-data-structures-1</a></th>
             <th align=center width="150px">120 problems</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-2">phase-3-advanced-data-structures-2</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth-phase-3-advanced-data-structures-2">advanced-data-structures-2</a></th>
             <th align=center width="150px">110 problems</th>
             <th align=center width="50px"></th>
         </tr>
