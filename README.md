@@ -135,52 +135,58 @@ The URI OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solvin
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-1">phase-1-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-1">phase-1-1</a></th>
             <th align=center width="150px">175 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-2">phase-1-2</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-2">phase-1-2</a></th>
             <th align=center width="150px">175 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align=center>45 problems</td><td>Beginner       </td><td align=center>45 problems</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>Ad-Hoc I       </td><td align=center>40 problems</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>Ad-Hoc II      </td><td align=center>35 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>Mathematics    </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td><td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-3">phase-1-3</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-3">phase-1-3</a></th>
             <th align=center width="150px">175 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-4">phase-1-4</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-4">phase-1-4</a></th>
             <th align=center width="150px">175 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align=center>45 problems</td><td>Beginner       </td><td align=center>45 problems</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>Ad-Hoc I       </td><td align=center>40 problems</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>Ad-Hoc II      </td><td align=center>35 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>Mathematics    </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td><td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-5">phase-1-5</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-5">phase-1-5</a></th>
             <th align=center width="150px">175 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-6">phase-1-6</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-6">phase-1-6</a></th>
             <th align=center width="150px">165 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align=center>45 problems</td><td>Beginner       </td><td align=center>35 problems</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>Ad-Hoc I       </td><td align=center>40 problems</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>Ad-Hoc II      </td><td align=center>35 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>Mathematics    </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td><td>Beginner       </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td><td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -412,52 +418,58 @@ The URI OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solvin
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-1">phase-2-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-1">phase-2-1</a></th>
             <th align=center width="150px">160 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-2">phase-2-2</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-2">phase-2-2</a></th>
             <th align=center width="150px">160 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Ad-Hoc         </td><td align=center>25 problems</td><td>Ad-Hoc         </td><td align=center>25 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>15 problems</td><td>Strings        </td><td align=center>15 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>20 problems</td><td>Mathematics    </td><td align=center>20 problems</td></tr>
-        <tr><td>Graph          </td><td align=center>40 problems</td><td>Graph          </td><td align=center>40 problems</td></tr>
-        <tr><td>Paradigms      </td><td align=center>35 problems</td><td>Paradigms      </td><td align=center>35 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center>10 problems</td><td>Geometry       </td><td align=center>10 problems</td></tr>
+        <tr><td>Ad-Hoc         </td><td align=center>25 problems</td><td>solutions</td><td>Ad-Hoc         </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>15 problems</td><td>solutions</td><td>Strings        </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>20 problems</td><td>solutions</td><td>Mathematics    </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Graph          </td><td align=center>40 problems</td><td>solutions</td><td>Graph          </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Paradigms      </td><td align=center>35 problems</td><td>solutions</td><td>Paradigms      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center>10 problems</td><td>solutions</td><td>Geometry       </td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-3">phase-2-3</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-3">phase-2-3</a></th>
             <th align=center width="150px">160 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-4">phase-2-4</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-4">phase-2-4</a></th>
             <th align=center width="150px">160 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Ad-Hoc         </td><td align=center>25 problems</td><td>Ad-Hoc         </td><td align=center>25 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>15 problems</td><td>Strings        </td><td align=center>15 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>20 problems</td><td>Mathematics    </td><td align=center>20 problems</td></tr>
-        <tr><td>Graph          </td><td align=center>40 problems</td><td>Graph          </td><td align=center>40 problems</td></tr>
-        <tr><td>Paradigms      </td><td align=center>35 problems</td><td>Paradigms      </td><td align=center>35 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center>10 problems</td><td>Geometry       </td><td align=center>10 problems</td></tr>
+        <tr><td>Ad-Hoc         </td><td align=center>25 problems</td><td>solutions</td><td>Ad-Hoc         </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>15 problems</td><td>solutions</td><td>Strings        </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>20 problems</td><td>solutions</td><td>Mathematics    </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Graph          </td><td align=center>40 problems</td><td>solutions</td><td>Graph          </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Paradigms      </td><td align=center>35 problems</td><td>solutions</td><td>Paradigms      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center>10 problems</td><td>solutions</td><td>Geometry       </td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-5">phase-2-5</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-5">phase-2-5</a></th>
             <th align=center width="150px">125 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-6">phase-2-6</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri-phase-2-6">phase-2-6</a></th>
             <th align=center width="150px">125 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Ad-Hoc         </td><td align=center>15 problems</td><td>Ad-Hoc         </td><td align=center>15 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>10 problems</td><td>Data Structures</td><td align=center>10 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>10 problems</td><td>Mathematics    </td><td align=center>10 problems</td></tr>
-        <tr><td>Graph          </td><td align=center>50 problems</td><td>Graph          </td><td align=center>50 problems</td></tr>
-        <tr><td>Paradigms      </td><td align=center>25 problems</td><td>Paradigms      </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Ad-Hoc         </td><td align=center>15 problems</td><td>solutions</td><td>Ad-Hoc         </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td><td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>10 problems</td><td>solutions</td><td>Data Structures</td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>10 problems</td><td>solutions</td><td>Mathematics    </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Graph          </td><td align=center>50 problems</td><td>solutions</td><td>Graph          </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Paradigms      </td><td align=center>25 problems</td><td>solutions</td><td>Paradigms      </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
