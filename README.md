@@ -228,16 +228,18 @@ The AtCoder OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-So
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-1">phase-1-1</a></th>
-            <th align=center width="200px">90 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-2">phase-1-2</a></th>
-            <th align=center width="200px">90 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-1">phase-1-1</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-2">phase-1-2</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td></tr>
+        <tr><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>solutions</td><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>solutions</td><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>solutions</td><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -512,16 +514,18 @@ The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder-phase-2-1">phase-2-1</a></th>
-            <th align=center width="200px">90 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder-phase-2-2">phase-2-2</a></th>
-            <th align=center width="200px">90 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder-phase-2-1">phase-2-1</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder-phase-2-2">phase-2-2</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td></tr>
+        <tr><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>solutions</td><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>solutions</td><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>solutions</td><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -839,34 +843,38 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
 
 ## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The AtCoder OJ sheets: [phase-3-1-regular-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1-regular-contests), [phase-3-2-regular-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2-regular-contests), [phase-3-3-grand-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-3-grand-contests), [phase-3-4-grand-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-4/atcoder-phase-3-4-grand-contests), These sheets focus on Regular + Grand contests (medium contests) and contains ~60 contests
+The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1-regular-contests), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2-regular-contests), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-3-grand-contests), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-4/atcoder-phase-3-4-grand-contests), These sheets focus on Regular + Grand contests (medium contests) and contains ~60 contests
 
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1-regular-contests">phase-3-1-regular-contests</a></th>
-            <th align=center width="200px">70 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2-regular-contests">phase-3-2-regular-contests</a></th>
-            <th align=center width="200px">70 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1-regular-contests">phase-3-1</a></th>
+            <th align=center width="150px">70 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2-regular-contests">phase-3-2</a></th>
+            <th align=center width="150px">70 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Regular Contests</td><td align=center>30 problems</td></tr>
-        <tr><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Regular Contests</td><td align=center>15 problems</td></tr>
-        <tr><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Regular Contests</td><td align=center>25 problems</td></tr>
+        <tr><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>solutions</td><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>solutions</td><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>solutions</td><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-3-grand-contests">phase-3-3-grand-contests</a></th>
-            <th align=center width="200px">55 contests</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-4-grand-contests">phase-3-4-grand-contests</a></th>
-            <th align=center width="200px">55 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-3-grand-contests">phase-3-3</a></th>
+            <th align=center width="150px">55 contests</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-4-grand-contests">phase-3-4</a></th>
+            <th align=center width="150px">55 contests</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td></tr>
-        <tr><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td></tr>
-        <tr><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td></tr>
+        <tr><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td><td>solutions</td><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td><td>solutions</td><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td><td>solutions</td><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 
