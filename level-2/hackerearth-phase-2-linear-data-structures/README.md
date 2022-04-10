@@ -4,12 +4,12 @@
 
 ### Table of Content
 
-- ***Arrays 1D*** `65 problems`
-- ***Arrays Multi-dimensional*** `20 problems`
-- ***Stacks*** `25 problems`
-- ***Queues*** `5 problems`
+- ***Arrays 1D***                 `45 problems`
+- ***Arrays Multi-dimensional***  `40 problems`
+- ***Stacks***                    `25 problems`
+- ***Queues***                    `5 problems`
 
-### HackerEarth - Arrays 1D `65 problems`
+### HackerEarth - Arrays 1D `45 problems`
 
 - [range query 2](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/range-query-2/)
 - [bracket sequence 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/)
@@ -59,26 +59,8 @@
 - [x 4](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/x-4/)
 - [zulu encounters a sequence problem](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/zulu-encounters-a-sequence-problem/)
 - [k rotation is what you can](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/k-rotation-is-what-you-can-855157f8/)
-- [can you solve it](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/)
-- [beautiful segments](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-segments/)
-- [tired of trying](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/tired-of-trying/)
-- [prasun the detective](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/prasun-the-detective-77f90f8f/)
-- [in an array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/in-an-array-9fbe4c12/)
-- [unique subarrays](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/unique-subarrays/)
-- [supreme subset](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/supreme-subset-bb866a75/)
-- [thief and warehouses](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/thief-and-warehouses-6ebf4e07/)
-- [save mrinal](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/save-mrinal-35296e39/)
-- [battlefield 13](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/battlefield-13/)
-- [fredo and large numbers](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fredo-and-large-numbers/)
-- [segment tree baby](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/segment-tree-baby/)
-- [the amazing race 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-amazing-race-1/)
-- [minimum and xor or](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minimum-and-xor-or-6a05bbd4/)
-- [beautiful journey 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-journey-1/)
-- [long jump 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-jump-1-7d02705a/)
-- [fixed parity](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fixed-parity-440254c0/)
-- [the code generator](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-code-generator-9d3f9afa/)
 
-### HackerEarth - Arrays Multi-dimensional `20 problems`
+### HackerEarth - Arrays Multi-dimensional `40 problems`
 
 - [roy and symmetric logos 1](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/roy-and-symmetric-logos-1/)
 - [monk and operations](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/monk-and-operations/)
@@ -98,6 +80,24 @@
 - [submatrix updates 1](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/submatrix-updates-1/)
 - [welcome to pu](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/welcome-to-pu-661e1420/)
 - [largest square](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/largest-square-3d7a938a/)
+- [can you solve it](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/)
+- [beautiful segments](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-segments/)
+- [tired of trying](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/tired-of-trying/)
+- [prasun the detective](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/prasun-the-detective-77f90f8f/)
+- [in an array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/in-an-array-9fbe4c12/)
+- [unique subarrays](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/unique-subarrays/)
+- [supreme subset](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/supreme-subset-bb866a75/)
+- [thief and warehouses](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/thief-and-warehouses-6ebf4e07/)
+- [save mrinal](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/save-mrinal-35296e39/)
+- [battlefield 13](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/battlefield-13/)
+- [fredo and large numbers](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fredo-and-large-numbers/)
+- [segment tree baby](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/segment-tree-baby/)
+- [the amazing race 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-amazing-race-1/)
+- [minimum and xor or](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minimum-and-xor-or-6a05bbd4/)
+- [beautiful journey 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-journey-1/)
+- [long jump 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-jump-1-7d02705a/)
+- [fixed parity](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fixed-parity-440254c0/)
+- [the code generator](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-code-generator-9d3f9afa/)
 
 ### HackerEarth - Stacks `25 problems`
 

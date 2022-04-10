@@ -639,8 +639,8 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays 1D               </td><td align=center>65 problems</td><td>Binary Tree            </td><td align=center>10 problems</td></tr>
-        <tr><td>Arrays Multi-dimensional</td><td align=center>20 problems</td><td>Binary Search Tree     </td><td align=center>10 problems</td></tr>
+        <tr><td>Arrays 1D               </td><td align=center>45 problems</td><td>Binary Tree            </td><td align=center>10 problems</td></tr>
+        <tr><td>Arrays Multi-dimensional</td><td align=center>40 problems</td><td>Binary Search Tree     </td><td align=center>10 problems</td></tr>
         <tr><td>Stacks                  </td><td align=center>25 problems</td><td>Heaps / Priority Queues</td><td align=center>20 problems</td></tr>
         <tr><td>Queues                  </td><td align=center> 5 problems</td><td>Hash Tables            </td><td align=center>50 problems</td></tr>
     </tbody>
