@@ -590,51 +590,57 @@ The LeetCode OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-S
 <table>
     <thead>
         <tr>
-            <th align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1">phase-2-1</a></th>
-            <th align=center width="200px">200 problems</th>
-            <th align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2">phase-2-2</a></th>
-            <th align=center width="200px">210 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-1">phase-2-1</a></th>
+            <th align=center width="150px">200 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-2">phase-2-2</a></th>
+            <th align=center width="150px">210 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Array I          </td><td align=center>40 problems</td><td>Array I          </td><td align=center>50 problems</td></tr>
-        <tr><td>Array II         </td><td align=center>40 problems</td><td>Array II         </td><td align=center>50 problems</td></tr>
-        <tr><td>Array III        </td><td align=center>40 problems</td><td>Array III        </td><td align=center>50 problems</td></tr>
-        <tr><td>Linked List      </td><td align=center>10 problems</td><td>Linked List      </td><td align=center>30 problems</td></tr>
-        <tr><td>Stack            </td><td align=center>50 problems</td><td>Stack            </td><td align=center>10 problems</td></tr>
-        <tr><td>Queue and Dequeue</td><td align=center>20 problems</td><td>Queue and Dequeue</td><td align=center>20 problems</td></tr>
+        <tr><td>Array I          </td><td align=center>40 problems</td><td>solutions</td><td>Array I          </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Array II         </td><td align=center>40 problems</td><td>solutions</td><td>Array II         </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Array III        </td><td align=center>40 problems</td><td>solutions</td><td>Array III        </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Linked List      </td><td align=center>10 problems</td><td>solutions</td><td>Linked List      </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Stack            </td><td align=center>50 problems</td><td>solutions</td><td>Stack            </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Queue and Dequeue</td><td align=center>20 problems</td><td>solutions</td><td>Queue and Dequeue</td><td align=center>20 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3">phase-2-3</a></td>
-            <th align=center width="200px">170 problems</th>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4">phase-2-4</a></td>
-            <th align=center width="200px">180 problems</th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-3">phase-2-3</a></td>
+            <th align=center width="150px">170 problems</th>
+            <th align=center width="50px"></th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-4">phase-2-4</a></td>
+            <th align=center width="150px">180 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Recursion     </td><td align=center>30 problems</td><td>Binary Tree I  </td><td align=center>30 problems</td></tr>
-        <tr><td>Binary Tree   </td><td align=center>30 problems</td><td>Binary Tree II </td><td align=center>30 problems</td></tr>
-        <tr><td>Heap Tree     </td><td align=center>30 problems</td><td>Binary Tree III</td><td align=center>30 problems</td></tr>
-        <tr><td>Hash Table I  </td><td align=center>30 problems</td><td>Heap Tree      </td><td align=center>30 problems</td></tr>
-        <tr><td>Hash Table II </td><td align=center>30 problems</td><td>Hash Table I   </td><td align=center>30 problems</td></tr>
-        <tr><td>Hash Table III</td><td align=center>20 problems</td><td>Hash Table II  </td><td align=center>30 problems</td></tr>
+        <tr><td>Recursion     </td><td align=center>30 problems</td><td>solutions</td><td>Binary Tree I  </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Tree   </td><td align=center>30 problems</td><td>solutions</td><td>Binary Tree II </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Heap Tree     </td><td align=center>30 problems</td><td>solutions</td><td>Binary Tree III</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Hash Table I  </td><td align=center>30 problems</td><td>solutions</td><td>Heap Tree      </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Hash Table II </td><td align=center>30 problems</td><td>solutions</td><td>Hash Table I   </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Hash Table III</td><td align=center>20 problems</td><td>solutions</td><td>Hash Table II  </td><td align=center>30 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5">phase-2-5</a></td>
-            <th align=center width="200px">190 problems</th>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6">phase-2-6</a></td>
-            <th align=center width="200px">200 problems</th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5">phase-2-5</a></td>
+            <th align=center width="150px">190 problems</th>
+            <th align=center width="50px"></th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-6">phase-2-6</a></td>
+            <th align=center width="150px">200 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search I   </td><td align=center>35 problems</td><td>Binary Search      </td><td align=center>30 problems</td></tr>
-        <tr><td>Binary Search II  </td><td align=center>35 problems</td><td>Greedy I           </td><td align=center>40 problems</td></tr>
-        <tr><td>Divide and Conquer</td><td align=center>20 problems</td><td>Greedy II          </td><td align=center>40 problems</td></tr>
-        <tr><td>Sorting I         </td><td align=center>40 problems</td><td>Greedy III         </td><td align=center>40 problems</td></tr>
-        <tr><td>Sorting II        </td><td align=center>40 problems</td><td>Bit Manipulation I </td><td align=center>25 problems</td></tr>
-        <tr><td>Greedy            </td><td align=center>20 problems</td><td>Bit Manipulation II</td><td align=center>25 problems</td></tr>
+        <tr><td>Binary Search I   </td><td align=center>35 problems</td><td>solutions</td><td>Binary Search      </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Search II  </td><td align=center>35 problems</td><td>solutions</td><td>Greedy I           </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Divide and Conquer</td><td align=center>20 problems</td><td>solutions</td><td>Greedy II          </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Sorting I         </td><td align=center>40 problems</td><td>solutions</td><td>Greedy III         </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Sorting II        </td><td align=center>40 problems</td><td>solutions</td><td>Bit Manipulation I </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy            </td><td align=center>20 problems</td><td>solutions</td><td>Bit Manipulation II</td><td align=center>25 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -673,7 +679,7 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
         </tr>
     </thead>
     <tbody>
-        <tr><td>Linear Search   </td><td align=center>15 problems</td><td>solutions</td><td>Bubble & Selection & Insertion & Merge</td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Linear Search   </td><td align=center>15 problems</td><td>solutions</td><td>Bubble, Selection, Insertion, Merge</td><td align=center>40 problems</td><td>solutions</td></tr>
         <tr><td>Binary Search I </td><td align=center>50 problems</td><td>solutions</td><td>Quick & Count & Heap                  </td><td align=center>20 problems</td><td>solutions</td></tr>
         <tr><td>Binary Search II</td><td align=center>50 problems</td><td>solutions</td><td>Greedy Algorithms I                   </td><td align=center>40 problems</td><td>solutions</td></tr>
         <tr><td>Ternary Search  </td><td align=center> 5 problems</td><td>solutions</td><td>Greedy Algorithms II                  </td><td align=center>40 problems</td><td>solutions</td></tr>
@@ -931,34 +937,38 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
 <table>
     <thead>
         <tr>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1">phase-3-1</a></td>
-            <th align=center width="200px">200 problems</th>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2">phase-3-2</a></td>
-            <th align=center width="200px">185 problems</th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-1">phase-3-1</a></td>
+            <th align=center width="150px">200 problems</th>
+            <th align=center width="50px"></th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-2">phase-3-2</a></td>
+            <th align=center width="150px">185 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Backtracking           </td><td align=center>35 problems</td><td>Backtracking        </td><td align=center>35 problems</td></tr>
-        <tr><td>Breadth First Search I </td><td align=center>25 problems</td><td>Breadth First Search</td><td align=center>20 problems</td></tr>
-        <tr><td>Breadth First Search II</td><td align=center>25 problems</td><td>Depth First Search  </td><td align=center>20 problems</td></tr>
-        <tr><td>Depth First Search I   </td><td align=center>35 problems</td><td>Graph  I            </td><td align=center>30 problems</td></tr>
-        <tr><td>Depth First Search II  </td><td align=center>35 problems</td><td>Graph  II           </td><td align=center>30 problems</td></tr>
-        <tr><td>Dynamic Programming    </td><td align=center>50 problems</td><td>Dynamic Programming </td><td align=center>30 problems</td></tr>
+        <tr><td>Backtracking           </td><td align=center>35 problems</td><td>solutions</td><td>Backtracking        </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search I </td><td align=center>25 problems</td><td>solutions</td><td>Breadth First Search</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search II</td><td align=center>25 problems</td><td>solutions</td><td>Depth First Search  </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search I   </td><td align=center>35 problems</td><td>solutions</td><td>Graph  I            </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search II  </td><td align=center>35 problems</td><td>solutions</td><td>Graph  II           </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming    </td><td align=center>50 problems</td><td>solutions</td><td>Dynamic Programming </td><td align=center>30 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3">phase-3-3</a></td>
-            <th align=center width="200px">190 problems</th>
-            <td align=center width="700px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4">phase-3-4</a></td>
-            <th align=center width="200px">190 problems</th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-3">phase-3-3</a></td>
+            <th align=center width="150px">190 problems</th>
+            <th align=center width="50px"></th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode-phase-3-4">phase-3-4</a></td>
+            <th align=center width="150px">190 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Union Find & Binary Indexed Tree & Trie</td><td align=center>30 problems</td><td>Segment Tree & Suffix Array & Geometry</td><td align=center>30 problems</td></tr>
-        <tr><td>Math I                                 </td><td align=center>30 problems</td><td>Math I                                </td><td align=center>30 problems</td></tr>
-        <tr><td>Math II                                </td><td align=center>30 problems</td><td>Math II                               </td><td align=center>30 problems</td></tr>
-        <tr><td>String                                 </td><td align=center>50 problems</td><td>String                                </td><td align=center>50 problems</td></tr>
-        <tr><td>Dynamic Programming                    </td><td align=center>50 problems</td><td>Dynamic Programming                   </td><td align=center>50 problems</td></tr>
+        <tr><td>Union Find & Binary Indexed Tree & Trie</td><td align=center>30 problems</td><td>solutions</td><td>Segment Tree & Suffix Array & Geometry</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Math I                                 </td><td align=center>30 problems</td><td>solutions</td><td>Math I                                </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Math II                                </td><td align=center>30 problems</td><td>solutions</td><td>Math II                               </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>String                                 </td><td align=center>50 problems</td><td>solutions</td><td>String                                </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming                    </td><td align=center>50 problems</td><td>solutions</td><td>Dynamic Programming                   </td><td align=center>50 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
