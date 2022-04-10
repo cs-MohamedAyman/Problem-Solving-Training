@@ -671,10 +671,10 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 3 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 27 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
+The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 <br>
 Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md)
 
@@ -697,8 +697,8 @@ Related Training: [Advanced Data Structures and Algorithms Training](https://git
             <td align=center width="16.6%">Phase math 2 - 130 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase graph & string - 130 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase dynamic programming - 130 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.1 - 60 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.2 - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 regular contests - 70 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.2 regular contests - 70 problems in 2 weeks</td>
         </tr>
     </tbody>
     <thead>
@@ -713,8 +713,8 @@ Related Training: [Advanced Data Structures and Algorithms Training](https://git
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase grand contests - 60 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase grand contests - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.3 grand contests - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.4 grand contests - 60 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase 3.1 - 120 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase 3.2 - 120 problems in 2 weeks</td>
             <td align=center width="16.6%">Phase 3.3 - 120 problems in 2 weeks</td>
@@ -809,23 +809,34 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
 
 ## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2), [phase-3-grand-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-grand-contests), These sheets focus on Regular + Grand contests (medium contests) and contains ~60 contests
+The AtCoder OJ sheets: [phase-3-1-regular-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1-regular-contests), [phase-3-2-regular-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2-regular-contests), [phase-3-3-grand-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-3-grand-contests), [phase-3-4-grand-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-4/atcoder-phase-3-4-grand-contests), These sheets focus on Regular + Grand contests (medium contests) and contains ~60 contests
 
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1">phase-3-1</a></th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-1-regular-contests">phase-3-1-regular-contests</a></th>
             <th align=center width="200px">70 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2">phase-3-2</a></th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-2-regular-contests">phase-3-2-regular-contests</a></th>
             <th align=center width="200px">70 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-grand-contests">phase-3-grand-contests</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Regular Contests</td><td align=center>30 problems</td></tr>
+        <tr><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Regular Contests</td><td align=center>15 problems</td></tr>
+        <tr><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Regular Contests</td><td align=center>25 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-3-grand-contests">phase-3-3-grand-contests</a></th>
+            <th align=center width="200px">55 contests</th>
+            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder-phase-3-4-grand-contests">phase-3-4-grand-contests</a></th>
             <th align=center width="200px">55 contests</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Regular Contests</td><td align=center>30 problems</td><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td></tr>
-        <tr><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Regular Contests</td><td align=center>15 problems</td><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td></tr>
-        <tr><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Regular Contests</td><td align=center>25 problems</td><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td></tr>
+        <tr><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td><td>2016-2017 Grand Contests  </td><td align=center>20 contests</td></tr>
+        <tr><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td><td>2018-2019 Grand Contests  </td><td align=center>20 contests</td></tr>
+        <tr><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td><td>2020-2021 Grand Contests  </td><td align=center>15 contests</td></tr>
     </tbody>
 </table>
 
