@@ -55,9 +55,7 @@ Problem Solving Training for computer science students.
 This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
-<br>
-Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/README.md)
+The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***. Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/README.md)
 
 ## `Level Timeline`
 
@@ -391,9 +389,7 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
 This level simply consists of 28 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 8 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
-<br>
-Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training/blob/main/README.md)
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***. Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training/blob/main/README.md)
 
 ## `Level Timeline`
 
@@ -874,9 +870,7 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
 This level simply consists of 28 sheets, 4 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
-<br>
-Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md)
+The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***. Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md)
 
 ## `Level Timeline`
 
