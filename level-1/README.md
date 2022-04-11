@@ -33,9 +33,7 @@ Problem Solving Training for computer science students.
 This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
-The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
-<br>
-Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/master/README.md)
+The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***. Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/master/README.md)
 
 ## `Level Timeline`
 
@@ -113,52 +111,79 @@ The URI OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solvin
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-1">phase-1-1</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-1">phase-1-1</a></th>
             <th align=center width="150px">175 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-2">phase-1-2</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-2">phase-1-2</a></th>
             <th align=center width="150px">175 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align=center>45 problems</td><td>Beginner       </td><td align=center>45 problems</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>Ad-Hoc I       </td><td align=center>40 problems</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>Ad-Hoc II      </td><td align=center>35 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>Mathematics    </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align=center>45 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td>
+            <td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td>
+            <td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td>
+            <td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td>
+            <td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-3">phase-1-3</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-3">phase-1-3</a></th>
             <th align=center width="150px">175 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-4">phase-1-4</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-4">phase-1-4</a></th>
             <th align=center width="150px">175 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align=center>45 problems</td><td>Beginner       </td><td align=center>45 problems</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>Ad-Hoc I       </td><td align=center>40 problems</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>Ad-Hoc II      </td><td align=center>35 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>Mathematics    </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align=center>45 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td>
+            <td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td>
+            <td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td>
+            <td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td>
+            <td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-5">phase-1-5</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-5">phase-1-5</a></th>
             <th align=center width="150px">175 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-6">phase-1-6</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri-phase-1-6">phase-1-6</a></th>
             <th align=center width="150px">165 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align=center>45 problems</td><td>Beginner       </td><td align=center>35 problems</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>Ad-Hoc I       </td><td align=center>40 problems</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>Ad-Hoc II      </td><td align=center>35 problems</td></tr>
-        <tr><td>Strings        </td><td align=center>10 problems</td><td>Strings        </td><td align=center>10 problems</td></tr>
-        <tr><td>Data Structures</td><td align=center>15 problems</td><td>Data Structures</td><td align=center>15 problems</td></tr>
-        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>Mathematics    </td><td align=center>25 problems</td></tr>
-        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>Geometry       </td><td align=center> 5 problems</td></tr>
+        <tr><td>Beginner       </td><td align=center>45 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td>
+            <td>Ad-Hoc I       </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td>
+            <td>Ad-Hoc II      </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align=center>10 problems</td><td>solutions</td>
+            <td>Strings        </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align=center>15 problems</td><td>solutions</td>
+            <td>Data Structures</td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Mathematics    </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Geometry       </td><td align=center> 5 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -172,19 +197,27 @@ The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Probl
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">phase-1-cpp</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">cpp</a></th>
             <th align=center width="150px">70 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">phase-1-python</a></th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python">python</a></th>
             <th align=center width="150px">100 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Introduction               </td><td align=center>15 problems</td><td>Introduction      </td><td align=center> 5 problems</td></tr>
-        <tr><td>Conditionals and Loops     </td><td align=center> 5 problems</td><td>Basic Data Types  </td><td align=center>20 problems</td></tr>
-        <tr><td>Arrays and Strings         </td><td align=center>10 problems</td><td>Collections       </td><td align=center>30 problems</td></tr>
-        <tr><td>Functions                  </td><td align=center> 5 problems</td><td>Functions         </td><td align=center>10 problems</td></tr>
-        <tr><td>Standard Template Libraries</td><td align=center> 5 problems</td><td>Standard Libraries</td><td align=center>25 problems</td></tr>
-        <tr><td>Structs and Classes        </td><td align=center>30 problems</td><td>Classes           </td><td align=center>10 problems</td></tr>
+        <tr><td>Introduction               </td><td align=center>15 problems</td><td>solutions</td>
+            <td>Introduction               </td><td align=center> 5 problems</td><td>solutions</td></tr>
+        <tr><td>Conditionals and Loops     </td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Basic Data Types           </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Arrays and Strings         </td><td align=center>10 problems</td><td>solutions</td>
+            <td>Collections                </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Functions                  </td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Functions                  </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Standard Template Libraries</td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Standard Libraries         </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Structs and Classes        </td><td align=center>30 problems</td><td>solutions</td>
+            <td>Classes                    </td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -198,16 +231,21 @@ The AtCoder OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-So
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-1">phase-1-1</a></th>
-            <th align=center width="200px">90 problems</th>
-            <th align=center width="500px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-2">phase-1-2</a></th>
-            <th align=center width="200px">90 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-1">phase-1-1</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder-phase-1-2">phase-1-2</a></th>
+            <th align=center width="150px">90 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td></tr>
+        <tr><td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>solutions</td>
+            <td>2016-2017 Beginner Contests</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>solutions</td>
+            <td>2018-2019 Beginner Contests</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>solutions</td>
+            <td>2020-2021 Beginner Contests</td><td align=center>40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -221,26 +259,47 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1">phase-1-1</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2">phase-1-2</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3">phase-1-3</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">phase-1-4</a></th>
-        </tr>
-        <tr>
-            <th align=center width="500px"></th>
-            <th align=center width="250px">140 problems</th>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">120 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1">phase-1-1</a></th>
+            <th align=center width="150px">140 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2">phase-1-2</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center> 5 problems</td><td align=center> 5 problems</td></tr>
-        <tr><td>Condition     </td><td align=center>15 problems</td><td align=center>15 problems</td><td align=center>20 problems</td><td align=center>20 problems</td></tr>
-        <tr><td>Loop          </td><td align=center>35 problems</td><td align=center>20 problems</td><td align=center>25 problems</td><td align=center>20 problems</td></tr>
-        <tr><td>String        </td><td align=center>35 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td></tr>
-        <tr><td>List / Array  </td><td align=center>40 problems</td><td align=center>40 problems</td><td align=center>40 problems</td><td align=center>45 problems</td></tr>
+        <tr><td>Basic Operator</td><td align=center>15 problems</td><td>solutions</td>
+            <td>Basic Operator</td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Condition     </td><td align=center>15 problems</td><td>solutions</td>
+            <td>Condition     </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Loop          </td><td align=center>35 problems</td><td>solutions</td>
+            <td>Loop          </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align=center>35 problems</td><td>solutions</td>
+            <td>String        </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>List / Array  </td><td align=center>40 problems</td><td>solutions</td>
+            <td>List / Array  </td><td align=center>40 problems</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3">phase-1-3</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">phase-1-4</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Basic Operator</td><td align=center> 5 problems</td><td>solutions</td>
+            <td>Basic Operator</td><td align=center> 5 problems</td><td>solutions</td></tr>
+        <tr><td>Condition     </td><td align=center>20 problems</td><td>solutions</td>
+            <td>Condition     </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Loop          </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Loop          </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align=center>30 problems</td><td>solutions</td>
+            <td>String        </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>List / Array  </td><td align=center>40 problems</td><td>solutions</td>
+            <td>List / Array  </td><td align=center>45 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -254,25 +313,43 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
 <table>
     <thead>
         <tr>
-            <th align=center width="200px"></th>
-            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></th>
-            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></th>
-            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-4">phase-1-4</a></th>
-        </tr>
-        <tr>
-            <th align=center width="200px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></th>
             <th align=center width="150px">100 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></th>
             <th align=center width="150px">100 problems</th>
-            <th align=center width="150px">100 problems</th>
-            <th align=center width="500px" colspan="2">130 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Input / Output  </td><td align=center>50 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Bit Manipulation</td><td align=center>40 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Recursion       </td><td align=center>10 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Operators       </td><td align=center>35 problems</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td>
+            <td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td>
+            <td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td>
+            <td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td>
+            <td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></th>
+            <th align=center width="150px">100 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-4">phase-1-4</a></th>
+            <th align=center width="150px">130 problems</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Implementation  </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Input / Output  </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation  </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Bit Manipulation</td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation  </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Recursion       </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation  </td><td align=center>25 problems</td><td>solutions</td>
+            <td>Operators       </td><td align=center>35 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
