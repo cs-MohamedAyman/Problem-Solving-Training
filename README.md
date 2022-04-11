@@ -253,26 +253,37 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1">phase-1-1</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2">phase-1-2</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3">phase-1-3</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">phase-1-4</a></th>
-        </tr>
-        <tr>
-            <th align=center width="500px"></th>
-            <th align=center width="250px">140 problems</th>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">120 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1">phase-1-1</a></th>
+            <th align=center width="150px">140 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2">phase-1-2</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center> 5 problems</td><td align=center> 5 problems</td></tr>
-        <tr><td>Condition     </td><td align=center>15 problems</td><td align=center>15 problems</td><td align=center>20 problems</td><td align=center>20 problems</td></tr>
-        <tr><td>Loop          </td><td align=center>35 problems</td><td align=center>20 problems</td><td align=center>25 problems</td><td align=center>20 problems</td></tr>
-        <tr><td>String        </td><td align=center>35 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td></tr>
-        <tr><td>List / Array  </td><td align=center>40 problems</td><td align=center>40 problems</td><td align=center>40 problems</td><td align=center>45 problems</td></tr>
+        <tr><td>Basic Operator</td><td align=center>15 problems</td><td>solutions</td><td>Basic Operator</td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Condition     </td><td align=center>15 problems</td><td>solutions</td><td>Condition     </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Loop          </td><td align=center>35 problems</td><td>solutions</td><td>Loop          </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align=center>35 problems</td><td>solutions</td><td>String         </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>List / Array  </td><td align=center>40 problems</td><td>solutions</td><td>List / Array   </td><td align=center>40 problems</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3">phase-1-3</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">phase-1-4</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Basic Operator</td><td align=center> 5 problems</td><td>solutions</td><td>Basic Operator</td><td align=center> 5 problems</td><td>solutions</td></tr>
+        <tr><td>Condition     </td><td align=center>20 problems</td><td>solutions</td><td>Condition     </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Loop          </td><td align=center>25 problems</td><td>solutions</td><td>Loop          </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align=center>30 problems</td><td>solutions</td><td>String        </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>List / Array  </td><td align=center>40 problems</td><td>solutions</td><td>List / Array  </td><td align=center>45 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -286,25 +297,35 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
 <table>
     <thead>
         <tr>
-            <th align=center width="200px"></th>
-            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></th>
-            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></th>
-            <th align=center width="150px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-4">phase-1-4</a></th>
-        </tr>
-        <tr>
-            <th align=center width="200px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-1">phase-1-1</a></th>
             <th align=center width="150px">100 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-2">phase-1-2</a></th>
             <th align=center width="150px">100 problems</th>
-            <th align=center width="150px">100 problems</th>
-            <th align=center width="500px" colspan="2">130 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Input / Output  </td><td align=center>50 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Bit Manipulation</td><td align=center>40 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Recursion       </td><td align=center>10 problems</td></tr>
-        <tr><td>Implementation</td><td align=center>25 problems</td><td align=center>25 problems</td><td align=center>25 problems</td><td>Operators       </td><td align=center>35 problems</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Implementation</td><td align=center>25 problems</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-3">phase-1-3</a></th>
+            <th align=center width="150px">100 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth-phase-1-4">phase-1-4</a></th>
+            <th align=center width="150px">130 problems</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Input / Output  </td><td align=center>50 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Bit Manipulation</td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Recursion       </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align=center>25 problems</td><td>solutions</td><td>Operators       </td><td align=center>35 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -319,7 +340,7 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-This level simply consists of 27 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 7 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
+This level simply consists of 28 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 8 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
@@ -534,53 +555,79 @@ The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The Codeforces OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-2-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests) that focus on gym-contests that contains ~200 contests.
+The Codeforces OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 4 sheets [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-2-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-1), [phase-2-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-2) that focus on gym-contests that contains ~200 contests.
 
 <table>
     <thead>
         <tr>
-            <th align=center width="500px"></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1">phase-2-1</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2">phase-2-2</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3">phase-2-3</a></th>
-            <th align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4">phase-2-4</a></th>
-        </tr>
-        <tr>
-            <td align=center width="500px"></td>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">130 problems</th>
-            <th align=center width="250px">105 problems</th>
-            <th align=center width="250px">145 problems</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1">phase-2-1</a></th>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2">phase-2-2</a></th>
+            <th align=center width="150px">130 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Data Structure</td><td align=center>10 problems</td><td align=center>20 problems</td><td align=center>30 problems</td><td align=center>30 problems</td></tr>
-        <tr><td>String        </td><td align=center>40 problems</td><td align=center>25 problems</td><td align=center> 5 problems</td><td align=center>30 problems</td></tr>
-        <tr><td>Mathematics   </td><td align=center>25 problems</td><td align=center>35 problems</td><td align=center>35 problems</td><td align=center>40 problems</td></tr>
-        <tr><td>Greedy        </td><td align=center>30 problems</td><td align=center>35 problems</td><td align=center>25 problems</td><td align=center>30 problems</td></tr>
-        <tr><td>Brute Force   </td><td align=center>15 problems</td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>15 problems</td></tr>
+        <tr><td>Data Structure</td><td align=center>10 problems</td><td>solutions</td><td>Data Structure</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align=center>40 problems</td><td>solutions</td><td>String        </td><td align=center>25 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics   </td><td align=center>25 problems</td><td>solutions</td><td>Mathematics   </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy        </td><td align=center>30 problems</td><td>solutions</td><td>Greedy        </td><td align=center>35 problems</td><td>solutions</td></tr>
+        <tr><td>Brute Force   </td><td align=center>15 problems</td><td>solutions</td><td>Brute Force   </td><td align=center>15 problems</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3">phase-2-3</a></th>
+            <th align=center width="150px">105 problems</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4">phase-2-4</a></th>
+            <th align=center width="150px">145 problems</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Data Structure</td><td align=center>30 problems</td><td>solutions</td><td>Data Structure</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align=center> 5 problems</td><td>solutions</td><td>String        </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics   </td><td align=center>35 problems</td><td>solutions</td><td>Mathematics   </td><td align=center>40 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy        </td><td align=center>25 problems</td><td>solutions</td><td>Greedy        </td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Brute Force   </td><td align=center>10 problems</td><td>solutions</td><td>Brute Force   </td><td align=center>15 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
 <table>
     <thead>
         <tr>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests">phase-2-div3-contests</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests">phase-2-educational-contests</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests">phase-2-gym-contests</a></th>
-        </tr>
-        <tr>
-            <th align=center width="500px" colspan="2">100 contests</th>
-            <th align=center width="500px" colspan="2">100 contests</th>
-            <th align=center width="500px" colspan="2">225 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests">phase-2-div3-contests</a></th>
+            <th align=center width="150px">100 contests</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests">phase-2-educational-contests</a></th>
+            <th align=center width="150px">100 contests</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td align=center>Educational Rounds I  </td><td align=center>20 Contests</td><td align=center>GYM Contests 2    </td><td align=center>25 Contests</td></tr>
-        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td align=center>Educational Rounds II </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>50 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td align=center>Educational Rounds III</td><td align=center>20 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>50 Contests</td></tr>
-        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>50 Contests</td></tr>
-        <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td align=center>Educational Rounds V  </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 IV </td><td align=center>50 Contests</td></tr>
+        <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds I  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds II </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds III</td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds IV </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds V  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-1">phase-2-gym-contests-1</a></th>
+            <th align=center width="150px">115 contests</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-2">phase-2-gym-contests-2</a></th>
+            <th align=center width="150px">110 contests</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>GYM Contests 2    </td><td align=center>15 Contests</td><td>solutions</td><td>GYM Contests 2    </td><td align=center>10 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 I  </td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 I  </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 II </td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 II </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 III</td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 III</td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 IV </td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 IV </td><td align=center>25 Contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -701,7 +748,7 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](https://github.com/c
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 27 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 28 sheets, 4 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
@@ -883,55 +930,83 @@ The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The Codeforces OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-3-gym-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests) that focus on gym-contests that contains ~200 contests. 
+The Codeforces OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-3-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-1), [phase-3-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-2) that focus on gym-contests that contains ~200 contests. 
 
 <table>
     <thead>
         <tr>
-            <td align=center width="500px"></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1">phase-3-1</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2">phase-3-2</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3">phase-3-3</a></td>
-            <td align=center width="250px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4">phase-3-4</a></td>
-        </tr>
-        <tr>
-            <td align=center width="500px"></td>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">120 problems</th>
-            <th align=center width="250px">130 problems</th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1">phase-3-1</a></td>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2">phase-3-2</a></td>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer    </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>15 problems</td>
-        <tr><td>Graph                 </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
-        <tr><td>String                </td><td align=center>15 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
-        <tr><td>Data Structure        </td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
-        <tr><td>Math and Number Theory</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td><td align=center>30 problems</td>
-        <tr><td>Greedy and Brute Force</td><td align=center>25 problems</td><td align=center>20 problems</td><td align=center>20 problems</td><td align=center>20 problems</td>
-        <tr><td>Dynamic Programming   </td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td><td align=center>10 problems</td>
+        <tr><td>Divide and Conquer    </td><td align=center>10 problems</td><td>solutions</td><td>Divide and Conquer    </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Graph                 </td><td align=center>15 problems</td><td>solutions</td><td>Graph                 </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>String                </td><td align=center>15 problems</td><td>solutions</td><td>String                </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structure        </td><td align=center>20 problems</td><td>solutions</td><td>Data Structure        </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Math and Number Theory</td><td align=center>30 problems</td><td>solutions</td><td>Math and Number Theory</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy and Brute Force</td><td align=center>25 problems</td><td>solutions</td><td>Greedy and Brute Force</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming   </td><td align=center>10 problems</td><td>solutions</td><td>Dynamic Programming   </td><td align=center>10 problems</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3">phase-3-3</a></td>
+            <th align=center width="150px">120 problems</th>
+            <th align=center width="50px"></th>
+            <td align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4">phase-3-4</a></td>
+            <th align=center width="150px">130 problems</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Divide and Conquer    </td><td align=center>10 problems</td><td>solutions</td><td>Divide and Conquer    </td><td align=center>15 problems</td><td>solutions</td></tr>
+        <tr><td>Graph                 </td><td align=center>10 problems</td><td>solutions</td><td>Graph                 </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>String                </td><td align=center>10 problems</td><td>solutions</td><td>String                </td><td align=center>10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structure        </td><td align=center>20 problems</td><td>solutions</td><td>Data Structure        </td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Math and Number Theory</td><td align=center>30 problems</td><td>solutions</td><td>Math and Number Theory</td><td align=center>30 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy and Brute Force</td><td align=center>20 problems</td><td>solutions</td><td>Greedy and Brute Force</td><td align=center>20 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming   </td><td align=center>10 problems</td><td>solutions</td><td>Dynamic Programming   </td><td align=center>10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
 <table>
     <thead>
         <tr>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests">phase-3-div3-contests</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests">phase-3-educational-contests</a></th>
-            <th align=center width="500px" colspan="2"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests">phase-3-gym-contests</a></th>
-        </tr>
-        <tr>
-            <th align=center width="500px" colspan="2">100 contests</th>
-            <th align=center width="500px" colspan="2">100 contests</th>
-            <th align=center width="500px" colspan="2">225 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests">phase-3-div3-contests</a></th>
+            <th align=center width="150px">100 contests</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests">phase-3-educational-contests</a></th>
+            <th align=center width="150px">100 contests</th>
+            <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td align=center>Educational Rounds I  </td><td align=center>20 Contests</td><td align=center>GYM Contests 2    </td><td align=center>25 Contests</td></tr>
-        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td align=center>Educational Rounds II </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 I  </td><td align=center>50 Contests</td></tr>
-        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td align=center>Educational Rounds III</td><td align=center>20 Contests</td><td align=center>GYM Contests 3 II </td><td align=center>50 Contests</td></tr>
-        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td align=center>Educational Rounds IV </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 III</td><td align=center>50 Contests</td></tr>
-        <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td align=center>Educational Rounds V  </td><td align=center>20 Contests</td><td align=center>GYM Contests 3 IV </td><td align=center>50 Contests</td></tr>
+        <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds I  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds II </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds III</td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds IV </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td>solutions</td><td>Educational Rounds V  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
+            <th align=center width="150px">115 contests</th>
+            <th align=center width="50px"></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
+            <th align=center width="150px">110 contests</th>
+            <th align=center width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>GYM Contests 2    </td><td align=center>15 Contests</td><td>solutions</td><td>GYM Contests 2    </td><td align=center>10 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 I  </td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 I  </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 II </td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 II </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 III</td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 III</td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 3 IV </td><td align=center>25 Contests</td><td>solutions</td><td>GYM Contests 3 IV </td><td align=center>25 Contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 
