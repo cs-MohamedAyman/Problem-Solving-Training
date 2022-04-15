@@ -2,13 +2,6 @@
 
 ### Codeforces OJ - Phase 2.2 - String
 
-```cpp
-cout << "Hello World";
-```
-```python
-print('Hello World')
-```
-
 #### CF-Round 102: https://codeforces.com/problemset/problem/143/B
 ```cpp
 cout << "Hello World";
