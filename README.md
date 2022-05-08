@@ -1,5 +1,9 @@
+<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/problem-solving-training.jpg"></img>
+
 # Problem Solving Training
 Problem Solving Training for computer science students.
+
+<br><br><br>
 
 <img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img>
 <img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img>
