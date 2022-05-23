@@ -41,7 +41,7 @@
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
         </tr>
         <tr>
-<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">AtCoder phase-1-1</a> problems</h3></td>
+<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-1">AtCoder phase-1-1</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img></td>
         </tr>
         <tr>
@@ -55,7 +55,7 @@
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
         </tr>
         <tr>
-<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp">AtCoder phase-1-2</a> problems</h3></td>
+<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-2">AtCoder phase-1-2</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img></td>
         </tr>
         <tr>
