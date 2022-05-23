@@ -50,12 +50,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 1.1 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.3 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.4 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.5 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.6 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.1 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.3 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.4 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.5 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.6 - 175 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -70,12 +70,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase c/c++ - 70 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase python - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.1 - 90 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 90 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase c/c++ - 70 problems in 5 days</td>
+            <td align=center width="16.6%">Phase python - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.1 - 90 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 90 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 120 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -90,12 +90,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 1.3 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.4 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.1 - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.3 - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.4 - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.3 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.4 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.1 - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.3 - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.4 - 100 problems in 5 days</td>
         </tr>
     </tbody>
 </table>
