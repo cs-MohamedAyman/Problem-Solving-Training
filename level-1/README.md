@@ -1,4 +1,4 @@
-# Problem Solving Training
+# Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
 <img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img>
