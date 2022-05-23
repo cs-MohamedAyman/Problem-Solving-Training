@@ -76,12 +76,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 1.1 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.3 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.4 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.5 - 175 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.6 - 175 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.1 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.3 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.4 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.5 - 175 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.6 - 175 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -96,12 +96,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase c/c++ - 70 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase python - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.1 - 90 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 90 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase c/c++ - 70 problems in 5 days</td>
+            <td align=center width="16.6%">Phase python - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.1 - 90 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 90 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 120 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -116,12 +116,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 1.3 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.4 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.1 - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.2 - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.3 - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 1.4 - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 1.3 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.4 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.1 - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.2 - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.3 - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 1.4 - 100 problems in 5 days</td>
         </tr>
     </tbody>
 </table>
@@ -410,12 +410,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 2.1 - 160 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.2 - 160 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.3 - 160 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.4 - 160 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.5 - 160 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.6 - 160 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.1 - 160 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.2 - 160 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.3 - 160 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.4 - 160 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.5 - 160 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.6 - 160 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -430,12 +430,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase data structures - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase algorithms basics - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.1 - 90 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.2 - 90 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase data structures - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase algorithms basics - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.1 - 90 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.2 - 90 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.2 - 120 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -450,12 +450,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 2.3 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.4 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.1 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.2 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.3 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.4 - 190 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.3 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.4 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.1 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.2 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.3 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.4 - 190 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -470,12 +470,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 2.5 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 2.6 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase linear data structures - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase non linear data structures - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase algorithms searching - 100 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase algorithms sorting - 100 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 2.5 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 2.6 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase linear data structures - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase non linear data structures - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase algorithms searching - 100 problems in 5 days</td>
+            <td align=center width="16.6%">Phase algorithms sorting - 100 problems in 5 days</td>
         </tr>
     </tbody>
 </table>
@@ -891,12 +891,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase math 1 - 130 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase math 2 - 130 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase graph & string - 130 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase dynamic programming - 130 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.1 regular contests - 60 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.2 regular contests - 60 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase math 1 - 130 problems in 5 days</td>
+            <td align=center width="16.6%">Phase math 2 - 130 problems in 5 days</td>
+            <td align=center width="16.6%">Phase graph & string - 130 problems in 5 days</td>
+            <td align=center width="16.6%">Phase dynamic programming - 130 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.1 regular contests - 60 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.2 regular contests - 60 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -911,12 +911,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 3.3 grand contests - 60 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.4 grand contests - 60 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.2 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.3 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.4 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.3 grand contests - 60 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.4 grand contests - 60 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.2 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.3 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.4 - 120 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -931,12 +931,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase 3.1 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.2 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.3 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase 3.4 - 190 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase math & strings 1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase math & strings 2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase 3.1 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.2 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.3 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase 3.4 - 190 problems in 5 days</td>
+            <td align=center width="16.6%">Phase math & strings 1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase math & strings 2 - 120 problems in 5 days</td>
         </tr>
     </tbody>
     <thead>
@@ -951,12 +951,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-            <td align=center width="16.6%">Phase graph 1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase graph 2 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase dynamic programming 1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase dynamic programming 2 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase advanced data structures 1 - 120 problems in 2 weeks</td>
-            <td align=center width="16.6%">Phase advanced data structures 2 - 120 problems in 2 weeks</td>
+            <td align=center width="16.6%">Phase graph 1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase graph 2 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase dynamic programming 1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase dynamic programming 2 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase advanced data structures 1 - 120 problems in 5 days</td>
+            <td align=center width="16.6%">Phase advanced data structures 2 - 120 problems in 5 days</td>
         </tr>
     </tbody>
 </table>
