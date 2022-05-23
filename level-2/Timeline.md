@@ -145,7 +145,7 @@
         <tr>
 <td rowspan=2 align="left" width="35%">
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/101.jpg" width="60px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/101.jpg" width="70px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="50px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/110.jpg" width="70px"></img>
 </td>
@@ -159,7 +159,7 @@
         <tr>
 <td rowspan=2 align="left" width="35%">
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/111.jpg" width="60px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/111.jpg" width="70px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="50px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/120.jpg" width="70px"></img>
 </td>
