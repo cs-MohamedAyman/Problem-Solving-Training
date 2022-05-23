@@ -133,7 +133,7 @@
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/91.jpg" width="60px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="50px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/100.jpg" width="60px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/100.jpg" width="70px"></img>
 </td>
 <td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4">Codeforces phase-1-4</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img></td>
