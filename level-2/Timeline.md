@@ -119,7 +119,7 @@
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/81.jpg" width="65px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="45px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/90.jpg" width="70px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/90.jpg" width="65px"></img>
 </td>
 <td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4">Codeforces phase-2-4</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img></td>
@@ -133,7 +133,7 @@
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/91.jpg" width="65px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="45px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/100.jpg" width="70px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/100.jpg" width="80px"></img>
 </td>
 <td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode-phase-2-5">LeetCode phase-2-5</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
@@ -145,9 +145,9 @@
         <tr>
 <td rowspan=2 align="left" width="35%">
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/101.jpg" width="70px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/101.jpg" width="80px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="45px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/110.jpg" width="70px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/110.jpg" width="80px"></img>
 </td>
 <td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-linear-data-structures">HackerEarth phase-2-linear-data-structures</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img></td>
@@ -159,9 +159,9 @@
         <tr>
 <td rowspan=2 align="left" width="35%">
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day.jpg" width="90px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/111.jpg" width="70px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/111.jpg" width="80px"></img>
         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/to.jpg" width="45px"></img>
-        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/120.jpg" width="70px"></img>
+        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/120.jpg" width="80px"></img>
 </td>
 <td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth-phase-2-algorithms-searching">HackerEarth phase-2-algorithms-searching</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img></td>
