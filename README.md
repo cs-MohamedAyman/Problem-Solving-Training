@@ -876,87 +876,87 @@ This level simply consists of 28 sheets, 4 sheets on HackerRank Online Judge, 8 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***. Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md)
 
-## `Level Timeline`
+## [`Level Timeline`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md)
 
 <table>
     <thead>
         <tr>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center" width="16.6%">Phase math 1 - 130 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase math 2 - 130 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase graph & string - 130 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase dynamic programming - 130 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.1 regular contests - 60 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.2 regular contests - 60 problems in 5 days</td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math 1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math 2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase graph & string in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase dynamic programming in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.1 regular contests in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.2 regular contests in 5 days</a></td>
         </tr>
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center" width="16.6%">Phase 3.3 grand contests - 60 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.4 grand contests - 60 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.1 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.2 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.3 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.4 - 120 problems in 5 days</td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.3 grand contests in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.4 grand contests in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.3 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.4 in 5 days</a></td>
         </tr>
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center" width="16.6%">Phase 3.1 - 190 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.2 - 190 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.3 - 190 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase 3.4 - 190 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase math & strings 1 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase math & strings 2 - 120 problems in 5 days</td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.3 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.4 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math & strings 1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math & strings 2 in 5 days</a></td>
         </tr>
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-            <td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center" width="16.6%">Phase graph 1 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase graph 2 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase dynamic programming 1 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase dynamic programming 2 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase advanced data structures 1 - 120 problems in 5 days</td>
-            <td align="center" width="16.6%">Phase advanced data structures 2 - 120 problems in 5 days</td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase graph 1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase graph 2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase dynamic programming 1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase dynamic programming 2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase advanced data structures 1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase advanced data structures 2 in 5 days</a></td>
         </tr>
     </tbody>
 </table>
