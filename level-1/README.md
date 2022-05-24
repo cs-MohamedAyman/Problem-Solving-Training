@@ -50,12 +50,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 - 175 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 - 175 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 - 175 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 - 175 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.5 - 175 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.6 - 175 problems in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.5 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.6 in 5 days</a></td>
         </tr>
     </tbody>
     <thead>
@@ -70,12 +70,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase c/c++ - 70 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase python - 100 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 - 90 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 - 90 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 - 120 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 - 120 problems in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase cpp in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase py in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
         </tr>
     </tbody>
     <thead>
@@ -90,12 +90,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 - 120 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 - 120 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 - 100 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 - 100 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 - 100 problems in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 - 100 problems in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 in 5 days</a></td>
         </tr>
     </tbody>
 </table>
