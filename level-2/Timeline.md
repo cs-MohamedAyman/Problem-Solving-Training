@@ -13,7 +13,7 @@
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
         </tr>
         <tr>
-<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-1-data-structures">HackerRank phase-data-structures</a> problems</h3></td>
+<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-data-structures">HackerRank phase-data-structures</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img></td>
         </tr>
         <tr>
@@ -27,7 +27,7 @@
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
         </tr>
         <tr>
-<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-1-algorithms-basics">HackerRank phase-algorithms-basics</a> problems</h3></td>
+<td align="left" width="55%"><h3><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerrank-phase-2-algorithms-basics">HackerRank phase-algorithms-basics</a> problems</h3></td>
 <td width="10%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img></td>
         </tr>
         <tr>
