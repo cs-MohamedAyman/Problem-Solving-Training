@@ -1,19 +1,19 @@
 # Problem Solving Training - Level 2
 Problem Solving Training for computer science students.
 
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uva.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/topcoder.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/spoj.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img>
-<img width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uva.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/topcoder.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/spoj.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Level 2](#level-2)
@@ -122,7 +122,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 </table>
 <br><br>
 
-<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
 <br>
 
 ## [`URI OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
@@ -208,7 +208,7 @@ The URI OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solvin
     </tbody>
 </table>
 
-<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
@@ -240,7 +240,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](https://github.com/cs-Mohame
     </tbody>
 </table>
 
-<img align="right" width="85" height="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
 <br>
 
 ## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
@@ -268,7 +268,7 @@ The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
     </tbody>
 </table>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 <br>
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
@@ -369,7 +369,7 @@ The Codeforces OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem
     </tbody>
 </table>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 <br>
 
 ## [`LeetCode OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
@@ -451,7 +451,7 @@ The LeetCode OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-S
     </tbody>
 </table>
 
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
