@@ -51,12 +51,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.4 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.5 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.6 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.4</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.5</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.6</a></td>
         </tr>
     </tbody>
     <thead>
@@ -71,12 +71,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase data structures in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase algorithms basics in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase data structures</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase algorithms basics</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.2</a></td>
         </tr>
     </tbody>
     <thead>
@@ -91,12 +91,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.4 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.4 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.4</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.4</a></td>
         </tr>
     </tbody>
     <thead>
@@ -111,12 +111,12 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.5 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase 2.6 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase linear data structures in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase non linear data structures in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase algorithms searching in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">Phase algorithms sorting in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.5</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase 2.6</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase linear data structures</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase non linear data structures</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase algorithms searching</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/Timeline.md">phase algorithms sorting</a></td>
         </tr>
     </tbody>
 </table>
