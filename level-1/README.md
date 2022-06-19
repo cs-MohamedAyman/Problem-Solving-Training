@@ -71,7 +71,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     <tbody>
         <tr>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase cpp</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase py</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase python</a></td>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.1</a></td>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.2</a></td>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.1</a></td>
