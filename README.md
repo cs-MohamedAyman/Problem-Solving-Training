@@ -24,7 +24,6 @@ Problem Solving Training for computer science students.
   * [Level 2](#level-2)
   * [Level 3](#level-3)
   * [Level 4](#level-4)
-     * coming soon ...
 
 <br>
 <img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-cover.jpg"></img>
