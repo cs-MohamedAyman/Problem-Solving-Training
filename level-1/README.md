@@ -50,12 +50,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.5 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.6 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.4</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.5</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.6</a></td>
         </tr>
     </tbody>
     <thead>
@@ -70,12 +70,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase cpp in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase py in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase cpp</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase py</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.2</a></td>
         </tr>
     </tbody>
     <thead>
@@ -90,12 +90,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">Phase 1.4 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.4</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md">phase 1.4</a></td>
         </tr>
     </tbody>
 </table>
