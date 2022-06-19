@@ -50,12 +50,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math 1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math 2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase graph & string in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase dynamic programming in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.1 regular contests in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.2 regular contests in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase math 1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase math 2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase graph & string</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase dynamic programming</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.1 regular contests</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.2 regular contests</a></td>
         </tr>
     </tbody>
     <thead>
@@ -70,12 +70,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.3 grand contests in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.4 grand contests in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.4 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.3 grand contests</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.4 grand contests</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.4</a></td>
         </tr>
     </tbody>
     <thead>
@@ -90,12 +90,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.3 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase 3.4 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math & strings 1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase math & strings 2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.3</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase 3.4</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase math & strings 1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase math & strings 2</a></td>
         </tr>
     </tbody>
     <thead>
@@ -110,12 +110,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
     </thead>
     <tbody>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase graph 1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase graph 2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase dynamic programming 1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase dynamic programming 2 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase advanced data structures 1 in 5 days</a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">Phase advanced data structures 2 in 5 days</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase graph 1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase graph 2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase dynamic programming 1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase dynamic programming 2</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase advanced data structures 1</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md">phase advanced data structures 2</a></td>
         </tr>
     </tbody>
 </table>
