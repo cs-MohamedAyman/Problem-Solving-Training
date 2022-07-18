@@ -30,7 +30,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-This level simply consists of 27 sheets, 4 sheets on HackerRank Online Judge, 7 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 28 sheets, 4 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***. Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md)
@@ -226,7 +226,7 @@ The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
 
-The Codeforces OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 3 sheets [phase-3-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-3-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-3-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-1), [phase-3-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-2) that focus on gym-contests that contains ~200 contests. 
+The Codeforces OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 4 sheets [phase-3-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-1), [phase-3-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-2), [phase-3-gym-contests-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-3), [phase-3-gym-contests-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-4) that focus on gym-contests that contains ~125 contests. 
 
 <table>
     <thead>
@@ -286,47 +286,47 @@ The Codeforces OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-div3-contests">phase-3-div3-contests</a></th>
-            <th align=center width="150px">100 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
+            <th align=center width="150px">125 contests</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-educational-contests">phase-3-educational-contests</a></th>
-            <th align=center width="150px">100 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
+            <th align=center width="150px">125 contests</th>
             <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I       </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds I  </td><td align=center>20 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests II      </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds II </td><td align=center>20 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests III     </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds III</td><td align=center>20 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds IV </td><td align=center>20 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests V       </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds V  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 I  </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 I  </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 II </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 II </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 III</td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 III</td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 IV </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 IV </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 V  </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 V  </td><td align=center>25 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
-            <th align=center width="150px">115 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-3">phase-3-gym-contests-3</a></th>
+            <th align=center width="150px">125 contests</th>
             <th align=center width="50px"></th>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
-            <th align=center width="150px">110 contests</th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-gym-contests-4">phase-3-gym-contests-4</a></th>
+            <th align=center width="150px">125 contests</th>
             <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>GYM Contests 2    </td><td align=center>15 Contests</td><td>solutions</td>
-            <td>GYM Contests 2    </td><td align=center>10 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 I  </td><td align=center>25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 I  </td><td align=center>25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 II </td><td align=center>25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 II </td><td align=center>25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 III</td><td align=center>25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 III</td><td align=center>25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 IV </td><td align=center>25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 IV </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 I  </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 I  </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 II </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 II </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 III</td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 III</td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 IV </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 IV </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests 4 V  </td><td align=center>25 Contests</td><td>solutions</td>
+            <td>GYM Contests 4 V  </td><td align=center>25 Contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 
