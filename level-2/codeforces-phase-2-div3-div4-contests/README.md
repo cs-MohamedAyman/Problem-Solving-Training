@@ -1,14 +1,16 @@
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Div3 Contests `75 contests` `150 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Div3 + Div4 Contests `100 contests` `200 hrs`
 
 ### Table of Content
 
-- ***Codeforces Div3 Contests I*** `25 contests`
-- ***Codeforces Div3 Contests II*** `25 contests`
-- ***Codeforces Div3 Contests III*** `25 contests`
+- ***Codeforces Div3 Contests I***   `20 contests`
+- ***Codeforces Div3 Contests II***  `20 contests`
+- ***Codeforces Div3 Contests III*** `20 contests`
+- ***Codeforces Div3 Contests IV***  `20 contests`
+- ***Codeforces Div4 Contests***     `20 contests`
 
-### Codeforces -  Div3 Contests I `25 contests`
+### Codeforces -  Div3 Contests I `20 contests`
 
 - CF-Round 479: https://codeforces.com/contest/977
 - CF-Round 481: https://codeforces.com/contest/978
@@ -30,14 +32,14 @@
 - CF-Round 547: https://codeforces.com/contest/1141
 - CF-Round 550: https://codeforces.com/contest/1144
 - CF-Round 552: https://codeforces.com/contest/1154
+
+### Codeforces -  Div3 Contests II `20 contests`
+
 - CF-Round 555: https://codeforces.com/contest/1157
 - CF-Round 560: https://codeforces.com/contest/1165
 - CF-Round 565: https://codeforces.com/contest/1176
 - CF-Round 570: https://codeforces.com/contest/1183
 - CF-Round 575: https://codeforces.com/contest/1196
-
-### Codeforces -  Div3 Contests II `25 contests`
-
 - CF-Round 579: https://codeforces.com/contest/1203
 - CF-Round 582: https://codeforces.com/contest/1213
 - CF-Round 587: https://codeforces.com/contest/1216
@@ -53,6 +55,9 @@
 - CF-Round 629: https://codeforces.com/contest/1328
 - CF-Round 634: https://codeforces.com/contest/1335
 - CF-Round 636: https://codeforces.com/contest/1343
+
+### Codeforces -  Div3 Contests III `20 contests`
+
 - CF-Round 642: https://codeforces.com/contest/1353
 - CF-Round 644: https://codeforces.com/contest/1360
 - CF-Round 650: https://codeforces.com/contest/1367
@@ -63,9 +68,6 @@
 - CF-Round 674: https://codeforces.com/contest/1426
 - CF-Round 677: https://codeforces.com/contest/1433
 - CF-Round 686: https://codeforces.com/contest/1454
-
-### Codeforces -  Div3 Contests III `25 contests`
-
 - CF-Round 690: https://codeforces.com/contest/1462
 - CF-Round 693: https://codeforces.com/contest/1472
 - CF-Round 697: https://codeforces.com/contest/1475
@@ -76,6 +78,9 @@
 - CF-Round 725: https://codeforces.com/contest/1538
 - CF-Round 731: https://codeforces.com/contest/1547
 - CF-Round 734: https://codeforces.com/contest/1551
+
+### Codeforces -  Div3 Contests IV `20 contests`
+
 - CF-Round 739: https://codeforces.com/contest/1560
 - CF-Round 744: https://codeforces.com/contest/1579
 - CF-Round 748: https://codeforces.com/contest/1593
@@ -90,3 +95,10 @@
 - CF-Round 787: https://codeforces.com/contest/1675
 - CF-Round 797: https://codeforces.com/contest/1690
 - CF-Round 805: https://codeforces.com/contest/1702
+
+### Codeforces -  Div4 Contests `20 contests`
+
+- CF-Round 784: https://codeforces.com/contest/1669
+- CF-Round 790: https://codeforces.com/contest/1676
+- CF-Round 799: https://codeforces.com/contest/1692
+- CF-Round 806: https://codeforces.com/contest/1703

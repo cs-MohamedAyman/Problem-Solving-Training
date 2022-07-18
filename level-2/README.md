@@ -273,7 +273,7 @@ The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The Codeforces OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 4 sheets [phase-2-div3-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~100 contests. Finally [phase-2-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-1), [phase-2-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-2) that focus on gym-contests that contains ~100 contests.
+The Codeforces OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4) contain B-Div2 problems, and each sheet of them divided into 5 classes of problems (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems. For the last 4 sheets [phase-2-div3-div4-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-div4-contests) that focus on div3-contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally [phase-2-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-1), [phase-2-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-gym-contests-2) that focus on gym-contests that contains ~100 contests.
 
 <table>
     <thead>
@@ -325,25 +325,25 @@ The Codeforces OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem
 <table>
     <thead>
         <tr>
-            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-contests">phase-2-div3-contests</a></th>
+            <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-div3-div4-contests">phase-2-div3-div4-contests</a></th>
             <th align=center width="150px">100 contests</th>
             <th align=center width="50px"></th>
             <th align=center width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-educational-contests">phase-2-educational-contests</a></th>
-            <th align=center width="150px">100 contests</th>
+            <th align=center width="150px">150 contests</th>
             <th align=center width="50px"></th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Div3 Contests I  </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds I  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+            <td>Educational Rounds I  </td><td align=center>25 Contests</td><td>solutions</td></tr>
         <tr><td>Div3 Contests II </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds II </td><td align=center>20 Contests</td><td>solutions</td></tr>
+            <td>Educational Rounds II </td><td align=center>25 Contests</td><td>solutions</td></tr>
         <tr><td>Div3 Contests III</td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds III</td><td align=center>20 Contests</td><td>solutions</td></tr>
+            <td>Educational Rounds III</td><td align=center>25 Contests</td><td>solutions</td></tr>
         <tr><td>Div3 Contests IV </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds IV </td><td align=center>20 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests V  </td><td align=center>20 Contests</td><td>solutions</td>
-            <td>Educational Rounds V  </td><td align=center>20 Contests</td><td>solutions</td></tr>
+            <td>Educational Rounds IV </td><td align=center>25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div4 Contests    </td><td align=center>20 Contests</td><td>solutions</td>
+            <td>Educational Rounds V  </td><td align=center>25 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
