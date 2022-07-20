@@ -3,7 +3,8 @@
 ## LeetCode OJ - Phase 4 Interviews Questions - Easy Problems
 
 
-### contains duplicate: https://leetcode.com/problems/contains-duplicate
+### contains duplicate: 
+https://leetcode.com/problems/contains-duplicate
 
 ```python
 class Solution:
@@ -20,7 +21,8 @@ public:
 };
 ```
 
-### missing number: https://leetcode.com/problems/missing-number
+### missing number: 
+https://leetcode.com/problems/missing-number
 
 ```python
 class Solution:
@@ -38,7 +40,8 @@ public:
 };
 ```
 
-### find all numbers disappeared in an array : https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+### find all numbers disappeared in an array: 
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 ```python
 class Solution:
@@ -65,7 +68,8 @@ public:
 };
 ```
 
-### single number : https://leetcode.com/problems/single-number
+### single number: 
+https://leetcode.com/problems/single-number
 
 ```python
 class Solution:
@@ -94,203 +98,204 @@ public:
 };
 ```
 
-### problemname : problemlink
+### climbing stairs: 
+https://leetcode.com/problems/climbing-stairs
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
 ```cpp
 ```
 
-### problemname : problemlink
+### problemname: problemlink
 
 ```python
 ```
