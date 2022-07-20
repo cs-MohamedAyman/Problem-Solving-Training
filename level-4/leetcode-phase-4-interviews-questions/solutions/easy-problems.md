@@ -2,7 +2,6 @@
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Easy Problems
 
-
 ### contains duplicate: 
 https://leetcode.com/problems/contains-duplicate
 
@@ -102,22 +101,81 @@ public:
 https://leetcode.com/problems/climbing-stairs
 
 ```python
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        def dp(n: int) -> int:
+            if n < 2 :
+                return 1
+            if self.memo[n] != -1:
+                return self.memo[n]
+            self.memo[n] = dp(n-1) + dp(n-2)
+            return self.memo[n]
+
+        self.memo = [-1] * 46
+        return dp(n)
 ```
 ```cpp
+class Solution {
+public:
+    vector<int> memo;
+    int dp(int n) {
+        if (n < 2)
+            return 1;
+        if (memo[n] != -1)
+            return memo[n];
+        memo[n] = dp(n-1) + dp(n-2);
+        return memo[n];
+    }
+    int climbStairs(int n) {
+        memo.assign(46, -1);
+        return dp(n);
+    }
+};
 ```
 
-### problemname: problemlink
+### best time to buy and sell stock: 
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 ```python
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        min_vals = [1e4] * int(1e5+1)
+        max_vals = [0]   * int(1e5+1)
+        for i in range(len(prices)):
+            min_vals[i+1] = min(min_vals[i], prices[i])
+        for i in range(len(prices)-1, -1, -1):
+            max_vals[i+1] = max(max_vals[i], prices[i])
+        max_profit = 0
+        for i in range(1, len(prices)+1):
+            max_profit = max(max_profit, max_vals[i]-min_vals[i])
+        return max_profit
 ```
 ```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        vector<int> min_vals(1e5+1, 1e4);
+        vector<int> max_vals(1e5+1, 0);
+        for (int i=0; i<prices.size(); i++)
+            min_vals[i+1] = min(min_vals[i], prices[i]);
+        for (int i=prices.size()-1; i>-1; i--)
+            max_vals[i+1] = max(max_vals[i], prices[i]);
+        int max_profit = 0;
+        for (int i=1; i<prices.size()+1; i++)
+            max_profit = max(max_profit, max_vals[i]-min_vals[i]);
+        return max_profit;
+    }
+};
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
 ### problemname: problemlink
