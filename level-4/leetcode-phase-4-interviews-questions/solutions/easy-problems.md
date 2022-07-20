@@ -261,10 +261,8 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         curr1 = head
         curr2 = head
-        while curr1 != None and curr2 != None:
-            if curr2.next == None:
-                break
-            curr2 = curr2.next.next
+        while curr2 != None and curr2.next != None:
+            curr2 = curr2.next.next            
             curr1 = curr1.next
             if curr1 == curr2:
                 return True
@@ -276,9 +274,7 @@ public:
     bool hasCycle(ListNode *head) {
         ListNode *curr1 = head;
         ListNode *curr2 = head;
-        while (curr1 != NULL and curr2 != NULL) {
-            if (curr2->next == NULL)
-                break;
+        while (curr2 != NULL and curr2->next != NULL) {
             curr2 = curr2->next->next;
             curr1 = curr1->next;
             if (curr1 == curr2)
@@ -289,14 +285,32 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### middle of the linked list: 
+https://leetcode.com/problems/middle-of-the-linked-list
 
 ```python
-
+class Solution:
+    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        curr1 = head
+        curr2 = head
+        while curr2 != None and curr2.next != None:
+            curr2 = curr2.next.next
+            curr1 = curr1.next
+        return curr1
 ```
 ```cpp
-
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        ListNode *curr1 = head;
+        ListNode *curr2 = head;
+        while (curr2 != NULL and curr2->next != NULL) {
+            curr2 = curr2->next->next;
+            curr1 = curr1->next;
+        }
+        return curr1;
+    }
+};
 ```
 
 ### problemname: 
