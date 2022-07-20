@@ -198,14 +198,35 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### range sum query immutable: 
+https://leetcode.com/problems/range-sum-query-immutable
 
 ```python
+class NumArray:
+    def __init__(self, nums: List[int]):
+        self.cumulative_sum = nums.copy()
+        self.cumulative_sum.insert(0, 0)
+        for i in range(1, len(nums)+1):
+            self.cumulative_sum[i] += self.cumulative_sum[i-1]
 
+    def sumRange(self, left: int, right: int) -> int:
+        return self.cumulative_sum[right+1] - self.cumulative_sum[left]
 ```
 ```cpp
-
+class NumArray {
+public:
+    vector<int> cumulative_sum;
+    NumArray(vector<int>& nums) {
+        cumulative_sum.assign(nums.begin(), nums.end());
+        cumulative_sum.insert(cumulative_sum.begin(), 0);
+        for (int i=1; i<nums.size()+1; i++)
+            cumulative_sum[i] += cumulative_sum[i-1];
+    }
+    
+    int sumRange(int left, int right) {
+        return cumulative_sum[right+1] - cumulative_sum[left];
+    }
+};
 ```
 
 ### problemname: 
