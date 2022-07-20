@@ -402,14 +402,39 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### remove duplicates from sorted list: 
+https://leetcode.com/problems/remove-duplicates-from-sorted-list
 
 ```python
-
+class Solution:
+    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        curr = head
+        while curr != None and curr.next != None:
+            if curr.val == curr.next.val:
+                temp = curr.next
+                curr.next = curr.next.next
+                del temp
+            else:
+                curr = curr.next
+        return head
 ```
 ```cpp
-
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        ListNode *curr = head;
+        while (curr != NULL and curr->next != NULL) {
+            if (curr->val == curr->next->val) {
+                ListNode *temp = curr->next;
+                curr->next = curr->next->next;
+                delete temp;
+            }
+            else
+                curr = curr->next;
+        }
+        return head;
+    }
+};
 ```
 
 ### problemname: 
