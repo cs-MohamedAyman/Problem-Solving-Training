@@ -313,14 +313,49 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### palindrome linked list: 
+https://leetcode.com/problems/palindrome-linked-list
 
 ```python
-
+class Solution:
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        stk = []
+        curr = head
+        while curr != None:
+            stk.append(curr.val)
+            curr = curr.next
+        stk = stk[::-1]
+        i = 0
+        curr = head
+        while curr != None:
+            if stk[i] != curr.val:
+                return False
+            curr = curr.next
+            i += 1
+        return True
 ```
 ```cpp
-
+class Solution {
+public:
+    bool isPalindrome(ListNode* head) {
+        vector<int> stk;
+        ListNode *curr = head;
+        while (curr != NULL) {
+            stk.push_back(curr->val);
+            curr = curr->next;
+        }
+        reverse(stk.begin(), stk.end());
+        int i = 0;
+        curr = head;
+        while (curr != NULL) {
+            if (stk[i] != curr->val)
+                return false;
+            curr = curr->next;
+            i++;
+        }
+        return true;
+    }
+};
 ```
 
 ### problemname: 
