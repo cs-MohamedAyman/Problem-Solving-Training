@@ -168,6 +168,36 @@ public:
 };
 ```
 
+### maximum subarray: 
+https://leetcode.com/problems/maximum-subarray
+
+```python
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        curr_subarray_sum = 0
+        max_subarray_sum = nums[0]
+        for i in nums:
+            curr_subarray_sum = max(curr_subarray_sum, 0)
+            curr_subarray_sum += i
+            max_subarray_sum = max(max_subarray_sum, curr_subarray_sum)
+        return max_subarray_sum
+```
+```cpp
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int curr_subarray_sum = 0;
+        int max_subarray_sum = nums[0];
+        for (int i : nums) {
+            curr_subarray_sum = max(curr_subarray_sum, 0);
+            curr_subarray_sum += i;
+            max_subarray_sum = max(max_subarray_sum, curr_subarray_sum);
+        }
+        return max_subarray_sum;
+    }
+};
+```
+
 ### problemname: 
 problemlink
 
@@ -178,185 +208,192 @@ problemlink
 
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
+
 ```
 
-### problemname: problemlink
+### problemname: 
+problemlink
 
 ```python
+
 ```
 ```cpp
-```
 
-### problemname: problemlink
-
-```python
 ```
-```cpp
-```
-
-### problemname: problemlink
-
-```python
-```
-```cpp
-```
-
-### problemname: problemlink
-
-```python
-```
-```cpp
-```
-
-### problemname: problemlink
-
-```python
-```
-```cpp
-```
-
-### problemname: problemlink
-
-```python
-```
-```cpp
-```
-
-### problemname: problemlink
-
-```python
-```
-```cpp
-```
-
-### problemname: problemlink
-
-```python
-```
-```cpp
-```
-
