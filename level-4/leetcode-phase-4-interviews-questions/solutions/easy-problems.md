@@ -567,34 +567,104 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### binary search: 
+https://leetcode.com/problems/binary-search
 
 ```python
-
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        f, e = 0, len(nums)-1
+        while f <= e:
+            m = (f+e)//2
+            if nums[m] == target:
+                return m
+            if nums[m] > target:
+                e = m-1
+            else:
+                f = m+1
+        return -1
 ```
 ```cpp
-
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int f = 0, e = nums.size()-1;
+        while (f <= e) {
+            int m = (f+e)/2;
+            if (nums[m] == target)
+                return m;
+            if (nums[m] > target)
+                e = m-1;
+            else
+                f = m+1;
+        }
+        return -1;
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### find smallest letter greater than target: 
+https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
 ```python
-
+class Solution:
+    def nextGreatestLetter(self, letters: List[str], target: str) -> str:
+        f, e = 0, len(letters)-1
+        while f <= e:
+            m = (f+e)//2
+            if letters[m] > target:
+                e = m-1
+            else:
+                f = m+1
+        return letters[f%len(letters)]
 ```
 ```cpp
-
+class Solution {
+public:
+    char nextGreatestLetter(vector<char>& letters, char target) {
+        int f = 0, e = letters.size()-1;
+        while (f <= e) {
+            int m = (f+e)/2;
+            if (letters[m] > target)
+                e = m-1;
+            else
+                f = m+1;
+        }
+        return letters[f%letters.size()];
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### peak index in a mountain array: 
+https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 ```python
-
+class Solution:
+    def peakIndexInMountainArray(self, arr: List[int]) -> int:
+        f, e = 0, len(arr)-1
+        while f <= e:
+            m = (f+e)//2
+            if arr[m] < arr[m+1]:
+                f = m+1
+            else:
+                e = m-1
+        return f
 ```
 ```cpp
-
+class Solution {
+public:
+    int peakIndexInMountainArray(vector<int>& arr) {
+        int f = 0, e = arr.size()-1;
+        while (f <= e) {
+            int m = (f+e)/2;
+            if (arr[m] < arr[m+1])
+                f = m+1;
+            else
+                e = m-1;
+        }
+        return f;
+    }
+};
 ```
 
 ### problemname: 
