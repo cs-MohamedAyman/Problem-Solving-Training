@@ -38,18 +38,60 @@ public:
 };
 ```
 
-### problemname : problemlink
+### find all numbers disappeared in an array : https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 ```python
+class Solution:
+    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+        set_nums = set(nums)
+        disappeared_num  = []
+        for i in range(1, len(nums)+1):
+            if i not in set_nums:
+                disappeared_num.append(i)
+        return disappeared_num
 ```
 ```cpp
+class Solution {
+public:
+    vector<int> findDisappearedNumbers(vector<int>& nums) {
+        set<int> set_nums(nums.begin(), nums.end());
+        vector<int> disappeared_num;
+        for (int i=1; i<nums.size()+1; i++) {
+            if (set_nums.find(i) == set_nums.end())
+                disappeared_num.push_back(i);
+        }
+        return disappeared_num;
+    }
+};
 ```
 
-### problemname : problemlink
+### single number : https://leetcode.com/problems/single-number
 
 ```python
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        cnt_nums = [0] * int(6e4)
+        for i in nums:
+            cnt_nums[i+int(3e4)] += 1
+        for i in nums:
+            if cnt_nums[i+int(3e4)] == 1:
+                return i
+        return 0
 ```
 ```cpp
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        vector<int> cnt_nums(6e4, 0);
+        for (int i:nums)
+            cnt_nums[i+int(3e4)] ++;
+        for (int i:nums) {
+            if (cnt_nums[i+int(3e4)] == 1)
+                return i;
+        }
+        return 0;
+    }
+};
 ```
 
 ### problemname : problemlink
