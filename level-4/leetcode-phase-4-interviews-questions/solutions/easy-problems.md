@@ -358,14 +358,48 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### remove linked list elements: 
+https://leetcode.com/problems/remove-linked-list-elements
 
 ```python
-
+class Solution:
+    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+        curr = head
+        while curr != None and curr.next != None:
+            if curr.next.val == val:
+                temp = curr.next
+                curr.next = curr.next.next
+                del temp
+            else:
+                curr = curr.next
+        if head != None and head.val == val:
+            temp = head
+            head = head.next
+            del temp
+        return head
 ```
 ```cpp
-
+class Solution {
+public:
+    ListNode* removeElements(ListNode* head, int val) {
+        ListNode *curr = head;
+        while (curr != NULL and curr->next != NULL) {
+            if (curr->next->val == val) {
+                ListNode *temp = curr->next;
+                curr->next = curr->next->next;
+                delete temp;
+            }
+            else
+                curr = curr->next;
+        }
+        if (head != NULL and head->val == val) {
+            ListNode *temp = head;
+            head = head->next;
+            delete temp;
+        }
+        return head;
+    }
+};
 ```
 
 ### problemname: 
