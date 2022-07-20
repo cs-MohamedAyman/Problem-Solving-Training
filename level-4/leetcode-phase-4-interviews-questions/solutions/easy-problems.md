@@ -9,7 +9,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         return len(nums) != len(set(nums))
-
 ```
 ```cpp
 class Solution {
@@ -20,3 +19,232 @@ public:
     }
 };
 ```
+
+### missing number: https://leetcode.com/problems/missing-number
+
+```python
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        n = len(nums)
+        return n*(n+1)//2 - sum(nums)
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
+### problemname : problemlink
+
+```python
+```
+```cpp
+```
+
