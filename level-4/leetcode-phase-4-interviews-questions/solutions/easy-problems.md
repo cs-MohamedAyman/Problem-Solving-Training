@@ -229,14 +229,39 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### counting bits: 
+https://leetcode.com/problems/counting-bits
 
 ```python
-
+class Solution:
+    def countBits(self, n: int) -> List[int]:
+        cnt_ones = [0] * (n+1)
+        for i in range(n+1):
+            x = i
+            cnt = 0
+            while x > 0:
+                cnt += x%2
+                x //= 2
+            cnt_ones[i] = cnt
+        return cnt_ones
 ```
 ```cpp
-
+class Solution {
+public:
+    vector<int> countBits(int n) {
+        vector<int> cnt_ones (n+1, 0);
+        for (int i=0; i<n+1; i++) {
+            int x = i;
+            int cnt = 0;
+            while (x > 0) {
+                cnt += x%2;
+                x /= 2;
+            }
+            cnt_ones[i] = cnt;
+        }
+        return cnt_ones;
+    }
+};
 ```
 
 ### problemname: 
