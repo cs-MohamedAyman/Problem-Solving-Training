@@ -437,14 +437,44 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### reverse linked list: 
+https://leetcode.com/problems/reverse-linked-list
 
 ```python
-
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if head == None:
+            return head
+        prv = None
+        cur = head
+        nxt = cur.next
+        while nxt != None:
+            cur.next = prv
+            prv = cur
+            cur = nxt
+            nxt = nxt.next
+        cur.next = prv
+        return cur
 ```
 ```cpp
-
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        if (head == NULL)
+            return head;
+        ListNode *prv = NULL;
+        ListNode *cur = head;
+        ListNode *nxt = cur->next;
+        while (nxt != NULL) {
+            cur->next = prv;
+            prv = cur;
+            cur = nxt;
+            nxt = nxt->next;
+        }
+        cur->next = prv;
+        return cur;
+    }
+};
 ```
 
 ### problemname: 
