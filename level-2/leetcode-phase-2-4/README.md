@@ -1,15 +1,15 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
 ## [LeetCode](https://leetcode.com/) OJ - Phase 2.4 `180 problems` `100 hrs`
 
 ### Table of Content
 
-- ***Binary Tree I*** 	`30 problems`
-- ***Binary Tree II*** 	`30 problems`
+- ***Binary Tree I***     `30 problems`
+- ***Binary Tree II***     `30 problems`
 - ***Binary Tree III*** `30 problems`
-- ***Heap Tree*** 		`30 problems`
-- ***Hash Table I*** 	`30 problems`
-- ***Hash Table II*** 	`30 problems`
+- ***Heap Tree***         `30 problems`
+- ***Hash Table I***     `30 problems`
+- ***Hash Table II***     `30 problems`
 
 ### LeetCode - Binary Tree I `30 problems`
 

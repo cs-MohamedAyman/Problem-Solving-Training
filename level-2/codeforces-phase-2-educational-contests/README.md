@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ - Educational Contests `125 contests` `250 hrs`
 
@@ -125,28 +125,28 @@
 
 ### Codeforces - Educational Rounds V `25 contests`
 
-- Educational Codeforces Round 101:	https://codeforces.com/contest/1469
-- Educational Codeforces Round 102:	https://codeforces.com/contest/1473
-- Educational Codeforces Round 103:	https://codeforces.com/contest/1476
-- Educational Codeforces Round 104:	https://codeforces.com/contest/1487
-- Educational Codeforces Round 105:	https://codeforces.com/contest/1494
-- Educational Codeforces Round 106:	https://codeforces.com/contest/1499
-- Educational Codeforces Round 107:	https://codeforces.com/contest/1511
-- Educational Codeforces Round 108:	https://codeforces.com/contest/1519
-- Educational Codeforces Round 109:	https://codeforces.com/contest/1525
-- Educational Codeforces Round 110:	https://codeforces.com/contest/1535
-- Educational Codeforces Round 111:	https://codeforces.com/contest/1550
-- Educational Codeforces Round 112:	https://codeforces.com/contest/1555
-- Educational Codeforces Round 113:	https://codeforces.com/contest/1569
-- Educational Codeforces Round 114:	https://codeforces.com/contest/1574
-- Educational Codeforces Round 115:	https://codeforces.com/contest/1598
-- Educational Codeforces Round 116:	https://codeforces.com/contest/1606
-- Educational Codeforces Round 117:	https://codeforces.com/contest/1612
-- Educational Codeforces Round 118:	https://codeforces.com/contest/1613
-- Educational Codeforces Round 119:	https://codeforces.com/contest/1620
-- Educational Codeforces Round 120:	https://codeforces.com/contest/1622
-- Educational Codeforces Round 121:	https://codeforces.com/contest/1626
-- Educational Codeforces Round 122:	https://codeforces.com/contest/1633
-- Educational Codeforces Round 123:	https://codeforces.com/contest/1644
-- Educational Codeforces Round 124:	https://codeforces.com/contest/1651
-- Educational Codeforces Round 125:	https://codeforces.com/contest/1657
+- Educational Codeforces Round 101:    https://codeforces.com/contest/1469
+- Educational Codeforces Round 102:    https://codeforces.com/contest/1473
+- Educational Codeforces Round 103:    https://codeforces.com/contest/1476
+- Educational Codeforces Round 104:    https://codeforces.com/contest/1487
+- Educational Codeforces Round 105:    https://codeforces.com/contest/1494
+- Educational Codeforces Round 106:    https://codeforces.com/contest/1499
+- Educational Codeforces Round 107:    https://codeforces.com/contest/1511
+- Educational Codeforces Round 108:    https://codeforces.com/contest/1519
+- Educational Codeforces Round 109:    https://codeforces.com/contest/1525
+- Educational Codeforces Round 110:    https://codeforces.com/contest/1535
+- Educational Codeforces Round 111:    https://codeforces.com/contest/1550
+- Educational Codeforces Round 112:    https://codeforces.com/contest/1555
+- Educational Codeforces Round 113:    https://codeforces.com/contest/1569
+- Educational Codeforces Round 114:    https://codeforces.com/contest/1574
+- Educational Codeforces Round 115:    https://codeforces.com/contest/1598
+- Educational Codeforces Round 116:    https://codeforces.com/contest/1606
+- Educational Codeforces Round 117:    https://codeforces.com/contest/1612
+- Educational Codeforces Round 118:    https://codeforces.com/contest/1613
+- Educational Codeforces Round 119:    https://codeforces.com/contest/1620
+- Educational Codeforces Round 120:    https://codeforces.com/contest/1622
+- Educational Codeforces Round 121:    https://codeforces.com/contest/1626
+- Educational Codeforces Round 122:    https://codeforces.com/contest/1633
+- Educational Codeforces Round 123:    https://codeforces.com/contest/1644
+- Educational Codeforces Round 124:    https://codeforces.com/contest/1651
+- Educational Codeforces Round 125:    https://codeforces.com/contest/1657

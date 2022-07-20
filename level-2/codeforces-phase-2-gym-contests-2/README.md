@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ - Gym Contests 2 `110 contests` `200 hrs`
 

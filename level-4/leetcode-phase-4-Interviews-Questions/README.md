@@ -1,14 +1,14 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
 ## [LeetCode](https://leetcode.com/) OJ - Phase 4 Interviews Questions `170 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Easy Problems***		`35 problems`
-- ***Medium Problems I*** 	`35 problems`
-- ***Medium Problems II*** 	`35 problems`
+- ***Easy Problems***        `35 problems`
+- ***Medium Problems I***     `35 problems`
+- ***Medium Problems II***     `35 problems`
 - ***Medium Problems III*** `35 problems`
-- ***Hard Problems***		`30 problems`
+- ***Hard Problems***        `30 problems`
 
 ### LeetCode - Easy Problems `35 problems`
 

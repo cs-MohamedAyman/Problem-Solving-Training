@@ -1,12 +1,12 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
 
 ## [AtCoder](https://atcoder.jp/) OJ - Phase 3.4 Grand Contests `55 contests` `60 hrs`
 
 ### Table of Content
 
-- ***2016-2017 Grand Contests*** 	`20 problems`
-- ***2018-2019 Grand Contests*** 	`20 problems`
-- ***2020-2021 Grand Contests*** 	`15 problems`
+- ***2016-2017 Grand Contests***     `20 problems`
+- ***2018-2019 Grand Contests***     `20 problems`
+- ***2020-2021 Grand Contests***     `15 problems`
 
 ### AtCoder - 2020-2021 Grand Contests `20 problems`
 

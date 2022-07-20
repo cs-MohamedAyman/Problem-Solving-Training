@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## [HackerRank](https://www.hackerrank.com/) OJ - C/C++ Programming Language `70 problems` `80 hrs`
 

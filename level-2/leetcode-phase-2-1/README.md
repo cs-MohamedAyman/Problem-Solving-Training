@@ -1,15 +1,15 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
 ## [LeetCode](https://leetcode.com/) OJ - Phase 2.1 `200 problems` `140 hrs`
 
 ### Table of Content
 
-- ***Array I*** 			`40 problems`
-- ***Array II*** 			`40 problems`
-- ***Array III*** 			`40 problems`
-- ***Linked List*** 		`10 problems`
-- ***Stack*** 				`50 problems`
-- ***Queue and Dequeue*** 	`20 problems`
+- ***Array I***             `40 problems`
+- ***Array II***             `40 problems`
+- ***Array III***             `40 problems`
+- ***Linked List***         `10 problems`
+- ***Stack***                 `50 problems`
+- ***Queue and Dequeue***     `20 problems`
 
 
 ### LeetCode - Array I `40 problems`

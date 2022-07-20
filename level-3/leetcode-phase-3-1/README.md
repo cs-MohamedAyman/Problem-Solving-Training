@@ -1,15 +1,15 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
 ## [LeetCode](https://leetcode.com/) OJ - Phase 3.1 `200 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Backtracking***			`35 problems`
-- ***Breadth First Search I*** 	`25 problems`
+- ***Backtracking***            `35 problems`
+- ***Breadth First Search I***     `25 problems`
 - ***Breadth First Search II*** `25 problems`
-- ***Depth First Search I*** 	`35 problems`
-- ***Depth First Search II*** 	`35 problems`
-- ***Dynamic Programming*** 	`50 problems`
+- ***Depth First Search I***     `35 problems`
+- ***Depth First Search II***     `35 problems`
+- ***Dynamic Programming***     `50 problems`
 
 ### LeetCode - Backtracking `35 problems`
 

@@ -1,13 +1,13 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ - Phase 3.4 `130 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Divide and Conquer***      `15 problems`
-- ***Graph***    			    `15 problems`
-- ***String***         		    `15 problems`
-- ***Data Structure*** 		    `20 problems`
+- ***Graph***                    `15 problems`
+- ***String***                     `15 problems`
+- ***Data Structure***             `20 problems`
 - ***Math and Number Theory***  `30 problems`
 - ***Greedy and Brute Force***  `25 problems`
 - ***Dynamic Programming***     `10 problems`

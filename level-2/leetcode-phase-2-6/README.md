@@ -1,14 +1,14 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
 ## [LeetCode](https://leetcode.com/) OJ - Phase 2.6 `200 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Binary Search*** 		`30 problems`
-- ***Greedy I*** 			`40 problems`
-- ***Greedy II*** 			`40 problems`
-- ***Greedy III*** 			`40 problems`
-- ***Bit Manipulation I*** 	`25 problems`
+- ***Binary Search***         `30 problems`
+- ***Greedy I***             `40 problems`
+- ***Greedy II***             `40 problems`
+- ***Greedy III***             `40 problems`
+- ***Bit Manipulation I***     `25 problems`
 - ***Bit Manipulation II*** `25 problems`
 
 ### LeetCode - Binary Search `30 problems`

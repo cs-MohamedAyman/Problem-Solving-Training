@@ -1,15 +1,15 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
 
 ## [HackerRank](https://www.hackerrank.com/) OJ - Python Programming Language `100 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Introduction*** 				`5 problems`
-- ***Basic Data Types*** 			`20 problems`
-- ***Collections*** 				`30 problems`
-- ***Functions*** 					`10 problems`
-- ***Standard Libraries*** 			`25 problems`
-- ***Classes*** 					`10 problems`
+- ***Introduction***                 `5 problems`
+- ***Basic Data Types***             `20 problems`
+- ***Collections***                 `30 problems`
+- ***Functions***                     `10 problems`
+- ***Standard Libraries***             `25 problems`
+- ***Classes***                     `10 problems`
 
 ### HackerRank - Introduction `5 problems`
 

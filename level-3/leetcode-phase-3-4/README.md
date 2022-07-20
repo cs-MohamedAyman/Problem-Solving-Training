@@ -1,14 +1,14 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg">
 
 ## [LeetCode](https://leetcode.com/) OJ - Phase 3.4 `190 problems` `100 hrs`
 
 ### Table of Content
 
-- ***Segment Tree & Suffix Array & Geometry*** 	`30 problems`
-- ***Math I*** 									`30 problems`
-- ***Math II*** 								`30 problems`
-- ***String*** 									`50 problems`
-- ***Dynamic Programming*** 					`50 problems`
+- ***Segment Tree & Suffix Array & Geometry***     `30 problems`
+- ***Math I***                                     `30 problems`
+- ***Math II***                                 `30 problems`
+- ***String***                                     `50 problems`
+- ***Dynamic Programming***                     `50 problems`
 
 ### LeetCode - Segment Tree & Suffix Array & Geometry `30 problems`
 

@@ -1,12 +1,12 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
 
 ## [AtCoder](https://atcoder.jp/) OJ - Phase 1.1 `90 problems` `40 hrs`
 
 ### Table of Content
 
-- ***2016-2017 Beginner Contests*** 	`20 problems`
-- ***2018-2019 Beginner Contests*** 	`30 problems`
-- ***2020-2021 Beginner Contests*** 	`40 problems`
+- ***2016-2017 Beginner Contests***     `20 problems`
+- ***2018-2019 Beginner Contests***     `30 problems`
+- ***2020-2021 Beginner Contests***     `40 problems`
 
 ### AtCoder - 2016-2017 Beginner Contests `20 problems`
 

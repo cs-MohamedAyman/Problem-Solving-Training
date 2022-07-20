@@ -1,12 +1,12 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
 
 ## [AtCoder](https://atcoder.jp/) OJ - Phase 3.2 Regular Contests `70 problems` `40 hrs`
 
 ### Table of Content
 
-- ***2016-2017 Regular Contests*** 	`30 problems`
-- ***2018-2019 Regular Contests*** 	`15 problems`
-- ***2020-2021 Regular Contests*** 	`25 problems`
+- ***2016-2017 Regular Contests***     `30 problems`
+- ***2018-2019 Regular Contests***     `15 problems`
+- ***2020-2021 Regular Contests***     `25 problems`
 
 ### AtCoder - 2016-2017 Regular Contests `30 problems`
 
