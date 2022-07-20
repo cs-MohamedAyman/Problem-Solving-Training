@@ -103,32 +103,21 @@ https://leetcode.com/problems/climbing-stairs
 ```python
 class Solution:
     def climbStairs(self, n: int) -> int:
-        def dp(n: int) -> int:
-            if n < 2 :
-                return 1
-            if self.memo[n] != -1:
-                return self.memo[n]
-            self.memo[n] = dp(n-1) + dp(n-2)
-            return self.memo[n]
-
-        self.memo = [-1] * 46
-        return dp(n)
+        memo = [0] * 46
+        memo[0] = memo[1] = 1
+        for i in range(2, n+1):
+            memo[i] = memo[i-1] + memo[i-2]
+        return memo[n]
 ```
 ```cpp
 class Solution {
 public:
-    vector<int> memo;
-    int dp(int n) {
-        if (n < 2)
-            return 1;
-        if (memo[n] != -1)
-            return memo[n];
-        memo[n] = dp(n-1) + dp(n-2);
-        return memo[n];
-    }
     int climbStairs(int n) {
-        memo.assign(46, -1);
-        return dp(n);
+        vector<int> memo(46, 0);
+        memo[0] = memo[1] = 1;
+        for (int i=2; i<n+1; i++)
+            memo[i] = memo[i-1] + memo[i-2];
+        return memo[n];
     }
 };
 ```
@@ -264,14 +253,40 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### linked list cycle: 
+https://leetcode.com/problems/linked-list-cycle
 
 ```python
-
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        curr1 = head
+        curr2 = head
+        while curr1 != None and curr2 != None:
+            if curr2.next == None:
+                break
+            curr2 = curr2.next.next
+            curr1 = curr1.next
+            if curr1 == curr2:
+                return True
+        return False
 ```
 ```cpp
-
+class Solution {
+public:
+    bool hasCycle(ListNode *head) {
+        ListNode *curr1 = head;
+        ListNode *curr2 = head;
+        while (curr1 != NULL and curr2 != NULL) {
+            if (curr2->next == NULL)
+                break;
+            curr2 = curr2->next->next;
+            curr1 = curr1->next;
+            if (curr1 == curr2)
+                return true;
+        }
+        return false;
+    }
+};
 ```
 
 ### problemname: 
