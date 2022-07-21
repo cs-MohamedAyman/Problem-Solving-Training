@@ -1173,8 +1173,105 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### squares of a sorted array: 
+https://leetcode.com/problems/squares-of-a-sorted-array
+
+#### - Python Solution
+```python
+class Solution:
+    def sortedSquares(self, nums: List[int]) -> List[int]:
+        return sorted([i*i for i in nums])
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        vector<int> res(nums);
+        for (int &i : res) 
+            i *= i;
+        sort(res.begin(), res.end());
+        return res;
+    }
+};
+```
+
+### backspace string compare: 
+https://leetcode.com/problems/backspace-string-compare
+
+#### - Python Solution
+```python
+class Solution:
+    def backspaceCompare(self, s: str, t: str) -> bool:
+        def move(w, idx, cnt):
+            while idx != -1 and w[idx] == '#':
+                cnt += 1
+                idx -= 1
+            while idx != -1 and cnt > 0 and w[idx] != '#':
+                cnt -= 1
+                idx -= 1
+            return idx, cnt
+
+        i, j = len(s)-1, len(t)-1
+        cnt_s, cnt_t = 0, 0
+        prev_i, prev_j = -1, -1
+        while i != prev_i and j != prev_j:
+            while i != prev_i:
+                prev_i = i
+                i, cnt_s = move(s, i, cnt_s)
+            while j != prev_j:
+                prev_j = j
+                j, cnt_t = move(t, j, cnt_t)
+            if i >= 0 and j >= 0:
+                if s[i] != t[j]:
+                    return False
+                else:
+                    i -= 1
+                    j -= 1
+        return i == -1 and j == -1
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    void move(string w, int &idx, int &cnt) {
+        while (idx != -1 and w[idx] == '#') {
+            cnt += 1;
+            idx -= 1;
+        }
+        while (idx != -1 and cnt > 0 and w[idx] != '#') {
+            cnt -= 1;
+            idx -= 1;
+        }
+    }
+    bool backspaceCompare(string s, string t) {
+        int i = s.size()-1, j = t.size()-1;
+        int cnt_s = 0, cnt_t = 0;
+        int prev_i = -1, prev_j = -1;
+        while (i != prev_i and j != prev_j) {
+            while (i != prev_i) {
+                prev_i = i;
+                move(s, i, cnt_s);
+            }
+            while (j != prev_j) {
+                prev_j = j;
+                move(t, j, cnt_t);
+            }
+            if (i >= 0 and j >= 0) {
+                if (s[i] != t[j])
+                    return false;
+                else
+                    i --,
+                    j --;
+            }
+        }
+        return i == -1 and j == -1;
+    }
+};
+```
+
+### index pairs of a string: 
+https://leetcode.com/problems/index-pairs-of-a-string
 
 #### - Python Solution
 ```python
@@ -1185,40 +1282,36 @@ problemlink
 
 ```
 
-### problemname: 
-problemlink
+### majority element: 
+https://leetcode.com/problems/majority-element
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        cnt = {}
+        for i in nums:
+            cnt[i] = cnt.get(i, 0) + 1
+        for i, j in cnt.items():
+            if j > len(nums)//2:
+                return i
+        return -1
 ```
 #### - CPP Solution
 ```cpp
-
-```
-
-### problemname: 
-problemlink
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname: 
-problemlink
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        map<int, int> cnt;
+        for (int i : nums)
+            cnt[i] ++;
+        for (auto &[i, j] : cnt) {
+            if (j > nums.size()/2)
+                return i;
+        }
+        return -1;
+    }
+};
 ```
 ### problemname: 
 problemlink
