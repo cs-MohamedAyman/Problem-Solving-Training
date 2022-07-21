@@ -599,6 +599,18 @@ public:
 };
 ```
 
+### meeting rooms:
+https://leetcode.com/problems/meeting-rooms
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
+
 ### binary search: 
 https://leetcode.com/problems/binary-search
 
@@ -705,28 +717,92 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### average of levels in binary tree: 
+https://leetcode.com/problems/average-of-levels-in-binary-tree
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        sums = [0] * int(1e4)
+        cnts = [0] * int(1e4)
+        
+        def dfs(curr, level):
+            if curr == None:
+                return
+            sums[level] += curr.val
+            cnts[level] += 1
+            dfs(curr.left, level+1)
+            dfs(curr.right, level+1)
+        
+        dfs(root, 0)
+        avgs = [sums[i]/cnts[i] for i in range(int(1e4)) if cnts[i] != 0]
+        return avgs
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+public:
+    vector<long long> sums;
+    vector<long long> cnts;
 
+    void dfs(TreeNode* curr, int level) {
+        if (curr == NULL)
+            return;
+        sums[level] += curr->val;
+        cnts[level] ++;
+        dfs(curr->left, level+1);
+        dfs(curr->right, level+1);
+    }
+    vector<double> averageOfLevels(TreeNode* root) {
+        sums.assign(1e4, 0LL);
+        cnts.assign(1e4, 0LL);
+        dfs(root, 0);
+        vector<double> avgs;
+        for (int i=0; i<1e4; i++) {
+            if (cnts[i] != 0)
+                avgs.push_back(1.0*sums[i]/cnts[i]);
+        }
+        return avgs;
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### minimum depth of binary tree: 
+https://leetcode.com/problems/minimum-depth-of-binary-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def minDepth(self, root: Optional[TreeNode]) -> int:
+        def dfs(curr):
+            if curr == None:
+                return 0
+            if curr.left == None:
+                return dfs(curr.right)+1
+            if curr.right == None:
+                return dfs(curr.left)+1
+            return min(dfs(curr.left), dfs(curr.right)) + 1
 
+        return dfs(root)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int dfs(TreeNode* curr) {
+        if (curr == NULL)
+            return 0;
+        if (curr->left == NULL)
+            return dfs(curr->right)+1;
+        if (curr->right == NULL)
+            return dfs(curr->left)+1;
+        return min(dfs(curr->left), dfs(curr->right)) + 1;
+    }
+    int minDepth(TreeNode* root) {
+        return dfs(root);
+    }
+};
 ```
 
 ### problemname: 
