@@ -726,7 +726,7 @@ class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
         sums = [0] * int(1e4)
         cnts = [0] * int(1e4)
-        
+
         def dfs(curr, level):
             if curr == None:
                 return
@@ -734,7 +734,7 @@ class Solution:
             cnts[level] += 1
             dfs(curr.left, level+1)
             dfs(curr.right, level+1)
-        
+
         dfs(root, 0)
         avgs = [sums[i]/cnts[i] for i in range(int(1e4)) if cnts[i] != 0]
         return avgs
@@ -805,64 +805,202 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### same tree: 
+https://leetcode.com/problems/same-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+        def dfs(cur1, cur2):
+            if cur1 == None and cur2 == None:
+                return True
+            if cur1 == None or cur2 == None:
+                return False
+            if cur1.val != cur2.val:
+                return False
+            return dfs(cur1.left, cur2.left) and dfs(cur1.right, cur2.right)
 
+        return dfs(p, q)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool dfs(TreeNode* cur1, TreeNode* cur2) {
+        if (cur1 == NULL and cur2 == NULL)
+            return true;
+        if (cur1 == NULL or cur2 == NULL)
+            return false;
+        if (cur1->val != cur2->val)
+            return false;
+        return dfs(cur1->left, cur2->left) and dfs(cur1->right, cur2->right);
+    }
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        return dfs(p, q);
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### path sum: 
+https://leetcode.com/problems/path-sum
 
 #### - Python Solution
 ```python
+class Solution:
+    def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
+        def dfs(curr, curr_sum):
+            if curr == None:
+                return curr_sum == 0
+            is_valid_left = dfs(curr.left, curr_sum-curr.val)
+            is_valid_right = dfs(curr.right, curr_sum-curr.val)
+            if curr.right == None:
+                return is_valid_left
+            if curr.left == None:
+                return is_valid_right
+            return is_valid_left or is_valid_right
 
+        if root == None:
+            return False
+        return dfs(root, targetSum)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool dfs(TreeNode* curr, int curr_sum) {
+        if (curr == NULL)
+            return curr_sum == 0;
+        bool is_valid_left = dfs(curr->left, curr_sum-curr->val);
+        bool is_valid_right = dfs(curr->right, curr_sum-curr->val);
+        if (curr->right == NULL)
+            return is_valid_left;
+        if (curr->left == NULL)
+            return is_valid_right;
+        return is_valid_left or is_valid_right;
+    }
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        if (root == NULL)
+            return false;
+        return dfs(root, targetSum);
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### maximum depth of binary tree: 
+https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        def dfs(curr):
+            if curr == None:
+                return 0
+            return max(dfs(curr.left), dfs(curr.right)) + 1
 
+        return dfs(root)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int dfs(TreeNode* curr) {
+        if (curr == NULL)
+            return 0;
+        return max(dfs(curr->left), dfs(curr->right)) + 1;
+    }
+    int maxDepth(TreeNode* root) {
+        return dfs(root);
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### diameter of binary tree: 
+https://leetcode.com/problems/diameter-of-binary-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        def dfs(curr):
+            if curr == None:
+                return 0
+            return max(dfs(curr.left), dfs(curr.right)) + 1
+        
+        def max_diameter(curr):
+            if curr == None:
+                return 0
+            return max(max_diameter(curr.left), max_diameter(curr.right),
+                       dfs(curr.left) + dfs(curr.right))
 
+        return max_diameter(root)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int dfs(TreeNode* curr) {
+        if (curr == NULL)
+            return 0;
+        return max(dfs(curr->left), dfs(curr->right)) + 1;
+    } 
+    int max_diameter(TreeNode* curr) {
+        if (curr == NULL)
+            return 0;
+        return max(max(max_diameter(curr->left), max_diameter(curr->right)),
+                   dfs(curr->left) + dfs(curr->right));
+    }
+    int diameterOfBinaryTree(TreeNode* root) {
+        return max_diameter(root);
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### merge two binary trees: 
+https://leetcode.com/problems/merge-two-binary-trees
 
 #### - Python Solution
 ```python
+class Solution:
+    def mergeTrees(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> Optional[TreeNode]:
+        def dfs(cur, cur1, cur2):
+            if cur1 == None and cur2 == None:
+                return None
+            if cur1 == None:
+                return cur2
+            if cur2 == None:
+                return cur1
+            cur = TreeNode(cur1.val + cur2.val, TreeNode(), TreeNode())
+            cur.left = dfs(cur.left, cur1.left, cur2.left)
+            cur.right = dfs(cur.right, cur1.right, cur2.right)
+            return cur
 
+        root = TreeNode()
+        return dfs(root, root1, root2)
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+public:
+    TreeNode* dfs(TreeNode* cur, TreeNode* cur1, TreeNode* cur2) {
+        if (cur1 == NULL and cur2 == NULL)
+            return NULL;
+        if (cur1 == NULL)
+            return cur2;
+        if (cur2 == NULL)
+            return cur1;
+        cur = new TreeNode(cur1->val + cur2->val, new TreeNode(), new TreeNode());
+        cur->left = dfs(cur->left, cur1->left, cur2->left);
+        cur->right = dfs(cur->right, cur1->right, cur2->right);
+        return cur;
+    }
 
+    TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
+        TreeNode* root = new TreeNode();
+        return dfs(root, root1, root2);
+    }
+};
 ```
 
 ### problemname: 
