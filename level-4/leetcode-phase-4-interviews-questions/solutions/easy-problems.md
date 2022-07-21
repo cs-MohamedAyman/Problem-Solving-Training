@@ -638,7 +638,8 @@ public:
 ### peak index in a mountain array: 
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-Python Solution ```python
+Python Solution 
+```python
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         f, e = 0, len(arr)-1
@@ -650,7 +651,8 @@ class Solution:
                 e = m-1
         return f
 ```
-CPP Solution ```cpp
+CPP Solution 
+```cpp
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
