@@ -5,11 +5,13 @@
 ### contains duplicate: 
 https://leetcode.com/problems/contains-duplicate
 
+#### - Python Solution
 ```python
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         return len(nums) != len(set(nums))
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -23,12 +25,14 @@ public:
 ### missing number: 
 https://leetcode.com/problems/missing-number
 
+#### - Python Solution
 ```python
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)
         return n*(n+1)//2 - sum(nums)
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -42,6 +46,7 @@ public:
 ### find all numbers disappeared in an array: 
 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
+#### - Python Solution
 ```python
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
@@ -52,6 +57,7 @@ class Solution:
                 disappeared_num.append(i)
         return disappeared_num
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -70,6 +76,7 @@ public:
 ### single number: 
 https://leetcode.com/problems/single-number
 
+#### - Python Solution
 ```python
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
@@ -81,6 +88,7 @@ class Solution:
                 return i
         return 0
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -100,6 +108,7 @@ public:
 ### climbing stairs: 
 https://leetcode.com/problems/climbing-stairs
 
+#### - Python Solution
 ```python
 class Solution:
     def climbStairs(self, n: int) -> int:
@@ -109,6 +118,7 @@ class Solution:
             memo[i] = memo[i-1] + memo[i-2]
         return memo[n]
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -125,6 +135,7 @@ public:
 ### best time to buy and sell stock: 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
+#### - Python Solution
 ```python
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
@@ -139,6 +150,7 @@ class Solution:
             max_profit = max(max_profit, max_vals[i]-min_vals[i])
         return max_profit
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -160,6 +172,7 @@ public:
 ### maximum subarray: 
 https://leetcode.com/problems/maximum-subarray
 
+#### - Python Solution
 ```python
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
@@ -171,6 +184,7 @@ class Solution:
             max_subarray_sum = max(max_subarray_sum, curr_subarray_sum)
         return max_subarray_sum
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -190,6 +204,7 @@ public:
 ### range sum query immutable: 
 https://leetcode.com/problems/range-sum-query-immutable
 
+#### - Python Solution
 ```python
 class NumArray:
     def __init__(self, nums: List[int]):
@@ -201,6 +216,7 @@ class NumArray:
     def sumRange(self, left: int, right: int) -> int:
         return self.cumulative_sum[right+1] - self.cumulative_sum[left]
 ```
+#### - CPP Solution
 ```cpp
 class NumArray {
 public:
@@ -221,6 +237,7 @@ public:
 ### counting bits: 
 https://leetcode.com/problems/counting-bits
 
+#### - Python Solution
 ```python
 class Solution:
     def countBits(self, n: int) -> List[int]:
@@ -234,6 +251,7 @@ class Solution:
             cnt_ones[i] = cnt
         return cnt_ones
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -256,6 +274,7 @@ public:
 ### linked list cycle: 
 https://leetcode.com/problems/linked-list-cycle
 
+#### - Python Solution
 ```python
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
@@ -268,6 +287,7 @@ class Solution:
                 return True
         return False
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -288,6 +308,7 @@ public:
 ### middle of the linked list: 
 https://leetcode.com/problems/middle-of-the-linked-list
 
+#### - Python Solution
 ```python
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -298,6 +319,7 @@ class Solution:
             curr1 = curr1.next
         return curr1
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -316,6 +338,7 @@ public:
 ### palindrome linked list: 
 https://leetcode.com/problems/palindrome-linked-list
 
+#### - Python Solution
 ```python
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
@@ -334,6 +357,7 @@ class Solution:
             i += 1
         return True
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -361,6 +385,7 @@ public:
 ### remove linked list elements: 
 https://leetcode.com/problems/remove-linked-list-elements
 
+#### - Python Solution
 ```python
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
@@ -378,6 +403,7 @@ class Solution:
             del temp
         return head
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -405,6 +431,7 @@ public:
 ### remove duplicates from sorted list: 
 https://leetcode.com/problems/remove-duplicates-from-sorted-list
 
+#### - Python Solution
 ```python
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -418,6 +445,7 @@ class Solution:
                 curr = curr.next
         return head
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -440,6 +468,7 @@ public:
 ### reverse linked list: 
 https://leetcode.com/problems/reverse-linked-list
 
+#### - Python Solution
 ```python
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -456,6 +485,7 @@ class Solution:
         cur.next = prv
         return cur
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -480,6 +510,7 @@ public:
 ### merge two sorted lists: 
 https://leetcode.com/problems/merge-two-sorted-lists
 
+#### - Python Solution
 ```python
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
@@ -518,6 +549,7 @@ class Solution:
             curr2 = curr2.next
         return head
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -570,6 +602,7 @@ public:
 ### binary search: 
 https://leetcode.com/problems/binary-search
 
+#### - Python Solution
 ```python
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
@@ -584,6 +617,7 @@ class Solution:
                 f = m+1
         return -1
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -640,7 +674,7 @@ public:
 ### peak index in a mountain array: 
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-#### Python Solution
+#### - Python Solution
 ```python
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
@@ -653,7 +687,7 @@ class Solution:
                 e = m-1
         return f
 ```
-#### CPP Solution
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
@@ -674,11 +708,11 @@ public:
 ### problemname: 
 problemlink
 
-- Python Solution
+#### - Python Solution
 ```python
 
 ```
-- CPP Solution
+#### - CPP Solution
 ```cpp
 
 ```
@@ -686,9 +720,11 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
 ```cpp
 
 ```
@@ -696,9 +732,11 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
 ```cpp
 
 ```
@@ -706,9 +744,11 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
 ```cpp
 
 ```
@@ -716,9 +756,11 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
 ```cpp
 
 ```
@@ -726,9 +768,11 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
 ```cpp
 
 ```
@@ -736,9 +780,11 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
 ```cpp
 
 ```
@@ -746,9 +792,35 @@ problemlink
 ### problemname: 
 problemlink
 
+#### - Python Solution
 ```python
 
 ```
+#### - CPP Solution
+```cpp
+
+```
+
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
+
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
 ```cpp
 
 ```
