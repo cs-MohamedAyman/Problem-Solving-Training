@@ -534,34 +534,34 @@ public:
         if (list1->val <= list2->val) {
             head = curr1;
             curr1 = curr1->next;
-		}
+        }
         else {
             head = curr2;
             curr2 = curr2->next;
-		}
+        }
         ListNode *curr = head;
         while (curr1 != NULL and curr2 != NULL) {
             if (curr1->val <= curr2->val) {
                 curr->next = curr1;
                 curr = curr->next;
                 curr1 = curr1->next;
-			}
+            }
             else {
                 curr->next = curr2;
                 curr = curr->next;
                 curr2 = curr2->next;
-			}
-		}
+            }
+        }
         while (curr1 != NULL) {
             curr->next = curr1;
             curr = curr->next;
             curr1 = curr1->next;
-		}
+        }
         while (curr2 != NULL) {
             curr->next = curr2;
             curr = curr->next;
             curr2 = curr2->next;
-		}
+        }
         return head;
     }
 };
@@ -638,7 +638,7 @@ public:
 ### peak index in a mountain array: 
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-```python
+Python Solution ```python
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         f, e = 0, len(arr)-1
@@ -650,7 +650,7 @@ class Solution:
                 e = m-1
         return f
 ```
-```cpp
+CPP Solution ```cpp
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
@@ -670,10 +670,10 @@ public:
 ### problemname: 
 problemlink
 
-```python
+Python Solution ```python
 
 ```
-```cpp
+CPP Solution ```cpp
 
 ```
 
