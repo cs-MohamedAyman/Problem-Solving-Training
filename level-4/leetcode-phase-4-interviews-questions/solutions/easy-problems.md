@@ -606,6 +606,7 @@ public:
 ### find smallest letter greater than target: 
 https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
+#### - Python Solution
 ```python
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
@@ -618,6 +619,7 @@ class Solution:
                 f = m+1
         return letters[f%len(letters)]
 ```
+#### - CPP Solution
 ```cpp
 class Solution {
 public:
