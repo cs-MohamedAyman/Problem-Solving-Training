@@ -1313,14 +1313,33 @@ public:
     }
 };
 ```
-### problemname: 
-problemlink
+### convert 1d array into 2d array: 
+https://leetcode.com/problems/convert-1d-array-into-2d-array
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
+        if n*m != len(original):
+            return []
+        res = [[[0] for i in range(n)] for j in range(m)]
+        for i in range(len(original)):
+            res[i//n][i%n] = original[i]
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
+        if (n*m != original.size())
+            return {};
+        vector<vector<int>> res(m);
+        for (vector<int> &i : res)
+            i = vector<int>(n);
+        for (int i=0; i<original.size(); i++)
+            res[i/n][i%n] = original[i];
+        return res;
+    }
+};
 ```
