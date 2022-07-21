@@ -1043,6 +1043,57 @@ public:
 };
 ```
 
+### subtree of another tree: 
+https://leetcode.com/problems/subtree-of-another-tree
+
+#### - Python Solution
+```python
+class Solution:
+    def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
+        def isSameTree(cur1, cur2):
+            if cur1 == None and cur2 == None:
+                return True
+            if cur1 == None or cur2 == None:
+                return False
+            if cur1.val != cur2.val:
+                return False
+            return isSameTree(cur1.left, cur2.left) and isSameTree(cur1.right, cur2.right)
+
+        def find_subtree(curr, subRoot):
+            if curr == None:
+                return False
+            if isSameTree(curr, subRoot):
+                return True
+            return find_subtree(curr.left, subRoot) or find_subtree(curr.right, subRoot)
+
+        return find_subtree(root, subRoot)
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    bool isSameTree(TreeNode* cur1, TreeNode* cur2) {
+        if (cur1 == NULL and cur2 == NULL)
+            return true;
+        if (cur1 == NULL or cur2 == NULL)
+            return false;
+        if (cur1->val != cur2->val)
+            return false;
+        return isSameTree(cur1->left, cur2->left) and isSameTree(cur1->right, cur2->right);
+    }
+    bool find_subtree(TreeNode* curr, TreeNode* subRoot) {
+        if (curr == NULL)
+            return false;
+        if (isSameTree(curr, subRoot))
+            return true;
+        return find_subtree(curr->left, subRoot) or find_subtree(curr->right, subRoot);
+    }
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        return find_subtree(root, subRoot);
+    }
+};
+```
+
 ### problemname: 
 problemlink
 
@@ -1055,6 +1106,65 @@ problemlink
 
 ```
 
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
+
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
+
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
+
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
+
+### problemname: 
+problemlink
+
+#### - Python Solution
+```python
+
+```
+#### - CPP Solution
+```cpp
+
+```
 ### problemname: 
 problemlink
 
