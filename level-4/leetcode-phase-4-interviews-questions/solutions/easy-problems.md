@@ -995,7 +995,6 @@ public:
         cur->right = dfs(cur->right, cur1->right, cur2->right);
         return cur;
     }
-
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
         TreeNode* root = new TreeNode();
         return dfs(root, root1, root2);
@@ -1003,16 +1002,45 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### lowest common ancestor of a binary search tree: 
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        def LCA(curr, p, q):
+            if curr == None:
+                return None
+            if p < curr.val and curr.val < q:
+                return curr
+            if curr.val > max(p, q):
+                return LCA(curr.left, p, q)
+            if curr.val < min(p, q):
+                return LCA(curr.right, p, q)
+            return curr
 
+        return LCA(root, p.val, q.val)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    TreeNode* LCA(TreeNode* curr, int p, int q) {
+        if (curr == NULL)
+            return NULL;
+        if (p < curr->val and curr->val < q)
+            return curr;
+        if (curr->val > max(p, q))
+            return LCA(curr->left, p, q);
+        if (curr->val < min(p, q))
+            return LCA(curr->right, p, q);
+        return curr;
+    }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        return LCA(root, p->val, q->val);
+    }
+};
 ```
 
 ### problemname: 
