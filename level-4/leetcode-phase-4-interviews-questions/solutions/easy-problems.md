@@ -1094,28 +1094,83 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### invert binary tree: 
+https://leetcode.com/problems/invert-binary-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        def dfs(curr):
+            if curr == None:
+                return
+            curr.left, curr.right = curr.right, curr.left
+            dfs(curr.left)
+            dfs(curr.right)
 
+        dfs(root)
+        return root
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    void dfs(TreeNode* curr) {
+        if (curr == NULL)
+            return;
+        TreeNode* temp = curr->left;
+        curr->left = curr->right;
+        curr->right = temp;
+        dfs(curr->left);
+        dfs(curr->right);
+    }
+    TreeNode* invertTree(TreeNode* root) {
+        dfs(root);
+        return root;
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### two sum: 
+https://leetcode.com/problems/two-sum
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        idx = {}
+        for i in range(len(nums)):
+            idx[nums[i]] = idx.get(nums[i], [])
+            idx[nums[i]].append(i)
+        res = []
+        for i in nums:
+            if i in idx and target - i in idx:
+                if i == target - i and len(idx[i]) == 1:
+                    continue
+                res = [idx[i][0], idx[target - i][-1]]
+                break
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        map<int, vector<int>> idx;
+        for (int i=0; i<nums.size(); i++)
+            idx[nums[i]].push_back(i);
+        vector<int> res;
+        for (int i : nums) {
+            if (idx.find(i) != idx.end() and idx.find(target - i) != idx.end()) {
+                if (i == target - i and idx[i].size() == 1)
+                    continue;
+                res = {idx[i][0], idx[target - i][idx[i].size()-1]};
+                break;
+            }
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname: 
