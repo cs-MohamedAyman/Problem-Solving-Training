@@ -156,16 +156,58 @@ public:
 };
 ```
 
-### problemname: 
-problemlink
+### spiral matrix: 
+https://leetcode.com/problems/spiral-matrix
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        d = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+        curr_dir, x, y = 0, 0, -1
+        n, m = len(matrix), len(matrix[0])
+        visited = [[0 for i in range(m)] for j in range(n)]
+        res = [0] * (n*m) 
+        res_idx = 0
+        for i in range(n):
+            for j in range(m):
+                x += d[curr_dir][0]
+                y += d[curr_dir][1]
+                res[res_idx] = matrix[x][y]
+                res_idx += 1
+                visited[x][y] = 1
+                if not (0 <= x+d[curr_dir][0] < n and 0 <= y+d[curr_dir][1] < m) or \
+                   visited[x+d[curr_dir][0]][y+d[curr_dir][1]]:
+                    curr_dir = (curr_dir + 1) % 4
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        vector<pair<int, int>> d = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+        int curr_dir = 0, x = 0, y = -1;
+        int n = matrix.size(), m = matrix[0].size();
+        vector<vector<int>> visited(n, vector<int>(m, 0));
+        vector<int> res(n*m, 0);
+        int res_idx = 0;
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<m; j++) {
+                x += d[curr_dir].first;
+                y += d[curr_dir].second;
+                res[res_idx] = matrix[x][y];
+                res_idx ++;
+                visited[x][y] = 1;
+                if (not (0 <= x+d[curr_dir].first and x+d[curr_dir].first < n and 
+                         0 <= y+d[curr_dir].second and y+d[curr_dir].second < m) or 
+                    visited[x+d[curr_dir].first][y+d[curr_dir].second])
+                    curr_dir = (curr_dir + 1) % 4;
+            }
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname: 
