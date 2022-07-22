@@ -86,23 +86,74 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findDuplicates(self, nums: List[int]) -> List[int]:
+        res = []
+        for i in range(len(nums)):
+            if nums[abs(nums[i])-1] > 0:
+                nums[abs(nums[i])-1] *= -1
+            else:
+                res.append(abs(nums[i]))
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<int> findDuplicates(vector<int>& nums) {
+        vector<int> res;
+        for (int i=0; i<nums.size(); i++) {
+            if (nums[abs(nums[i])-1] > 0)
+                nums[abs(nums[i])-1] *= -1;
+            else
+                res.push_back(abs(nums[i]));
+        }
+        return res;
+    }
+};
 ```
 
-### problemname: 
-problemlink
+### set matrix zeroes: 
+https://leetcode.com/problems/set-matrix-zeroes
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
+        n, m = len(matrix), len(matrix[0])
+        zero_rows = [0] * n
+        zero_cols = [0] * m
+        for i in range(n):
+            for j in range(m):
+                if matrix[i][j] == 0:
+                    zero_rows[i] = zero_cols[j] = 1
+        for i in range(n):
+            for j in range(m):
+                if zero_rows[i] or zero_cols[j]:
+                    matrix[i][j] = 0
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    void setZeroes(vector<vector<int>>& matrix) {
+        int n = matrix.size(), m = matrix[0].size();
+        vector<int> zero_rows(n, 0);
+        vector<int> zero_cols(m, 0);
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<m; j++) {
+                if (matrix[i][j] == 0)
+                    zero_rows[i] = zero_cols[j] = 1;
+            }
+        }
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<m; j++) {
+                if (zero_rows[i] or zero_cols[j])
+                    matrix[i][j] = 0;
+            }
+        }
+    }
+};
 ```
 
 ### problemname: 
