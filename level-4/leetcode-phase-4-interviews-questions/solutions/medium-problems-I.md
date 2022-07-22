@@ -426,28 +426,94 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### subsets ii:
+https://leetcode.com/problems/subsets-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        n = len(nums)
+        res = set()
+        for i in range(1<<n):
+            curr_list = []
+            for j in range(n):
+                if 1<<j & i:
+                    curr_list.append(nums[j])
+            res.add(tuple(sorted(curr_list)))
+        return list(res)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        int n = nums.size();
+        set<vector<int>> res;
+        for (int i=0; i<(1<<n); i++) {
+            vector<int> curr_list;
+            for (int j=0; j<n; j++)
+                if (1<<j & i)
+                    curr_list.push_back(nums[j]);
+            sort(curr_list.begin(), curr_list.end());
+            res.insert(curr_list);
+        }
+        vector<vector<int>> ans(res.begin(), res.end());
+        return ans;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### permutations:
+https://leetcode.com/problems/permutations
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        def generate_permutation(arr):
+            if len(arr) == 0:
+                return []
+            if len(arr) == 1:
+                return [arr]
+            res = []
+            for i in range(len(arr)):
+               m = arr[i]
+               for p in generate_permutation(arr[:i] + arr[i+1:]):
+                   res.append([m] + p)
+            return res
+        
+        return generate_permutation(nums)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> generate_permutation(vector<int> arr) {
+        if (arr.size() == 0)
+            return {};
+        if (arr.size() == 1)
+            return {arr};
+        vector<vector<int>> res;
+        for (int i=0; i<arr.size(); i++) {
+            int m = arr[i];
+            vector<int> sub1(arr.begin(), arr.begin()+i);
+            vector<int> sub2(arr.begin()+i+1, arr.end());
+            vector<int> sub;
+            sub.insert(sub.begin(), sub1.begin(), sub1.end());
+            sub.insert(sub.end(),   sub2.begin(), sub2.end());
+            for (auto p : generate_permutation(sub)) {
+                vector<int> temp(p.begin(), p.end());
+                temp.insert(temp.begin(), m);
+                res.push_back(temp);
+            }
+        }
+        return res;
+    }
+    vector<vector<int>> permute(vector<int>& nums) {
+        return generate_permutation(nums);
+    }
+};
 ```
 
 ### problemname:
