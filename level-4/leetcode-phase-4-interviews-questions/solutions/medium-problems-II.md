@@ -2,87 +2,20 @@
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems I
 
-### product of array except self: 
-https://leetcode.com/problems/product-of-array-except-self
+### problemname: 
+problemlink
 
 #### - Python Solution
 ```python
-class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
-        res = [1] * len(nums)
-        for i in range(len(nums)-1):
-            res[i+1] *= res[i] * nums[i]
-        prod = 1
-        for i in range(len(nums)-1, -1, -1):
-            res[i] *= prod
-            prod *= nums[i]
-        return res
+
 ```
 #### - CPP Solution
 ```cpp
-class Solution {
-public:
-    vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> res(nums.size(), 1);
-        for (int i=0; i<nums.size()-1; i++)
-            res[i+1] *= res[i] * nums[i];
-        int prod = 1;
-        for (int i=nums.size()-1; i>-1; i--) {
-            res[i] *= prod;
-            prod *= nums[i];
-        }
-        return res;
-    }
-};
+
 ```
 
-### find the duplicate number: 
-https://leetcode.com/problems/find-the-duplicate-number
-
-#### - Python Solution
-```python
-class Solution:
-    def findDuplicate(self, nums: List[int]) -> int:
-        p1, p2 = nums[0], nums[0]
-        for i in range(len(nums)):
-            p1 = nums[p1]
-            p2 = nums[nums[p2]]
-            if p1 == p2:
-                break
-        p2 = nums[0]
-        for i in range(len(nums)):
-            if p1 == p2:
-                break
-            p1 = nums[p1]
-            p2 = nums[p2]
-        return p1
-```
-#### - CPP Solution
-```cpp
-class Solution {
-public:
-    int findDuplicate(vector<int>& nums) {
-        int p1 = nums[0], p2 = nums[0];
-        for (int i=0; i<nums.size(); i++) {
-            p1 = nums[p1];
-            p2 = nums[nums[p2]];
-            if (p1 == p2)
-                break;
-        }
-        p2 = nums[0];
-        for (int i=0; i<nums.size(); i++) {
-            if (p1 == p2)
-                break;
-            p1 = nums[p1];
-            p2 = nums[p2];
-        }
-        return p1;
-    }
-};
-```
-
-### find all duplicates in an array: 
-https://leetcode.com/problems/find-all-duplicates-in-an-array
+### problemname: 
+problemlink
 
 #### - Python Solution
 ```python
