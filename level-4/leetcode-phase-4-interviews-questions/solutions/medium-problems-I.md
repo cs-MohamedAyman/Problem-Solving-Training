@@ -478,9 +478,9 @@ class Solution:
                 return [arr]
             res = []
             for i in range(len(arr)):
-               m = arr[i]
-               for p in generate_permutation(arr[:i] + arr[i+1:]):
-                   res.append([m] + p)
+                m = arr[i]
+                for p in generate_permutation(arr[:i] + arr[i+1:]):
+                    res.append([m] + p)
             return res
         
         return generate_permutation(nums)
@@ -516,28 +516,107 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### permutations ii:
+https://leetcode.com/problems/permutations-ii
 
 #### - Python Solution
 ```python
+class Solution:
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        def generate_permutation(arr):
+            if len(arr) == 0:
+                return []
+            if len(arr) == 1:
+                return [arr]
+            res = []
+            for i in range(len(arr)):
+                m = arr[i]
+                for p in generate_permutation(arr[:i] + arr[i+1:]):
+                    res.append([m] + p)
+            return res
 
+        res = list(set(tuple(i) for i in generate_permutation(nums)))
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> generate_permutation(vector<int> arr) {
+        if (arr.size() == 0)
+            return {};
+        if (arr.size() == 1)
+            return {arr};
+        vector<vector<int>> res;
+        for (int i=0; i<arr.size(); i++) {
+            int m = arr[i];
+            vector<int> sub1(arr.begin(), arr.begin()+i);
+            vector<int> sub2(arr.begin()+i+1, arr.end());
+            vector<int> sub;
+            sub.insert(sub.begin(), sub1.begin(), sub1.end());
+            sub.insert(sub.end(),   sub2.begin(), sub2.end());
+            for (auto p : generate_permutation(sub)) {
+                vector<int> temp(p.begin(), p.end());
+                temp.insert(temp.begin(), m);
+                res.push_back(temp);
+            }
+        }
+        return res;
+    }
+    vector<vector<int>> permuteUnique(vector<int>& nums) {
+        set<vector<int>> res;
+        for (auto p : generate_permutation(nums))
+            res.insert(p);
+        vector<vector<int>> ans(res.begin(), res.end());
+        return ans;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### combinations:
+https://leetcode.com/problems/combinations
 
 #### - Python Solution
 ```python
+class Solution:
+    def combine(self, n: int, k: int) -> List[List[int]]:
+        res = []
 
+        def generate_combinations(p, arr):
+            if len(arr) == k:
+                res.append(arr[:])
+                return
+            for i in range(p, n+1):
+                arr.append(i)
+                generate_combinations(i+1, arr)
+                arr.pop()
+            return
+        
+        generate_combinations(1, [])
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> res;
+    void generate_combinations(int p, vector<int> arr, int n, int k) {
+        if (arr.size() == k) {
+            res.push_back(arr);
+            return;
+        }
+        for (int i=p; i<n+1; i++) {
+            arr.push_back(i);
+            generate_combinations(i+1, arr, n, k);
+            arr.pop_back();
+        }
+        return;
+    }
+    vector<vector<int>> combine(int n, int k) {
+        generate_combinations(1, {}, n, k);
+        return res;
+    }
+};
 ```
 
 ### problemname:
