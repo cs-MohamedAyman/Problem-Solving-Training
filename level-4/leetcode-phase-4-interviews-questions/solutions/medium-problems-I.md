@@ -245,52 +245,185 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### word search:
+https://leetcode.com/problems/word-search
 
 #### - Python Solution
 ```python
+class Solution:
+    def exist(self, board: List[List[str]], word: str) -> bool:
+        def dfs(x, y, idx):
+            if idx == len(word):
+                return True
+            if not(0 <= x < n and 0 <= y < m) or visited[x][y] or \
+               board[x][y] != word[idx]:
+                return False
+            visited[x][y] = 1
+            for i, j in d:
+                if dfs(x+i, y+j, idx+1):
+                    return True
+            visited[x][y] = 0
+            return False
 
+        n, m = len(board), len(board[0])
+        visited = [[0 for i in range(m)] for j in range(n)]
+        d = [(0, 1), (1, 0), (-1, 0), (0, -1)]
+        for i in range(n):
+            for j in range(m):
+                if dfs(i, j, 0):
+                    return True
+        return False
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int n, m;
+    vector<vector<int>> visited;
+    int dx[4] = {0, 0, 1, -1};
+    int dy[4] = {1, -1, 0, 0};
+    
+    bool dfs(int x, int y, int idx, const vector<vector<char>>& board, const string &word) {
+        if (idx == word.size())
+            return true;
+        if (not(0 <= x < n and 0 <= y < m) or visited[x][y] or
+           board[x][y] != word[idx])
+            return false;
+        visited[x][y] = 1;
+        for (int i=0; i<4; i++) {
+            if (dfs(x+dx[i], y+dy[i], idx+1, board, word))
+                return true;
+        }
+        visited[x][y] = 0;
+        return false;
+    }
+    bool exist(vector<vector<char>>& board, string word) {
+        n = board.size(), m = board[0].size();
+        visited.assign(n, vector<int>(m, 0));
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<m; j++) {
+                if (dfs(i, j, 0, board, word))
+                    return true;
+            }
+        }
+        return false;
+    }
+};
 ```
+`TODO` RUN-TIME ERROR
 
-### problemname:
-problemlink
+### longest consecutive sequence:
+https://leetcode.com/problems/longest-consecutive-sequence
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        longest_len = 0
+        set_nums = set(nums)
+        for i in set_nums:
+            if i - 1 in set_nums:
+                continue
+            curr_len = 0
+            while i + curr_len in set_nums:
+                curr_len += 1
+            longest_len = max(longest_len, curr_len)
+        return longest_len
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        int longest_len = 0;
+        set<int> set_nums(nums.begin(), nums.end());
+        for (int i : set_nums) {
+            if (set_nums.find(i - 1) != set_nums.end())
+                continue;
+            int curr_len = 0;
+            while (set_nums.find(i + curr_len) != set_nums.end())
+                curr_len ++;
+            longest_len = max(longest_len, curr_len);
+        }
+        return longest_len;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### letter case permutation:
+https://leetcode.com/problems/letter-case-permutation
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def letterCasePermutation(self, s: str) -> List[str]:
+        def generate_permutation(i, curr_s):
+            if i == len(s):
+                res.add(curr_s)
+                return
+            generate_permutation(i+1, curr_s+s[i].lower())
+            generate_permutation(i+1, curr_s+s[i].upper())
+            
+        res = set()
+        generate_permutation(0, '')
+        return list(res)
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+public:
+    set<string> res;
 
+    void generate_permutation(int i, string curr_s, const string &s) {
+        if (i == s.size()) {
+            res.insert(curr_s);
+            return;
+        }
+        generate_permutation(i+1, curr_s+char(tolower(s[i])), s);
+        generate_permutation(i+1, curr_s+char(toupper(s[i])), s);
+    }
+    vector<string> letterCasePermutation(string s) {
+        generate_permutation(0, "", s);
+        vector<string> ans(res.begin(), res.end());
+        return ans;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### subsets:
+https://leetcode.com/problems/subsets
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        n = len(nums)
+        res = []
+        for i in range(1<<n):
+            curr_list = []
+            for j in range(n):
+                if 1<<j & i:
+                    curr_list.append(nums[j])
+            res.append(curr_list)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> res;
+        for (int i=0; i<(1<<n); i++) {
+            vector<int> curr_list;
+            for (int j=0; j<n; j++)
+                if (1<<j & i)
+                    curr_list.push_back(nums[j]);
+            res.push_back(curr_list);
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname:
