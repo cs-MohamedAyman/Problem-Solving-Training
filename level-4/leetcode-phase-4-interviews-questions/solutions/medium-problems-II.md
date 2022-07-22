@@ -2,7 +2,7 @@
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems I
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -14,7 +14,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -26,7 +26,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -38,7 +38,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -50,7 +50,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -62,7 +62,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -74,7 +74,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -86,7 +86,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -98,7 +98,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -110,7 +110,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -122,7 +122,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -134,7 +134,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -146,7 +146,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -158,7 +158,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -170,7 +170,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -182,7 +182,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -194,7 +194,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -206,7 +206,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -218,7 +218,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -230,7 +230,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -242,7 +242,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -254,7 +254,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -266,7 +266,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -278,7 +278,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -290,7 +290,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -302,7 +302,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -314,7 +314,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -326,7 +326,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -338,7 +338,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -350,7 +350,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -362,7 +362,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -374,7 +374,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -386,7 +386,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -398,7 +398,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution

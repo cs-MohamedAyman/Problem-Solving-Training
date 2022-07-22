@@ -2,7 +2,7 @@
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems I
 
-### product of array except self: 
+### product of array except self:
 https://leetcode.com/problems/product-of-array-except-self
 
 #### - Python Solution
@@ -36,7 +36,7 @@ public:
 };
 ```
 
-### find the duplicate number: 
+### find the duplicate number:
 https://leetcode.com/problems/find-the-duplicate-number
 
 #### - Python Solution
@@ -81,7 +81,7 @@ public:
 };
 ```
 
-### find all duplicates in an array: 
+### find all duplicates in an array:
 https://leetcode.com/problems/find-all-duplicates-in-an-array
 
 #### - Python Solution
@@ -113,7 +113,7 @@ public:
 };
 ```
 
-### set matrix zeroes: 
+### set matrix zeroes:
 https://leetcode.com/problems/set-matrix-zeroes
 
 #### - Python Solution
@@ -156,7 +156,7 @@ public:
 };
 ```
 
-### spiral matrix: 
+### spiral matrix:
 https://leetcode.com/problems/spiral-matrix
 
 #### - Python Solution
@@ -167,7 +167,7 @@ class Solution:
         curr_dir, x, y = 0, 0, -1
         n, m = len(matrix), len(matrix[0])
         visited = [[0 for i in range(m)] for j in range(n)]
-        res = [0] * (n*m) 
+        res = [0] * (n*m)
         res_idx = 0
         for i in range(n):
             for j in range(m):
@@ -199,8 +199,8 @@ public:
                 res[res_idx] = matrix[x][y];
                 res_idx ++;
                 visited[x][y] = 1;
-                if (not (0 <= x+d[curr_dir].first and x+d[curr_dir].first < n and 
-                         0 <= y+d[curr_dir].second and y+d[curr_dir].second < m) or 
+                if (not (0 <= x+d[curr_dir].first and x+d[curr_dir].first < n and
+                         0 <= y+d[curr_dir].second and y+d[curr_dir].second < m) or
                     visited[x+d[curr_dir].first][y+d[curr_dir].second])
                     curr_dir = (curr_dir + 1) % 4;
             }
@@ -210,7 +210,42 @@ public:
 };
 ```
 
-### problemname: 
+### rotate image:
+https://leetcode.com/problems/rotate-image
+
+#### - Python Solution
+```python
+class Solution:
+    def rotate(self, matrix: List[List[int]]) -> None:
+        n = len(matrix)
+        for i in range(n//2):
+            for j in range(i, n-i-1):
+                k                    = matrix[i][j]
+                matrix[i][j]         = matrix[n-j-1][i]
+                matrix[n-j-1][i]     = matrix[n-i-1][n-j-1]
+                matrix[n-i-1][n-j-1] = matrix[j][n-i-1]
+                matrix[j][n-i-1]     = k
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+        for (int i = 0; i < n/2; i++) {
+            for (int j = i; j < n-i-1; j++) {
+                int k                = matrix[i][j];
+                matrix[i][j]         = matrix[n-j-1][i];
+                matrix[n-j-1][i]     = matrix[n-i-1][n-j-1];
+                matrix[n-i-1][n-j-1] = matrix[j][n-i-1];
+                matrix[j][n-i-1]     = k;
+            }
+        }
+    }
+};
+```
+
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -222,7 +257,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -234,7 +269,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -246,7 +281,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -258,7 +293,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -270,7 +305,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -282,7 +317,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -294,7 +329,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -306,7 +341,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -318,7 +353,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -330,7 +365,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -342,7 +377,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -354,7 +389,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -366,7 +401,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -378,7 +413,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -390,7 +425,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -402,7 +437,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -414,7 +449,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -426,7 +461,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -438,7 +473,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -450,7 +485,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -462,7 +497,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -474,7 +509,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -486,7 +521,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -498,7 +533,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -510,7 +545,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -522,7 +557,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -534,7 +569,7 @@ problemlink
 
 ```
 
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution
@@ -546,19 +581,7 @@ problemlink
 
 ```
 
-### problemname: 
-problemlink
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname: 
+### problemname:
 problemlink
 
 #### - Python Solution

@@ -2,7 +2,7 @@
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Easy Problems
 
-### contains duplicate: 
+### contains duplicate:
 https://leetcode.com/problems/contains-duplicate
 
 #### - Python Solution
@@ -22,7 +22,7 @@ public:
 };
 ```
 
-### missing number: 
+### missing number:
 https://leetcode.com/problems/missing-number
 
 #### - Python Solution
@@ -43,7 +43,7 @@ public:
 };
 ```
 
-### find all numbers disappeared in an array: 
+### find all numbers disappeared in an array:
 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 #### - Python Solution
@@ -73,7 +73,7 @@ public:
 };
 ```
 
-### single number: 
+### single number:
 https://leetcode.com/problems/single-number
 
 #### - Python Solution
@@ -105,7 +105,7 @@ public:
 };
 ```
 
-### climbing stairs: 
+### climbing stairs:
 https://leetcode.com/problems/climbing-stairs
 
 #### - Python Solution
@@ -132,7 +132,7 @@ public:
 };
 ```
 
-### best time to buy and sell stock: 
+### best time to buy and sell stock:
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 #### - Python Solution
@@ -169,7 +169,7 @@ public:
 };
 ```
 
-### maximum subarray: 
+### maximum subarray:
 https://leetcode.com/problems/maximum-subarray
 
 #### - Python Solution
@@ -201,7 +201,7 @@ public:
 };
 ```
 
-### range sum query immutable: 
+### range sum query immutable:
 https://leetcode.com/problems/range-sum-query-immutable
 
 #### - Python Solution
@@ -227,14 +227,14 @@ public:
         for (int i=1; i<nums.size()+1; i++)
             cumulative_sum[i] += cumulative_sum[i-1];
     }
-    
+
     int sumRange(int left, int right) {
         return cumulative_sum[right+1] - cumulative_sum[left];
     }
 };
 ```
 
-### counting bits: 
+### counting bits:
 https://leetcode.com/problems/counting-bits
 
 #### - Python Solution
@@ -271,7 +271,7 @@ public:
 };
 ```
 
-### linked list cycle: 
+### linked list cycle:
 https://leetcode.com/problems/linked-list-cycle
 
 #### - Python Solution
@@ -281,7 +281,7 @@ class Solution:
         curr1 = head
         curr2 = head
         while curr2 != None and curr2.next != None:
-            curr2 = curr2.next.next            
+            curr2 = curr2.next.next
             curr1 = curr1.next
             if curr1 == curr2:
                 return True
@@ -305,7 +305,7 @@ public:
 };
 ```
 
-### middle of the linked list: 
+### middle of the linked list:
 https://leetcode.com/problems/middle-of-the-linked-list
 
 #### - Python Solution
@@ -335,7 +335,7 @@ public:
 };
 ```
 
-### palindrome linked list: 
+### palindrome linked list:
 https://leetcode.com/problems/palindrome-linked-list
 
 #### - Python Solution
@@ -382,7 +382,7 @@ public:
 };
 ```
 
-### remove linked list elements: 
+### remove linked list elements:
 https://leetcode.com/problems/remove-linked-list-elements
 
 #### - Python Solution
@@ -428,7 +428,7 @@ public:
 };
 ```
 
-### remove duplicates from sorted list: 
+### remove duplicates from sorted list:
 https://leetcode.com/problems/remove-duplicates-from-sorted-list
 
 #### - Python Solution
@@ -465,7 +465,7 @@ public:
 };
 ```
 
-### reverse linked list: 
+### reverse linked list:
 https://leetcode.com/problems/reverse-linked-list
 
 #### - Python Solution
@@ -507,7 +507,7 @@ public:
 };
 ```
 
-### merge two sorted lists: 
+### merge two sorted lists:
 https://leetcode.com/problems/merge-two-sorted-lists
 
 #### - Python Solution
@@ -611,7 +611,7 @@ https://leetcode.com/problems/meeting-rooms
 
 ```
 
-### binary search: 
+### binary search:
 https://leetcode.com/problems/binary-search
 
 #### - Python Solution
@@ -649,7 +649,7 @@ public:
 };
 ```
 
-### find smallest letter greater than target: 
+### find smallest letter greater than target:
 https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
 #### - Python Solution
@@ -683,7 +683,7 @@ public:
 };
 ```
 
-### peak index in a mountain array: 
+### peak index in a mountain array:
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 #### - Python Solution
@@ -717,7 +717,7 @@ public:
 };
 ```
 
-### average of levels in binary tree: 
+### average of levels in binary tree:
 https://leetcode.com/problems/average-of-levels-in-binary-tree
 
 #### - Python Solution
@@ -768,7 +768,7 @@ public:
 };
 ```
 
-### minimum depth of binary tree: 
+### minimum depth of binary tree:
 https://leetcode.com/problems/minimum-depth-of-binary-tree
 
 #### - Python Solution
@@ -805,7 +805,7 @@ public:
 };
 ```
 
-### same tree: 
+### same tree:
 https://leetcode.com/problems/same-tree
 
 #### - Python Solution
@@ -842,7 +842,7 @@ public:
 };
 ```
 
-### path sum: 
+### path sum:
 https://leetcode.com/problems/path-sum
 
 #### - Python Solution
@@ -887,7 +887,7 @@ public:
 };
 ```
 
-### maximum depth of binary tree: 
+### maximum depth of binary tree:
 https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 #### - Python Solution
@@ -916,7 +916,7 @@ public:
 };
 ```
 
-### diameter of binary tree: 
+### diameter of binary tree:
 https://leetcode.com/problems/diameter-of-binary-tree
 
 #### - Python Solution
@@ -927,7 +927,7 @@ class Solution:
             if curr == None:
                 return 0
             return max(dfs(curr.left), dfs(curr.right)) + 1
-        
+
         def max_diameter(curr):
             if curr == None:
                 return 0
@@ -944,7 +944,7 @@ public:
         if (curr == NULL)
             return 0;
         return max(dfs(curr->left), dfs(curr->right)) + 1;
-    } 
+    }
     int max_diameter(TreeNode* curr) {
         if (curr == NULL)
             return 0;
@@ -957,7 +957,7 @@ public:
 };
 ```
 
-### merge two binary trees: 
+### merge two binary trees:
 https://leetcode.com/problems/merge-two-binary-trees
 
 #### - Python Solution
@@ -1002,7 +1002,7 @@ public:
 };
 ```
 
-### lowest common ancestor of a binary search tree: 
+### lowest common ancestor of a binary search tree:
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
 #### - Python Solution
@@ -1043,7 +1043,7 @@ public:
 };
 ```
 
-### subtree of another tree: 
+### subtree of another tree:
 https://leetcode.com/problems/subtree-of-another-tree
 
 #### - Python Solution
@@ -1094,7 +1094,7 @@ public:
 };
 ```
 
-### invert binary tree: 
+### invert binary tree:
 https://leetcode.com/problems/invert-binary-tree
 
 #### - Python Solution
@@ -1131,7 +1131,7 @@ public:
 };
 ```
 
-### two sum: 
+### two sum:
 https://leetcode.com/problems/two-sum
 
 #### - Python Solution
@@ -1173,7 +1173,7 @@ public:
 };
 ```
 
-### squares of a sorted array: 
+### squares of a sorted array:
 https://leetcode.com/problems/squares-of-a-sorted-array
 
 #### - Python Solution
@@ -1188,7 +1188,7 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
         vector<int> res(nums);
-        for (int &i : res) 
+        for (int &i : res)
             i *= i;
         sort(res.begin(), res.end());
         return res;
@@ -1196,7 +1196,7 @@ public:
 };
 ```
 
-### backspace string compare: 
+### backspace string compare:
 https://leetcode.com/problems/backspace-string-compare
 
 #### - Python Solution
@@ -1270,7 +1270,7 @@ public:
 };
 ```
 
-### index pairs of a string: 
+### index pairs of a string:
 https://leetcode.com/problems/index-pairs-of-a-string
 
 #### - Python Solution
@@ -1282,7 +1282,7 @@ https://leetcode.com/problems/index-pairs-of-a-string
 
 ```
 
-### majority element: 
+### majority element:
 https://leetcode.com/problems/majority-element
 
 #### - Python Solution
@@ -1313,7 +1313,7 @@ public:
     }
 };
 ```
-### convert 1d array into 2d array: 
+### convert 1d array into 2d array:
 https://leetcode.com/problems/convert-1d-array-into-2d-array
 
 #### - Python Solution
