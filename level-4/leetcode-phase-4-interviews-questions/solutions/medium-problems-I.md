@@ -256,7 +256,7 @@ class Solution:
             if idx == len(word):
                 return True
             if not(0 <= x < n and 0 <= y < m) or visited[x][y] or \
-               board[x][y] != word[idx]:
+                board[x][y] != word[idx]:
                 return False
             visited[x][y] = 1
             for i, j in d:
@@ -287,7 +287,7 @@ public:
         if (idx == word.size())
             return true;
         if (not(0 <= x < n and 0 <= y < m) or visited[x][y] or
-           board[x][y] != word[idx])
+            board[x][y] != word[idx])
             return false;
         visited[x][y] = 1;
         for (int i=0; i<4; i++) {
