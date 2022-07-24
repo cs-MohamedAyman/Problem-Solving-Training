@@ -590,7 +590,6 @@ class Solution:
                 arr.append(i)
                 generate_combinations(i+1, arr)
                 arr.pop()
-            return
         
         generate_combinations(1, [])
         return res
@@ -610,7 +609,6 @@ public:
             generate_combinations(i+1, arr, n, k);
             arr.pop_back();
         }
-        return;
     }
     vector<vector<int>> combine(int n, int k) {
         generate_combinations(1, {}, n, k);
@@ -619,16 +617,54 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### combination sum:
+https://leetcode.com/problems/combination-sum
 
 #### - Python Solution
 ```python
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        res = set()
 
+        def generate_combinations(i, arr, curr_total):
+            if curr_total == target:
+                res.add(tuple(sorted(arr[:])))
+                return
+            if i == len(candidates) or curr_total > target:
+                return
+            arr.append(candidates[i])
+            generate_combinations(i, arr, curr_total+candidates[i])
+            arr.pop()
+            generate_combinations(i+1, arr, curr_total)
+        
+        generate_combinations(0, [], 0)
+        return list(res)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    set<vector<int>> res;
+    
+    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
+        if (curr_total == target) {
+            sort(arr.begin(), arr.end());
+            res.insert(arr);
+            return;
+        }
+        if (i == candidates.size() or curr_total > target)
+            return;
+        arr.push_back(candidates[i]);
+        generate_combinations(i, arr, curr_total+candidates[i], candidates, target);
+        arr.pop_back();
+        generate_combinations(i+1, arr, curr_total, candidates, target);
+    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        generate_combinations(0, {}, 0, candidates, target);
+        vector<vector<int>> ans(res.begin(), res.end());
+        return ans;
+    }
+};
 ```
 
 ### problemname:
