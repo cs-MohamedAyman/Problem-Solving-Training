@@ -580,8 +580,6 @@ https://leetcode.com/problems/combinations
 ```python
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        res = []
-
         def generate_combinations(p, arr):
             if len(arr) == k:
                 res.append(arr[:])
@@ -591,6 +589,7 @@ class Solution:
                 generate_combinations(i+1, arr)
                 arr.pop()
         
+        res = []
         generate_combinations(1, [])
         return res
 ```
@@ -599,6 +598,7 @@ class Solution:
 class Solution {
 public:
     vector<vector<int>> res;
+
     void generate_combinations(int p, vector<int> arr, int n, int k) {
         if (arr.size() == k) {
             res.push_back(arr);
@@ -624,8 +624,6 @@ https://leetcode.com/problems/combination-sum
 ```python
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res = set()
-
         def generate_combinations(i, arr, curr_total):
             if curr_total == target:
                 res.add(tuple(sorted(arr[:])))
@@ -637,6 +635,7 @@ class Solution:
             arr.pop()
             generate_combinations(i+1, arr, curr_total)
         
+        res = set()
         generate_combinations(0, [], 0)
         return list(res)
 ```
