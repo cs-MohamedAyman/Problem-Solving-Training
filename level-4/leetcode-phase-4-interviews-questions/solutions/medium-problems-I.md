@@ -773,16 +773,47 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### generate parentheses:
+https://leetcode.com/problems/generate-parentheses
 
 #### - Python Solution
 ```python
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        def generate(cnt_open, cnt_close, s):
+            if cnt_open == cnt_close == n:
+                res.append(s)
+                return
+            if cnt_open < n:
+                generate(cnt_open+1, cnt_close, s+'(')
+            if cnt_close < cnt_open:
+                generate(cnt_open, cnt_close+1, s+')')
 
+        res = []
+        generate(0, 0, '')
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    vector<string> res;
 
+    void generate(int cnt_open, int cnt_close, string s, const int &n) {
+        if (cnt_open == cnt_close and cnt_close == n) {
+            res.push_back(s);
+            return;
+        }
+        if (cnt_open < n)
+            generate(cnt_open+1, cnt_close, s+"(", n);
+        if (cnt_close < cnt_open)
+            generate(cnt_open, cnt_close+1, s+")", n);
+    }
+public:
+    vector<string> generateParenthesis(int n) {
+        generate(0, 0, "", n);
+        return res;
+    }
+};
 ```
 
 ### problemname:
