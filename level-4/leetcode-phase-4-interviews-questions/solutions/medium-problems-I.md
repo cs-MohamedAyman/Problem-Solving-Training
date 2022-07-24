@@ -363,7 +363,7 @@ class Solution:
                 return
             generate_permutation(i+1, curr_s+s[i].lower())
             generate_permutation(i+1, curr_s+s[i].upper())
-            
+
         res = set()
         generate_permutation(0, '')
         return list(res)
@@ -482,7 +482,7 @@ class Solution:
                 for p in generate_permutation(arr[:i] + arr[i+1:]):
                     res.append([m] + p)
             return res
-        
+
         return generate_permutation(nums)
 ```
 #### - CPP Solution
@@ -588,7 +588,7 @@ class Solution:
                 arr.append(i)
                 generate_combinations(i+1, arr)
                 arr.pop()
-        
+
         res = []
         generate_combinations(1, [])
         return res
@@ -634,7 +634,7 @@ class Solution:
             generate_combinations(i, arr, curr_total+candidates[i])
             arr.pop()
             generate_combinations(i+1, arr, curr_total)
-        
+
         res = []
         generate_combinations(0, [], 0)
         return res
@@ -686,7 +686,7 @@ class Solution:
                 generate_combinations(j+1, arr, curr_total+candidates[j])
                 arr.pop()
                 prev = candidates[j]
-        
+
         res = []
         candidates.sort()
         generate_combinations(0, [], 0)
@@ -741,7 +741,7 @@ class Solution:
                 arr.append(i)
                 generate_combinations(i+1, arr, curr_total+i)
                 arr.pop()
-        
+
         res = []
         generate_combinations(1, [], 0)
         return res
@@ -816,16 +816,47 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### target sum:
+https://leetcode.com/problems/target-sum
 
 #### - Python Solution
 ```python
+class Solution:
+    def findTargetSumWays(self, nums: List[int], target: int) -> int:
+        def dp(i, curr_total):
+            if i == len(nums):
+                return curr_total == target
+            if memo[i][curr_total+N] != -1:
+                return memo[i][curr_total+N]
+            memo[i][curr_total+N] = dp(i+1, curr_total+nums[i]) + \
+                                    dp(i+1, curr_total-nums[i])
+            return memo[i][curr_total+N]
 
+        N = int(2e4+3)
+        memo = [[-1 for i in range(N*2)] for j in range(23)]
+        return dp(0, 0)
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    static const int N = 2e4+3;
+    int memo[23][N*2];
 
+    int dp(int i, int curr_total, const vector<int>& nums, const int &target) {
+        if (i == nums.size())
+            return curr_total == target;
+        if (memo[i][curr_total+N] != -1)
+            return memo[i][curr_total+N];
+        memo[i][curr_total+N] = dp(i+1, curr_total+nums[i], nums, target) +
+                                dp(i+1, curr_total-nums[i], nums, target);
+        return memo[i][curr_total+N];
+    }
+public:
+    int findTargetSumWays(vector<int>& nums, int target) {
+        memset(memo, -1, sizeof memo);
+        return dp(0, 0, nums, target);
+    }
+};
 ```
 
 ### problemname:
