@@ -219,15 +219,14 @@ class NumArray:
 #### - CPP Solution
 ```cpp
 class NumArray {
-public:
     vector<int> cumulative_sum;
+public:
     NumArray(vector<int>& nums) {
         cumulative_sum.assign(nums.begin(), nums.end());
         cumulative_sum.insert(cumulative_sum.begin(), 0);
         for (int i=1; i<nums.size()+1; i++)
             cumulative_sum[i] += cumulative_sum[i-1];
     }
-
     int sumRange(int left, int right) {
         return cumulative_sum[right+1] - cumulative_sum[left];
     }
@@ -742,7 +741,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     vector<long long> sums;
     vector<long long> cnts;
 
@@ -754,6 +752,7 @@ public:
         dfs(curr->left, level+1);
         dfs(curr->right, level+1);
     }
+public:
     vector<double> averageOfLevels(TreeNode* root) {
         sums.assign(1e4, 0LL);
         cnts.assign(1e4, 0LL);
@@ -789,7 +788,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     int dfs(TreeNode* curr) {
         if (curr == NULL)
             return 0;
@@ -799,6 +797,7 @@ public:
             return dfs(curr->left)+1;
         return min(dfs(curr->left), dfs(curr->right)) + 1;
     }
+public:
     int minDepth(TreeNode* root) {
         return dfs(root);
     }
@@ -826,7 +825,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     bool dfs(TreeNode* cur1, TreeNode* cur2) {
         if (cur1 == NULL and cur2 == NULL)
             return true;
@@ -836,6 +834,7 @@ public:
             return false;
         return dfs(cur1->left, cur2->left) and dfs(cur1->right, cur2->right);
     }
+public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
         return dfs(p, q);
     }
@@ -867,7 +866,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     bool dfs(TreeNode* curr, int curr_sum) {
         if (curr == NULL)
             return curr_sum == 0;
@@ -879,6 +877,7 @@ public:
             return is_valid_right;
         return is_valid_left or is_valid_right;
     }
+public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         if (root == NULL)
             return false;
@@ -904,12 +903,12 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     int dfs(TreeNode* curr) {
         if (curr == NULL)
             return 0;
         return max(dfs(curr->left), dfs(curr->right)) + 1;
     }
+public:
     int maxDepth(TreeNode* root) {
         return dfs(root);
     }
@@ -939,7 +938,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     int dfs(TreeNode* curr) {
         if (curr == NULL)
             return 0;
@@ -951,6 +949,7 @@ public:
         return max(max(max_diameter(curr->left), max_diameter(curr->right)),
                    dfs(curr->left) + dfs(curr->right));
     }
+public:
     int diameterOfBinaryTree(TreeNode* root) {
         return max_diameter(root);
     }
@@ -982,7 +981,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     TreeNode* dfs(TreeNode* cur, TreeNode* cur1, TreeNode* cur2) {
         if (cur1 == NULL and cur2 == NULL)
             return NULL;
@@ -995,6 +993,7 @@ public:
         cur->right = dfs(cur->right, cur1->right, cur2->right);
         return cur;
     }
+public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
         TreeNode* root = new TreeNode();
         return dfs(root, root1, root2);
@@ -1025,7 +1024,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     TreeNode* LCA(TreeNode* curr, int p, int q) {
         if (curr == NULL)
             return NULL;
@@ -1037,6 +1035,7 @@ public:
             return LCA(curr->right, p, q);
         return curr;
     }
+public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         return LCA(root, p->val, q->val);
     }
@@ -1071,7 +1070,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     bool isSameTree(TreeNode* cur1, TreeNode* cur2) {
         if (cur1 == NULL and cur2 == NULL)
             return true;
@@ -1088,6 +1086,7 @@ public:
             return true;
         return find_subtree(curr->left, subRoot) or find_subtree(curr->right, subRoot);
     }
+public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         return find_subtree(root, subRoot);
     }
@@ -1114,7 +1113,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     void dfs(TreeNode* curr) {
         if (curr == NULL)
             return;
@@ -1124,6 +1122,7 @@ public:
         dfs(curr->left);
         dfs(curr->right);
     }
+public:
     TreeNode* invertTree(TreeNode* root) {
         dfs(root);
         return root;
@@ -1233,7 +1232,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     void move(string w, int &idx, int &cnt) {
         while (idx != -1 and w[idx] == '#') {
             cnt += 1;
@@ -1244,6 +1242,7 @@ public:
             idx -= 1;
         }
     }
+public:
     bool backspaceCompare(string s, string t) {
         int i = s.size()-1, j = t.size()-1;
         int cnt_s = 0, cnt_t = 0;
