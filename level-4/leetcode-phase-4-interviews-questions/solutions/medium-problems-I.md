@@ -277,7 +277,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     int n, m;
     vector<vector<int>> visited;
     int dx[4] = {0, 0, 1, -1};
@@ -297,6 +296,7 @@ public:
         visited[x][y] = 0;
         return false;
     }
+public:
     bool exist(vector<vector<char>>& board, string word) {
         n = board.size(), m = board[0].size();
         visited.assign(n, vector<int>(m, 0));
@@ -371,7 +371,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     set<string> res;
 
     void generate_permutation(int i, string curr_s, const string &s) {
@@ -382,6 +381,7 @@ public:
         generate_permutation(i+1, curr_s+char(tolower(s[i])), s);
         generate_permutation(i+1, curr_s+char(toupper(s[i])), s);
     }
+public:
     vector<string> letterCasePermutation(string s) {
         generate_permutation(0, "", s);
         vector<string> ans(res.begin(), res.end());
@@ -488,7 +488,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     vector<vector<int>> generate_permutation(vector<int> arr) {
         if (arr.size() == 0)
             return {};
@@ -510,6 +509,7 @@ public:
         }
         return res;
     }
+public:
     vector<vector<int>> permute(vector<int>& nums) {
         return generate_permutation(nums);
     }
@@ -541,7 +541,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     vector<vector<int>> generate_permutation(vector<int> arr) {
         if (arr.size() == 0)
             return {};
@@ -563,6 +562,7 @@ public:
         }
         return res;
     }
+public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         set<vector<int>> res;
         for (auto p : generate_permutation(nums))
@@ -596,7 +596,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     vector<vector<int>> res;
 
     void generate_combinations(int p, vector<int> arr, int n, int k) {
@@ -610,6 +609,7 @@ public:
             arr.pop_back();
         }
     }
+public:
     vector<vector<int>> combine(int n, int k) {
         generate_combinations(1, {}, n, k);
         return res;
@@ -642,7 +642,6 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-public:
     set<vector<int>> res;
     
     void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
@@ -658,6 +657,7 @@ public:
         arr.pop_back();
         generate_combinations(i+1, arr, curr_total, candidates, target);
     }
+public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         generate_combinations(0, {}, 0, candidates, target);
         vector<vector<int>> ans(res.begin(), res.end());
