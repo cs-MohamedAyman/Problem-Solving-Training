@@ -859,16 +859,61 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### palindrome partitioning:
+https://leetcode.com/problems/palindrome-partitioning
 
 #### - Python Solution
 ```python
+class Solution:
+    def partition(self, s: str) -> List[List[str]]:
+        def is_palindrome(s):
+            return s == s[::-1]
 
+        def dfs(i):
+            if i == len(s):
+                res.append(curr_parts[:])
+                return
+            for j in range(i, len(s)):
+                if is_palindrome(s[i:j+1]):
+                    curr_parts.append(s[i:j+1])
+                    dfs(j+1)
+                    curr_parts.pop()
+
+        res = []
+        curr_parts = []
+        dfs(0)
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    vector<vector<string>> res;
+    vector<string> curr_parts;
 
+    bool is_palindrome(string s) {
+        string t = s;
+        reverse(t.begin(), t.end());
+        return s == t;
+    }
+    void dfs(int i, const string &s) {
+        if (i == s.size()) {
+            res.push_back(curr_parts);
+            return;
+        }
+        for (int j=i; j<s.size(); j++) {
+            if (is_palindrome(s.substr(i, j-i+1))) {
+                curr_parts.push_back(s.substr(i, j-i+1));
+                dfs(j+1, s);
+                curr_parts.pop_back();
+            }
+        }
+    }
+public:
+    vector<vector<string>> partition(string s) {
+        dfs(0, s);
+        return res;
+    }
+};
 ```
 
 ### problemname:
