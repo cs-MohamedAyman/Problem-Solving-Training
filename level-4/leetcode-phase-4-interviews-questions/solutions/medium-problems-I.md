@@ -626,7 +626,7 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         def generate_combinations(i, arr, curr_total):
             if curr_total == target:
-                res.add(tuple(sorted(arr[:])))
+                res.append(sorted(arr[:]))
                 return
             if i == len(candidates) or curr_total > target:
                 return
@@ -635,19 +635,19 @@ class Solution:
             arr.pop()
             generate_combinations(i+1, arr, curr_total)
         
-        res = set()
+        res = []
         generate_combinations(0, [], 0)
-        return list(res)
+        return res
 ```
 #### - CPP Solution
 ```cpp
 class Solution {
-    set<vector<int>> res;
+    vector<vector<int>> res;
     
     void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
         if (curr_total == target) {
             sort(arr.begin(), arr.end());
-            res.insert(arr);
+            res.push_back(arr);
             return;
         }
         if (i == candidates.size() or curr_total > target)
@@ -660,34 +660,117 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         generate_combinations(0, {}, 0, candidates, target);
+        return res;
+    }
+};
+```
+
+### combination sum ii:
+https://leetcode.com/problems/combination-sum-ii
+
+#### - Python Solution
+```python
+class Solution:
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        def generate_combinations(i, arr, curr_total):
+            if curr_total == target:
+                res.append(sorted(arr[:]))
+                return
+            if curr_total > target:
+                return
+            prev = -1
+            for j in range(i, len(candidates)):
+                if candidates[j] == prev:
+                    continue
+                arr.append(candidates[j])
+                generate_combinations(j+1, arr, curr_total+candidates[j])
+                arr.pop()
+                prev = candidates[j]
+        
+        res = []
+        candidates.sort()
+        generate_combinations(0, [], 0)
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+    set<vector<int>> res;
+
+    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
+        if (curr_total == target) {
+            sort(arr.begin(), arr.end());
+            res.insert(arr);
+            return;
+        }
+        if (curr_total > target)
+            return;
+        int prev = -1;
+        for (int j=i; j<candidates.size(); j++) {
+            if (candidates[j] == prev)
+                continue;
+            arr.push_back(candidates[j]);
+            generate_combinations(j+1, arr, curr_total+candidates[j], candidates, target);
+            arr.pop_back();
+            prev = candidates[j];
+        }
+    }
+public:
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        generate_combinations(0, {}, 0, candidates, target);
         vector<vector<int>> ans(res.begin(), res.end());
         return ans;
     }
 };
 ```
 
-### problemname:
-problemlink
+### combination sum iii:
+https://leetcode.com/problems/combination-sum-iii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def combinationSum3(self, k: int, n: int) -> List[List[int]]:
+        def generate_combinations(p, arr, curr_total):
+            if len(arr) == k and curr_total == n:
+                res.append(arr[:])
+                return
+            if sum(arr) > n:
+                return
+            for i in range(p, min(10, n+1)):
+                arr.append(i)
+                generate_combinations(i+1, arr, curr_total+i)
+                arr.pop()
+        
+        res = []
+        generate_combinations(1, [], 0)
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    vector<vector<int>> res;
 
-```
-
-### problemname:
-problemlink
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
+    void generate_combinations(int p, vector<int> arr, int curr_total, int n, int k) {
+        if (arr.size() == k and curr_total == n) {
+            res.push_back(arr);
+            return;
+        }
+        if (curr_total > n) {
+            return;
+        }
+        for (int i=p; i<min(10, n+1); i++) {
+            arr.push_back(i);
+            generate_combinations(i+1, arr, curr_total+i, n, k);
+            arr.pop_back();
+        }
+    }
+public:
+    vector<vector<int>> combinationSum3(int k, int n) {
+        generate_combinations(1, {}, 0, n, k);
+        return res;
+    }
+};
 ```
 
 ### problemname:
