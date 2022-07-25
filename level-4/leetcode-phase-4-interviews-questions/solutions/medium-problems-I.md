@@ -1044,28 +1044,76 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### coin change:
+https://leetcode.com/problems/coin-change
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        dp = [int(1e4+3)] * (amount+1)
+        dp[0] = 0
+        for i in range(1, amount+1):
+            for c in coins:
+                if i - c >= 0:
+                    dp[i] = min(dp[i], dp[i-c]+1)
+        if dp[amount] == int(1e4+3):
+            dp[amount] = -1
+        return dp[amount]
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        vector<int> dp(amount+1, int(1e4+3));
+        dp[0] = 0;
+        for (int i=1; i<amount+1; i++) {
+            for (int c : coins) {
+                if (i - c >= 0)
+                    dp[i] = min(dp[i], dp[i-c]+1);
+            }
+        }
+        if (dp[amount] == int(1e4+3))
+            dp[amount] = -1;
+        return dp[amount];
+    }
+};
 ```
 
-### problemname:
-problemlink
+### maximum product subarray:
+https://leetcode.com/problems/maximum-product-subarray
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        res = max(nums)
+        curr_min, curr_max = 1, 1
+        for i in nums:
+            prev_min, prev_max = curr_min, curr_max
+            curr_min = min(prev_min, prev_max, 1) * i
+            curr_max = max(prev_min, prev_max, 1) * i
+            res = max(res, curr_min, curr_max)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        int res = *max_element(nums.begin(), nums.end());
+        int curr_min = 1, curr_max = 1;
+        int prev_min = 1, prev_max = 1;
+        for (int i : nums) {
+            prev_min = curr_min, prev_max = curr_max;
+            curr_min = min(min(prev_min, prev_max), 1) * i;
+            curr_max = max(max(prev_min, prev_max), 1) * i;
+            res = max(res, max(curr_min, curr_max));
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname:
