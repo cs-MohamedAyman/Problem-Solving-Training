@@ -1147,16 +1147,57 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### longest palindromic substring:
+https://leetcode.com/problems/longest-palindromic-substring
 
 #### - Python Solution
 ```python
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        def get_longest(size_type):
+            res = ''
+            res_len = 0
+            for i in range(len(s)):
+                l, r = i, i+size_type
+                while l >= 0 and r < len(s) and s[l] == s[r]:
+                    if res_len < r-l+1:
+                        res = s[l:r+1]
+                        res_len = r-l+1
+                    l -= 1
+                    r += 1
+            return res
 
+        res1 = get_longest(0)
+        res2 = get_longest(1)
+        return res1 if len(res1) > len(res2) else res2
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    string get_longest(bool size_type, string &s) {
+        string res = "";
+        int res_len = 0;
+        int l, r;
+        for (int i=0; i<s.size(); i++) {
+            l = i, r = i+size_type;
+            while (l >= 0 and r < s.size() and s[l] == s[r]) {
+                if (res_len < r-l+1) {
+                    res = s.substr(l, r-l+1);
+                    res_len = r-l+1;
+                }
+                l --;
+                r ++;
+            }
+        }
+        return res;
+    }
+public:
+    string longestPalindrome(string s) {
+        string res1 = get_longest(0, s);
+        string res2 = get_longest(1, s);
+        return (res1.size() > res2.size())? res1 : res2;
+    }
+};
 ```
 
 ### problemname:
