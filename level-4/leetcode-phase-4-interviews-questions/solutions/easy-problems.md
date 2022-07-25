@@ -513,87 +513,43 @@ https://leetcode.com/problems/merge-two-sorted-lists
 ```python
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        if list1 == None and list2 == None:
-            return None
-        if list1 == None:
-            return list2
-        if list2 == None:
-            return list1
-        curr1 = list1
-        curr2 = list2
-        head = None
-        if list1.val <= list2.val:
-            head = curr1
-            curr1 = curr1.next
-        else:
-            head = curr2
-            curr2 = curr2.next
+        head = ListNode()
         curr = head
-        while curr1 != None and curr2 != None:
-            if curr1.val <= curr2.val:
-                curr.next = curr1
-                curr = curr.next
-                curr1 = curr1.next
+        while list1 and list2:
+            if list1.val <= list2.val:
+                curr.next = list1
+                list1 = list1.next
             else:
-                curr.next = curr2
-                curr = curr.next
-                curr2 = curr2.next
-        while curr1 != None:
-            curr.next = curr1
+                curr.next = list2
+                list2 = list2.next
             curr = curr.next
-            curr1 = curr1.next
-        while curr2 != None:
-            curr.next = curr2
-            curr = curr.next
-            curr2 = curr2.next
-        return head
+        if list1:
+            curr.next = list1
+        if list2:
+            curr.next = list2
+        return head.next
 ```
 #### - CPP Solution
 ```cpp
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if (list1 == NULL and list2 == NULL)
-            return NULL;
-        if (list1 == NULL)
-            return list2;
-        if (list2 == NULL)
-            return list1;
-        ListNode *curr1 = list1;
-        ListNode *curr2 = list2;
-        ListNode *head = NULL;
-        if (list1->val <= list2->val) {
-            head = curr1;
-            curr1 = curr1->next;
-        }
-        else {
-            head = curr2;
-            curr2 = curr2->next;
-        }
+        ListNode *head = new ListNode();
         ListNode *curr = head;
-        while (curr1 != NULL and curr2 != NULL) {
-            if (curr1->val <= curr2->val) {
-                curr->next = curr1;
-                curr = curr->next;
-                curr1 = curr1->next;
-            }
-            else {
-                curr->next = curr2;
-                curr = curr->next;
-                curr2 = curr2->next;
-            }
-        }
-        while (curr1 != NULL) {
-            curr->next = curr1;
+        while (list1 and list2) {
+            if (list1->val <= list2->val)
+                curr->next = list1,
+                list1 = list1->next;
+            else
+                curr->next = list2,
+                list2 = list2->next;
             curr = curr->next;
-            curr1 = curr1->next;
         }
-        while (curr2 != NULL) {
-            curr->next = curr2;
-            curr = curr->next;
-            curr2 = curr2->next;
-        }
-        return head;
+        if (list1)
+            curr->next = list1;
+        if (list2)
+            curr->next = list2;
+        return head->next;
     }
 };
 ```

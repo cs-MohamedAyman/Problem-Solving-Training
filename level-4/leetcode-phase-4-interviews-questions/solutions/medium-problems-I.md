@@ -916,8 +916,53 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### letter combinations of a phone number:
+https://leetcode.com/problems/letter-combinations-of-a-phone-number
+
+#### - Python Solution
+```python
+class Solution:
+    def letterCombinations(self, digits: str) -> List[str]:
+        def generate_letters(i, curr_s):
+            if len(curr_s) == len(digits):
+                res.append(curr_s)
+                return
+            for j in digits_chars[digits[i]]:
+                generate_letters(i+1, curr_s+j)
+
+        res = []
+        digits_chars = {'2':'abc', '3':'def', '4':'ghi', '5':'jkl', 
+                        '6':'mno', '7':'pqrs', '8':'tuv', '9':'wxyz'}
+        if digits:
+            generate_letters(0, '')
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+    vector<string> res;
+    map<char, string> digits_chars = {{'2',"abc"}, {'3',"def"}, {'4',"ghi"}, {'5',"jkl"}, 
+                                      {'6',"mno"}, {'7',"pqrs"}, {'8',"tuv"}, {'9',"wxyz"}};
+
+    void generate_letters(int i, string curr_s, const string &digits) {
+        if (curr_s.size() == digits.size()) {
+            res.push_back(curr_s);
+            return;
+        }
+        for (char j : digits_chars[digits[i]])
+            generate_letters(i+1, curr_s+j, digits);
+    }
+public:
+    vector<string> letterCombinations(string digits) {
+        if (digits != "")
+            generate_letters(0, "", digits);
+        return res;
+    }
+};
+```
+
+### generalized abbreviation:
+https://leetcode.com/problems/generalized-abbreviation
 
 #### - Python Solution
 ```python
@@ -928,40 +973,75 @@ problemlink
 
 ```
 
-### problemname:
-problemlink
+### house robber:
+https://leetcode.com/problems/house-robber
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+        res1, res2 = 0, 0
+        for i in nums:
+            temp = max(res1+i, res2)
+            res1 = res2
+            res2 = temp
+        return res2
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int res1 = 0, res2 = 0;
+        for (int i : nums) {
+            int temp = max(res1+i, res2);
+            res1 = res2;
+            res2 = temp;
+        }
+        return res2;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### house robber ii:
+https://leetcode.com/problems/house-robber-ii
 
 #### - Python Solution
 ```python
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+        def rob_subarray(nums):
+            res1, res2 = 0, 0
+            for i in nums:
+                temp = max(res1+i, res2)
+                res1 = res2
+                res2 = temp
+            return res2
 
+        if len(nums) == 1:
+            return nums[0]
+        return max(rob_subarray(nums[1:]), rob_subarray(nums[:-1]))
 ```
 #### - CPP Solution
 ```cpp
-
-```
-
-### problemname:
-problemlink
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
+class Solution {
+    int rob_subarray(vector<int> nums) {
+        int res1 = 0, res2 = 0;
+        for (int i : nums) {
+            int temp = max(res1+i, res2);
+            res1 = res2;
+            res2 = temp;
+        }
+        return res2;
+    }
+public:
+    int rob(vector<int>& nums) {
+        if (nums.size() == 1)
+            return nums[0];
+        return max(rob_subarray({nums.begin()+1, nums.end()}), 
+                   rob_subarray({nums.begin(), nums.end()-1}));
+    }
+};
 ```
 
 ### problemname:
