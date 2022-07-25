@@ -1116,16 +1116,35 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### longest increasing subsequence:
+https://leetcode.com/problems/longest-increasing-subsequence
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        res = [1] * len(nums)
+        for i in range(len(nums)-1, -1, -1):
+            for j in range(i+1, len(nums)):
+                if nums[j] > nums[i]:
+                    res[i] = max(res[i], res[j]+1)
+        return max(res)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        vector<int> res(nums.size(), 1);
+        for (int i=nums.size()-1; i>-1; i--) {
+            for (int j=i+1; j<nums.size(); j++) {
+                if (nums[j] > nums[i])
+                    res[i] = max(res[i], res[j]+1);
+            }
+        }
+        return *max_element(res.begin(), res.end());
+    }
+};
 ```
 
 ### problemname:
