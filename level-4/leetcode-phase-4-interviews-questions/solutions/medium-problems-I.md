@@ -1267,62 +1267,210 @@ public:
 ```
 `TODO` RUN-TIME ERROR
 
-### problemname:
-problemlink
+### decode ways:
+https://leetcode.com/problems/decode-ways
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def numDecodings(self, s: str) -> int:
+        def dp(i):
+            if memo[i] != -1:
+                return memo[i]
+            if s[i] == '0':
+                return 0
+            res = dp(i+1)
+            if i+1 < len(s) and 10 <= int(s[i]+s[i+1]) <= 26:
+                res += dp(i+2)
+            memo[i] = res
+            return memo[i]
+            
+        memo = [-1] * (len(s)+1)
+        memo[len(s)] = 1
+        return dp(0)
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    int memo[101];
 
+    int dp(int i, string &s) {
+        if (memo[i] != -1)
+            return memo[i];
+        if (s[i] == '0')
+            return 0;
+        int res = dp(i+1, s);
+        if (i+1 < s.size() and 10 <= stoi(s.substr(i, 2)) and stoi(s.substr(i, 2)) <= 26)
+            res += dp(i+2, s);
+        memo[i] = res;
+        return memo[i];
+    }
+public:
+    int numDecodings(string s) {
+        memset(memo, -1, sizeof memo);
+        memo[s.size()] = 1;
+        return dp(0, s);
+    }
+};
 ```
 
-### problemname:
-problemlink
+### unique paths:
+https://leetcode.com/problems/unique-paths
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        memo = [[0 for i in range(n)] for j in range(m)]
+        memo[m-1] = [1] * n
+        for i in range(m-2, -1, -1):
+            memo[i][n-1] = 1
+            for j in range(n-2, -1, -1):
+                memo[i][j] = memo[i][j+1] + memo[i+1][j]
+        return memo[0][0]
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
+        vector<vector<int>> memo(m, vector<int>(n, 0));
+        fill(memo[m-1].begin(), memo[m-1].end(), 1);
+        for (int i=m-2; i>-1; i--) {
+            memo[i][n-1] = 1;
+            for (int j=n-2; j>-1; j--) {
+                memo[i][j] = memo[i][j+1] + memo[i+1][j];
+            }
+        }
+        return memo[0][0];
+    }
+};
 ```
 
-### problemname:
-problemlink
+### Jump Game:
+https://leetcode.com/problems/jump-game
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        res = len(nums)-1
+        for i in range(len(nums)-1, -1, -1):
+            if i + nums[i] >= res:
+                res = i
+        return res == 0
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool canJump(vector<int>& nums) {
+        int res = nums.size()-1;
+        for (int i=nums.size()-1; i>-1; i--) {
+            if (i + nums[i] >= res)
+                res = i;
+        }
+        return res == 0;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### palindromic substrings:
+https://leetcode.com/problems/palindromic-substrings
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def countSubstrings(self, s: str) -> int:
+        def count_pali(s, l, r):
+            res = 0
+            while l >=0 and r < len(s) and s[l] == s[r]:
+                l -= 1
+                r += 1
+                res += 1
+            return res
+        
+        res = 0
+        for i in range(len(s)):
+            res += count_pali(s, i, i)
+            res += count_pali(s, i, i+1)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    int count_pali(string s, int l, int r) {
+        int res = 0;
+        while (l >=0 and r < s.size() and s[l] == s[r]) {
+            l --;
+            r ++;
+            res ++;
+        }
+        return res;
+    }
+public:
+    int countSubstrings(string s) {
+        int res = 0;
+        for (int i=0; i<s.size(); i++) {
+            res += count_pali(s, i, i);
+            res += count_pali(s, i, i+1);
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-problemlink
+### number of longest increasing subsequence:
+https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findNumberOfLIS(self, nums: List[int]) -> int:
+        dp = {} 
+        len_lis, res = 0, 0
+        for i in range(len(nums) - 1, -1, -1):
+            max_len, max_cnt = 1, 1
+            for j in range(i + 1, len(nums)):
+                if nums[j] <= nums[i]:
+                    continue
+                length, count = dp[j]
+                if length + 1 > max_len:
+                    max_len, max_cnt = length + 1, count
+                elif length + 1 == max_len:
+                    max_cnt += count
+            if max_len > len_lis:
+                len_lis, res = max_len, max_cnt
+            elif max_len == len_lis:
+                res += max_cnt
+            dp[i] = [max_len, max_cnt]
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int findNumberOfLIS(vector<int>& nums) {
+        map<int, pair<int, int>> dp; 
+        int len_lis = 0, res = 0;
+        for (int i=nums.size()-1; i>-1; i--) {
+            int max_len = 1, max_cnt = 1;
+            for (int j=i+1; j<nums.size(); j++) {
+                if (nums[j] <= nums[i])
+                    continue;
+                auto [length, count] = dp[j];
+                if (length + 1 > max_len)
+                    max_len = length + 1, max_cnt = count;
+                else if (length + 1 == max_len)
+                    max_cnt += count;
+            }
+            if (max_len > len_lis)
+                len_lis = max_len, res = max_cnt;
+            else if (max_len == len_lis)
+                res += max_cnt;
+            dp[i] = {max_len, max_cnt};
+        }
+        return res;
+    }
+};
 ```
