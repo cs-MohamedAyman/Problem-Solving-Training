@@ -1208,12 +1208,12 @@ https://leetcode.com/problems/word-break
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         dp = [0] * (len(s)+1)
-        dp[0] = 1
-        for i in range(len(s)):
+        dp[len(s)] = 1
+        for i in range(len(s)-1, -1, -1):
             for w in wordDict:
-                if i+len(w) <= len(s) and s[i:i+len(w)] == w:
-                    dp[i+len(w)] += dp[i]
-        return dp[len(s)]
+                if i+len(w) <= len(s) and s[i:i+len(w)] == w and dp[i+len(w)]:
+                    dp[i] = dp[i+len(w)]
+        return dp[0]
 ```
 #### - CPP Solution
 ```cpp
@@ -1221,14 +1221,14 @@ class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
         vector<int> dp(s.size()+1, 0);
-        dp[0] = 1;
-        for (int i=0; i<s.size(); i++) {
+        dp[s.size()] = 1;
+        for (int i=s.size()-1; i>-1; i--) {
             for (string w : wordDict) {
-                if (i+w.size() <= s.size() and s.substr(i, w.size()) == w)
-                    dp[i+w.size()] |= dp[i];
+                if (i+w.size() <= s.size() and s.substr(i, w.size()) == w and dp[i+w.size()])
+                    dp[i] = dp[i+w.size()];
             }
         }
-        return dp[s.size()];
+        return dp[0];
     }
 };
 ```
