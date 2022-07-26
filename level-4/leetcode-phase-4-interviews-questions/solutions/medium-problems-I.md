@@ -1200,29 +1200,72 @@ public:
 };
 ```
 
-### problemname:
-problemlink
+### word break:
+https://leetcode.com/problems/word-break
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        dp = [0] * (len(s)+1)
+        dp[0] = 1
+        for i in range(len(s)):
+            for w in wordDict:
+                if i+len(w) <= len(s) and s[i:i+len(w)] == w:
+                    dp[i+len(w)] += dp[i]
+        return dp[len(s)]
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool wordBreak(string s, vector<string>& wordDict) {
+        vector<int> dp(s.size()+1, 0);
+        dp[0] = 1;
+        for (int i=0; i<s.size(); i++) {
+            for (string w : wordDict) {
+                if (i+w.size() <= s.size() and s.substr(i, w.size()) == w)
+                    dp[i+w.size()] |= dp[i];
+            }
+        }
+        return dp[s.size()];
+    }
+};
 ```
 
-### problemname:
-problemlink
+### combination sum iv:
+https://leetcode.com/problems/combination-sum-iv
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def combinationSum4(self, nums: List[int], target: int) -> int:
+        N = int(1e3+1)
+        dp = [0] * (2*N)
+        dp[N] = 1
+        for i in range(1, target+1):
+            for j in nums:
+                dp[i+N] += dp[i-j+N]
+        return dp[target+N]
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    static const int N = int(1e3+1);
+    int dp[2*N] = {0};
+public:
+    int combinationSum4(vector<int>& nums, int target) {
+        dp[N] = 1;
+        for (int i=1; i<target+1; i++) {
+            for (int j : nums) {
+                dp[i+N] += dp[i-j+N];
+            }
+        }
+        return dp[target+N];
+    }
+};
 ```
+`TODO` RUN-TIME ERROR
 
 ### problemname:
 problemlink
