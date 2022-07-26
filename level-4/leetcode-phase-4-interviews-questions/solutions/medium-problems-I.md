@@ -281,7 +281,7 @@ class Solution {
     vector<vector<int>> visited;
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {1, -1, 0, 0};
-    
+
     bool dfs(int x, int y, int idx, const vector<vector<char>>& board, const string &word) {
         if (idx == word.size())
             return true;
@@ -643,7 +643,7 @@ class Solution:
 ```cpp
 class Solution {
     vector<vector<int>> res;
-    
+
     void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
         if (curr_total == target) {
             sort(arr.begin(), arr.end());
@@ -931,7 +931,7 @@ class Solution:
                 generate_letters(i+1, curr_s+j)
 
         res = []
-        digits_chars = {'2':'abc', '3':'def', '4':'ghi', '5':'jkl', 
+        digits_chars = {'2':'abc', '3':'def', '4':'ghi', '5':'jkl',
                         '6':'mno', '7':'pqrs', '8':'tuv', '9':'wxyz'}
         if digits:
             generate_letters(0, '')
@@ -941,7 +941,7 @@ class Solution:
 ```cpp
 class Solution {
     vector<string> res;
-    map<char, string> digits_chars = {{'2',"abc"}, {'3',"def"}, {'4',"ghi"}, {'5',"jkl"}, 
+    map<char, string> digits_chars = {{'2',"abc"}, {'3',"def"}, {'4',"ghi"}, {'5',"jkl"},
                                       {'6',"mno"}, {'7',"pqrs"}, {'8',"tuv"}, {'9',"wxyz"}};
 
     void generate_letters(int i, string curr_s, const string &digits) {
@@ -1038,7 +1038,7 @@ public:
     int rob(vector<int>& nums) {
         if (nums.size() == 1)
             return nums[0];
-        return max(rob_subarray({nums.begin()+1, nums.end()}), 
+        return max(rob_subarray({nums.begin()+1, nums.end()}),
                    rob_subarray({nums.begin(), nums.end()-1}));
     }
 };
@@ -1284,7 +1284,7 @@ class Solution:
                 res += dp(i+2)
             memo[i] = res
             return memo[i]
-            
+
         memo = [-1] * (len(s)+1)
         memo[len(s)] = 1
         return dp(0)
@@ -1389,7 +1389,7 @@ class Solution:
                 r += 1
                 res += 1
             return res
-        
+
         res = 0
         for i in range(len(s)):
             res += count_pali(s, i, i)
@@ -1427,7 +1427,7 @@ https://leetcode.com/problems/number-of-longest-increasing-subsequence
 ```python
 class Solution:
     def findNumberOfLIS(self, nums: List[int]) -> int:
-        dp = {} 
+        dp = {}
         len_lis, res = 0, 0
         for i in range(len(nums) - 1, -1, -1):
             max_len, max_cnt = 1, 1
@@ -1451,7 +1451,7 @@ class Solution:
 class Solution {
 public:
     int findNumberOfLIS(vector<int>& nums) {
-        map<int, pair<int, int>> dp; 
+        map<int, pair<int, int>> dp;
         int len_lis = 0, res = 0;
         for (int i=nums.size()-1; i>-1; i--) {
             int max_len = 1, max_cnt = 1;
