@@ -3,7 +3,7 @@
 ## LeetCode OJ - Phase 4 Interviews Questions - Easy Problems
 
 ### contains duplicate:
-https://leetcode.com/problems/contains-duplicate
+Problem Link: https://leetcode.com/problems/contains-duplicate
 
 #### - Python Solution
 ```python
@@ -23,7 +23,7 @@ public:
 ```
 
 ### missing number:
-https://leetcode.com/problems/missing-number
+Problem Link: https://leetcode.com/problems/missing-number
 
 #### - Python Solution
 ```python
@@ -44,7 +44,7 @@ public:
 ```
 
 ### find all numbers disappeared in an array:
-https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+Problem Link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 #### - Python Solution
 ```python
@@ -74,7 +74,7 @@ public:
 ```
 
 ### single number:
-https://leetcode.com/problems/single-number
+Problem Link: https://leetcode.com/problems/single-number
 
 #### - Python Solution
 ```python
@@ -106,7 +106,7 @@ public:
 ```
 
 ### climbing stairs:
-https://leetcode.com/problems/climbing-stairs
+Problem Link: https://leetcode.com/problems/climbing-stairs
 
 #### - Python Solution
 ```python
@@ -133,7 +133,7 @@ public:
 ```
 
 ### best time to buy and sell stock:
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 #### - Python Solution
 ```python
@@ -170,7 +170,7 @@ public:
 ```
 
 ### maximum subarray:
-https://leetcode.com/problems/maximum-subarray
+Problem Link: https://leetcode.com/problems/maximum-subarray
 
 #### - Python Solution
 ```python
@@ -202,7 +202,7 @@ public:
 ```
 
 ### range sum query immutable:
-https://leetcode.com/problems/range-sum-query-immutable
+Problem Link: https://leetcode.com/problems/range-sum-query-immutable
 
 #### - Python Solution
 ```python
@@ -234,7 +234,7 @@ public:
 ```
 
 ### counting bits:
-https://leetcode.com/problems/counting-bits
+Problem Link: https://leetcode.com/problems/counting-bits
 
 #### - Python Solution
 ```python
@@ -271,7 +271,7 @@ public:
 ```
 
 ### linked list cycle:
-https://leetcode.com/problems/linked-list-cycle
+Problem Link: https://leetcode.com/problems/linked-list-cycle
 
 #### - Python Solution
 ```python
@@ -305,7 +305,7 @@ public:
 ```
 
 ### middle of the linked list:
-https://leetcode.com/problems/middle-of-the-linked-list
+Problem Link: https://leetcode.com/problems/middle-of-the-linked-list
 
 #### - Python Solution
 ```python
@@ -335,7 +335,7 @@ public:
 ```
 
 ### palindrome linked list:
-https://leetcode.com/problems/palindrome-linked-list
+Problem Link: https://leetcode.com/problems/palindrome-linked-list
 
 #### - Python Solution
 ```python
@@ -382,7 +382,7 @@ public:
 ```
 
 ### remove linked list elements:
-https://leetcode.com/problems/remove-linked-list-elements
+Problem Link: https://leetcode.com/problems/remove-linked-list-elements
 
 #### - Python Solution
 ```python
@@ -428,7 +428,7 @@ public:
 ```
 
 ### remove duplicates from sorted list:
-https://leetcode.com/problems/remove-duplicates-from-sorted-list
+Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list
 
 #### - Python Solution
 ```python
@@ -465,7 +465,7 @@ public:
 ```
 
 ### reverse linked list:
-https://leetcode.com/problems/reverse-linked-list
+Problem Link: https://leetcode.com/problems/reverse-linked-list
 
 #### - Python Solution
 ```python
@@ -507,7 +507,7 @@ public:
 ```
 
 ### merge two sorted lists:
-https://leetcode.com/problems/merge-two-sorted-lists
+Problem Link: https://leetcode.com/problems/merge-two-sorted-lists
 
 #### - Python Solution
 ```python
@@ -555,7 +555,7 @@ public:
 ```
 
 ### meeting rooms:
-https://leetcode.com/problems/meeting-rooms
+Problem Link: https://leetcode.com/problems/meeting-rooms
 
 #### - Python Solution
 ```python
@@ -567,7 +567,7 @@ https://leetcode.com/problems/meeting-rooms
 ```
 
 ### binary search:
-https://leetcode.com/problems/binary-search
+Problem Link: https://leetcode.com/problems/binary-search
 
 #### - Python Solution
 ```python
@@ -605,7 +605,7 @@ public:
 ```
 
 ### find smallest letter greater than target:
-https://leetcode.com/problems/find-smallest-letter-greater-than-target
+Problem Link: https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
 #### - Python Solution
 ```python
@@ -639,7 +639,7 @@ public:
 ```
 
 ### peak index in a mountain array:
-https://leetcode.com/problems/peak-index-in-a-mountain-array/
+Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 #### - Python Solution
 ```python
@@ -673,7 +673,7 @@ public:
 ```
 
 ### average of levels in binary tree:
-https://leetcode.com/problems/average-of-levels-in-binary-tree
+Problem Link: https://leetcode.com/problems/average-of-levels-in-binary-tree
 
 #### - Python Solution
 ```python
@@ -724,7 +724,7 @@ public:
 ```
 
 ### minimum depth of binary tree:
-https://leetcode.com/problems/minimum-depth-of-binary-tree
+Problem Link: https://leetcode.com/problems/minimum-depth-of-binary-tree
 
 #### - Python Solution
 ```python
@@ -761,7 +761,7 @@ public:
 ```
 
 ### same tree:
-https://leetcode.com/problems/same-tree
+Problem Link: https://leetcode.com/problems/same-tree
 
 #### - Python Solution
 ```python
@@ -798,7 +798,7 @@ public:
 ```
 
 ### path sum:
-https://leetcode.com/problems/path-sum
+Problem Link: https://leetcode.com/problems/path-sum
 
 #### - Python Solution
 ```python
@@ -843,7 +843,7 @@ public:
 ```
 
 ### maximum depth of binary tree:
-https://leetcode.com/problems/maximum-depth-of-binary-tree
+Problem Link: https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 #### - Python Solution
 ```python
@@ -872,7 +872,7 @@ public:
 ```
 
 ### diameter of binary tree:
-https://leetcode.com/problems/diameter-of-binary-tree
+Problem Link: https://leetcode.com/problems/diameter-of-binary-tree
 
 #### - Python Solution
 ```python
@@ -913,7 +913,7 @@ public:
 ```
 
 ### merge two binary trees:
-https://leetcode.com/problems/merge-two-binary-trees
+Problem Link: https://leetcode.com/problems/merge-two-binary-trees
 
 #### - Python Solution
 ```python
@@ -958,7 +958,7 @@ public:
 ```
 
 ### lowest common ancestor of a binary search tree:
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
 #### - Python Solution
 ```python
@@ -999,7 +999,7 @@ public:
 ```
 
 ### subtree of another tree:
-https://leetcode.com/problems/subtree-of-another-tree
+Problem Link: https://leetcode.com/problems/subtree-of-another-tree
 
 #### - Python Solution
 ```python
@@ -1050,7 +1050,7 @@ public:
 ```
 
 ### invert binary tree:
-https://leetcode.com/problems/invert-binary-tree
+Problem Link: https://leetcode.com/problems/invert-binary-tree
 
 #### - Python Solution
 ```python
@@ -1087,7 +1087,7 @@ public:
 ```
 
 ### two sum:
-https://leetcode.com/problems/two-sum
+Problem Link: https://leetcode.com/problems/two-sum
 
 #### - Python Solution
 ```python
@@ -1129,7 +1129,7 @@ public:
 ```
 
 ### squares of a sorted array:
-https://leetcode.com/problems/squares-of-a-sorted-array
+Problem Link: https://leetcode.com/problems/squares-of-a-sorted-array
 
 #### - Python Solution
 ```python
@@ -1152,7 +1152,7 @@ public:
 ```
 
 ### backspace string compare:
-https://leetcode.com/problems/backspace-string-compare
+Problem Link: https://leetcode.com/problems/backspace-string-compare
 
 #### - Python Solution
 ```python
@@ -1226,7 +1226,7 @@ public:
 ```
 
 ### index pairs of a string:
-https://leetcode.com/problems/index-pairs-of-a-string
+Problem Link: https://leetcode.com/problems/index-pairs-of-a-string
 
 #### - Python Solution
 ```python
@@ -1238,7 +1238,7 @@ https://leetcode.com/problems/index-pairs-of-a-string
 ```
 
 ### majority element:
-https://leetcode.com/problems/majority-element
+Problem Link: https://leetcode.com/problems/majority-element
 
 #### - Python Solution
 ```python
@@ -1269,7 +1269,7 @@ public:
 };
 ```
 ### convert 1d array into 2d array:
-https://leetcode.com/problems/convert-1d-array-into-2d-array
+Problem Link: https://leetcode.com/problems/convert-1d-array-into-2d-array
 
 #### - Python Solution
 ```python

@@ -3,7 +3,7 @@
 ## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems I
 
 ### product of array except self:
-https://leetcode.com/problems/product-of-array-except-self
+Problem Link: https://leetcode.com/problems/product-of-array-except-self
 
 #### - Python Solution
 ```python
@@ -37,7 +37,7 @@ public:
 ```
 
 ### find the duplicate number:
-https://leetcode.com/problems/find-the-duplicate-number
+Problem Link: https://leetcode.com/problems/find-the-duplicate-number
 
 #### - Python Solution
 ```python
@@ -82,7 +82,7 @@ public:
 ```
 
 ### find all duplicates in an array:
-https://leetcode.com/problems/find-all-duplicates-in-an-array
+Problem Link: https://leetcode.com/problems/find-all-duplicates-in-an-array
 
 #### - Python Solution
 ```python
@@ -114,7 +114,7 @@ public:
 ```
 
 ### set matrix zeroes:
-https://leetcode.com/problems/set-matrix-zeroes
+Problem Link: https://leetcode.com/problems/set-matrix-zeroes
 
 #### - Python Solution
 ```python
@@ -157,7 +157,7 @@ public:
 ```
 
 ### spiral matrix:
-https://leetcode.com/problems/spiral-matrix
+Problem Link: https://leetcode.com/problems/spiral-matrix
 
 #### - Python Solution
 ```python
@@ -211,7 +211,7 @@ public:
 ```
 
 ### rotate image:
-https://leetcode.com/problems/rotate-image
+Problem Link: https://leetcode.com/problems/rotate-image
 
 #### - Python Solution
 ```python
@@ -246,7 +246,7 @@ public:
 ```
 
 ### word search:
-https://leetcode.com/problems/word-search
+Problem Link: https://leetcode.com/problems/word-search
 
 #### - Python Solution
 ```python
@@ -313,7 +313,7 @@ public:
 `TODO` RUN-TIME ERROR
 
 ### longest consecutive sequence:
-https://leetcode.com/problems/longest-consecutive-sequence
+Problem Link: https://leetcode.com/problems/longest-consecutive-sequence
 
 #### - Python Solution
 ```python
@@ -351,7 +351,7 @@ public:
 ```
 
 ### letter case permutation:
-https://leetcode.com/problems/letter-case-permutation
+Problem Link: https://leetcode.com/problems/letter-case-permutation
 
 #### - Python Solution
 ```python
@@ -391,7 +391,7 @@ public:
 ```
 
 ### subsets:
-https://leetcode.com/problems/subsets
+Problem Link: https://leetcode.com/problems/subsets
 
 #### - Python Solution
 ```python
@@ -427,7 +427,7 @@ public:
 ```
 
 ### subsets ii:
-https://leetcode.com/problems/subsets-ii
+Problem Link: https://leetcode.com/problems/subsets-ii
 
 #### - Python Solution
 ```python
@@ -465,7 +465,7 @@ public:
 ```
 
 ### permutations:
-https://leetcode.com/problems/permutations
+Problem Link: https://leetcode.com/problems/permutations
 
 #### - Python Solution
 ```python
@@ -517,7 +517,7 @@ public:
 ```
 
 ### permutations ii:
-https://leetcode.com/problems/permutations-ii
+Problem Link: https://leetcode.com/problems/permutations-ii
 
 #### - Python Solution
 ```python
@@ -574,7 +574,7 @@ public:
 ```
 
 ### combinations:
-https://leetcode.com/problems/combinations
+Problem Link: https://leetcode.com/problems/combinations
 
 #### - Python Solution
 ```python
@@ -618,7 +618,7 @@ public:
 ```
 
 ### combination sum:
-https://leetcode.com/problems/combination-sum
+Problem Link: https://leetcode.com/problems/combination-sum
 
 #### - Python Solution
 ```python
@@ -666,7 +666,7 @@ public:
 ```
 
 ### combination sum ii:
-https://leetcode.com/problems/combination-sum-ii
+Problem Link: https://leetcode.com/problems/combination-sum-ii
 
 #### - Python Solution
 ```python
@@ -725,7 +725,7 @@ public:
 ```
 
 ### combination sum iii:
-https://leetcode.com/problems/combination-sum-iii
+Problem Link: https://leetcode.com/problems/combination-sum-iii
 
 #### - Python Solution
 ```python
@@ -774,7 +774,7 @@ public:
 ```
 
 ### generate parentheses:
-https://leetcode.com/problems/generate-parentheses
+Problem Link: https://leetcode.com/problems/generate-parentheses
 
 #### - Python Solution
 ```python
@@ -817,7 +817,7 @@ public:
 ```
 
 ### target sum:
-https://leetcode.com/problems/target-sum
+Problem Link: https://leetcode.com/problems/target-sum
 
 #### - Python Solution
 ```python
@@ -860,7 +860,7 @@ public:
 ```
 
 ### palindrome partitioning:
-https://leetcode.com/problems/palindrome-partitioning
+Problem Link: https://leetcode.com/problems/palindrome-partitioning
 
 #### - Python Solution
 ```python
@@ -917,7 +917,7 @@ public:
 ```
 
 ### letter combinations of a phone number:
-https://leetcode.com/problems/letter-combinations-of-a-phone-number
+Problem Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
 #### - Python Solution
 ```python
@@ -962,7 +962,7 @@ public:
 ```
 
 ### generalized abbreviation:
-https://leetcode.com/problems/generalized-abbreviation
+Problem Link: https://leetcode.com/problems/generalized-abbreviation
 
 #### - Python Solution
 ```python
@@ -974,7 +974,7 @@ https://leetcode.com/problems/generalized-abbreviation
 ```
 
 ### house robber:
-https://leetcode.com/problems/house-robber
+Problem Link: https://leetcode.com/problems/house-robber
 
 #### - Python Solution
 ```python
@@ -1004,7 +1004,7 @@ public:
 ```
 
 ### house robber ii:
-https://leetcode.com/problems/house-robber-ii
+Problem Link: https://leetcode.com/problems/house-robber-ii
 
 #### - Python Solution
 ```python
@@ -1045,7 +1045,7 @@ public:
 ```
 
 ### coin change:
-https://leetcode.com/problems/coin-change
+Problem Link: https://leetcode.com/problems/coin-change
 
 #### - Python Solution
 ```python
@@ -1082,7 +1082,7 @@ public:
 ```
 
 ### maximum product subarray:
-https://leetcode.com/problems/maximum-product-subarray
+Problem Link: https://leetcode.com/problems/maximum-product-subarray
 
 #### - Python Solution
 ```python
@@ -1117,7 +1117,7 @@ public:
 ```
 
 ### longest increasing subsequence:
-https://leetcode.com/problems/longest-increasing-subsequence
+Problem Link: https://leetcode.com/problems/longest-increasing-subsequence
 
 #### - Python Solution
 ```python
@@ -1148,7 +1148,7 @@ public:
 ```
 
 ### longest palindromic substring:
-https://leetcode.com/problems/longest-palindromic-substring
+Problem Link: https://leetcode.com/problems/longest-palindromic-substring
 
 #### - Python Solution
 ```python
@@ -1201,7 +1201,7 @@ public:
 ```
 
 ### word break:
-https://leetcode.com/problems/word-break
+Problem Link: https://leetcode.com/problems/word-break
 
 #### - Python Solution
 ```python
@@ -1234,7 +1234,7 @@ public:
 ```
 
 ### combination sum iv:
-https://leetcode.com/problems/combination-sum-iv
+Problem Link: https://leetcode.com/problems/combination-sum-iv
 
 #### - Python Solution
 ```python
@@ -1268,7 +1268,7 @@ public:
 `TODO` RUN-TIME ERROR
 
 ### decode ways:
-https://leetcode.com/problems/decode-ways
+Problem Link: https://leetcode.com/problems/decode-ways
 
 #### - Python Solution
 ```python
@@ -1315,7 +1315,7 @@ public:
 ```
 
 ### unique paths:
-https://leetcode.com/problems/unique-paths
+Problem Link: https://leetcode.com/problems/unique-paths
 
 #### - Python Solution
 ```python
@@ -1348,7 +1348,7 @@ public:
 ```
 
 ### Jump Game:
-https://leetcode.com/problems/jump-game
+Problem Link: https://leetcode.com/problems/jump-game
 
 #### - Python Solution
 ```python
@@ -1376,7 +1376,7 @@ public:
 ```
 
 ### palindromic substrings:
-https://leetcode.com/problems/palindromic-substrings
+Problem Link: https://leetcode.com/problems/palindromic-substrings
 
 #### - Python Solution
 ```python
@@ -1421,7 +1421,7 @@ public:
 ```
 
 ### number of longest increasing subsequence:
-https://leetcode.com/problems/number-of-longest-increasing-subsequence
+Problem Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
 #### - Python Solution
 ```python
