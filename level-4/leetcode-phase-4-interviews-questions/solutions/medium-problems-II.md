@@ -293,20 +293,103 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### sort list:
+Problem Link: https://leetcode.com/problems/sort-list
 
 #### - Python Solution
 ```python
+class Solution:
+    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        def middleNode(head):
+            curr1 = head
+            curr2 = head.next
+            while curr2 and curr2.next:
+                curr2 = curr2.next.next
+                curr1 = curr1.next
+            return curr1
 
+        def mergeTwoLists(list1, list2):
+            head = ListNode()
+            curr = head
+            while list1 and list2:
+                if list1.val <= list2.val:
+                    curr.next = list1
+                    list1 = list1.next
+                else:
+                    curr.next = list2
+                    list2 = list2.next
+                curr = curr.next
+            if list1:
+                curr.next = list1
+            if list2:
+                curr.next = list2
+            return head.next
+
+        def merge_sort(head):
+            if not head or not head.next:
+                return head
+            left = head
+            right = middleNode(head)
+            temp = right.next
+            right.next = None
+            right = temp
+            left  = merge_sort(left)
+            right = merge_sort(right)
+            return mergeTwoLists(left, right)
+            
+        return merge_sort(head)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    ListNode* middleNode(ListNode* head) {
+        ListNode *curr1 = head;
+        ListNode *curr2 = head->next;
+        while (curr2 and curr2->next) {
+            curr2 = curr2->next->next;
+            curr1 = curr1->next;
+        }
+        return curr1;
+    }
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        ListNode *head = new ListNode();
+        ListNode *curr = head;
+        while (list1 and list2) {
+            if (list1->val <= list2->val)
+                curr->next = list1,
+                list1 = list1->next;
+            else
+                curr->next = list2,
+                list2 = list2->next;
+            curr = curr->next;
+        }
+        if (list1)
+            curr->next = list1;
+        if (list2)
+            curr->next = list2;
+        return head->next;
+    }
+    ListNode* merge_sort(ListNode* head) {
+            if (not head or not head->next)
+                return head;
+            ListNode* left  = head;
+            ListNode* right = middleNode(head);
+            ListNode* temp  = right->next;
+            right->next = NULL;
+            right = temp;
+            left  = merge_sort(left);
+            right = merge_sort(right);
+            return mergeTwoLists(left, right);
+    }
+public:
+    ListNode* sortList(ListNode* head) {
+        return merge_sort(head);
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### reorder list:
+Problem Link: https://leetcode.com/problems/reorder-list/
 
 #### - Python Solution
 ```python
