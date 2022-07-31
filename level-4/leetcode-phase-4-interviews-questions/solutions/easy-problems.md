@@ -279,7 +279,7 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         curr1 = head
         curr2 = head
-        while curr2 != None and curr2.next != None:
+        while curr2 and curr2.next:
             curr2 = curr2.next.next
             curr1 = curr1.next
             if curr1 == curr2:
@@ -293,7 +293,7 @@ public:
     bool hasCycle(ListNode *head) {
         ListNode *curr1 = head;
         ListNode *curr2 = head;
-        while (curr2 != NULL and curr2->next != NULL) {
+        while (curr2 and curr2->next) {
             curr2 = curr2->next->next;
             curr1 = curr1->next;
             if (curr1 == curr2)
@@ -313,7 +313,7 @@ class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         curr1 = head
         curr2 = head
-        while curr2 != None and curr2.next != None:
+        while curr2 and curr2.next:
             curr2 = curr2.next.next
             curr1 = curr1.next
         return curr1
@@ -325,7 +325,7 @@ public:
     ListNode* middleNode(ListNode* head) {
         ListNode *curr1 = head;
         ListNode *curr2 = head;
-        while (curr2 != NULL and curr2->next != NULL) {
+        while (curr2 and curr2->next) {
             curr2 = curr2->next->next;
             curr1 = curr1->next;
         }
@@ -343,13 +343,13 @@ class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         stk = []
         curr = head
-        while curr != None:
+        while curr:
             stk.append(curr.val)
             curr = curr.next
         stk = stk[::-1]
         i = 0
         curr = head
-        while curr != None:
+        while curr:
             if stk[i] != curr.val:
                 return False
             curr = curr.next
@@ -363,14 +363,14 @@ public:
     bool isPalindrome(ListNode* head) {
         vector<int> stk;
         ListNode *curr = head;
-        while (curr != NULL) {
+        while (curr) {
             stk.push_back(curr->val);
             curr = curr->next;
         }
         reverse(stk.begin(), stk.end());
         int i = 0;
         curr = head;
-        while (curr != NULL) {
+        while (curr) {
             if (stk[i] != curr->val)
                 return false;
             curr = curr->next;
@@ -389,14 +389,14 @@ Problem Link: https://leetcode.com/problems/remove-linked-list-elements
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
         curr = head
-        while curr != None and curr.next != None:
+        while curr and curr.next:
             if curr.next.val == val:
                 temp = curr.next
                 curr.next = curr.next.next
                 del temp
             else:
                 curr = curr.next
-        if head != None and head.val == val:
+        if head and head.val == val:
             temp = head
             head = head.next
             del temp
@@ -408,7 +408,7 @@ class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
         ListNode *curr = head;
-        while (curr != NULL and curr->next != NULL) {
+        while (curr and curr->next) {
             if (curr->next->val == val) {
                 ListNode *temp = curr->next;
                 curr->next = curr->next->next;
@@ -417,7 +417,7 @@ public:
             else
                 curr = curr->next;
         }
-        if (head != NULL and head->val == val) {
+        if (head and head->val == val) {
             ListNode *temp = head;
             head = head->next;
             delete temp;
@@ -435,7 +435,7 @@ Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
         curr = head
-        while curr != None and curr.next != None:
+        while curr and curr.next:
             if curr.val == curr.next.val:
                 temp = curr.next
                 curr.next = curr.next.next
@@ -450,7 +450,7 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode *curr = head;
-        while (curr != NULL and curr->next != NULL) {
+        while (curr and curr->next) {
             if (curr->val == curr->next->val) {
                 ListNode *temp = curr->next;
                 curr->next = curr->next->next;
@@ -476,7 +476,7 @@ class Solution:
         prv = None
         cur = head
         nxt = cur.next
-        while nxt != None:
+        while nxt:
             cur.next = prv
             prv = cur
             cur = nxt
@@ -494,7 +494,7 @@ public:
         ListNode *prv = NULL;
         ListNode *cur = head;
         ListNode *nxt = cur->next;
-        while (nxt != NULL) {
+        while (nxt) {
             cur->next = prv;
             prv = cur;
             cur = nxt;
