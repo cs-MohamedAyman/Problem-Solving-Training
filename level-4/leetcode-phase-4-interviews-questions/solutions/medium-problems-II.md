@@ -2,7 +2,7 @@
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems II
 
-### partition Equal Subset Sum:
+### partition equal subset sum:
 Problem Link: https://leetcode.com/problems/partition-equal-subset-sum
 
 #### - Python Solution
