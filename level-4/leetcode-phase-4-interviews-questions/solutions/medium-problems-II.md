@@ -80,7 +80,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    bool check_partitions(int i, int k, int curr_total, 
+    bool check_partitions(int i, int k, int curr_total,
                           const int &target, const vector<int>& nums, bool visited[]) {
         if (k == 0)
             return true;
@@ -212,8 +212,89 @@ public:
 };
 ```
 
+### add two numbers:
+Problem Link: https://leetcode.com/problems/add-two-numbers
+
+#### - Python Solution
+```python
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        cry = 0
+        head = ListNode()
+        curr = head
+        while l1 or l2 or cry:
+            cry += (l1.val if l1 else 0) + (l2.val if l2 else 0)
+            curr.next = ListNode(cry % 10)
+            cry //= 10
+            curr = curr.next
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+        return head.next
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        int cry = 0;
+        ListNode *head = new ListNode();
+        ListNode *curr = head;
+        while (l1 or l2 or cry) {
+            cry += (l1? l1->val : 0) + (l2? l2->val : 0);
+            curr->next = new ListNode(cry % 10);
+            cry /= 10;
+            curr = curr->next;
+            l1 = l1? l1->next : NULL;
+            l2 = l2? l2->next : NULL;
+        }
+        return head->next;
+    }
+};
+```
+
+### remove nth node from end of list:
+Problem Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list
+
+#### - Python Solution
+```python
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        res = ListNode(0, head)
+        curr1 = res
+        curr2 = head
+        while n:
+            curr2 = curr2.next
+            n -= 1
+        while curr2:
+            curr1 = curr1.next
+            curr2 = curr2.next
+        curr1.next = curr1.next.next
+        return res.next
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode *res = new ListNode(0, head);
+        ListNode *curr1 = res;
+        ListNode *curr2 = head;
+        while (n) {
+            curr2 = curr2->next;
+            n -= 1;
+        }
+        while (curr2) {
+            curr1 = curr1->next;
+            curr2 = curr2->next;
+        }
+        curr1->next = curr1->next->next;
+        return res->next;
+    }
+};
+```
+
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -225,7 +306,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -237,7 +318,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -249,7 +330,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -261,7 +342,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -273,7 +354,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -285,7 +366,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -297,7 +378,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -309,7 +390,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -321,7 +402,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -333,7 +414,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -345,7 +426,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -357,7 +438,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -369,7 +450,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -381,7 +462,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -393,7 +474,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -405,7 +486,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -417,7 +498,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -429,7 +510,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -441,7 +522,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -453,7 +534,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -465,7 +546,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -477,7 +558,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -489,7 +570,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -501,7 +582,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -513,7 +594,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -525,7 +606,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
@@ -537,31 +618,7 @@ Problem Link:
 ```
 
 ### problemname:
-Problem Link: 
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link: 
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link: 
+Problem Link:
 
 #### - Python Solution
 ```python
