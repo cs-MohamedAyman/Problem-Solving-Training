@@ -322,7 +322,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
+    ListNode* middleNode(ListNode *head) {
         ListNode *curr1 = head;
         ListNode *curr2 = head;
         while (curr2 and curr2->next) {
@@ -360,7 +360,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
+    bool isPalindrome(ListNode *head) {
         vector<int> stk;
         ListNode *curr = head;
         while (curr) {
@@ -406,7 +406,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* removeElements(ListNode* head, int val) {
+    ListNode* removeElements(ListNode *head, int val) {
         ListNode *curr = head;
         while (curr and curr->next) {
             if (curr->next->val == val) {
@@ -448,7 +448,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* deleteDuplicates(ListNode* head) {
+    ListNode* deleteDuplicates(ListNode *head) {
         ListNode *curr = head;
         while (curr and curr->next) {
             if (curr->val == curr->next->val) {
@@ -488,7 +488,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
+    ListNode* reverseList(ListNode *head) {
         if (head == NULL)
             return head;
         ListNode *prv = NULL;
@@ -533,7 +533,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+    ListNode* mergeTwoLists(ListNode *list1, ListNode *list2) {
         ListNode *head = new ListNode();
         ListNode *curr = head;
         while (list1 and list2) {
@@ -700,7 +700,7 @@ class Solution {
     vector<long long> sums;
     vector<long long> cnts;
 
-    void dfs(TreeNode* curr, int level) {
+    void dfs(TreeNode *curr, int level) {
         if (curr == NULL)
             return;
         sums[level] += curr->val;
@@ -709,7 +709,7 @@ class Solution {
         dfs(curr->right, level+1);
     }
 public:
-    vector<double> averageOfLevels(TreeNode* root) {
+    vector<double> averageOfLevels(TreeNode *root) {
         sums.assign(1e4, 0LL);
         cnts.assign(1e4, 0LL);
         dfs(root, 0);
@@ -744,7 +744,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    int dfs(TreeNode* curr) {
+    int dfs(TreeNode *curr) {
         if (curr == NULL)
             return 0;
         if (curr->left == NULL)
@@ -754,7 +754,7 @@ class Solution {
         return min(dfs(curr->left), dfs(curr->right)) + 1;
     }
 public:
-    int minDepth(TreeNode* root) {
+    int minDepth(TreeNode *root) {
         return dfs(root);
     }
 };
@@ -822,7 +822,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    bool dfs(TreeNode* curr, int curr_sum) {
+    bool dfs(TreeNode *curr, int curr_sum) {
         if (curr == NULL)
             return curr_sum == 0;
         bool is_valid_left = dfs(curr->left, curr_sum-curr->val);
@@ -834,7 +834,7 @@ class Solution {
         return is_valid_left or is_valid_right;
     }
 public:
-    bool hasPathSum(TreeNode* root, int targetSum) {
+    bool hasPathSum(TreeNode *root, int targetSum) {
         if (root == NULL)
             return false;
         return dfs(root, targetSum);
@@ -859,13 +859,13 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    int dfs(TreeNode* curr) {
+    int dfs(TreeNode *curr) {
         if (curr == NULL)
             return 0;
         return max(dfs(curr->left), dfs(curr->right)) + 1;
     }
 public:
-    int maxDepth(TreeNode* root) {
+    int maxDepth(TreeNode *root) {
         return dfs(root);
     }
 };
@@ -894,19 +894,19 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    int dfs(TreeNode* curr) {
+    int dfs(TreeNode *curr) {
         if (curr == NULL)
             return 0;
         return max(dfs(curr->left), dfs(curr->right)) + 1;
     }
-    int max_diameter(TreeNode* curr) {
+    int max_diameter(TreeNode *curr) {
         if (curr == NULL)
             return 0;
         return max(max(max_diameter(curr->left), max_diameter(curr->right)),
                    dfs(curr->left) + dfs(curr->right));
     }
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
+    int diameterOfBinaryTree(TreeNode *root) {
         return max_diameter(root);
     }
 };
@@ -950,8 +950,8 @@ class Solution {
         return cur;
     }
 public:
-    TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
-        TreeNode* root = new TreeNode();
+    TreeNode* mergeTrees(TreeNode *root1, TreeNode *root2) {
+        TreeNode *root = new TreeNode();
         return dfs(root, root1, root2);
     }
 };
@@ -980,7 +980,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    TreeNode* LCA(TreeNode* curr, int p, int q) {
+    TreeNode* LCA(TreeNode *curr, int p, int q) {
         if (curr == NULL)
             return NULL;
         if (p < curr->val and curr->val < q)
@@ -992,7 +992,7 @@ class Solution {
         return curr;
     }
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+    TreeNode* lowestCommonAncestor(TreeNode *root, TreeNode* p, TreeNode* q) {
         return LCA(root, p->val, q->val);
     }
 };
@@ -1035,7 +1035,7 @@ class Solution {
             return false;
         return isSameTree(cur1->left, cur2->left) and isSameTree(cur1->right, cur2->right);
     }
-    bool find_subtree(TreeNode* curr, TreeNode* subRoot) {
+    bool find_subtree(TreeNode *curr, TreeNode* subRoot) {
         if (curr == NULL)
             return false;
         if (isSameTree(curr, subRoot))
@@ -1043,7 +1043,7 @@ class Solution {
         return find_subtree(curr->left, subRoot) or find_subtree(curr->right, subRoot);
     }
 public:
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+    bool isSubtree(TreeNode *root, TreeNode* subRoot) {
         return find_subtree(root, subRoot);
     }
 };
@@ -1069,7 +1069,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    void dfs(TreeNode* curr) {
+    void dfs(TreeNode *curr) {
         if (curr == NULL)
             return;
         TreeNode* temp = curr->left;
@@ -1079,7 +1079,7 @@ class Solution {
         dfs(curr->right);
     }
 public:
-    TreeNode* invertTree(TreeNode* root) {
+    TreeNode* invertTree(TreeNode *root) {
         dfs(root);
         return root;
     }

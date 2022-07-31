@@ -187,7 +187,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode *detectCycle(ListNode *head) {
+    ListNode* detectCycle(ListNode *head) {
         if (not head)
             return NULL;
         ListNode *curr1 = head;
@@ -235,7 +235,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+    ListNode* addTwoNumbers(ListNode *l1, ListNode *l2) {
         int cry = 0;
         ListNode *head = new ListNode();
         ListNode *curr = head;
@@ -275,7 +275,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
+    ListNode* removeNthFromEnd(ListNode *head, int n) {
         ListNode *res = new ListNode(0, head);
         ListNode *curr1 = res;
         ListNode *curr2 = head;
@@ -342,7 +342,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    ListNode* middleNode(ListNode* head) {
+    ListNode* middleNode(ListNode *head) {
         ListNode *curr1 = head;
         ListNode *curr2 = head->next;
         while (curr2 and curr2->next) {
@@ -351,7 +351,7 @@ class Solution {
         }
         return curr1;
     }
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+    ListNode* mergeTwoLists(ListNode *list1, ListNode *list2) {
         ListNode *head = new ListNode();
         ListNode *curr = head;
         while (list1 and list2) {
@@ -369,12 +369,12 @@ class Solution {
             curr->next = list2;
         return head->next;
     }
-    ListNode* merge_sort(ListNode* head) {
+    ListNode* merge_sort(ListNode *head) {
             if (not head or not head->next)
                 return head;
-            ListNode* left  = head;
-            ListNode* right = middleNode(head);
-            ListNode* temp  = right->next;
+            ListNode *left  = head;
+            ListNode *right = middleNode(head);
+            ListNode *temp  = right->next;
             right->next = NULL;
             right = temp;
             left  = merge_sort(left);
@@ -382,7 +382,7 @@ class Solution {
             return mergeTwoLists(left, right);
     }
 public:
-    ListNode* sortList(ListNode* head) {
+    ListNode* sortList(ListNode *head) {
         return merge_sort(head);
     }
 };
@@ -393,11 +393,104 @@ Problem Link: https://leetcode.com/problems/reorder-list/
 
 #### - Python Solution
 ```python
+class Solution:
+    def reorderList(self, head: Optional[ListNode]) -> None:
+        def middleNode(head):
+            curr1 = head
+            curr2 = None
+            if head.next:
+                curr2 = head.next.next
+            while curr2 and curr2.next:
+                curr2 = curr2.next.next
+                curr1 = curr1.next
+            return curr1
 
+        def reverseList(head):
+            if head == None:
+                return head
+            prv = None
+            cur = head
+            nxt = cur.next
+            while nxt:
+                cur.next = prv
+                prv = cur
+                cur = nxt
+                nxt = nxt.next
+            cur.next = prv
+            return cur
+
+        def mergeTwoLists(list1, list2):
+            head = ListNode()
+            curr = head
+            while list1 and list2:
+                curr.next = list1
+                list1 = list1.next
+                curr = curr.next
+                curr.next = list2
+                list2 = list2.next
+                curr = curr.next
+            return head.next
+
+        mid = middleNode(head)
+        temp = mid.next
+        mid.next = None
+        mid = temp
+        mid = reverseList(mid)
+        head = mergeTwoLists(head, mid)
+        return head
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    ListNode* middleNode(ListNode *head) {
+        ListNode *curr1 = head;
+        ListNode *curr2 = NULL;
+        if (head->next)
+            curr2 = head->next->next;
+        while (curr2 and curr2->next) {
+            curr2 = curr2->next->next;
+            curr1 = curr1->next;
+        }
+        return curr1;
+    }
+    ListNode* reverseList(ListNode *head) {
+        if (head == NULL)
+            return head;
+        ListNode *prv = NULL;
+        ListNode *cur = head;
+        ListNode *nxt = cur->next;
+        while (nxt) {
+            cur->next = prv;
+            prv = cur;
+            cur = nxt;
+            nxt = nxt->next;
+        }
+        cur->next = prv;
+        return cur;
+    }
+    ListNode* mergeTwoLists(ListNode *list1, ListNode *list2) {
+        ListNode *head = new ListNode();
+        ListNode *curr = head;
+        while (list1 and list2) {
+            curr->next = list1,
+            list1 = list1->next;
+            curr = curr->next;
+            curr->next = list2,
+            list2 = list2->next;
+            curr = curr->next;
+        }
+        return head->next;
+    }
+public:
+    void reorderList(ListNode *head) {
+        ListNode *mid = middleNode(head);
+        ListNode *temp = mid->next;
+        mid->next = NULL;
+        mid = temp;
+        mid = reverseList(mid);
+        head = mergeTwoLists(head, mid);
+    }
+};
 ```
 
 ### problemname:
