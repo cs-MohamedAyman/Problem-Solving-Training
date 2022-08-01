@@ -686,8 +686,8 @@ Problem Link: https://leetcode.com/problems/reverse-linked-list-ii
 ```python
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
-        cpy_head = ListNode(0, head)
-        prev_left, cur = cpy_head, head
+        res = ListNode(0, head)
+        prev_left, cur = res, head
         for i in range(left-1):
             prev_left = cur
 			cur = cur.next
@@ -699,15 +699,15 @@ class Solution:
             cur = tmp
         prev_left.next.next = cur
         prev_left.next = prv
-        return cpy_head.next
+        return res.next
 ```
 #### - CPP Solution
 ```cpp
 class Solution {
 public:
     ListNode* reverseBetween(ListNode *head, int left, int right) {
-        ListNode *cpy_head = new ListNode(0, head);
-        ListNode *prev_left = cpy_head, *cur = head;
+        ListNode *res = new ListNode(0, head);
+        ListNode *prev_left = res, *cur = head;
         for (int i=0; i<left-1; i++) {
             prev_left = cur;
             cur = cur->next;
@@ -721,21 +721,83 @@ public:
         }
         prev_left->next->next = cur;
         prev_left->next = prv;
-        return cpy_head->next;
+        return res->next;
     }
 };
 ```
 
-### problemname:
-Problem Link:
+### rotate list:
+Problem Link: https://leetcode.com/problems/rotate-list
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        def get_length(curr):
+            res = 0
+            while curr:
+                curr = curr.next
+                res += 1
+            return res
+        
+        if not head or not head.next:
+            return head
+        k %= get_length(head)
+        if k == 0:
+            return head
+        res = ListNode(0, head)
+        curr1 = res
+        curr2 = head
+        while k:
+            curr2 = curr2.next
+            k -= 1
+        while curr2.next:
+            curr1 = curr1.next
+            curr2 = curr2.next
+        curr1 = curr1.next
+        new_head = curr1.next
+        curr1.next = None
+        curr2.next = head
+        res.next = new_head
+        return res.next
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    int get_length(ListNode *curr) {
+        int res = 0;
+        while (curr) {
+            curr = curr->next;
+            res ++;
+        }
+        return res;
+    }
+public:
+    ListNode* rotateRight(ListNode *head, int k) {
+        if (not head or not head->next)
+            return head;
+        k %= get_length(head);
+        if (k == 0)
+            return head;
+        ListNode *res = new ListNode(0, head);
+        ListNode *curr1 = res;
+        ListNode *curr2 = head;
+        while (k) {
+            curr2 = curr2->next;
+            k --;
+        }
+        while (curr2->next) {
+            curr1 = curr1->next;
+            curr2 = curr2->next;
+        }
+        curr1 = curr1->next;
+        ListNode *new_head = curr1->next;
+        curr1->next = NULL;
+        curr2->next = head;
+        res->next = new_head;
+        return res->next;
+    }
+};
 ```
 
 ### problemname:
