@@ -300,7 +300,7 @@ Problem Link: https://leetcode.com/problems/sort-list
 ```python
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        def middleNode(head):
+        def beforeMiddleNode(head):
             curr1 = head
             curr2 = head.next
             while curr2 and curr2.next:
@@ -329,7 +329,7 @@ class Solution:
             if not head or not head.next:
                 return head
             left = head
-            right = middleNode(head)
+            right = beforeMiddleNode(head)
             temp = right.next
             right.next = None
             right = temp
@@ -342,7 +342,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    ListNode* middleNode(ListNode *head) {
+    ListNode* beforeMiddleNode(ListNode *head) {
         ListNode *curr1 = head;
         ListNode *curr2 = head->next;
         while (curr2 and curr2->next) {
@@ -373,7 +373,7 @@ class Solution {
             if (not head or not head->next)
                 return head;
             ListNode *left  = head;
-            ListNode *right = middleNode(head);
+            ListNode *right = beforeMiddleNode(head);
             ListNode *temp  = right->next;
             right->next = NULL;
             right = temp;
@@ -395,7 +395,7 @@ Problem Link: https://leetcode.com/problems/reorder-list/
 ```python
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        def middleNode(head):
+        def beforeMiddleNode(head):
             curr1 = head
             curr2 = None
             if head.next:
@@ -431,7 +431,7 @@ class Solution:
                 curr = curr.next
             return head.next
 
-        mid = middleNode(head)
+        mid = beforeMiddleNode(head)
         temp = mid.next
         mid.next = None
         mid = temp
@@ -442,7 +442,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    ListNode* middleNode(ListNode *head) {
+    ListNode* beforeMiddleNode(ListNode *head) {
         ListNode *curr1 = head;
         ListNode *curr2 = NULL;
         if (head->next)
@@ -483,7 +483,7 @@ class Solution {
     }
 public:
     void reorderList(ListNode *head) {
-        ListNode *mid = middleNode(head);
+        ListNode *mid = beforeMiddleNode(head);
         ListNode *temp = mid->next;
         mid->next = NULL;
         mid = temp;
