@@ -336,7 +336,7 @@ class Solution:
             left  = merge_sort(left)
             right = merge_sort(right)
             return mergeTwoLists(left, right)
-            
+
         return merge_sort(head)
 ```
 #### - CPP Solution
@@ -516,7 +516,7 @@ class Solution:
 ```cpp
 class Solution {
     map<Node*, Node*> adj_list;
-    
+
     Node* dfs(Node *u) {
         if (adj_list.find(u) != adj_list.end())
             return adj_list[u];
@@ -567,9 +567,9 @@ class Solution {
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {-1, 1, 0, 0};
 
-    void dfs(int r, int c, set<pair<int, int>> &visited, int prev_h, 
+    void dfs(int r, int c, set<pair<int, int>> &visited, int prev_h,
              const vector<vector<int>> &heights, int n, int m) {
-        if (visited.find({r, c}) != visited.end() or 
+        if (visited.find({r, c}) != visited.end() or
             not(0 <= r and r < n) or not(0 <= c and c < m) or heights[r][c] < prev_h)
             return;
         visited.insert({r, c});
@@ -602,11 +602,57 @@ Problem Link: https://leetcode.com/problems/number-of-islands
 
 #### - Python Solution
 ```python
+class Solution:
+    def numIslands(self, grid: List[List[str]]) -> int:
+        def dfs(r, c):
+            if (r, c) in visit or not(0 <= r < n) or not(0 <= c < m) or grid[r][c] == '0':
+                return
+            visit.add((r, c))
+            for i in range(4):
+                dfs(r+dx[i], c+dy[i])
 
+        n, m = len(grid), len(grid[0])
+        visit = set()
+        dx = [0, 0, 1, -1]
+        dy = [-1, 1, 0, 0]
+        res = 0
+        for r in range(n):
+            for c in range(m):
+                if grid[r][c] == '1' and (r, c) not in visit:
+                    dfs(r, c)
+                    res += 1
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    set<pair<int, int>> vis;
+    int dx[4] = {0, 0, 1, -1};
+    int dy[4] = {-1, 1, 0, 0};
 
+    void dfs(int r, int c, const vector<vector<char>> &grid, int n, int m) {
+        if (vis.find({r, c}) != vis.end() or
+            not(0 <= r and r < n) or not(0 <= c and c < m) or grid[r][c] == '0')
+            return;
+        vis.insert({r, c});
+        for (int i=0; i<4; i++)
+            dfs(r+dx[i], c+dy[i], grid, n, m);
+    }
+public:
+    int numIslands(vector<vector<char>> &grid) {
+        int n = grid.size(), m = grid[0].size();
+        int res = 0;
+        for (int r=0; r<n; r++) {
+            for (int c=0; c<m; c++) {
+                if (grid[r][c] == '1' and vis.find({r, c}) == vis.end()) {
+                    dfs(r, c, grid, n, m);
+                    res ++;
+                }
+            }
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname:
