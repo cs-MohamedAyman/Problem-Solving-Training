@@ -26,7 +26,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
+    bool canPartition(vector<int> &nums) {
         int nums_sum = accumulate(nums.begin(), nums.end(), 0);
         if (nums_sum % 2)
             return false;
@@ -81,7 +81,7 @@ class Solution:
 ```cpp
 class Solution {
     bool check_partitions(int i, int k, int curr_total,
-                          const int &target, const vector<int>& nums, bool visited[]) {
+                          const int &target, const vector<int> &nums, bool visited[]) {
         if (k == 0)
             return true;
         if (curr_total > target)
@@ -99,7 +99,7 @@ class Solution {
         return false;
     }
 public:
-    bool canPartitionKSubsets(vector<int>& nums, int k) {
+    bool canPartitionKSubsets(vector<int> &nums, int k) {
         int nums_sum = accumulate(nums.begin(), nums.end(), 0);
         if (nums_sum % k)
             return false;
@@ -138,7 +138,7 @@ class Solution:
 ```cpp
 class Solution {
     int memo[5003][2];
-    int dp(int i, bool buy, const vector<int>& prices) {
+    int dp(int i, bool buy, const vector<int> &prices) {
         if (i >= prices.size())
             return 0;
         if (memo[i][buy] != -1)
@@ -151,7 +151,7 @@ class Solution {
         return memo[i][buy];
     }
 public:
-    int maxProfit(vector<int>& prices) {
+    int maxProfit(vector<int> &prices) {
         memset(memo, -1, sizeof memo);
         return dp(0, 1, prices);
     }
@@ -533,20 +533,72 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### pacific atlantic water flow:
+Problem Link: https://leetcode.com/problems/pacific-atlantic-water-flow
 
 #### - Python Solution
 ```python
+class Solution:
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        def dfs(r, c, visited, prev_h):
+            if (r, c) in visited or not(0 <= r < n) or not(0 <= c < m) or heights[r][c] < prev_h:
+                return
+            visited.add((r, c))
+            for i in range(4):
+                dfs(r+dx[i], c+dy[i], visited, heights[r][c])
 
+        n, m = len(heights), len(heights[0])
+        vis1, vis2 = set(), set()
+        dx = [0, 0, 1, -1]
+        dy = [-1, 1, 0, 0]
+        for c in range(m):
+            dfs(0,   c, vis1, heights[0][c])
+            dfs(n-1, c, vis2, heights[n-1][c])
+        for r in range(n):
+            dfs(r, 0,   vis1, heights[r][0])
+            dfs(r, m-1, vis2, heights[r][m-1])
+        res = list(vis1 & vis2)
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    set<pair<int, int>> vis1, vis2;
+    int dx[4] = {0, 0, 1, -1};
+    int dy[4] = {-1, 1, 0, 0};
 
+    void dfs(int r, int c, set<pair<int, int>> &visited, int prev_h, 
+             const vector<vector<int>> &heights, int n, int m) {
+        if (visited.find({r, c}) != visited.end() or 
+            not(0 <= r and r < n) or not(0 <= c and c < m) or heights[r][c] < prev_h)
+            return;
+        visited.insert({r, c});
+        for (int i=0; i<4; i++)
+            dfs(r+dx[i], c+dy[i], visited, heights[r][c], heights, n, m);
+    }
+public:
+    vector<vector<int>> pacificAtlantic(vector<vector<int>> &heights) {
+        int n = heights.size(), m = heights[0].size();
+        for (int c=0; c<m; c++) {
+            dfs(0,   c, vis1, heights[0][c], heights, n, m);
+            dfs(n-1, c, vis2, heights[n-1][c], heights, n, m);
+        }
+        for (int r=0; r<n; r++) {
+            dfs(r, 0,   vis1, heights[r][0], heights, n, m);
+            dfs(r, m-1, vis2, heights[r][m-1], heights, n, m);
+        }
+        vector<pair<int, int>> res;
+        set_intersection(vis1.begin(), vis1.end(), vis2.begin(), vis2.end(), back_inserter(res));
+        vector<vector<int>> ans;
+        for (auto &[i, j] : res)
+            ans.push_back({i, j});
+        return ans;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### number of islands:
+Problem Link: https://leetcode.com/problems/number-of-islands
 
 #### - Python Solution
 ```python

@@ -22,7 +22,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<int> productExceptSelf(vector<int>& nums) {
+    vector<int> productExceptSelf(vector<int> &nums) {
         vector<int> res(nums.size(), 1);
         for (int i=0; i<nums.size()-1; i++)
             res[i+1] *= res[i] * nums[i];
@@ -61,7 +61,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int findDuplicate(vector<int>& nums) {
+    int findDuplicate(vector<int> &nums) {
         int p1 = nums[0], p2 = nums[0];
         for (int i=0; i<nums.size(); i++) {
             p1 = nums[p1];
@@ -100,7 +100,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<int> findDuplicates(vector<int>& nums) {
+    vector<int> findDuplicates(vector<int> &nums) {
         vector<int> res;
         for (int i=0; i<nums.size(); i++) {
             if (nums[abs(nums[i])-1] > 0)
@@ -136,7 +136,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    void setZeroes(vector<vector<int>>& matrix) {
+    void setZeroes(vector<vector<int>> &matrix) {
         int n = matrix.size(), m = matrix[0].size();
         vector<int> zero_rows(n, 0);
         vector<int> zero_cols(m, 0);
@@ -185,7 +185,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+    vector<int> spiralOrder(vector<vector<int>> &matrix) {
         vector<pair<int, int>> d = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
         int curr_dir = 0, x = 0, y = -1;
         int n = matrix.size(), m = matrix[0].size();
@@ -230,7 +230,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    void rotate(vector<vector<int>>& matrix) {
+    void rotate(vector<vector<int>> &matrix) {
         int n = matrix.size();
         for (int i = 0; i < n/2; i++) {
             for (int j = i; j < n-i-1; j++) {
@@ -282,7 +282,7 @@ class Solution {
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {1, -1, 0, 0};
 
-    bool dfs(int x, int y, int idx, const vector<vector<char>>& board, const string &word) {
+    bool dfs(int x, int y, int idx, const vector<vector<char>> &board, const string &word) {
         if (idx == word.size())
             return true;
         if (not(0 <= x < n and 0 <= y < m) or visited[x][y] or
@@ -297,7 +297,7 @@ class Solution {
         return false;
     }
 public:
-    bool exist(vector<vector<char>>& board, string word) {
+    bool exist(vector<vector<char>> &board, string word) {
         n = board.size(), m = board[0].size();
         visited.assign(n, vector<int>(m, 0));
         for (int i=0; i<n; i++) {
@@ -334,7 +334,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int longestConsecutive(vector<int>& nums) {
+    int longestConsecutive(vector<int> &nums) {
         int longest_len = 0;
         set<int> set_nums(nums.begin(), nums.end());
         for (int i : set_nums) {
@@ -411,7 +411,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
+    vector<vector<int>> subsets(vector<int> &nums) {
         int n = nums.size();
         vector<vector<int>> res;
         for (int i=0; i<(1<<n); i++) {
@@ -447,7 +447,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+    vector<vector<int>> subsetsWithDup(vector<int> &nums) {
         int n = nums.size();
         set<vector<int>> res;
         for (int i=0; i<(1<<n); i++) {
@@ -510,7 +510,7 @@ class Solution {
         return res;
     }
 public:
-    vector<vector<int>> permute(vector<int>& nums) {
+    vector<vector<int>> permute(vector<int> &nums) {
         return generate_permutation(nums);
     }
 };
@@ -563,7 +563,7 @@ class Solution {
         return res;
     }
 public:
-    vector<vector<int>> permuteUnique(vector<int>& nums) {
+    vector<vector<int>> permuteUnique(vector<int> &nums) {
         set<vector<int>> res;
         for (auto p : generate_permutation(nums))
             res.insert(p);
@@ -644,7 +644,7 @@ class Solution:
 class Solution {
     vector<vector<int>> res;
 
-    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
+    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int> &candidates, int target) {
         if (curr_total == target) {
             sort(arr.begin(), arr.end());
             res.push_back(arr);
@@ -658,7 +658,7 @@ class Solution {
         generate_combinations(i+1, arr, curr_total, candidates, target);
     }
 public:
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+    vector<vector<int>> combinationSum(vector<int> &candidates, int target) {
         generate_combinations(0, {}, 0, candidates, target);
         return res;
     }
@@ -697,7 +697,7 @@ class Solution:
 class Solution {
     set<vector<int>> res;
 
-    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int>& candidates, int target) {
+    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int> &candidates, int target) {
         if (curr_total == target) {
             sort(arr.begin(), arr.end());
             res.insert(arr);
@@ -716,7 +716,7 @@ class Solution {
         }
     }
 public:
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+    vector<vector<int>> combinationSum2(vector<int> &candidates, int target) {
         generate_combinations(0, {}, 0, candidates, target);
         vector<vector<int>> ans(res.begin(), res.end());
         return ans;
@@ -842,7 +842,7 @@ class Solution {
     static const int N = 2e4+3;
     int memo[23][N*2];
 
-    int dp(int i, int curr_total, const vector<int>& nums, const int &target) {
+    int dp(int i, int curr_total, const vector<int> &nums, const int &target) {
         if (i == nums.size())
             return curr_total == target;
         if (memo[i][curr_total+N] != -1)
@@ -852,7 +852,7 @@ class Solution {
         return memo[i][curr_total+N];
     }
 public:
-    int findTargetSumWays(vector<int>& nums, int target) {
+    int findTargetSumWays(vector<int> &nums, int target) {
         memset(memo, -1, sizeof memo);
         return dp(0, 0, nums, target);
     }
@@ -991,7 +991,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int rob(vector<int>& nums) {
+    int rob(vector<int> &nums) {
         int res1 = 0, res2 = 0;
         for (int i : nums) {
             int temp = max(res1+i, res2);
@@ -1035,7 +1035,7 @@ class Solution {
         return res2;
     }
 public:
-    int rob(vector<int>& nums) {
+    int rob(vector<int> &nums) {
         if (nums.size() == 1)
             return nums[0];
         return max(rob_subarray({nums.begin()+1, nums.end()}),
@@ -1065,7 +1065,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
+    int coinChange(vector<int> &coins, int amount) {
         vector<int> dp(amount+1, int(1e4+3));
         dp[0] = 0;
         for (int i=1; i<amount+1; i++) {
@@ -1101,7 +1101,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int maxProduct(vector<int>& nums) {
+    int maxProduct(vector<int> &nums) {
         int res = *max_element(nums.begin(), nums.end());
         int curr_min = 1, curr_max = 1;
         int prev_min = 1, prev_max = 1;
@@ -1134,7 +1134,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
+    int lengthOfLIS(vector<int> &nums) {
         vector<int> res(nums.size(), 1);
         for (int i=nums.size()-1; i>-1; i--) {
             for (int j=i+1; j<nums.size(); j++) {
@@ -1219,7 +1219,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
+    bool wordBreak(string s, vector<string> &wordDict) {
         vector<int> dp(s.size()+1, 0);
         dp[s.size()] = 1;
         for (int i=s.size()-1; i>-1; i--) {
@@ -1254,7 +1254,7 @@ class Solution {
     static const int N = int(1e3+1);
     int dp[2*N] = {0};
 public:
-    int combinationSum4(vector<int>& nums, int target) {
+    int combinationSum4(vector<int> &nums, int target) {
         dp[N] = 1;
         for (int i=1; i<target+1; i++) {
             for (int j : nums) {
@@ -1364,7 +1364,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    bool canJump(vector<int>& nums) {
+    bool canJump(vector<int> &nums) {
         int res = nums.size()-1;
         for (int i=nums.size()-1; i>-1; i--) {
             if (i + nums[i] >= res)
@@ -1450,7 +1450,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int findNumberOfLIS(vector<int>& nums) {
+    int findNumberOfLIS(vector<int> &nums) {
         map<int, pair<int, int>> dp;
         int len_lis = 0, res = 0;
         for (int i=nums.size()-1; i>-1; i--) {

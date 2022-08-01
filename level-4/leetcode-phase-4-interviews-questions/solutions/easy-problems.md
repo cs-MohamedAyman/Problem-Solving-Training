@@ -15,7 +15,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& nums) {
+    bool containsDuplicate(vector<int> &nums) {
         set<int> set_nums(nums.begin(), nums.end());
         return nums.size() != set_nums.size();
     }
@@ -36,7 +36,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
+    int missingNumber(vector<int> &nums) {
         int n = nums.size();
         return n*(n+1)/2 - accumulate(nums.begin(), nums.end(), 0);
     }
@@ -61,7 +61,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<int> findDisappearedNumbers(vector<int>& nums) {
+    vector<int> findDisappearedNumbers(vector<int> &nums) {
         set<int> set_nums(nums.begin(), nums.end());
         vector<int> disappeared_num;
         for (int i=1; i<nums.size()+1; i++) {
@@ -92,7 +92,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int singleNumber(vector<int>& nums) {
+    int singleNumber(vector<int> &nums) {
         vector<int> cnt_nums(6e4, 0);
         for (int i:nums)
             cnt_nums[i+int(3e4)] ++;
@@ -154,7 +154,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
+    int maxProfit(vector<int> &prices) {
         vector<int> min_vals(1e5+1, 1e4);
         vector<int> max_vals(1e5+1, 0);
         for (int i=0; i<prices.size(); i++)
@@ -188,7 +188,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
+    int maxSubArray(vector<int> &nums) {
         int curr_subarray_sum = 0;
         int max_subarray_sum = nums[0];
         for (int i : nums) {
@@ -221,7 +221,7 @@ class NumArray:
 class NumArray {
     vector<int> cumulative_sum;
 public:
-    NumArray(vector<int>& nums) {
+    NumArray(vector<int> &nums) {
         cumulative_sum.assign(nums.begin(), nums.end());
         cumulative_sum.insert(cumulative_sum.begin(), 0);
         for (int i=1; i<nums.size()+1; i++)
@@ -588,7 +588,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
+    int search(vector<int> &nums, int target) {
         int f = 0, e = nums.size()-1;
         while (f <= e) {
             int m = (f+e)/2;
@@ -624,7 +624,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    char nextGreatestLetter(vector<char>& letters, char target) {
+    char nextGreatestLetter(vector<char> &letters, char target) {
         int f = 0, e = letters.size()-1;
         while (f <= e) {
             int m = (f+e)/2;
@@ -658,7 +658,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int peakIndexInMountainArray(vector<int>& arr) {
+    int peakIndexInMountainArray(vector<int> &arr) {
         int f = 0, e = arr.size()-1;
         while (f <= e) {
             int m = (f+e)/2;
@@ -1110,7 +1110,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int> &nums, int target) {
         map<int, vector<int>> idx;
         for (int i=0; i<nums.size(); i++)
             idx[nums[i]].push_back(i);
@@ -1141,7 +1141,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<int> sortedSquares(vector<int>& nums) {
+    vector<int> sortedSquares(vector<int> &nums) {
         vector<int> res(nums);
         for (int &i : res)
             i *= i;
@@ -1256,7 +1256,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int majorityElement(vector<int>& nums) {
+    int majorityElement(vector<int> &nums) {
         map<int, int> cnt;
         for (int i : nums)
             cnt[i] ++;
@@ -1286,7 +1286,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
+    vector<vector<int>> construct2DArray(vector<int> &original, int m, int n) {
         if (n*m != original.size())
             return {};
         vector<vector<int>> res(m);
