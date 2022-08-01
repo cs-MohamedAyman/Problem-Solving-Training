@@ -655,8 +655,8 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### graph valid tree:
+Problem Link: https://leetcode.com/problems/graph-valid-tree
 
 #### - Python Solution
 ```python
@@ -667,8 +667,8 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### number of connected components in an undirected graph:
+Problem Link: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
 
 #### - Python Solution
 ```python
@@ -679,16 +679,51 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### reverse linked list ii:
+Problem Link: https://leetcode.com/problems/reverse-linked-list-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
+        cpy_head = ListNode(0, head)
+        prev_left, cur = cpy_head, head
+        for i in range(left-1):
+            prev_left = cur
+			cur = cur.next
+        prv = None
+        for i in range(right-left+1):
+            tmp = cur.next
+            cur.next = prv
+            prv = cur
+            cur = tmp
+        prev_left.next.next = cur
+        prev_left.next = prv
+        return cpy_head.next
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    ListNode* reverseBetween(ListNode *head, int left, int right) {
+        ListNode *cpy_head = new ListNode(0, head);
+        ListNode *prev_left = cpy_head, *cur = head;
+        for (int i=0; i<left-1; i++) {
+            prev_left = cur;
+            cur = cur->next;
+        }
+        ListNode *prv = NULL;
+        for (int i=0; i<right-left+1; i++) {
+            ListNode *tmp = cur->next;
+            cur->next = prv;
+            prv = cur;
+            cur = tmp;
+        }
+        prev_left->next->next = cur;
+        prev_left->next = prv;
+        return cpy_head->next;
+    }
+};
 ```
 
 ### problemname:
