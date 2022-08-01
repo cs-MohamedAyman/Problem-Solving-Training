@@ -389,7 +389,7 @@ public:
 ```
 
 ### reorder list:
-Problem Link: https://leetcode.com/problems/reorder-list/
+Problem Link: https://leetcode.com/problems/reorder-list
 
 #### - Python Solution
 ```python
@@ -493,16 +493,44 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### clone graph:
+Problem Link: https://leetcode.com/problems/clone-graph
 
 #### - Python Solution
 ```python
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        def dfs(u):
+            if u in adj_list:
+                return adj_list[u]
+            new_u = Node(u.val)
+            adj_list[u] = new_u
+            for v in u.neighbors:
+                new_u.neighbors.append(dfs(v))
+            return new_u
 
+        adj_list = {}
+        return dfs(node) if node else None
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    map<Node*, Node*> adj_list;
+    
+    Node* dfs(Node *u) {
+        if (adj_list.find(u) != adj_list.end())
+            return adj_list[u];
+        Node *new_u = new Node(u->val);
+        adj_list[u] = new_u;
+        for (Node *v : u->neighbors)
+            new_u->neighbors.push_back(dfs(v));
+        return new_u;
+    }
+public:
+    Node* cloneGraph(Node* node) {
+        return node? dfs(node) : NULL;
+    }
+};
 ```
 
 ### problemname:
