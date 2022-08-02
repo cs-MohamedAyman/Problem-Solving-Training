@@ -800,32 +800,90 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### swap nodes in pairs:
+Problem Link: https://leetcode.com/problems/swap-nodes-in-pairs
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        res = ListNode(0, head)
+        prev, curr = res, head
+        while curr and curr.next:
+            temp1 = curr.next.next
+            temp2 = curr.next
+            temp2.next = curr
+            curr.next = temp1
+            prev.next = temp2
+            prev = curr
+            curr = temp1
+        return res.next
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    ListNode* swapPairs(ListNode *head) {
+        ListNode *res = new ListNode(0, head);
+        ListNode *prev = res, *curr = head;
+        while (curr and curr->next) {
+            ListNode *temp1 = curr->next->next;
+            ListNode *temp2 = curr->next;
+            temp2->next = curr;
+            curr->next = temp1;
+            prev->next = temp2;
+            prev = curr;
+            curr = temp1;
+        }
+        return res->next;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### odd even linked list:
+Problem Link: https://leetcode.com/problems/odd-even-linked-list
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head:
+            return head
+        odd  = head
+        even = head.next
+        original_even = even
+        while even and even.next:
+            odd.next = even.next
+            odd = odd.next
+            even.next = odd.next
+            even = even.next
+        odd.next = original_even
+        return head
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    ListNode* oddEvenList(ListNode *head) {
+        if (not head)
+            return head;
+        ListNode *odd  = head;
+        ListNode *even = head->next;
+        ListNode *original_even = even;
+        while (even and even->next) {
+            odd->next = even->next;
+            odd = odd->next;
+            even->next = odd->next;
+            even = even->next;
+        }
+        odd->next = original_even;
+        return head;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### kth smallest element in a sorted matrix:
+Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
 
 #### - Python Solution
 ```python
