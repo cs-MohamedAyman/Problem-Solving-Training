@@ -690,7 +690,7 @@ class Solution:
         prev_left, cur = res, head
         for i in range(left-1):
             prev_left = cur
-			cur = cur.next
+            cur = cur.next
         prv = None
         for i in range(right-left+1):
             tmp = cur.next
@@ -739,7 +739,7 @@ class Solution:
                 curr = curr.next
                 res += 1
             return res
-        
+
         if not head or not head.next:
             return head
         k %= get_length(head)
@@ -918,7 +918,7 @@ class Solution:
 ```cpp
 class Solution {
     int n;
-    
+
     int binary_search_upper(const vector<int> &arr, int x) {
         int l = 0, r = arr.size()-1;
         while (l <= r) {
@@ -989,8 +989,8 @@ class Solution {
     };
 public:
     vector<vector<int>> kSmallestPairs(vector<int> &nums1, vector<int> &nums2, int k) {
-        auto comp = [](const Item &x, const Item &y) { 
-            return x.t > y.t; 
+        auto comp = [](const Item &x, const Item &y) {
+            return x.t > y.t;
         };
         priority_queue<Item, vector<Item>, decltype(comp)> min_heap(comp);
         int n = nums1.size(), m = nums2.size();
