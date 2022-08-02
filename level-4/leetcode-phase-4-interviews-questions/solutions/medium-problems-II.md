@@ -887,35 +887,167 @@ Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-mat
 
 #### - Python Solution
 ```python
+class Solution:
+    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        def binary_search_upper(arr, x):
+            l, r = 0, len(arr)-1
+            while l <= r:
+                m = (l+r) // 2
+                if arr[m] <= x:
+                    l = m+1
+                else:
+                    r = m-1
+            return l
 
+        def count_less_k(m):
+            res = 0
+            for i in range(n):
+                res += binary_search_upper(matrix[i], m)
+            return res
+
+        l, r, n = matrix[0][0], matrix[-1][-1], len(matrix)
+        while l <= r:
+            m = (l+r) // 2
+            if count_less_k(m) < k:
+                l = m+1
+            else:
+                r = m-1
+        return l
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    int n;
+    
+    int binary_search_upper(const vector<int> &arr, int x) {
+        int l = 0, r = arr.size()-1;
+        while (l <= r) {
+            int m = (l+r) / 2;
+            if (arr[m] <= x)
+                l = m+1;
+            else
+                r = m-1;
+        }
+        return l;
+    }
+    int count_less_k(int m, const vector<vector<int>> &matrix) {
+        int res = 0;
+        for (int i=0; i<n; i++)
+            res += binary_search_upper(matrix[i], m);
+        return res;
+    }
+public:
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        n = matrix.size();
+        int l = matrix[0][0], r = matrix[n-1][n-1];
+        while (l <= r) {
+            int m = (l+r) / 2;
+            if (count_less_k(m, matrix) < k)
+                l = m+1;
+            else
+                r = m-1;
+        }
+        return l;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### find k pairs with smallest sums:
+Problem Link: https://leetcode.com/problems/find-k-pairs-with-smallest-sums
 
 #### - Python Solution
 ```python
+import queue
 
+class Solution:
+    def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
+        min_heap = queue.PriorityQueue()
+        n, m = len(nums1), len(nums2)
+        for i in range(min(n, k)):
+            total = nums1[i] + nums2[0]
+            pair = (nums1[i], nums2[0])
+            min_heap.put((total, pair, 0))
+        res = []
+        while k and not min_heap.empty():
+            total, pair, idx = min_heap.get()
+            res.append(pair)
+            k -= 1
+            if idx < m-1:
+                total = pair[0] + nums2[idx+1]
+                pair = (pair[0], nums2[idx+1])
+                min_heap.put((total, pair, idx+1))
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    struct Item{
+        int t, n1, n2, idx;
+        Item(int t, int n1, int n2, int idx) :
+            t(t), n1(n1), n2(n2), idx(idx) {
+        }
+    };
+public:
+    vector<vector<int>> kSmallestPairs(vector<int> &nums1, vector<int> &nums2, int k) {
+        auto comp = [](const Item &x, const Item &y) { 
+            return x.t > y.t; 
+        };
+        priority_queue<Item, vector<Item>, decltype(comp)> min_heap(comp);
+        int n = nums1.size(), m = nums2.size();
+        for (int i=0; i<min(n, k); i++) {
+            int n1 = nums1[i], n2 = nums2[0];
+            min_heap.push(Item(n1+n2, n1, n2, 0));
+        }
+        vector<vector<int>> res;
+        while (k and not min_heap.empty()) {
+            Item x = min_heap.top();
+            res.push_back({x.n1, x.n2});
+            min_heap.pop();
+            k --;
+            if (x.idx < m-1) {
+                int n1 = x.n1, n2 = nums2[x.idx+1];
+                min_heap.push(Item(n1+n2, n1, n2, x.idx+1));
+            }
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### merge intervals:
+Problem Link: https://leetcode.com/problems/merge-intervals
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        intervals.sort()
+        res = [intervals[0]]
+        for s, e in intervals:
+            if s <= res[-1][1]:
+                res[-1][1] = max(res[-1][1], e)
+            else:
+                res.append([s, e])
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        sort(intervals.begin(), intervals.end());
+        vector<vector<int>> res;
+        res.push_back(intervals[0]);
+        for (auto it : intervals) {
+            int s = it[0], e = it[1];
+            if (s <= res[res.size()-1][1])
+                res[res.size()-1][1] = max(res[res.size()-1][1], e);
+            else
+                res.push_back({s, e});
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname:
