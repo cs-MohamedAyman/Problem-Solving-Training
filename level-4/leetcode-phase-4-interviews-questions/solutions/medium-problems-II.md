@@ -1305,86 +1305,336 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### find peak element:
+Problem Link: https://leetcode.com/problems/find-peak-element
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findPeakElement(self, nums: List[int]) -> int:
+        l, r = 0, len(nums)-1
+        while l < r:
+            m = (l+r) // 2
+            if nums[m] > nums[m+1]:
+                r = m
+            else:
+                l = m+1
+        return l
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int findPeakElement(vector<int> &nums) {
+        int l = 0, r = size(nums)-1;
+        while (l < r) {
+            int m = (l+r) / 2;
+            if (nums[m] > nums[m+1])
+                r = m;
+            else
+                l = m+1;
+        }
+        return l;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### search in rotated sorted array:
+Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        l, r = 0, len(nums)-1
+        while l <= r:
+            m = (l+r) // 2
+            if target == nums[m]:
+                return m
+            if nums[l] <= nums[m]:
+                if target > nums[m] or target < nums[l]:
+                    l = m+1
+                else:
+                    r = m-1
+            else:
+                if target < nums[m] or target > nums[r]:
+                    r = m-1
+                else:
+                    l = m+1
+        return -1
 ```
+
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int l = 0, r = size(nums)-1;
+        while (l <= r) {
+            int m = (l+r) / 2;
+            if (target == nums[m])
+                return m;
+            if (nums[l] <= nums[m]) {
+                if (target > nums[m] or target < nums[l])
+                    l = m+1;
+                else
+                    r = m-1;
+            }
+            else {
+                if (target < nums[m] or target > nums[r])
+                    r = m-1;
+                else
+                    l = m+1;
+            }
+        }
+        return -1;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### search in rotated sorted array ii:
+Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def search(self, nums: List[int], target: int) -> bool:
+        l, r = 0, len(nums)-1
+        while l <= r:
+            m = (l+r) // 2
+            if target == nums[m]:
+                return True
+            if nums[l] < nums[m]:
+                if target > nums[m] or target < nums[l]:
+                    l = m+1
+                else:
+                    r = m-1
+            elif nums[l] > nums[m]:
+                if target < nums[m] or target > nums[r]:
+                    r = m-1
+                else:
+                    l = m+1
+            else:
+                l += 1
+        return False
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool search(vector<int> &nums, int target) {
+        int l = 0, r = size(nums)-1;
+        while (l <= r) {
+            int m = (l+r) / 2;
+            if (target == nums[m])
+                return true;
+            if (nums[l] < nums[m]) {
+                if (target > nums[m] or target < nums[l])
+                    l = m+1;
+                else
+                    r = m-1;
+            }
+            else if (nums[l] > nums[m]) {
+                if (target < nums[m] or target > nums[r])
+                    r = m-1;
+                else
+                    l = m+1;
+            }
+            else 
+                l ++;
+        }
+        return false;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### search a 2d matrix:
+Problem Link: https://leetcode.com/problems/search-a-2d-matrix
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        n, m = len(matrix), len(matrix[0])
+        l, r = 0, n*m-1
+        while l <= r:
+            k = (l+r) // 2
+            i, j = k//m, k%m
+            if matrix[i][j] > target:
+                r = k-1
+            elif matrix[i][j] < target:
+                l = k+1
+            else:
+                return True
+        return False
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>> &matrix, int target) {
+        int n = size(matrix), m = size(matrix[0]);
+        int l = 0, r = n*m-1;
+        while (l <= r) {
+            int k = (l+r) / 2;
+            int i = k/m, j = k%m;
+            if (matrix[i][j] > target)
+                r = k-1;
+            else if (matrix[i][j] < target)
+                l = k+1;
+            else
+                return true;
+        }
+        return false;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### search a 2d matrix ii:
+Problem Link: https://leetcode.com/problems/search-a-2d-matrix-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        n, m = len(matrix), len(matrix[0])
+        i, j = 0, m-1
+        while i < n and j >= 0:
+            if matrix[i][j] > target:
+                j -= 1
+            elif matrix[i][j] < target:
+                i += 1
+            else:
+                return True;
+        return False
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>> &matrix, int target) {
+        int n = size(matrix), m = size(matrix[0]);
+        int i = 0, j = m-1;
+        while (i < n and j >= 0) {
+            if (matrix[i][j] > target)
+                j --;
+            else if (matrix[i][j] < target)
+                i ++;
+            else
+                return true;
+        }
+        return false;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### find k closest elements:
+Problem Link: https://leetcode.com/problems/find-k-closest-elements
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
+        l, r = 0, len(arr)-k
+        while l < r:
+            m = (l+r) // 2
+            if x - arr[m] > arr[m+k] - x:
+                l = m+1
+            else:
+                r = m
+        return arr[l:l+k]
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+        int l = 0, r = size(arr)-k;
+        while (l < r) {
+            int m = (l+r) / 2;
+            if (x - arr[m] > arr[m+k] - x)
+                l = m+1;
+            else
+                r = m;
+        }
+        vector<int> res(arr.begin()+l, arr.begin()+l+k);
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### minimum size subarray sum:
+Problem Link: https://leetcode.com/problems/minimum-size-subarray-sum
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        i, total, res = 0, 0, 2e9
+        for j in range(len(nums)):
+            total += nums[j]
+            while total >= target:
+                res = min(res, j-i+1)
+                total -= nums[i]
+                i += 1
+        return 0 if res == 2e9 else res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+public:
+    int minSubArrayLen(int target, vector<int> &nums) {
+        int i = 0, total = 0, res = 2e9;
+        for (int j=0; j<size(nums); j++) {
+            total += nums[j];
+            while (total >= target) {
+                res = min(res, j-i+1);
+                total -= nums[i];
+                i ++;
+            }
+        }
+        return res == 2e9 ? 0 : res;
+    }
+};
+```
 
+### fruit into baskets:
+Problem Link: https://leetcode.com/problems/fruit-into-baskets
+
+#### - Python Solution
+```python
+class Solution:
+    def totalFruit(self, fruits: List[int]) -> int:
+        cnt = {}
+        res, i = 0, 0
+        for j in range(len(fruits)):
+            cnt[fruits[j]] = cnt.get(fruits[j], 0) + 1
+            while len(cnt) > 2:
+                cnt[fruits[i]] -= 1
+                if cnt[fruits[i]] == 0:
+                    cnt.pop(fruits[i])
+                i += 1
+            res = max(res, j-i+1)
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    int totalFruit(vector<int> &fruits) {
+        map<int, int> cnt;
+        int res = 0, i = 0;
+        for (int j=0; j<size(fruits); j++) {
+            cnt[fruits[j]] ++;
+            while (size(cnt) > 2) {
+                cnt[fruits[i]] --;
+                if (cnt[fruits[i]] == 0)
+                    cnt.erase(fruits[i]);
+                i ++;
+            }
+            res = max(res, j-i+1);
+        }
+        return res;
+    }
+};
 ```
