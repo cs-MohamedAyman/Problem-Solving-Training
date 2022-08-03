@@ -17,7 +17,7 @@ class Solution {
 public:
     bool containsDuplicate(vector<int> &nums) {
         set<int> set_nums(nums.begin(), nums.end());
-        return nums.size() != set_nums.size();
+        return size(nums) != size(set_nums);
     }
 };
 ```
@@ -37,7 +37,7 @@ class Solution:
 class Solution {
 public:
     int missingNumber(vector<int> &nums) {
-        int n = nums.size();
+        int n = size(nums);
         return n*(n+1)/2 - accumulate(nums.begin(), nums.end(), 0);
     }
 };
@@ -64,7 +64,7 @@ public:
     vector<int> findDisappearedNumbers(vector<int> &nums) {
         set<int> set_nums(nums.begin(), nums.end());
         vector<int> disappeared_num;
-        for (int i=1; i<nums.size()+1; i++) {
+        for (int i=1; i<size(nums)+1; i++) {
             if (set_nums.find(i) == set_nums.end())
                 disappeared_num.push_back(i);
         }
@@ -157,12 +157,12 @@ public:
     int maxProfit(vector<int> &prices) {
         vector<int> min_vals(1e5+1, 1e4);
         vector<int> max_vals(1e5+1, 0);
-        for (int i=0; i<prices.size(); i++)
+        for (int i=0; i<size(prices); i++)
             min_vals[i+1] = min(min_vals[i], prices[i]);
-        for (int i=prices.size()-1; i>-1; i--)
+        for (int i=size(prices)-1; i>-1; i--)
             max_vals[i+1] = max(max_vals[i], prices[i]);
         int max_profit = 0;
-        for (int i=1; i<prices.size()+1; i++)
+        for (int i=1; i<size(prices)+1; i++)
             max_profit = max(max_profit, max_vals[i]-min_vals[i]);
         return max_profit;
     }
@@ -224,7 +224,7 @@ public:
     NumArray(vector<int> &nums) {
         cumulative_sum.assign(nums.begin(), nums.end());
         cumulative_sum.insert(cumulative_sum.begin(), 0);
-        for (int i=1; i<nums.size()+1; i++)
+        for (int i=1; i<size(nums)+1; i++)
             cumulative_sum[i] += cumulative_sum[i-1];
     }
     int sumRange(int left, int right) {
@@ -589,7 +589,7 @@ class Solution:
 class Solution {
 public:
     int search(vector<int> &nums, int target) {
-        int f = 0, e = nums.size()-1;
+        int f = 0, e = size(nums)-1;
         while (f <= e) {
             int m = (f+e)/2;
             if (nums[m] == target)
@@ -625,7 +625,7 @@ class Solution:
 class Solution {
 public:
     char nextGreatestLetter(vector<char> &letters, char target) {
-        int f = 0, e = letters.size()-1;
+        int f = 0, e = size(letters)-1;
         while (f <= e) {
             int m = (f+e)/2;
             if (letters[m] > target)
@@ -633,7 +633,7 @@ public:
             else
                 f = m+1;
         }
-        return letters[f%letters.size()];
+        return letters[f%size(letters)];
     }
 };
 ```
@@ -659,7 +659,7 @@ class Solution:
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int> &arr) {
-        int f = 0, e = arr.size()-1;
+        int f = 0, e = size(arr)-1;
         while (f <= e) {
             int m = (f+e)/2;
             if (arr[m] < arr[m+1])
@@ -1112,14 +1112,14 @@ class Solution {
 public:
     vector<int> twoSum(vector<int> &nums, int target) {
         map<int, vector<int>> idx;
-        for (int i=0; i<nums.size(); i++)
+        for (int i=0; i<size(nums); i++)
             idx[nums[i]].push_back(i);
         vector<int> res;
         for (int i : nums) {
             if (idx.find(i) != idx.end() and idx.find(target - i) != idx.end()) {
-                if (i == target - i and idx[i].size() == 1)
+                if (i == target - i and size(idx[i]) == 1)
                     continue;
-                res = {idx[i][0], idx[target - i][idx[i].size()-1]};
+                res = {idx[i][0], idx[target - i][size(idx[i])-1]};
                 break;
             }
         }
@@ -1200,7 +1200,7 @@ class Solution {
     }
 public:
     bool backspaceCompare(string s, string t) {
-        int i = s.size()-1, j = t.size()-1;
+        int i = size(s)-1, j = size(t)-1;
         int cnt_s = 0, cnt_t = 0;
         int prev_i = -1, prev_j = -1;
         while (i != prev_i and j != prev_j) {
@@ -1261,7 +1261,7 @@ public:
         for (int i : nums)
             cnt[i] ++;
         for (auto &[i, j] : cnt) {
-            if (j > nums.size()/2)
+            if (j > size(nums)/2)
                 return i;
         }
         return -1;
@@ -1287,12 +1287,12 @@ class Solution:
 class Solution {
 public:
     vector<vector<int>> construct2DArray(vector<int> &original, int m, int n) {
-        if (n*m != original.size())
+        if (n*m != size(original))
             return {};
         vector<vector<int>> res(m);
         for (vector<int> &i : res)
             i = vector<int>(n);
-        for (int i=0; i<original.size(); i++)
+        for (int i=0; i<size(original); i++)
             res[i/n][i%n] = original[i];
         return res;
     }

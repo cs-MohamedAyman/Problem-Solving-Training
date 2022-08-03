@@ -88,7 +88,7 @@ class Solution {
             return false;
         if (curr_total == target)
             return check_partitions(0, k-1, 0, target, nums, visited);
-        for (int j=i; j<nums.size(); j++) {
+        for (int j=i; j<size(nums); j++) {
             if (visited[j])
                 continue;
             visited[j] = true;
@@ -139,7 +139,7 @@ class Solution:
 class Solution {
     int memo[5003][2];
     int dp(int i, bool buy, const vector<int> &prices) {
-        if (i >= prices.size())
+        if (i >= size(prices))
             return 0;
         if (memo[i][buy] != -1)
             return memo[i][buy];
@@ -578,7 +578,7 @@ class Solution {
     }
 public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>> &heights) {
-        int n = heights.size(), m = heights[0].size();
+        int n = size(heights), m = size(heights[0]);
         for (int c=0; c<m; c++) {
             dfs(0,   c, vis1, heights[0][c], heights, n, m);
             dfs(n-1, c, vis2, heights[n-1][c], heights, n, m);
@@ -640,7 +640,7 @@ class Solution {
     }
 public:
     int numIslands(vector<vector<char>> &grid) {
-        int n = grid.size(), m = grid[0].size();
+        int n = size(grid), m = size(grid[0]);
         int res = 0;
         for (int r=0; r<n; r++) {
             for (int c=0; c<m; c++) {
@@ -920,7 +920,7 @@ class Solution {
     int n;
 
     int binary_search_upper(const vector<int> &arr, int x) {
-        int l = 0, r = arr.size()-1;
+        int l = 0, r = size(arr)-1;
         while (l <= r) {
             int m = (l+r) / 2;
             if (arr[m] <= x)
@@ -938,7 +938,7 @@ class Solution {
     }
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        n = matrix.size();
+        n = size(matrix);
         int l = matrix[0][0], r = matrix[n-1][n-1];
         while (l <= r) {
             int m = (l+r) / 2;
@@ -993,7 +993,7 @@ public:
             return x.t > y.t;
         };
         priority_queue<Item, vector<Item>, decltype(comp)> min_heap(comp);
-        int n = nums1.size(), m = nums2.size();
+        int n = size(nums1), m = size(nums2);
         for (int i=0; i<min(n, k); i++) {
             int n1 = nums1[i], n2 = nums2[0];
             min_heap.push(Item(n1+n2, n1, n2, 0));
@@ -1034,14 +1034,14 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+    vector<vector<int>> merge(vector<vector<int>> &intervals) {
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> res;
         res.push_back(intervals[0]);
         for (auto it : intervals) {
             int s = it[0], e = it[1];
-            if (s <= res[res.size()-1][1])
-                res[res.size()-1][1] = max(res[res.size()-1][1], e);
+            if (s <= res[size(res)-1][1])
+                res[size(res)-1][1] = max(res[size(res)-1][1], e);
             else
                 res.push_back({s, e});
         }
@@ -1075,9 +1075,9 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList, vector<vector<int>>& secondList) {
+    vector<vector<int>> intervalIntersection(vector<vector<int>> &firstList, vector<vector<int>> &secondList) {
         int i = 0, j = 0;
-        int n = firstList.size(), m = secondList.size();
+        int n = size(firstList), m = size(secondList);
         vector<vector<int>> res;
         while (i < n and j < m) {
             int lo = max(firstList[i][0], secondList[j][0]);
@@ -1116,7 +1116,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+    int eraseOverlapIntervals(vector<vector<int>> &intervals) {
         sort(intervals.begin(), intervals.end());
         int res = 0;
         int prev_end = -int(5e4);
@@ -1150,48 +1150,159 @@ Problem Link: https://leetcode.com/problems/task-scheduler
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def leastInterval(self, tasks: List[str], n: int) -> int:
+        cnt = {}
+        max_cnt = 0
+        for i in tasks:
+            cnt[i] = cnt.get(i, 0) + 1
+            max_cnt = max(max_cnt, cnt[i])
+        res = (max_cnt-1) * (n+1)
+        for i, j in cnt.items():
+            if j == max_cnt:
+                res += 1
+        return max(res, len(tasks))
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int leastInterval(vector<char> &tasks, int n) {
+        map<char, int> cnt;
+        int max_cnt = 0;
+        for (char i : tasks) {
+            cnt[i] ++;
+            max_cnt = max(max_cnt, cnt[i]);
+        }
+        int res = (max_cnt-1) * (n+1);
+        for (auto &[i, j] : cnt) {
+            if (j == max_cnt)
+                res ++;
+        }
+        return max(res, int(size(tasks)));
+    }
+};
 ```
-`TODO`
 
-### problemname:
-Problem Link:
+### minimum number of arrows to burst balloons:
+Problem Link: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findMinArrowShots(self, points: List[List[int]]) -> int:
+        points.sort()
+        res = 0
+        prev_end = -int(1<<31)-1
+        for s, e in points:
+            if s > prev_end:
+                prev_end = e
+            else:
+                res += 1
+                prev_end = min(e, prev_end)
+        return len(points) - res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int findMinArrowShots(vector<vector<int>> &points) {
+        sort(points.begin(), points.end());
+        int res = 0;
+        long prev_end = -long(1LL<<31)-1;
+        for (auto it : points) {
+            int s = it[0], e = it[1];
+            if (s > prev_end)
+                prev_end = e;
+            else
+                res ++;
+                prev_end = min(long(e), prev_end);
+        }
+        return size(points) - res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### insert interval:
+Problem Link: https://leetcode.com/problems/insert-interval
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        i = 0
+        res = []
+        while i < len(intervals) and newInterval[0] > intervals[i][1]:
+            res.append(intervals[i])
+            i += 1
+        while i < len(intervals) and newInterval[1] >= intervals[i][0]:
+            newInterval = (min(newInterval[0], intervals[i][0]),
+                           max(newInterval[1], intervals[i][1]))
+            i += 1
+        res.append(newInterval)
+        while i < len(intervals):
+            res.append(intervals[i])
+            i += 1
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> insert(vector<vector<int>> &intervals, vector<int> &newInterval) {
+        int i = 0;
+        vector<vector<int>> res;
+        while (i < size(intervals) and newInterval[0] > intervals[i][1]) {
+            res.push_back(intervals[i]);
+            i ++;
+        }
+        while (i < size(intervals) and newInterval[1] >= intervals[i][0]) {
+            newInterval = {min(newInterval[0], intervals[i][0]),
+                           max(newInterval[1], intervals[i][1])};
+            i ++;
+        }
+        res.push_back(newInterval);
+        while (i < size(intervals)) {
+            res.push_back(intervals[i]);
+            i ++;
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### find minimum in rotated sorted array:
+Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        l, r = 0, len(nums)-1
+        while l+1 < r:
+            m = (l+r) // 2
+            if nums[m] > nums[r]:
+                l = m
+            else:
+                r = m
+        return min(nums[l], nums[r])
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int findMin(vector<int> &nums) {
+        int l = 0, r = size(nums)-1;
+        while (l+1 < r) {
+            int m = (l+r) / 2;
+            if (nums[m] > nums[r])
+                l = m;
+            else
+                r = m;
+        }
+        return min(nums[l], nums[r]);
+    }
+};
 ```
 
 ### problemname:

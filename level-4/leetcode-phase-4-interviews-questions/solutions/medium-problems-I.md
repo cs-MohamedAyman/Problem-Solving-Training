@@ -23,11 +23,11 @@ class Solution:
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int> &nums) {
-        vector<int> res(nums.size(), 1);
-        for (int i=0; i<nums.size()-1; i++)
+        vector<int> res(size(nums), 1);
+        for (int i=0; i<size(nums)-1; i++)
             res[i+1] *= res[i] * nums[i];
         int prod = 1;
-        for (int i=nums.size()-1; i>-1; i--) {
+        for (int i=size(nums)-1; i>-1; i--) {
             res[i] *= prod;
             prod *= nums[i];
         }
@@ -63,14 +63,14 @@ class Solution {
 public:
     int findDuplicate(vector<int> &nums) {
         int p1 = nums[0], p2 = nums[0];
-        for (int i=0; i<nums.size(); i++) {
+        for (int i=0; i<size(nums); i++) {
             p1 = nums[p1];
             p2 = nums[nums[p2]];
             if (p1 == p2)
                 break;
         }
         p2 = nums[0];
-        for (int i=0; i<nums.size(); i++) {
+        for (int i=0; i<size(nums); i++) {
             if (p1 == p2)
                 break;
             p1 = nums[p1];
@@ -102,7 +102,7 @@ class Solution {
 public:
     vector<int> findDuplicates(vector<int> &nums) {
         vector<int> res;
-        for (int i=0; i<nums.size(); i++) {
+        for (int i=0; i<size(nums); i++) {
             if (nums[abs(nums[i])-1] > 0)
                 nums[abs(nums[i])-1] *= -1;
             else
@@ -137,7 +137,7 @@ class Solution:
 class Solution {
 public:
     void setZeroes(vector<vector<int>> &matrix) {
-        int n = matrix.size(), m = matrix[0].size();
+        int n = size(matrix), m = size(matrix[0]);
         vector<int> zero_rows(n, 0);
         vector<int> zero_cols(m, 0);
         for (int i=0; i<n; i++) {
@@ -188,7 +188,7 @@ public:
     vector<int> spiralOrder(vector<vector<int>> &matrix) {
         vector<pair<int, int>> d = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
         int curr_dir = 0, x = 0, y = -1;
-        int n = matrix.size(), m = matrix[0].size();
+        int n = size(matrix), m = size(matrix[0]);
         vector<vector<int>> visited(n, vector<int>(m, 0));
         vector<int> res(n*m, 0);
         int res_idx = 0;
@@ -231,7 +231,7 @@ class Solution:
 class Solution {
 public:
     void rotate(vector<vector<int>> &matrix) {
-        int n = matrix.size();
+        int n = size(matrix);
         for (int i = 0; i < n/2; i++) {
             for (int j = i; j < n-i-1; j++) {
                 int k                = matrix[i][j];
@@ -283,7 +283,7 @@ class Solution {
     int dy[4] = {1, -1, 0, 0};
 
     bool dfs(int x, int y, int idx, const vector<vector<char>> &board, const string &word) {
-        if (idx == word.size())
+        if (idx == size(word))
             return true;
         if (not(0 <= x < n and 0 <= y < m) or visited[x][y] or
             board[x][y] != word[idx])
@@ -298,7 +298,7 @@ class Solution {
     }
 public:
     bool exist(vector<vector<char>> &board, string word) {
-        n = board.size(), m = board[0].size();
+        n = size(board), m = size(board[0]);
         visited.assign(n, vector<int>(m, 0));
         for (int i=0; i<n; i++) {
             for (int j=0; j<m; j++) {
@@ -374,7 +374,7 @@ class Solution {
     set<string> res;
 
     void generate_permutation(int i, string curr_s, const string &s) {
-        if (i == s.size()) {
+        if (i == size(s)) {
             res.insert(curr_s);
             return;
         }
@@ -412,7 +412,7 @@ class Solution:
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int> &nums) {
-        int n = nums.size();
+        int n = size(nums);
         vector<vector<int>> res;
         for (int i=0; i<(1<<n); i++) {
             vector<int> curr_list;
@@ -448,7 +448,7 @@ class Solution:
 class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int> &nums) {
-        int n = nums.size();
+        int n = size(nums);
         set<vector<int>> res;
         for (int i=0; i<(1<<n); i++) {
             vector<int> curr_list;
@@ -489,12 +489,12 @@ class Solution:
 ```cpp
 class Solution {
     vector<vector<int>> generate_permutation(vector<int> arr) {
-        if (arr.size() == 0)
+        if (size(arr) == 0)
             return {};
-        if (arr.size() == 1)
+        if (size(arr) == 1)
             return {arr};
         vector<vector<int>> res;
-        for (int i=0; i<arr.size(); i++) {
+        for (int i=0; i<size(arr); i++) {
             int m = arr[i];
             vector<int> sub1(arr.begin(), arr.begin()+i);
             vector<int> sub2(arr.begin()+i+1, arr.end());
@@ -542,12 +542,12 @@ class Solution:
 ```cpp
 class Solution {
     vector<vector<int>> generate_permutation(vector<int> arr) {
-        if (arr.size() == 0)
+        if (size(arr) == 0)
             return {};
-        if (arr.size() == 1)
+        if (size(arr) == 1)
             return {arr};
         vector<vector<int>> res;
-        for (int i=0; i<arr.size(); i++) {
+        for (int i=0; i<size(arr); i++) {
             int m = arr[i];
             vector<int> sub1(arr.begin(), arr.begin()+i);
             vector<int> sub2(arr.begin()+i+1, arr.end());
@@ -599,7 +599,7 @@ class Solution {
     vector<vector<int>> res;
 
     void generate_combinations(int p, vector<int> arr, int n, int k) {
-        if (arr.size() == k) {
+        if (size(arr) == k) {
             res.push_back(arr);
             return;
         }
@@ -650,7 +650,7 @@ class Solution {
             res.push_back(arr);
             return;
         }
-        if (i == candidates.size() or curr_total > target)
+        if (i == size(candidates) or curr_total > target)
             return;
         arr.push_back(candidates[i]);
         generate_combinations(i, arr, curr_total+candidates[i], candidates, target);
@@ -706,7 +706,7 @@ class Solution {
         if (curr_total > target)
             return;
         int prev = -1;
-        for (int j=i; j<candidates.size(); j++) {
+        for (int j=i; j<size(candidates); j++) {
             if (candidates[j] == prev)
                 continue;
             arr.push_back(candidates[j]);
@@ -752,7 +752,7 @@ class Solution {
     vector<vector<int>> res;
 
     void generate_combinations(int p, vector<int> arr, int curr_total, int n, int k) {
-        if (arr.size() == k and curr_total == n) {
+        if (size(arr) == k and curr_total == n) {
             res.push_back(arr);
             return;
         }
@@ -843,7 +843,7 @@ class Solution {
     int memo[23][N*2];
 
     int dp(int i, int curr_total, const vector<int> &nums, const int &target) {
-        if (i == nums.size())
+        if (i == size(nums))
             return curr_total == target;
         if (memo[i][curr_total+N] != -1)
             return memo[i][curr_total+N];
@@ -896,11 +896,11 @@ class Solution {
         return s == t;
     }
     void dfs(int i, const string &s) {
-        if (i == s.size()) {
+        if (i == size(s)) {
             res.push_back(curr_parts);
             return;
         }
-        for (int j=i; j<s.size(); j++) {
+        for (int j=i; j<size(s); j++) {
             if (is_palindrome(s.substr(i, j-i+1))) {
                 curr_parts.push_back(s.substr(i, j-i+1));
                 dfs(j+1, s);
@@ -945,7 +945,7 @@ class Solution {
                                       {'6',"mno"}, {'7',"pqrs"}, {'8',"tuv"}, {'9',"wxyz"}};
 
     void generate_letters(int i, string curr_s, const string &digits) {
-        if (curr_s.size() == digits.size()) {
+        if (size(curr_s) == size(digits)) {
             res.push_back(curr_s);
             return;
         }
@@ -1036,7 +1036,7 @@ class Solution {
     }
 public:
     int rob(vector<int> &nums) {
-        if (nums.size() == 1)
+        if (size(nums) == 1)
             return nums[0];
         return max(rob_subarray({nums.begin()+1, nums.end()}),
                    rob_subarray({nums.begin(), nums.end()-1}));
@@ -1135,9 +1135,9 @@ class Solution:
 class Solution {
 public:
     int lengthOfLIS(vector<int> &nums) {
-        vector<int> res(nums.size(), 1);
-        for (int i=nums.size()-1; i>-1; i--) {
-            for (int j=i+1; j<nums.size(); j++) {
+        vector<int> res(size(nums), 1);
+        for (int i=size(nums)-1; i>-1; i--) {
+            for (int j=i+1; j<size(nums); j++) {
                 if (nums[j] > nums[i])
                     res[i] = max(res[i], res[j]+1);
             }
@@ -1178,9 +1178,9 @@ class Solution {
         string res = "";
         int res_len = 0;
         int l, r;
-        for (int i=0; i<s.size(); i++) {
+        for (int i=0; i<size(s); i++) {
             l = i, r = i+size_type;
-            while (l >= 0 and r < s.size() and s[l] == s[r]) {
+            while (l >= 0 and r < size(s) and s[l] == s[r]) {
                 if (res_len < r-l+1) {
                     res = s.substr(l, r-l+1);
                     res_len = r-l+1;
@@ -1195,7 +1195,7 @@ public:
     string longestPalindrome(string s) {
         string res1 = get_longest(0, s);
         string res2 = get_longest(1, s);
-        return (res1.size() > res2.size())? res1 : res2;
+        return (size(res1) > size(res2))? res1 : res2;
     }
 };
 ```
@@ -1220,12 +1220,12 @@ class Solution:
 class Solution {
 public:
     bool wordBreak(string s, vector<string> &wordDict) {
-        vector<int> dp(s.size()+1, 0);
-        dp[s.size()] = 1;
-        for (int i=s.size()-1; i>-1; i--) {
+        vector<int> dp(size(s)+1, 0);
+        dp[size(s)] = 1;
+        for (int i=size(s)-1; i>-1; i--) {
             for (string w : wordDict) {
-                if (i+w.size() <= s.size() and s.substr(i, w.size()) == w and dp[i+w.size()])
-                    dp[i] = dp[i+w.size()];
+                if (i+size(w) <= size(s) and s.substr(i, size(w)) == w and dp[i+size(w)])
+                    dp[i] = dp[i+size(w)];
             }
         }
         return dp[0];
@@ -1300,7 +1300,7 @@ class Solution {
         if (s[i] == '0')
             return 0;
         int res = dp(i+1, s);
-        if (i+1 < s.size() and 10 <= stoi(s.substr(i, 2)) and stoi(s.substr(i, 2)) <= 26)
+        if (i+1 < size(s) and 10 <= stoi(s.substr(i, 2)) and stoi(s.substr(i, 2)) <= 26)
             res += dp(i+2, s);
         memo[i] = res;
         return memo[i];
@@ -1308,7 +1308,7 @@ class Solution {
 public:
     int numDecodings(string s) {
         memset(memo, -1, sizeof memo);
-        memo[s.size()] = 1;
+        memo[size(s)] = 1;
         return dp(0, s);
     }
 };
@@ -1365,8 +1365,8 @@ class Solution:
 class Solution {
 public:
     bool canJump(vector<int> &nums) {
-        int res = nums.size()-1;
-        for (int i=nums.size()-1; i>-1; i--) {
+        int res = size(nums)-1;
+        for (int i=size(nums)-1; i>-1; i--) {
             if (i + nums[i] >= res)
                 res = i;
         }
@@ -1401,7 +1401,7 @@ class Solution:
 class Solution {
     int count_pali(string s, int l, int r) {
         int res = 0;
-        while (l >=0 and r < s.size() and s[l] == s[r]) {
+        while (l >=0 and r < size(s) and s[l] == s[r]) {
             l --;
             r ++;
             res ++;
@@ -1411,7 +1411,7 @@ class Solution {
 public:
     int countSubstrings(string s) {
         int res = 0;
-        for (int i=0; i<s.size(); i++) {
+        for (int i=0; i<size(s); i++) {
             res += count_pali(s, i, i);
             res += count_pali(s, i, i+1);
         }
@@ -1453,9 +1453,9 @@ public:
     int findNumberOfLIS(vector<int> &nums) {
         map<int, pair<int, int>> dp;
         int len_lis = 0, res = 0;
-        for (int i=nums.size()-1; i>-1; i--) {
+        for (int i=size(nums)-1; i>-1; i--) {
             int max_len = 1, max_cnt = 1;
-            for (int j=i+1; j<nums.size(); j++) {
+            for (int j=i+1; j<size(nums); j++) {
                 if (nums[j] <= nums[i])
                     continue;
                 auto [length, count] = dp[j];
