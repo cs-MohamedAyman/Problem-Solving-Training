@@ -13,222 +13,454 @@
 
 ### LeetCode - Backtracking `35 problems`
 
-- [count of matches in tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
-- [sum of all subset xor totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
-- [binary watch](https://leetcode.com/problems/binary-watch/)
-- [all paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target/)
-- [letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
-- [count sorted vowel strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
-- [iterator for combination](https://leetcode.com/problems/iterator-for-combination/)
-- [the k th lexicographical string of all happy strings of length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)
-- [letter case permutation](https://leetcode.com/problems/letter-case-permutation/)
-- [permutations](https://leetcode.com/problems/permutations/)
-- [generate parentheses](https://leetcode.com/problems/generate-parentheses/)
-- [subsets](https://leetcode.com/problems/subsets/)
-- [path with maximum gold](https://leetcode.com/problems/path-with-maximum-gold/)
-- [brace expansion](https://leetcode.com/problems/brace-expansion/)
-- [check if number is a sum of powers of three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
-- [beautiful arrangement](https://leetcode.com/problems/beautiful-arrangement/)
-- [combination sum iii](https://leetcode.com/problems/combination-sum-iii/)
-- [combination sum](https://leetcode.com/problems/combination-sum/)
-- [synonymous sentences](https://leetcode.com/problems/synonymous-sentences/)
-- [combinations](https://leetcode.com/problems/combinations/)
-- [sequential digits](https://leetcode.com/problems/sequential-digits/)
-- [generalized abbreviation](https://leetcode.com/problems/generalized-abbreviation/)
-- [campus bikes ii](https://leetcode.com/problems/campus-bikes-ii/)
-- [palindrome partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-- [gray code](https://leetcode.com/problems/gray-code/)
-- [flip game ii](https://leetcode.com/problems/flip-game-ii/)
-- [combination sum ii](https://leetcode.com/problems/combination-sum-ii/)
-- [letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- [maximum length of a concatenated string with unique characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
-- [split a string into the max number of unique substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
-- [permutations ii](https://leetcode.com/problems/permutations-ii/)
-- [android unlock patterns](https://leetcode.com/problems/android-unlock-patterns/)
-- [subsets ii](https://leetcode.com/problems/subsets-ii/)
-- [count numbers with unique digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
-- [construct the lexicographically largest valid sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-of-matches-in-tournament/">count of matches in tournament</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">sum of all subset xor totals</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-watch/">binary watch</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/all-paths-from-source-to-target/">all paths from source to target</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/letter-tile-possibilities/">letter tile possibilities</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">count sorted vowel strings</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/iterator-for-combination/">iterator for combination</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">the k th lexicographical string of all happy strings of length n</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/letter-case-permutation/">letter case permutation</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/permutations/">permutations</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/generate-parentheses/">generate parentheses</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subsets/">subsets</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-with-maximum-gold/">path with maximum gold</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/brace-expansion/">brace expansion</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/">check if number is a sum of powers of three</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/beautiful-arrangement/">beautiful arrangement</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum-iii/">combination sum iii</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum/">combination sum</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/synonymous-sentences/">synonymous sentences</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combinations/">combinations</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sequential-digits/">sequential digits</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/generalized-abbreviation/">generalized abbreviation</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/campus-bikes-ii/">campus bikes ii</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-partitioning/">palindrome partitioning</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/gray-code/">gray code</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-game-ii/">flip game ii</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum-ii/">combination sum ii</a></th>
+            <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">letter combinations of a phone number</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">maximum length of a concatenated string with unique characters</a></th>
+            <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/">split a string into the max number of unique substrings</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/permutations-ii/">permutations ii</a></th>
+            <th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/android-unlock-patterns/">android unlock patterns</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subsets-ii/">subsets ii</a></th>
+            <th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-numbers-with-unique-digits/">count numbers with unique digits</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/">construct the lexicographically largest valid sequence</a></th>
+            <th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### LeetCode - Breadth First Search I `25 problems`
 
-- [maximum depth of n ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
-- [employee importance](https://leetcode.com/problems/employee-importance/)
-- [cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/)
-- [symmetric tree](https://leetcode.com/problems/symmetric-tree/)
-- [minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-- [find a corresponding node of a binary tree in a clone of that tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
-- [clone n ary tree](https://leetcode.com/problems/clone-n-ary-tree/)
-- [clone binary tree with random pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
-- [nested list weight sum](https://leetcode.com/problems/nested-list-weight-sum/)
-- [find nearest right node in binary tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)
-- [find distance in a binary tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/)
-- [maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
-- [n ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
-- [smallest subtree with all the deepest nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
-- [lexicographically smallest string after applying operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)
-- [web crawler](https://leetcode.com/problems/web-crawler/)
-- [find bottom left tree value](https://leetcode.com/problems/find-bottom-left-tree-value/)
-- [find largest value in each tree row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
-- [minesweeper](https://leetcode.com/problems/minesweeper/)
-- [jump game iii](https://leetcode.com/problems/jump-game-iii/)
-- [tree diameter](https://leetcode.com/problems/tree-diameter/)
-- [all nodes distance k in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
-- [number of distinct islands](https://leetcode.com/problems/number-of-distinct-islands/)
-- [binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [walls and gates](https://leetcode.com/problems/walls-and-gates/)
-- [binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree/">maximum depth of n ary tree</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/employee-importance/">employee importance</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cousins-in-binary-tree/">cousins in binary tree</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/symmetric-tree/">symmetric tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">minimum depth of binary tree</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">find a corresponding node of a binary tree in a clone of that tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/clone-n-ary-tree/">clone n ary tree</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/clone-binary-tree-with-random-pointer/">clone binary tree with random pointer</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/nested-list-weight-sum/">nested list weight sum</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/">find nearest right node in binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-distance-in-a-binary-tree/">find distance in a binary tree</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">maximum level sum of a binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">n ary tree level order traversal</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/">smallest subtree with all the deepest nodes</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/">lexicographically smallest string after applying operations</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/web-crawler/">web crawler</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-bottom-left-tree-value/">find bottom left tree value</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/">find largest value in each tree row</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minesweeper/">minesweeper</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/jump-game-iii/">jump game iii</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/tree-diameter/">tree diameter</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">all nodes distance k in binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-distinct-islands/">number of distinct islands</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">binary tree level order traversal</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/walls-and-gates/">walls and gates</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-right-side-view/">binary tree right side view</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### LeetCode - Breadth First Search II `25 problems`
 
-- [binary tree level order traversal ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-- [number of operations to make network connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
-- [the maze](https://leetcode.com/problems/the-maze/)
-- [open the lock](https://leetcode.com/problems/open-the-lock/)
-- [binary tree zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-- [populating next right pointers in each node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-- [shortest bridge](https://leetcode.com/problems/shortest-bridge/)
-- [number of islands](https://leetcode.com/problems/number-of-islands/)
-- [rotting oranges](https://leetcode.com/problems/rotting-oranges/)
-- [perfect squares](https://leetcode.com/problems/perfect-squares/)
-- [the maze ii](https://leetcode.com/problems/the-maze-ii/)
-- [web crawler multithreaded](https://leetcode.com/problems/web-crawler-multithreaded/)
-- [binary tree vertical order traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
-- [minimum sideway jumps](https://leetcode.com/problems/minimum-sideway-jumps/)
-- [check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
-- [pacific atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [get watched videos by your friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/)
-- [01 matrix](https://leetcode.com/problems/01-matrix/)
-- [shortest path in binary matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
-- [snakes and ladders](https://leetcode.com/problems/snakes-and-ladders/)
-- [cheapest flights within k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
-- [minimum knight moves](https://leetcode.com/problems/minimum-knight-moves/)
-- [number of nodes in the sub tree with the same label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
-- [surrounded regions](https://leetcode.com/problems/surrounded-regions/)
-- [minimum jumps to reach home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
-- [jump game vii](https://leetcode.com/problems/jump-game-vii/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">binary tree level order traversal ii</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-operations-to-make-network-connected/">number of operations to make network connected</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-maze/">the maze</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/open-the-lock/">open the lock</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">binary tree zigzag level order traversal</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/">populating next right pointers in each node</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-bridge/">shortest bridge</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-islands/">number of islands</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotting-oranges/">rotting oranges</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/perfect-squares/">perfect squares</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-maze-ii/">the maze ii</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/web-crawler-multithreaded/">web crawler multithreaded</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-vertical-order-traversal/">binary tree vertical order traversal</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-sideway-jumps/">minimum sideway jumps</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/">check if there is a valid path in a grid</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">pacific atlantic water flow</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/get-watched-videos-by-your-friends/">get watched videos by your friends</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/01-matrix/">01 matrix</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">shortest path in binary matrix</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/snakes-and-ladders/">snakes and ladders</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">cheapest flights within k stops</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-knight-moves/">minimum knight moves</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/">number of nodes in the sub tree with the same label</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/surrounded-regions/">surrounded regions</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-jumps-to-reach-home/">minimum jumps to reach home</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/jump-game-vii/">jump game vii</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### LeetCode - Depth First Search I `35 problems`
 
-- [range sum of bst](https://leetcode.com/problems/range-sum-of-bst/)
-- [find all the lonely nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)
-- [increasing order search tree](https://leetcode.com/problems/increasing-order-search-tree/)
-- [maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [leaf similar trees](https://leetcode.com/problems/leaf-similar-trees/)
-- [convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-- [flood fill](https://leetcode.com/problems/flood-fill/)
-- [binary tree paths](https://leetcode.com/problems/binary-tree-paths/)
-- [minimum distance between bst nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
-- [same tree](https://leetcode.com/problems/same-tree/)
-- [binary tree tilt](https://leetcode.com/problems/binary-tree-tilt/)
-- [balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/)
-- [path sum](https://leetcode.com/problems/path-sum/)
-- [deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/)
-- [sum of nodes with even valued grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
-- [binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
-- [lowest common ancestor of a binary tree iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/)
-- [find leaves of binary tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
-- [count good nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-- [distribute coins in binary tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
-- [maximum difference between node and ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
-- [change the root of a binary tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/)
-- [pseudo palindromic paths in a binary tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
-- [longest word with all prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)
-- [lowest common ancestor of deepest leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)
-- [delete nodes and return forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
-- [lexicographically smallest equivalent string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
-- [max area of island](https://leetcode.com/problems/max-area-of-island/)
-- [nested list weight sum ii](https://leetcode.com/problems/nested-list-weight-sum-ii/)
-- [number of closed islands](https://leetcode.com/problems/number-of-closed-islands/)
-- [reorder routes to make all paths lead to the city zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
-- [delete tree nodes](https://leetcode.com/problems/delete-tree-nodes/)
-- [number of provinces](https://leetcode.com/problems/number-of-provinces/)
-- [convert bst to greater tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-bst/">range sum of bst</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-all-the-lonely-nodes/">find all the lonely nodes</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/increasing-order-search-tree/">increasing order search tree</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">maximum depth of binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/leaf-similar-trees/">leaf similar trees</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">convert sorted array to binary search tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flood-fill/">flood fill</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-paths/">binary tree paths</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">minimum distance between bst nodes</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/same-tree/">same tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-tilt/">binary tree tilt</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/balanced-binary-tree/">balanced binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-sum/">path sum</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/deepest-leaves-sum/">deepest leaves sum</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/">sum of nodes with even valued grandparent</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">binary search tree to greater sum tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/">lowest common ancestor of a binary tree iv</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-leaves-of-binary-tree/">find leaves of binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">count good nodes in binary tree</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">distribute coins in binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">maximum difference between node and ancestor</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/change-the-root-of-a-binary-tree/">change the root of a binary tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">pseudo palindromic paths in a binary tree</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-word-with-all-prefixes/">longest word with all prefixes</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">lowest common ancestor of deepest leaves</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">delete nodes and return forest</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/">lexicographically smallest equivalent string</a></th>
+            <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/max-area-of-island/">max area of island</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/nested-list-weight-sum-ii/">nested list weight sum ii</a></th>
+            <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-closed-islands/">number of closed islands</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/">reorder routes to make all paths lead to the city zero</a></th>
+            <th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-tree-nodes/">delete tree nodes</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-provinces/">number of provinces</a></th>
+            <th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">convert bst to greater tree</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### LeetCode - Depth First Search II `35 problems`
 
-- [lonely pixel i](https://leetcode.com/problems/lonely-pixel-i/)
-- [number of enclaves](https://leetcode.com/problems/number-of-enclaves/)
-- [number of good leaf nodes pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)
-- [flatten a multilevel doubly linked list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
-- [ternary expression parser](https://leetcode.com/problems/ternary-expression-parser/)
-- [time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
-- [pyramid transition matrix](https://leetcode.com/problems/pyramid-transition-matrix/)
-- [most stones removed with same row or column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
-- [minimum time to collect all apples in a tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
-- [flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-- [shopping offers](https://leetcode.com/problems/shopping-offers/)
-- [decode string](https://leetcode.com/problems/decode-string/)
-- [construct binary tree from preorder and inorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [loud and rich](https://leetcode.com/problems/loud-and-rich/)
-- [accounts merge](https://leetcode.com/problems/accounts-merge/)
-- [convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
-- [house robber iii](https://leetcode.com/problems/house-robber-iii/)
-- [sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-- [binary tree coloring game](https://leetcode.com/problems/binary-tree-coloring-game/)
-- [construct binary tree from inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-- [insufficient nodes in root to leaf paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
-- [path sum ii](https://leetcode.com/problems/path-sum-ii/)
-- [flip binary tree to match preorder traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)
-- [increasing subsequences](https://leetcode.com/problems/increasing-subsequences/)
-- [smallest string starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
-- [sentence similarity ii](https://leetcode.com/problems/sentence-similarity-ii/)
-- [coloring a border](https://leetcode.com/problems/coloring-a-border/)
-- [target sum](https://leetcode.com/problems/target-sum/)
-- [recover binary search tree](https://leetcode.com/problems/recover-binary-search-tree/)
-- [populating next right pointers in each node ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
-- [maximum product of splitted binary tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
-- [matchsticks to square](https://leetcode.com/problems/matchsticks-to-square/)
-- [out of boundary paths](https://leetcode.com/problems/out-of-boundary-paths/)
-- [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lonely-pixel-i/">lonely pixel i</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-enclaves/">number of enclaves</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/">number of good leaf nodes pairs</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/">flatten a multilevel doubly linked list</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ternary-expression-parser/">ternary expression parser</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/time-needed-to-inform-all-employees/">time needed to inform all employees</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pyramid-transition-matrix/">pyramid transition matrix</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">most stones removed with same row or column</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">minimum time to collect all apples in a tree</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">flatten binary tree to linked list</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shopping-offers/">shopping offers</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-string/">decode string</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">construct binary tree from preorder and inorder traversal</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/loud-and-rich/">loud and rich</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/accounts-merge/">accounts merge</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/">convert sorted list to binary search tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/house-robber-iii/">house robber iii</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">sum root to leaf numbers</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-coloring-game/">binary tree coloring game</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">construct binary tree from inorder and postorder traversal</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/">insufficient nodes in root to leaf paths</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-sum-ii/">path sum ii</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/">flip binary tree to match preorder traversal</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/increasing-subsequences/">increasing subsequences</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/">smallest string starting from leaf</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sentence-similarity-ii/">sentence similarity ii</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/coloring-a-border/">coloring a border</a></th>
+            <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/target-sum/">target sum</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/recover-binary-search-tree/">recover binary search tree</a></th>
+            <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/">populating next right pointers in each node ii</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/">maximum product of splitted binary tree</a></th>
+            <th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/matchsticks-to-square/">matchsticks to square</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/out-of-boundary-paths/">out of boundary paths</a></th>
+            <th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/validate-binary-search-tree/">validate binary search tree</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### LeetCode - Dynamic Programming `50 problems`
 
-- [counting bits](https://leetcode.com/problems/counting-bits/)
-- [divisor game](https://leetcode.com/problems/divisor-game/)
-- [best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [range sum query immutable](https://leetcode.com/problems/range-sum-query-immutable/)
-- [climbing stairs](https://leetcode.com/problems/climbing-stairs/)
-- [matrix block sum](https://leetcode.com/problems/matrix-block-sum/)
-- [count square submatrices with all ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
-- [partition array for maximum sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
-- [stone game](https://leetcode.com/problems/stone-game/)
-- [minimum cost tree from leaf values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
-- [number of corner rectangles](https://leetcode.com/problems/number-of-corner-rectangles/)
-- [stone game ii](https://leetcode.com/problems/stone-game-ii/)
-- [minimum falling path sum](https://leetcode.com/problems/minimum-falling-path-sum/)
-- [palindromic substrings](https://leetcode.com/problems/palindromic-substrings/)
-- [minimum cost for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
-- [airplane seat assignment probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)
-- [where will the ball fall](https://leetcode.com/problems/where-will-the-ball-fall/)
-- [maximum subarray sum after one operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/)
-- [count submatrices with all ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
-- [arithmetic slices](https://leetcode.com/problems/arithmetic-slices/)
-- [minimum ascii delete sum for two strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
-- [longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [filling bookcase shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
-- [minimum path sum](https://leetcode.com/problems/minimum-path-sum/)
-- [unique paths](https://leetcode.com/problems/unique-paths/)
-- [longest palindromic subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
-- [longest string chain](https://leetcode.com/problems/longest-string-chain/)
-- [longest zigzag path in a binary tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
-- [unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/)
-- [paint house](https://leetcode.com/problems/paint-house/)
-- [maximum length of pair chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
-- [longest palindromic subsequence ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii/)
-- [integer break](https://leetcode.com/problems/integer-break/)
-- [largest sum of averages](https://leetcode.com/problems/largest-sum-of-averages/)
-- [delete and earn](https://leetcode.com/problems/delete-and-earn/)
-- [minimum score triangulation of polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)
-- [2 keys keyboard](https://leetcode.com/problems/2-keys-keyboard/)
-- [knight probability in chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
-- [push dominoes](https://leetcode.com/problems/push-dominoes/)
-- [toss strange coins](https://leetcode.com/problems/toss-strange-coins/)
-- [greatest sum divisible by three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)
-- [stone game vii](https://leetcode.com/problems/stone-game-vii/)
-- [longest arithmetic subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
-- [predict the winner](https://leetcode.com/problems/predict-the-winner/)
-- [video stitching](https://leetcode.com/problems/video-stitching/)
-- [best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-- [largest 1 bordered square](https://leetcode.com/problems/largest-1-bordered-square/)
-- [length of longest fibonacci subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/counting-bits/">counting bits</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divisor-game/">divisor game</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">best time to buy and sell stock</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">min cost climbing stairs</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-query-immutable/">range sum query immutable</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/climbing-stairs/">climbing stairs</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/matrix-block-sum/">matrix block sum</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">count square submatrices with all ones</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">partition array for maximum sum</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/stone-game/">stone game</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/">minimum cost tree from leaf values</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-corner-rectangles/">number of corner rectangles</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/stone-game-ii/">stone game ii</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-falling-path-sum/">minimum falling path sum</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindromic-substrings/">palindromic substrings</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-for-tickets/">minimum cost for tickets</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/">airplane seat assignment probability</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/where-will-the-ball-fall/">where will the ball fall</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/">maximum subarray sum after one operation</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-submatrices-with-all-ones/">count submatrices with all ones</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/arithmetic-slices/">arithmetic slices</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/">minimum ascii delete sum for two strings</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-common-subsequence/">longest common subsequence</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/filling-bookcase-shelves/">filling bookcase shelves</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-path-sum/">minimum path sum</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-paths/">unique paths</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-palindromic-subsequence/">longest palindromic subsequence</a></th>
+            <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-string-chain/">longest string chain</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/">longest zigzag path in a binary tree</a></th>
+            <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-binary-search-trees/">unique binary search trees</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/paint-house/">paint house</a></th>
+            <th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-length-of-pair-chain/">maximum length of pair chain</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-palindromic-subsequence-ii/">longest palindromic subsequence ii</a></th>
+            <th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/integer-break/">integer break</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-sum-of-averages/">largest sum of averages</a></th>
+            <th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-and-earn/">delete and earn</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-score-triangulation-of-polygon/">minimum score triangulation of polygon</a></th>
+            <th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/2-keys-keyboard/">2 keys keyboard</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/knight-probability-in-chessboard/">knight probability in chessboard</a></th>
+            <th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://leetcode.com/problems/push-dominoes/">push dominoes</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://leetcode.com/problems/toss-strange-coins/">toss strange coins</a></th>
+            <th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://leetcode.com/problems/greatest-sum-divisible-by-three/">greatest sum divisible by three</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://leetcode.com/problems/stone-game-vii/">stone game vii</a></th>
+            <th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-arithmetic-subsequence/">longest arithmetic subsequence</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://leetcode.com/problems/predict-the-winner/">predict the winner</a></th>
+            <th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://leetcode.com/problems/video-stitching/">video stitching</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/">best time to buy and sell stock with cooldown</a></th>
+            <th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-1-bordered-square/">largest 1 bordered square</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">49</th><th align="left" width="550px"><a href="https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/">length of longest fibonacci subsequence</a></th>
+            <th align="center" width="50px">50</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
