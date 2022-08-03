@@ -964,18 +964,18 @@ class Solution:
         min_heap = queue.PriorityQueue()
         n, m = len(nums1), len(nums2)
         for i in range(min(n, k)):
-            total = nums1[i] + nums2[0]
-            pair = (nums1[i], nums2[0])
-            min_heap.put((total, pair, 0))
+            t = nums1[i] + nums2[0]
+            n1, n2 = nums1[i], nums2[0]
+            min_heap.put((t, n1, n2, 0))
         res = []
         while k and not min_heap.empty():
-            total, pair, idx = min_heap.get()
-            res.append(pair)
+            t, n1, n2, idx = min_heap.get()
+            res.append((n1 ,n2))
             k -= 1
             if idx < m-1:
-                total = pair[0] + nums2[idx+1]
-                pair = (pair[0], nums2[idx+1])
-                min_heap.put((total, pair, idx+1))
+                t = n1 + nums2[idx+1]
+                n1, n2 = n1, nums2[idx+1]
+                min_heap.put((t, n1 , n2, idx+1))
         return res
 ```
 #### - CPP Solution
@@ -1050,8 +1050,91 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### Interval List Intersections:
+Problem Link: https://leetcode.com/problems/interval-list-intersections
+
+#### - Python Solution
+```python
+class Solution:
+    def intervalIntersection(self, firstList: List[List[int]], secondList: List[List[int]]) -> List[List[int]]:
+        i, j = 0, 0
+        n, m = len(firstList), len(secondList)
+        res = []
+        while i < n and j < m:
+            lo = max(firstList[i][0], secondList[j][0])
+            hi = min(firstList[i][1], secondList[j][1])
+            if lo <= hi:
+                res.append((lo, hi))
+            if firstList[i][1] > secondList[j][1]:
+                j += 1
+            else:
+                i += 1
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList, vector<vector<int>>& secondList) {
+        int i = 0, j = 0;
+        int n = firstList.size(), m = secondList.size();
+        vector<vector<int>> res;
+        while (i < n and j < m) {
+            int lo = max(firstList[i][0], secondList[j][0]);
+            int hi = min(firstList[i][1], secondList[j][1]);
+            if (lo <= hi)
+                res.push_back({lo, hi});
+            if (firstList[i][1] > secondList[j][1])
+                j ++;
+            else
+                i ++;
+        }
+        return res;
+    }
+};
+```
+
+### non overlapping intervals:
+Problem Link: https://leetcode.com/problems/non-overlapping-intervals
+
+#### - Python Solution
+```python
+class Solution:
+    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
+        intervals.sort()
+        res = 0
+        prev_end = -int(5e4)
+        for s, e in intervals:
+            if s >= prev_end:
+                prev_end = e
+            else:
+                res += 1
+                prev_end = min(e, prev_end)
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+        sort(intervals.begin(), intervals.end());
+        int res = 0;
+        int prev_end = -int(5e4);
+        for (auto it : intervals) {
+            int s = it[0], e = it[1];
+            if (s >= prev_end)
+                prev_end = e;
+            else
+                res ++;
+                prev_end = min(e, prev_end);
+        }
+        return res;
+    }
+};
+```
+
+### meeting rooms ii:
+Problem Link: https://leetcode.com/problems/meeting-rooms-ii
 
 #### - Python Solution
 ```python
@@ -1062,8 +1145,8 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### task scheduler:
+Problem Link: https://leetcode.com/problems/task-scheduler
 
 #### - Python Solution
 ```python
@@ -1073,30 +1156,7 @@ Problem Link:
 ```cpp
 
 ```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
+`TODO`
 
 ### problemname:
 Problem Link:
