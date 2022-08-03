@@ -1440,7 +1440,7 @@ public:
                 else
                     l = m+1;
             }
-            else 
+            else
                 l ++;
         }
         return false;
