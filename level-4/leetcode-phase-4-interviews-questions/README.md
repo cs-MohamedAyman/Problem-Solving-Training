@@ -10,7 +10,7 @@
 - ***Medium Problems III*** `35 problems`
 - ***Hard Problems***        `30 problems`
 
-### LeetCode - Easy Problems `35 problems`
+### LeetCode - Easy Problems `35 problems` [`Solutions`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode-phase-4-interviews-questions/solutions/easy-problems.md)
 
 <table>
     <tbody>
@@ -89,8 +89,7 @@
     </tbody>
 </table>
 
-
-### LeetCode - Medium Problems I `35 problems`
+### LeetCode - Medium Problems I `35 problems` [`Solutions`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode-phase-4-interviews-questions/solutions/medium-problems-I.md)
 
 <table>
     <tbody>
@@ -169,7 +168,7 @@
     </tbody>
 </table>
 
-### LeetCode - Medium Problems II `35 problems`
+### LeetCode - Medium Problems II `35 problems` [`Solutions`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode-phase-4-interviews-questions/solutions/medium-problems-II.md)
 
 <table>
     <tbody>
@@ -248,7 +247,7 @@
     </tbody>
 </table>
 
-### LeetCode - Medium Problems III `35 problems`
+### LeetCode - Medium Problems III `35 problems` [`Solutions`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode-phase-4-interviews-questions/solutions/medium-problems-III.md)
 
 <table>
     <tbody>
@@ -327,7 +326,7 @@
     </tbody>
 </table>
 
-### LeetCode - Hard Problems `30 problems`
+### LeetCode - Hard Problems `30 problems` [`Solutions`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode-phase-4-interviews-questions/solutions/hard-problems.md)
 
 <table>
     <tbody>
