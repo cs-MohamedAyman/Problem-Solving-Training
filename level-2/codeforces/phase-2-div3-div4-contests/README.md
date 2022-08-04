@@ -12,93 +12,191 @@
 
 ### Codeforces -  Div3 Contests I `20 contests`
 
-- CF-Round 479: https://codeforces.com/contest/977
-- CF-Round 481: https://codeforces.com/contest/978
-- CF-Round 486: https://codeforces.com/contest/988
-- CF-Round 490: https://codeforces.com/contest/999
-- CF-Round 494: https://codeforces.com/contest/1003
-- CF-Round 496: https://codeforces.com/contest/1005
-- CF-Round 498: https://codeforces.com/contest/1006
-- CF-Round 501: https://codeforces.com/contest/1015
-- CF-Round 506: https://codeforces.com/contest/1029
-- CF-Round 515: https://codeforces.com/contest/1066
-- CF-Round 521: https://codeforces.com/contest/1077
-- CF-Round 527: https://codeforces.com/contest/1092
-- CF-Round 529: https://codeforces.com/contest/1095
-- CF-Round 531: https://codeforces.com/contest/1102
-- CF-Round 535: https://codeforces.com/contest/1108
-- CF-Round 540: https://codeforces.com/contest/1118
-- CF-Round 544: https://codeforces.com/contest/1133
-- CF-Round 547: https://codeforces.com/contest/1141
-- CF-Round 550: https://codeforces.com/contest/1144
-- CF-Round 552: https://codeforces.com/contest/1154
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/977">Round 479 B</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/978">Round 481 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/988">Round 486 B</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/999">Round 490 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1003">Round 494 B</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1005">Round 496 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1006">Round 498 B</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1015">Round 501 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1029">Round 506 B</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1066">Round 515 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1077">Round 521 B</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1092">Round 527 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1095">Round 529 B</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1102">Round 531 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1108">Round 535 B</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1118">Round 540 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1133">Round 544 B</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1141">Round 547 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1144">Round 550 B</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1154">Round 552 B</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces -  Div3 Contests II `20 contests`
 
-- CF-Round 555: https://codeforces.com/contest/1157
-- CF-Round 560: https://codeforces.com/contest/1165
-- CF-Round 565: https://codeforces.com/contest/1176
-- CF-Round 570: https://codeforces.com/contest/1183
-- CF-Round 575: https://codeforces.com/contest/1196
-- CF-Round 579: https://codeforces.com/contest/1203
-- CF-Round 582: https://codeforces.com/contest/1213
-- CF-Round 587: https://codeforces.com/contest/1216
-- CF-Round 590: https://codeforces.com/contest/1234
-- CF-Round 595: https://codeforces.com/contest/1249
-- CF-Round 598: https://codeforces.com/contest/1256
-- CF-Round 605: https://codeforces.com/contest/1272
-- CF-Round 611: https://codeforces.com/contest/1283
-- CF-Round 615: https://codeforces.com/contest/1294
-- CF-Round 617: https://codeforces.com/contest/1296
-- CF-Round 624: https://codeforces.com/contest/1311
-- CF-Round 627: https://codeforces.com/contest/1324
-- CF-Round 629: https://codeforces.com/contest/1328
-- CF-Round 634: https://codeforces.com/contest/1335
-- CF-Round 636: https://codeforces.com/contest/1343
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1157">Round 555 B</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1165">Round 560 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1176">Round 565 B</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1183">Round 570 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1196">Round 575 B</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1203">Round 579 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1213">Round 582 B</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1216">Round 587 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1234">Round 590 B</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1249">Round 595 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1256">Round 598 B</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1272">Round 605 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1283">Round 611 B</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1294">Round 615 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1296">Round 617 B</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1311">Round 624 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1324">Round 627 B</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1328">Round 629 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1335">Round 634 B</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1343">Round 636 B</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces -  Div3 Contests III `20 contests`
 
-- CF-Round 642: https://codeforces.com/contest/1353
-- CF-Round 644: https://codeforces.com/contest/1360
-- CF-Round 650: https://codeforces.com/contest/1367
-- CF-Round 653: https://codeforces.com/contest/1374
-- CF-Round 656: https://codeforces.com/contest/1385
-- CF-Round 661: https://codeforces.com/contest/1399
-- CF-Round 667: https://codeforces.com/contest/1409
-- CF-Round 674: https://codeforces.com/contest/1426
-- CF-Round 677: https://codeforces.com/contest/1433
-- CF-Round 686: https://codeforces.com/contest/1454
-- CF-Round 690: https://codeforces.com/contest/1462
-- CF-Round 693: https://codeforces.com/contest/1472
-- CF-Round 697: https://codeforces.com/contest/1475
-- CF-Round 702: https://codeforces.com/contest/1490
-- CF-Round 710: https://codeforces.com/contest/1506
-- CF-Round 713: https://codeforces.com/contest/1512
-- CF-Round 719: https://codeforces.com/contest/1520
-- CF-Round 725: https://codeforces.com/contest/1538
-- CF-Round 731: https://codeforces.com/contest/1547
-- CF-Round 734: https://codeforces.com/contest/1551
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1353">Round 642 B</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1360">Round 644 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1367">Round 650 B</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1374">Round 653 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1385">Round 656 B</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1399">Round 661 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1409">Round 667 B</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1426">Round 674 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1433">Round 677 B</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1454">Round 686 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1462">Round 690 B</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1472">Round 693 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1475">Round 697 B</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1490">Round 702 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1506">Round 710 B</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1512">Round 713 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1520">Round 719 B</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1538">Round 725 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1547">Round 731 B</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1551">Round 734 B</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces -  Div3 Contests IV `20 contests`
 
-- CF-Round 739: https://codeforces.com/contest/1560
-- CF-Round 744: https://codeforces.com/contest/1579
-- CF-Round 748: https://codeforces.com/contest/1593
-- CF-Round 753: https://codeforces.com/contest/1607
-- CF-Round 756: https://codeforces.com/contest/1611
-- CF-Round 760: https://codeforces.com/contest/1618
-- CF-Round 762: https://codeforces.com/contest/1619
-- CF-Round 764: https://codeforces.com/contest/1624
-- CF-Round 776: https://codeforces.com/contest/1650
-- CF-Round 780: https://codeforces.com/contest/1660
-- CF-Round 786: https://codeforces.com/contest/1674
-- CF-Round 787: https://codeforces.com/contest/1675
-- CF-Round 797: https://codeforces.com/contest/1690
-- CF-Round 805: https://codeforces.com/contest/1702
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1560">Round 739 B</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1579">Round 744 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1593">Round 748 B</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1607">Round 753 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1611">Round 756 B</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1618">Round 760 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1619">Round 762 B</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1624">Round 764 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1650">Round 776 B</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1660">Round 780 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1674">Round 786 B</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1675">Round 787 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1690">Round 797 B</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1702">Round 805 B</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces -  Div4 Contests `20 contests`
 
-- CF-Round 784: https://codeforces.com/contest/1669
-- CF-Round 790: https://codeforces.com/contest/1676
-- CF-Round 799: https://codeforces.com/contest/1692
-- CF-Round 806: https://codeforces.com/contest/1703
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1669">Round 784 B</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1676">Round 790 B</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1692">Round 799 B</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1703">Round 806 B</a></th>
+        </tr>
+    </tbody>
+</table>
