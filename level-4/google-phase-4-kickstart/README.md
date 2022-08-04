@@ -1,16 +1,16 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/googlekickstart.jpg">
 
-## [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/) - Phase 4 Google Kick Start `80 problems` `40 hrs`
+## [Google KickStart](https://codingcompetitions.withgoogle.com/kickstart/) - Phase 4 Google KickStart `300 problems` `160 hrs`
 
 ### Table of Content
 
-- ***Google Kick Start 2022***        `10 problems`
-- ***Google Kick Start 2021***        `10 problems`
-- ***Google Kick Start 2020***        `10 problems`
-- ***Google Kick Start 2019***        `10 problems`
-- ***Google Kick Start 2018***        `10 problems`
-- ***Google Kick Start 2017***        `10 problems`
-- ***Google Kick Start 2016***        `10 problems`
-- ***Google Kick Start 2015***        `10 problems`
-- ***Google Kick Start 2014***        `10 problems`
-- ***Google Kick Start 2013***        `10 problems`
+- ***Google KickStart 2022***        `30 problems`
+- ***Google KickStart 2021***        `30 problems`
+- ***Google KickStart 2020***        `30 problems`
+- ***Google KickStart 2019***        `30 problems`
+- ***Google KickStart 2018***        `30 problems`
+- ***Google KickStart 2017***        `30 problems`
+- ***Google KickStart 2016***        `30 problems`
+- ***Google KickStart 2015***        `30 problems`
+- ***Google KickStart 2014***        `30 problems`
+- ***Google KickStart 2013***        `30 problems`
