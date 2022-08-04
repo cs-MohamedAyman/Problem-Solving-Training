@@ -11,112 +11,236 @@
 
 ### HackerEarth - Implementation I `25 problems`
 
-- [pair sum 1](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pair-sum-1-0062d9ab/)
-- [digit problem:](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
-- [fitting circles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/)
-- [array insert](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-insert/)
-- [rain](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/)
-- [killjee and easy problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/approximate/killjee-and-easy-problem/)
-- [city travel](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-travel-59bad87f/)
-- [distribute chocolates](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/distribute-chocolates-70c2c2ab/)
-- [print hackerearth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/print-hackerearth/)
-- [psychic powers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/)
-- [binary associativity](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/binary-associativity-fc8ca73f/)
-- [hawkeye and floodfill](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/hawkeye-and-floodfill/)
-- [the dice](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-dice-d4dc5b11/)
-- [one string no trouble](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/one-string-no-trouble-37037871/)
-- [set numbers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/set-numbers-bea74f5a/)
-- [the great kian](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-great-kian/)
-- [count numbers 46](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-numbers-46/)
-- [array sum 2](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/)
-- [plus plus](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/plus-plus-60bcac48/)
-- [magical tree](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/magical-tree/)
-- [find the pattern 6](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-the-pattern-6/)
-- [very easy 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/very-easy-1/)
-- [min max 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/)
-- [complete the syllabus](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/complete-the-syllabus/)
-- [jarvis and seven segments 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jarvis-and-seven-segments-1/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pair-sum-1-0062d9ab/">pair sum 1</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/">digit problem:</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/">fitting circles</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-insert/">array insert</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/">rain</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/approximate/killjee-and-easy-problem/">killjee and easy problem</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-travel-59bad87f/">city travel</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/distribute-chocolates-70c2c2ab/">distribute chocolates</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/print-hackerearth/">print hackerearth</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/">psychic powers</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/binary-associativity-fc8ca73f/">binary associativity</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/hawkeye-and-floodfill/">hawkeye and floodfill</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-dice-d4dc5b11/">the dice</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/one-string-no-trouble-37037871/">one string no trouble</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/set-numbers-bea74f5a/">set numbers</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-great-kian/">the great kian</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-numbers-46/">count numbers 46</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/">array sum 2</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/plus-plus-60bcac48/">plus plus</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/magical-tree/">magical tree</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-the-pattern-6/">find the pattern 6</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/very-easy-1/">very easy 1</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/">min max 3</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/complete-the-syllabus/">complete the syllabus</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jarvis-and-seven-segments-1/">jarvis and seven segments 1</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### HackerEarth - Implementation II `25 problems`
 
-- [batman and tick tack toe](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/batman-and-tick-tack-toe/)
-- [presidential problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/presidential-problem/)
-- [round table killers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/round-table-killers-b7b93156/)
-- [ques 6](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ques-6/)
-- [color the boxes](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/color-the-boxes-47270a3b/)
-- [ques 2](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ques-2/)
-- [addition aint simple](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/addition-aint-simple/)
-- [string sum](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-sum/)
-- [city group 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-group-3/)
-- [invert it](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/invert-it-b06fd53a/)
-- [alice and string game](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/alice-and-string-game-dbd6adc3/)
-- [gupta chaturvedi and saxena trilogy b](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/gupta-chaturvedi-and-saxena-trilogy-b/)
-- [case conversion](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/case-conversion-d19fbcfe/)
-- [diwali celebration](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/diwali-celebration/)
-- [shreya and non palindrome](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/)
-- [pythagorean triangles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pythagorean-triangles-0158a4c5/)
-- [bank data consistency check](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/approximate/bank-data-consistency-check-3899a127/)
-- [final destination](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/final-destination-cakewalk/)
-- [warcakewalk](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/)
-- [bob and bombs cake walk](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bob-and-bombs-cake-walk/)
-- [image smoothing 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/image-smoothing-3/)
-- [tic tac toe thingy 7ce8b17b](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/)
-- [jadoo hates maths](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/jadoo-hates-maths/)
-- [heman anil and soubhik](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/heman-anil-and-soubhik/)
-- [killjee and superdromes](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-superdromes-1f1d31c3/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/batman-and-tick-tack-toe/">batman and tick tack toe</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/presidential-problem/">presidential problem</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/round-table-killers-b7b93156/">round table killers</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ques-6/">ques 6</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/color-the-boxes-47270a3b/">color the boxes</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ques-2/">ques 2</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/addition-aint-simple/">addition aint simple</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-sum/">string sum</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-group-3/">city group 3</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/invert-it-b06fd53a/">invert it</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/alice-and-string-game-dbd6adc3/">alice and string game</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/gupta-chaturvedi-and-saxena-trilogy-b/">gupta chaturvedi and saxena trilogy b</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/case-conversion-d19fbcfe/">case conversion</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/diwali-celebration/">diwali celebration</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/">shreya and non palindrome</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pythagorean-triangles-0158a4c5/">pythagorean triangles</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/approximate/bank-data-consistency-check-3899a127/">bank data consistency check</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/final-destination-cakewalk/">final destination</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/">warcakewalk</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bob-and-bombs-cake-walk/">bob and bombs cake walk</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/image-smoothing-3/">image smoothing 3</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/">tic tac toe thingy 7ce8b17b</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/jadoo-hates-maths/">jadoo hates maths</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/heman-anil-and-soubhik/">heman anil and soubhik</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-superdromes-1f1d31c3/">killjee and superdromes</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### HackerEarth - Implementation III `25 problems`
 
-- [shitty fortune](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shitty-fortune/)
-- [mancunian in palindromia 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mancunian-in-palindromia-3/)
-- [bracket balancer](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bracket-balancer-b9f56e12/)
-- [the savior 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/)
-- [countries grouping 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/countries-grouping-1-5b13620a/)
-- [reflection is every thing](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/reflection-is-every-thing-2fff0566/)
-- [ispalin](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ispalin/)
-- [mr x and string](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mr-x-and-string-4836920e/)
-- [airfares](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/)
-- [rhezo and character frequency 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rhezo-and-character-frequency-3/)
-- [mosalas mostatilioo](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mosalas-mostatilioo-f012275c/)
-- [acronym 2](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/acronym-2/)
-- [epiphany coming soon](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/epiphany-coming-soon-43c4af4b/)
-- [greatest string](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/greatest-string-fcf3e37c/)
-- [count vowels 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-vowels-1-1da7c4d0/)
-- [smallest string 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/smallest-string-1-ab268aff/)
-- [dummy 28](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/dummy-28/)
-- [car company merger](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/car-company-merger-125475cc/)
-- [the reversed numbers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-reversed-numbers/)
-- [inverse list](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/inverse-list/)
-- [the bet 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-bet-1-dbc1acde/)
-- [pop up orientation](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pop-up-orientation-de6cf0ee/)
-- [chocolate distribution](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolate-distribution-709f61ec/)
-- [square in triangle](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/square-in-triangle/)
-- [string restoration ather](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-restoration-ather-b41289af/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shitty-fortune/">shitty fortune</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mancunian-in-palindromia-3/">mancunian in palindromia 3</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bracket-balancer-b9f56e12/">bracket balancer</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/">the savior 3</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/countries-grouping-1-5b13620a/">countries grouping 1</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/reflection-is-every-thing-2fff0566/">reflection is every thing</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ispalin/">ispalin</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mr-x-and-string-4836920e/">mr x and string</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/">airfares</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rhezo-and-character-frequency-3/">rhezo and character frequency 3</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mosalas-mostatilioo-f012275c/">mosalas mostatilioo</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/acronym-2/">acronym 2</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/epiphany-coming-soon-43c4af4b/">epiphany coming soon</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/greatest-string-fcf3e37c/">greatest string</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-vowels-1-1da7c4d0/">count vowels 1</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/smallest-string-1-ab268aff/">smallest string 1</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/dummy-28/">dummy 28</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/car-company-merger-125475cc/">car company merger</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-reversed-numbers/">the reversed numbers</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/inverse-list/">inverse list</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-bet-1-dbc1acde/">the bet 1</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pop-up-orientation-de6cf0ee/">pop up orientation</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolate-distribution-709f61ec/">chocolate distribution</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/square-in-triangle/">square in triangle</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-restoration-ather-b41289af/">string restoration ather</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### HackerEarth - Implementation IV `25 problems`
 
-- [attendance 70](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/attendance-70-3369f484/)
-- [lets prepare for exams](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/lets-prepare-for-exams-a7f00d14/)
-- [how many buildings you can make 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/how-many-buildings-you-can-make-1/)
-- [matrix symmetry](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/matrix-symmetry/)
-- [mixing strings 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mixing-strings-1/)
-- [find wring number in series](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-wring-number-in-series/)
-- [partitioning](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/partitioning-bd4c9574/)
-- [sagars learning](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sagars-learning/)
-- [exception handling 2](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/exception-handling-2-46f67551/)
-- [string operations 1](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-operations-1-cd102cb6/)
-- [a tricky addition](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/a-tricky-addition/)
-- [area of union of rectangles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/area-of-union-of-rectangles/)
-- [bookcricket](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bookcricket-bd707e2d/)
-- [challenging track](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/challenging-track-0d6a36ad/)
-- [jump out 34](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jump-out-34/)
-- [easy multiple](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/easy-multiple/)
-- [sherlock and date](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-date/)
-- [sherlock and dates](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-dates/)
-- [equal armies](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/equal-armies/)
-- [very cool numbers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/very-cool-numbers/)
-- [donar tds](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/donar-tds/)
-- [good string 3](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/good-string-3/)
-- [holi and colorful houses](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/holi-and-colorful-houses-eb2049cb/)
-- [title abhi socha nahi](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/title-abhi-socha-nahi/)
-- [palindromic numbers 7](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/palindromic-numbers-7/)
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/attendance-70-3369f484/">attendance 70</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/lets-prepare-for-exams-a7f00d14/">lets prepare for exams</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/how-many-buildings-you-can-make-1/">how many buildings you can make 1</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/matrix-symmetry/">matrix symmetry</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mixing-strings-1/">mixing strings 1</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-wring-number-in-series/">find wring number in series</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/partitioning-bd4c9574/">partitioning</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sagars-learning/">sagars learning</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/exception-handling-2-46f67551/">exception handling 2</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-operations-1-cd102cb6/">string operations 1</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/a-tricky-addition/">a tricky addition</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/area-of-union-of-rectangles/">area of union of rectangles</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bookcricket-bd707e2d/">bookcricket</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/challenging-track-0d6a36ad/">challenging track</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jump-out-34/">jump out 34</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/easy-multiple/">easy multiple</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-date/">sherlock and date</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-dates/">sherlock and dates</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/equal-armies/">equal armies</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/very-cool-numbers/">very cool numbers</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/donar-tds/">donar tds</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/good-string-3/">good string 3</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/holi-and-colorful-houses-eb2049cb/">holi and colorful houses</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/title-abhi-socha-nahi/">title abhi socha nahi</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/palindromic-numbers-7/">palindromic numbers 7</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
