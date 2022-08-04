@@ -12,156 +12,295 @@
 
 ### Codeforces - Basic Operator `15 problems`
 
-- CF-Round 340: https://codeforces.com/problemset/problem/617/A
-- CF-Round 304: https://codeforces.com/problemset/problem/546/A
-- CF-Round 395: https://codeforces.com/problemset/problem/764/A
-- CF-Round 107: https://codeforces.com/problemset/problem/151/A
-- CF-Round 256: https://codeforces.com/problemset/problem/448/A
-- CF-Round 332: https://codeforces.com/problemset/problem/599/A
-- CF-Round 277: https://codeforces.com/problemset/problem/486/A
-- CF-Round 386: https://codeforces.com/problemset/problem/746/A
-- CF-Round 492: https://codeforces.com/problemset/problem/996/A
-- CF-Round 476: https://codeforces.com/problemset/problem/965/A
-- CF-Round 475: https://codeforces.com/problemset/problem/964/A
-- CF-Round 468: https://codeforces.com/problemset/problem/931/A
-- CF-Round 456: https://codeforces.com/problemset/problem/912/A
-- CF-Round 47: https://codeforces.com/problemset/problem/50/A
-- CF-Round 9: https://codeforces.com/problemset/problem/9/A
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/598">Educational Codeforces Round 1 A</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/600">Educational Codeforces Round 2 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/609">Educational Codeforces Round 3 A</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/612">Educational Codeforces Round 4 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/616">Educational Codeforces Round 5 A</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/620">Educational Codeforces Round 6 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/622">Educational Codeforces Round 7 A</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/628">Educational Codeforces Round 8 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/630">Experimental Educational Round A</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/632">Educational Codeforces Round 9 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/652">Educational Codeforces Round 10 A</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/660">Educational Codeforces Round 11 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/665">Educational Codeforces Round 12 A</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/678">Educational Codeforces Round 13 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/691">Educational Codeforces Round 14 A</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/702">Educational Codeforces Round 15 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/710">Educational Codeforces Round 16 A</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/762">Educational Codeforces Round 17 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/792">Educational Codeforces Round 18 A</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/797">Educational Codeforces Round 19 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/contest/803">Educational Codeforces Round 20 A</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/contest/808">Educational Codeforces Round 21 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/contest/813">Educational Codeforces Round 22 A</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/contest/817">Educational Codeforces Round 23 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/contest/818">Educational Codeforces Round 24 A</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/contest/825">Educational Codeforces Round 25 A</a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces - Condition `15 problems`
 
-- CF-Round 322: https://codeforces.com/problemset/problem/581/A
-- CF-Round 388: https://codeforces.com/problemset/problem/749/A
-- CF-Round 172: https://codeforces.com/problemset/problem/281/A
-- CF-Round 348: https://codeforces.com/problemset/problem/669/A
-- CF-Round 101: https://codeforces.com/problemset/problem/141/A
-- CF-Round 389: https://codeforces.com/problemset/problem/752/A
-- CF-Round 393: https://codeforces.com/problemset/problem/760/A
-- CF-Round 222: https://codeforces.com/problemset/problem/378/A
-- CF-Round 270: https://codeforces.com/problemset/problem/472/A
-- CF-Round 473: https://codeforces.com/problemset/problem/959/A
-- CF-Round 469: https://codeforces.com/problemset/problem/950/A
-- CF-Round 451: https://codeforces.com/problemset/problem/898/A
-- CF-Round 432: https://codeforces.com/problemset/problem/851/A
-- CF-Round 427: https://codeforces.com/problemset/problem/835/A
-- CF-Round 425: https://codeforces.com/problemset/problem/832/A
-- CF-Round 80: https://codeforces.com/problemset/problem/104/A
-- CF-Round 44: https://codeforces.com/problemset/problem/47/A
-- CF-Round 4: https://codeforces.com/problemset/problem/4/A
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/837">Educational Codeforces Round 26 A</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/845">Educational Codeforces Round 27 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/846">Educational Codeforces Round 28 A</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/863">Educational Codeforces Round 29 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/873">Educational Codeforces Round 30 A</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/884">Educational Codeforces Round 31 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/888">Educational Codeforces Round 32 A</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/893">Educational Codeforces Round 33 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/903">Educational Codeforces Round 34 A</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/911">Educational Codeforces Round 35 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/915">Educational Codeforces Round 36 A</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/920">Educational Codeforces Round 37 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/938">Educational Codeforces Round 38 A</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/946">Educational Codeforces Round 39 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/954">Educational Codeforces Round 40 A</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/961">Educational Codeforces Round 41 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/962">Educational Codeforces Round 42 A</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/976">Educational Codeforces Round 43 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/985">Educational Codeforces Round 44 A</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/990">Educational Codeforces Round 45 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1000">Educational Codeforces Round 46 A</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1009">Educational Codeforces Round 47 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1016">Educational Codeforces Round 48 A</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1027">Educational Codeforces Round 49 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1036">Educational Codeforces Round 50 A</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces - Loop `35 problems`
 
-- CF-Round 366: https://codeforces.com/problemset/problem/705/A
-- CF-Round 200: https://codeforces.com/problemset/problem/344/A
-- CF-Round 365: https://codeforces.com/problemset/problem/703/A
-- CF-Round 143: https://codeforces.com/problemset/problem/231/A
-- CF-Round 144: https://codeforces.com/problemset/problem/233/A
-- CF-Round 210: https://codeforces.com/problemset/problem/361/A
-- CF-Round 259: https://codeforces.com/problemset/problem/454/A
-- CF-Round 267: https://codeforces.com/problemset/problem/467/A
-- CF-Round 352: https://codeforces.com/problemset/problem/672/A
-- CF-Round 357: https://codeforces.com/problemset/problem/681/A
-- CF-Round 359: https://codeforces.com/problemset/problem/686/A
-- CF-Round 377: https://codeforces.com/problemset/problem/732/A
-- CF-Round 105: https://codeforces.com/problemset/problem/148/A
-- CF-Round 152: https://codeforces.com/problemset/problem/248/A
-- CF-Round 166: https://codeforces.com/problemset/problem/271/A
-- CF-Round 247: https://codeforces.com/problemset/problem/431/A
-- CF-Round 280: https://codeforces.com/problemset/problem/492/A
-- CF-Round 131: https://codeforces.com/problemset/problem/214/A
-- CF-Round 387: https://codeforces.com/problemset/problem/747/A
-- CF-Round 465: https://codeforces.com/problemset/problem/935/A
-- CF-Round 460: https://codeforces.com/problemset/problem/919/A
-- CF-Round 450: https://codeforces.com/problemset/problem/900/A
-- CF-Round 433: https://codeforces.com/problemset/problem/854/A
-- CF-Round 422: https://codeforces.com/problemset/problem/822/A
-- CF-Round 416: https://codeforces.com/problemset/problem/811/A
-- CF-Round 408: https://codeforces.com/problemset/problem/796/A
-- CF-Round 405: https://codeforces.com/problemset/problem/791/A
-- CF-Round 90: https://codeforces.com/problemset/problem/119/A
-- CF-Round 87: https://codeforces.com/problemset/problem/116/A
-- CF-Round 75: https://codeforces.com/problemset/problem/92/A
-- CF-Round 69: https://codeforces.com/problemset/problem/80/A
-- CF-Round 43: https://codeforces.com/problemset/problem/46/A
-- CF-Round 38: https://codeforces.com/problemset/problem/38/A
-- CF-Round 479: https://codeforces.com/problemset/problem/977/A
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1051">Educational Codeforces Round 51 A</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1065">Educational Codeforces Round 52 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1073">Educational Codeforces Round 53 A</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1076">Educational Codeforces Round 54 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1082">Educational Codeforces Round 55 A</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1093">Educational Codeforces Round 56 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1096">Educational Codeforces Round 57 A</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1101">Educational Codeforces Round 58 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1107">Educational Codeforces Round 59 A</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1117">Educational Codeforces Round 60 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1132">Educational Codeforces Round 61 A</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1140">Educational Codeforces Round 62 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1155">Educational Codeforces Round 63 A</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1156">Educational Codeforces Round 64 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1167">Educational Codeforces Round 65 A</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1175">Educational Codeforces Round 66 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1187">Educational Codeforces Round 67 A</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1194">Educational Codeforces Round 68 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1197">Educational Codeforces Round 69 A</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1202">Educational Codeforces Round 70 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1207">Educational Codeforces Round 71 A</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1217">Educational Codeforces Round 72 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1221">Educational Codeforces Round 73 A</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1238">Educational Codeforces Round 74 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1251">Educational Codeforces Round 75 A</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces - String `35 problems`
 
-- CF-Round 369: https://codeforces.com/problemset/problem/711/A
-- CF-Round 374: https://codeforces.com/problemset/problem/721/A
-- CF-Round 379: https://codeforces.com/problemset/problem/734/A
-- CF-Round 162: https://codeforces.com/problemset/problem/265/A
-- CF-Round 163: https://codeforces.com/problemset/problem/266/A
-- CF-Round 225: https://codeforces.com/problemset/problem/384/A
-- CF-Round 253: https://codeforces.com/problemset/problem/443/A
-- CF-Round 343: https://codeforces.com/problemset/problem/629/A
-- CF-Round 360: https://codeforces.com/problemset/problem/688/A
-- CF-Round 376: https://codeforces.com/problemset/problem/731/A
-- CF-Round 127: https://codeforces.com/problemset/problem/202/A
-- CF-Round 173: https://codeforces.com/problemset/problem/282/A
-- CF-Round 197: https://codeforces.com/problemset/problem/339/A
-- CF-Round 295: https://codeforces.com/problemset/problem/520/A
-- CF-Round 301: https://codeforces.com/problemset/problem/540/A
-- CF-Round 347: https://codeforces.com/problemset/problem/664/A
-- CF-Round 104: https://codeforces.com/problemset/problem/146/A
-- CF-Round 382: https://codeforces.com/problemset/problem/735/A
-- CF-Round 463: https://codeforces.com/problemset/problem/932/A
-- CF-Round 459: https://codeforces.com/problemset/problem/918/A
-- CF-Round 449: https://codeforces.com/problemset/problem/897/A
-- CF-Round 447: https://codeforces.com/problemset/problem/894/A
-- CF-Round 437: https://codeforces.com/problemset/problem/867/A
-- CF-Round 85: https://codeforces.com/problemset/problem/112/A
-- CF-Round 84: https://codeforces.com/problemset/problem/110/A
-- CF-Round 78: https://codeforces.com/problemset/problem/99/A
-- CF-Round 70: https://codeforces.com/problemset/problem/78/A
-- CF-Round 65: https://codeforces.com/problemset/problem/71/A
-- CF-Round 57: https://codeforces.com/problemset/problem/61/A
-- CF-Round 55: https://codeforces.com/problemset/problem/59/A
-- CF-Round 46: https://codeforces.com/problemset/problem/49/A
-- CF-Round 16: https://codeforces.com/problemset/problem/16/A
-- CF-Round 14: https://codeforces.com/problemset/problem/14/A
-- CF-Round 12: https://codeforces.com/problemset/problem/12/A
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1257">Educational Codeforces Round 76 A</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1260">Educational Codeforces Round 77 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1278">Educational Codeforces Round 78 A</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1279">Educational Codeforces Round 79 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1288">Educational Codeforces Round 80 A</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1295">Educational Codeforces Round 81 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1303">Educational Codeforces Round 82 A</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1312">Educational Codeforces Round 83 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1327">Educational Codeforces Round 84 A</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1334">Educational Codeforces Round 85 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1342">Educational Codeforces Round 86 A</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1354">Educational Codeforces Round 87 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1359">Educational Codeforces Round 88 A</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1366">Educational Codeforces Round 89 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1373">Educational Codeforces Round 90 A</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1380">Educational Codeforces Round 91 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1389">Educational Codeforces Round 92 A</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1398">Educational Codeforces Round 93 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1400">Educational Codeforces Round 94 A</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1418">Educational Codeforces Round 95 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1430">Educational Codeforces Round 96 A</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1437">Educational Codeforces Round 97 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1452">Educational Codeforces Round 98 A</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1455">Educational Codeforces Round 99 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1463">Educational Codeforces Round 100 A</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
 
 ### Codeforces - List / Array `40 problems`
 
-- CF-Round 161: https://codeforces.com/problemset/problem/263/A
-- CF-Round 289: https://codeforces.com/problemset/problem/509/A
-- CF-Round 330: https://codeforces.com/problemset/problem/595/A
-- CF-Round 355: https://codeforces.com/problemset/problem/677/A
-- CF-Round 392: https://codeforces.com/problemset/problem/758/A
-- CF-Round 141: https://codeforces.com/problemset/problem/228/A
-- CF-Round 146: https://codeforces.com/problemset/problem/236/A
-- CF-Round 156: https://codeforces.com/problemset/problem/255/A
-- CF-Round 160: https://codeforces.com/problemset/problem/262/A
-- CF-Round 164: https://codeforces.com/problemset/problem/268/A
-- CF-Round 223: https://codeforces.com/problemset/problem/381/A
-- CF-Round 243: https://codeforces.com/problemset/problem/426/A
-- CF-Round 244: https://codeforces.com/problemset/problem/427/A
-- CF-Round 290: https://codeforces.com/problemset/problem/510/A
-- CF-Round 338: https://codeforces.com/problemset/problem/615/A
-- CF-Round 364: https://codeforces.com/problemset/problem/701/A
-- CF-Round 372: https://codeforces.com/problemset/problem/716/A
-- CF-Round 375: https://codeforces.com/problemset/problem/723/A
-- CF-Round 103: https://codeforces.com/problemset/problem/144/A
-- CF-Round 109: https://codeforces.com/problemset/problem/155/A
-- CF-Round 170: https://codeforces.com/problemset/problem/278/A
-- CF-Round 178: https://codeforces.com/problemset/problem/294/A
-- CF-Round 192: https://codeforces.com/problemset/problem/330/A
-- CF-Round 235: https://codeforces.com/problemset/problem/401/A
-- CF-Round 246: https://codeforces.com/problemset/problem/432/A
-- CF-Round 255: https://codeforces.com/problemset/problem/447/A
-- CF-Round 279: https://codeforces.com/problemset/problem/490/A
-- CF-Round 351: https://codeforces.com/problemset/problem/673/A
-- CF-Round 356: https://codeforces.com/problemset/problem/680/A
-- CF-Round 370: https://codeforces.com/problemset/problem/712/A
-- CF-Round 216: https://codeforces.com/problemset/problem/369/A
-- CF-Round 268: https://codeforces.com/problemset/problem/469/A
-- CF-Round 307: https://codeforces.com/problemset/problem/551/A
-- CF-Round 354: https://codeforces.com/problemset/problem/676/A
-- CF-Round 368: https://codeforces.com/problemset/problem/707/A
-- CF-Round 110: https://codeforces.com/problemset/problem/157/A
-- CF-Round 182: https://codeforces.com/problemset/problem/302/A
-- CF-Round 488: https://codeforces.com/problemset/problem/994/A
-- CF-Round 489: https://codeforces.com/problemset/problem/992/A
-- CF-Round 485: https://codeforces.com/problemset/problem/987/A
+<table>
+    <tbody>
+        <tr>
+            <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1469">Educational Codeforces Round 101 A</a></th>
+            <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1473">Educational Codeforces Round 102 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1476">Educational Codeforces Round 103 A</a></th>
+            <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1487">Educational Codeforces Round 104 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1494">Educational Codeforces Round 105 A</a></th>
+            <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1499">Educational Codeforces Round 106 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1511">Educational Codeforces Round 107 A</a></th>
+            <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1519">Educational Codeforces Round 108 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1525">Educational Codeforces Round 109 A</a></th>
+            <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1535">Educational Codeforces Round 110 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1550">Educational Codeforces Round 111 A</a></th>
+            <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1555">Educational Codeforces Round 112 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1569">Educational Codeforces Round 113 A</a></th>
+            <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1574">Educational Codeforces Round 114 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1598">Educational Codeforces Round 115 A</a></th>
+            <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1606">Educational Codeforces Round 116 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1612">Educational Codeforces Round 117 A</a></th>
+            <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1613">Educational Codeforces Round 118 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1620">Educational Codeforces Round 119 A</a></th>
+            <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1622">Educational Codeforces Round 120 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1626">Educational Codeforces Round 121 A</a></th>
+            <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1633">Educational Codeforces Round 122 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1644">Educational Codeforces Round 123 A</a></th>
+            <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1651">Educational Codeforces Round 124 A</a></th>
+        </tr>
+        <tr>
+            <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1657">Educational Codeforces Round 125 A</a></th>
+            <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
