@@ -741,7 +741,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
+    vector<vector<int>> levelOrder(TreeNode *root) {
         if (not root)
             return {};
         vector<TreeNode*> q = {root};
@@ -797,7 +797,7 @@ class Solution:
 ```cpp
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    vector<vector<int>> zigzagLevelOrder(TreeNode *root) {
         if (not root)
             return {};
         vector<TreeNode*> q = {root};
@@ -831,23 +831,107 @@ Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-ea
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        if not root:
+            return root
+        q = [root]
+        while len(q):
+            level = []
+            curr_len = len(q)
+            prev = None
+            for i in range(curr_len):
+                curr = q.pop(0)
+                if curr.left and curr.right:
+                    curr.left.next = curr.right
+                    q.append(curr.left)
+                    q.append(curr.right)
+                    if prev != None:
+                        prev.right.next = curr.left
+                prev = curr
+        return root
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    Node* connect(Node *root) {
+        if (not root)
+            return root;
+        vector<Node*> q = {root};
+        while (size(q)) {
+            vector<int> level;
+            int curr_len = size(q);
+            Node *prev = NULL;
+            for (int i=0; i<curr_len; i++) {
+                Node *curr = q[0];
+                q.erase(q.begin());
+                level.push_back(curr->val);
+                if (curr->left and curr->right) {
+                    curr->left->next = curr->right;
+                    q.push_back(curr->left);
+                    q.push_back(curr->right);
+                    if (prev != NULL)
+                        prev->right->next = curr->left;
+                }
+                prev = curr;
+            }
+        }
+        return root;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### populating next right pointers in each node ii:
+Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def connect(self, root: 'Node') -> 'Node':
+        if not root:
+            return root
+        q = [root]
+        while len(q):
+            level = []
+            curr_len = len(q)
+            for i in range(curr_len):
+                curr = q.pop(0)
+                level.append(curr)
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
+            for i in range(len(level)-1):
+                level[i].next = level[i+1]
+        return root
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    Node* connect(Node *root) {
+        if (not root)
+            return root;
+        vector<Node*> q = {root};
+        while (size(q)) {
+            vector<Node*> level;
+            int curr_len = size(q);
+            for (int i=0; i<curr_len; i++) {
+                Node *curr = q[0];
+                q.erase(q.begin());
+                level.push_back(curr);
+                if (curr->left)
+                    q.push_back(curr->left);
+                if (curr->right)
+                    q.push_back(curr->right);
+            }
+            for (int i=0; i<size(level)-1; i++)
+                level[i]->next = level[i+1];
+        }
+        return root;
+    }
+};
 ```
 
 ### problemname:
