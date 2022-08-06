@@ -542,7 +542,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    bool dfs(int u, set<int> &visited, set<int> &cycle, 
+    bool dfs(int u, set<int> &visited, set<int> &cycle,
              vector<vector<int>> &adj, vector<int> &res) {
         if (cycle.find(u) != cycle.end())
             return false;
@@ -1014,7 +1014,7 @@ class Solution:
             for v in adj[u]:
                 if v != p and v not in res:
                     dfs(u, v, k-1)
-        
+
         adj = {i:[] for i in range(501)}
         bfs()
         res = set()
