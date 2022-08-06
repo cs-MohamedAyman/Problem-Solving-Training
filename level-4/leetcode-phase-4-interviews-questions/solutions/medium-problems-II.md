@@ -548,22 +548,22 @@ class Solution:
                 dfs(r+dx[i], c+dy[i], visited, heights[r][c])
 
         n, m = len(heights), len(heights[0])
-        vis1, vis2 = set(), set()
+        visited1, visited2 = set(), set()
         dx = [0, 0, 1, -1]
         dy = [-1, 1, 0, 0]
         for c in range(m):
-            dfs(0,   c, vis1, heights[0][c])
-            dfs(n-1, c, vis2, heights[n-1][c])
+            dfs(0,   c, visited1, heights[0][c])
+            dfs(n-1, c, visited2, heights[n-1][c])
         for r in range(n):
-            dfs(r, 0,   vis1, heights[r][0])
-            dfs(r, m-1, vis2, heights[r][m-1])
-        res = list(vis1 & vis2)
+            dfs(r, 0,   visited1, heights[r][0])
+            dfs(r, m-1, visited2, heights[r][m-1])
+        res = list(visited1 & visited2)
         return res
 ```
 #### - CPP Solution
 ```cpp
 class Solution {
-    set<pair<int, int>> vis1, vis2;
+    set<pair<int, int>> visited1, visited2;
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {-1, 1, 0, 0};
 
@@ -580,15 +580,16 @@ public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>> &heights) {
         int n = size(heights), m = size(heights[0]);
         for (int c=0; c<m; c++) {
-            dfs(0,   c, vis1, heights[0][c], heights, n, m);
-            dfs(n-1, c, vis2, heights[n-1][c], heights, n, m);
+            dfs(0,   c, visited1, heights[0][c], heights, n, m);
+            dfs(n-1, c, visited2, heights[n-1][c], heights, n, m);
         }
         for (int r=0; r<n; r++) {
-            dfs(r, 0,   vis1, heights[r][0], heights, n, m);
-            dfs(r, m-1, vis2, heights[r][m-1], heights, n, m);
+            dfs(r, 0,   visited1, heights[r][0], heights, n, m);
+            dfs(r, m-1, visited2, heights[r][m-1], heights, n, m);
         }
         vector<pair<int, int>> res;
-        set_intersection(vis1.begin(), vis1.end(), vis2.begin(), vis2.end(), back_inserter(res));
+        set_intersection(visited1.begin(), visited1.end(), visited2.begin(), visited2.end(),
+                         back_inserter(res));
         vector<vector<int>> ans;
         for (auto &[i, j] : res)
             ans.push_back({i, j});
@@ -626,15 +627,15 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    set<pair<int, int>> vis;
+    set<pair<int, int>> visited;
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {-1, 1, 0, 0};
 
     void dfs(int r, int c, const vector<vector<char>> &grid, int n, int m) {
-        if (vis.find({r, c}) != vis.end() or
+        if (visited.find({r, c}) != visited.end() or
             not(0 <= r and r < n) or not(0 <= c and c < m) or grid[r][c] == '0')
             return;
-        vis.insert({r, c});
+        visited.insert({r, c});
         for (int i=0; i<4; i++)
             dfs(r+dx[i], c+dy[i], grid, n, m);
     }
@@ -644,7 +645,7 @@ public:
         int res = 0;
         for (int r=0; r<n; r++) {
             for (int c=0; c<m; c++) {
-                if (grid[r][c] == '1' and vis.find({r, c}) == vis.end()) {
+                if (grid[r][c] == '1' and visited.find({r, c}) == visited.end()) {
                     dfs(r, c, grid, n, m);
                     res ++;
                 }

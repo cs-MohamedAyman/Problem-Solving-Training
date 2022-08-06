@@ -447,8 +447,8 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### course schedule:
+Problem Link: https://leetcode.com/problems/course-schedule
 
 #### - Python Solution
 ```python
