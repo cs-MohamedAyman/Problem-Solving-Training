@@ -647,8 +647,8 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### sequence reconstruction:
+Problem Link: https://leetcode.com/problems/sequence-reconstruction
 
 #### - Python Solution
 ```python
@@ -659,44 +659,175 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### binary tree level order traversal ii:
+Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
+            return []
+        q = [root]
+        res = []
+        while len(q):
+            level = []
+            curr_len = len(q)
+            for i in range(curr_len):
+                curr = q.pop(0)
+                level.append(curr.val)
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
+            res.append(level)
+        res = res[::-1]
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> levelOrderBottom(TreeNode *root) {
+        if (not root)
+            return {};
+        vector<TreeNode*> q = {root};
+        vector<vector<int>> res;
+        while (size(q)) {
+            vector<int> level;
+            int curr_len = size(q);
+            for (int i=0; i<curr_len; i++) {
+                TreeNode *curr = q[0];
+                q.erase(q.begin());
+                level.push_back(curr->val);
+                if (curr->left)
+                    q.push_back(curr->left);
+                if (curr->right)
+                    q.push_back(curr->right);
+            }
+            res.push_back(level);
+        }
+        reverse(res.begin(), res.end());
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### binary tree level order traversal:
+Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
+            return []
+        q = [root]
+        res = []
+        while len(q):
+            level = []
+            curr_len = len(q)
+            for i in range(curr_len):
+                curr = q.pop(0)
+                level.append(curr.val)
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
+            res.append(level)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        if (not root)
+            return {};
+        vector<TreeNode*> q = {root};
+        vector<vector<int>> res;
+        while (size(q)) {
+            vector<int> level;
+            int curr_len = size(q);
+            for (int i=0; i<curr_len; i++) {
+                TreeNode *curr = q[0];
+                q.erase(q.begin());
+                level.push_back(curr->val);
+                if (curr->left)
+                    q.push_back(curr->left);
+                if (curr->right)
+                    q.push_back(curr->right);
+            }
+            res.push_back(level);
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### binary tree zigzag level order traversal:
+Problem Link: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
+            return []
+        q = [root]
+        res = []
+        is_reverse = 0
+        while len(q):
+            level = []
+            curr_len = len(q)
+            for i in range(curr_len):
+                curr = q.pop(0)
+                level.append(curr.val)
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
+            if is_reverse:
+                level = level[::-1]
+            is_reverse = 1 - is_reverse
+            res.append(level)
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+public:
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        if (not root)
+            return {};
+        vector<TreeNode*> q = {root};
+        vector<vector<int>> res;
+        bool is_reverse = 0;
+        while (size(q)) {
+            vector<int> level;
+            int curr_len = size(q);
+            for (int i=0; i<curr_len; i++) {
+                TreeNode *curr = q[0];
+                q.erase(q.begin());
+                level.push_back(curr->val);
+                if (curr->left)
+                    q.push_back(curr->left);
+                if (curr->right)
+                    q.push_back(curr->right);
+            }
+            if (is_reverse)
+                reverse(level.begin(), level.end());
+            is_reverse = 1 - is_reverse;
+            res.push_back(level);
+        }
+        return res;
+    }
+};
 
 ```
 
-### problemname:
-Problem Link:
+### populating next right pointers in each node:
+Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 
 #### - Python Solution
 ```python
