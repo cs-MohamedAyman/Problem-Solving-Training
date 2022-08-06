@@ -934,28 +934,135 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### binary tree right side view:
+Problem Link: https://leetcode.com/problems/binary-tree-right-side-view
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+        q = [root]
+        res = []
+        while len(q):
+            level = []
+            curr_len = len(q)
+            for i in range(curr_len):
+                curr = q.pop(0)
+                level.append(curr.val)
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
+            res.append(level[-1])
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<int> rightSideView(TreeNode* root) {
+        if (not root)
+            return {};
+        vector<TreeNode*> q = {root};
+        vector<int> res;
+        while (size(q)) {
+            vector<int> level;
+            int curr_len = size(q);
+            for (int i=0; i<curr_len; i++) {
+                TreeNode *curr = q[0];
+                q.erase(q.begin());
+                level.push_back(curr->val);
+                if (curr->left)
+                    q.push_back(curr->left);
+                if (curr->right)
+                    q.push_back(curr->right);
+            }
+            res.push_back(level[size(level)-1]);
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### all nodes distance k in binary tree:
+Problem Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
+        def bfs():
+            q = [(-1, root)]
+            while len(q):
+                curr_len = len(q)
+                for i in range(curr_len):
+                    p, u = q.pop(0)
+                    if p != -1:
+                        adj[u.val].append(p.val)
+                        adj[p.val].append(u.val)
+                    if u.left:
+                        q.append((u, u.left))
+                    if u.right:
+                        q.append((u, u.right))
 
+        def dfs(p, u, k):
+            if k == 0:
+                res.add(u)
+                return
+            for v in adj[u]:
+                if v != p and v not in res:
+                    dfs(u, v, k-1)
+        
+        adj = {i:[] for i in range(501)}
+        bfs()
+        res = set()
+        dfs(-1, target.val, k)
+        res = list(res)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    void bfs(vector<vector<int>> &adj, TreeNode* root) {
+        vector<pair<TreeNode*, TreeNode*>> q = {{NULL, root}};
+        while (size(q)) {
+            int curr_len = size(q);
+            for (int i=0; i<curr_len; i++) {
+                auto [p, u] = q[0];
+                q.erase(q.begin());
+                if (p != NULL) {
+                    adj[u->val].push_back(p->val);
+                    adj[p->val].push_back(u->val);
+                }
+                if (u->left)
+                    q.push_back({u, u->left});
+                if (u->right)
+                    q.push_back({u, u->right});
+            }
+        }
+    }
+    void dfs(int p, int u, int k, set<int> &res, const vector<vector<int>> &adj) {
+        if (k == 0) {
+            res.insert(u);
+            return;
+        }
+        for (int v : adj[u]) {
+            if (v != p and res.find(v) == res.end())
+                dfs(u, v, k-1, res, adj);
+        }
+    }
+public:
+    vector<int> distanceK(TreeNode *root, TreeNode *target, int k) {
+        vector<vector<int>> adj(501);
+        bfs(adj, root);
+        set<int> res;
+        dfs(-1, target->val, k, res, adj);
+        vector<int> ans(res.begin(), res.end());
+        return ans;
+    }
+};
 ```
 
 ### problemname:
