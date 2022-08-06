@@ -513,23 +513,138 @@ Problem Link: https://leetcode.com/problems/course-schedule-ii
 
 #### - Python Solution
 ```python
+class Solution:
+    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        def dfs(u):
+            if u in cycle:
+                return False
+            if u in visited:
+                return True
+            cycle.add(u)
+            for v in adj[u]:
+                if not dfs(v):
+                    return False
+            cycle.remove(u)
+            visited.add(u)
+            res.append(u)
+            return True
 
+        adj = {i: [] for i in range(numCourses)}
+        for i, j in prerequisites:
+            adj[i].append(j)
+        res = []
+        visited, cycle = set(), set()
+        for i in range(numCourses):
+            if not dfs(i):
+                return []
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    bool dfs(int u, set<int> &visited, set<int> &cycle, 
+             vector<vector<int>> &adj, vector<int> &res) {
+        if (cycle.find(u) != cycle.end())
+            return false;
+        if (visited.find(u) != visited.end())
+            return true;
+        cycle.insert(u);
+        for (auto v : adj[u]) {
+            if (not dfs(v, visited, cycle, adj, res))
+                return false;
+        }
+        cycle.erase(cycle.find(u));
+        visited.insert(u);
+        res.push_back(u);
+        return true;
+    }
+public:
+    vector<int> findOrder(int numCourses, vector<vector<int>> &prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for (auto v : prerequisites)
+            adj[v[0]].push_back(v[1]);
+        vector<int> res;
+        set<int> visited, cycle;
+        for (int i=0; i<numCourses; i++) {
+            if (not dfs(i, visited, cycle, adj, res))
+                return {};
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### minimum height trees:
+Problem Link: https://leetcode.com/problems/minimum-height-trees
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
+        if n == 1:
+            return [0]
+        degree = [0] * n
+        adj = {i: [] for i in range(n)}
+        for i, j in edges:
+            adj[i].append(j)
+            adj[j].append(i)
+            degree[i] += 1
+            degree[j] += 1
+        q = []
+        for i in range(len(degree)):
+            if degree[i] == 1:
+                q.append(i)
+        res = []
+        while len(q):
+            res.clear()
+            queue_len = len(q)
+            for i in range(queue_len):
+                u = q.pop(0)
+                res.append(u)
+                for v in adj[u]:
+                    degree[v] -= 1
+                    if degree[v] == 1:
+                        q.append(v)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<int> findMinHeightTrees(int n, vector<vector<int>> &edges) {
+        if (n == 1)
+            return {0};
+        vector<int> degree(n, 0);
+        vector<vector<int>> adj(n);
+        for (auto v : edges) {
+            adj[v[0]].push_back(v[1]);
+            adj[v[1]].push_back(v[0]);
+            degree[v[0]] ++;
+            degree[v[1]] ++;
+        }
+        vector<int> q;
+        for (int i=0; i<size(degree); i++) {
+            if (degree[i] == 1)
+                q.push_back(i);
+        }
+        vector<int> res;
+        while (size(q)) {
+            res.clear();
+            int queue_len = size(q);
+            for (int i=0; i<queue_len; i++) {
+                int u = q[0];
+                q.erase(q.begin());
+                res.push_back(u);
+                for (int v : adj[u]) {
+                    degree[v] --;
+                    if (degree[v] == 1)
+                        q.push_back(v);
+                }
+            }
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname:
