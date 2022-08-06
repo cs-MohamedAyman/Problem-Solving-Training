@@ -452,15 +452,64 @@ Problem Link: https://leetcode.com/problems/course-schedule
 
 #### - Python Solution
 ```python
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        def dfs(u):
+            if u in visited:
+                return False
+            if len(adj[u]) == 0:
+                return True
+            visited.add(u)
+            for v in adj[u]:
+                if not dfs(v):
+                    return False
+            visited.remove(u)
+            adj[u] = []
+            return True
 
+        adj = {i: [] for i in range(numCourses)}
+        for i, j in prerequisites:
+            adj[i].append(j)
+        visited = set()
+        for i in range(numCourses):
+            if not dfs(i):
+                return False
+        return True
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    bool dfs(int u, set<int> &visited, vector<vector<int>> &adj) {
+        if (visited.find(u) != visited.end())
+            return false;
+        if (size(adj[u]) == 0)
+            return true;
+        visited.insert(u);
+        for (auto v : adj[u]) {
+            if (not dfs(v, visited, adj))
+                return false;
+        }
+        visited.erase(visited.find(u));
+        adj[u].clear();
+        return true;
+    }
+public:
+    bool canFinish(int numCourses, vector<vector<int>> &prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for (auto v : prerequisites)
+            adj[v[0]].push_back(v[1]);
+        set<int> visited;
+        for (int i=0; i<numCourses; i++) {
+            if (not dfs(i, visited, adj))
+                return false;
+        }
+        return true;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### course schedule ii:
+Problem Link: https://leetcode.com/problems/course-schedule-ii
 
 #### - Python Solution
 ```python
