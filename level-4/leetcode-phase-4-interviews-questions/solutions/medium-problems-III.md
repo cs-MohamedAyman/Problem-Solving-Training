@@ -1078,12 +1078,12 @@ class Solution:
                     res.append(curr_path)
                 return
             if curr_node.left:
-                dfs(curr_node.left,  curr_sum-curr_node.left.val, 
+                dfs(curr_node.left,  curr_sum-curr_node.left.val,
                     curr_path+[curr_node.left.val])
             if curr_node.right:
-                dfs(curr_node.right, curr_sum-curr_node.right.val, 
+                dfs(curr_node.right, curr_sum-curr_node.right.val,
                     curr_path+[curr_node.right.val])
-        
+
         if not root:
             return []
         res = []
@@ -1093,7 +1093,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    void dfs(TreeNode *curr_node, int curr_sum, vector<int> curr_path, 
+    void dfs(TreeNode *curr_node, int curr_sum, vector<int> curr_path,
              vector<vector<int>> &res) {
         if (not curr_node->left and not curr_node->right) {
             if (curr_sum == 0)
@@ -1102,17 +1102,17 @@ class Solution {
         }
         if (curr_node->left) {
             curr_path.push_back(curr_node->left->val);
-            dfs(curr_node->left,  curr_sum-curr_node->left->val, 
+            dfs(curr_node->left,  curr_sum-curr_node->left->val,
                 curr_path, res);
             curr_path.pop_back();
         }
         if (curr_node->right) {
             curr_path.push_back(curr_node->right->val);
-            dfs(curr_node->right, curr_sum-curr_node->right->val, 
+            dfs(curr_node->right, curr_sum-curr_node->right->val,
                 curr_path, res);
             curr_path.pop_back();
         }
-    }        
+    }
 public:
     vector<vector<int>> pathSum(TreeNode *root, int targetSum) {
         if (not root)
@@ -1236,7 +1236,7 @@ class Solution:
             root.left  = build_tree(left_nums)
             root.right = build_tree(right_nums)
             return root
-        
+
         return build_tree(nums)
 ```
 #### - CPP Solution
