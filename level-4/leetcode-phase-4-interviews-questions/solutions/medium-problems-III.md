@@ -1310,16 +1310,49 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### construct binary tree from preorder and inorder traversal:
+Problem Link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 
 #### - Python Solution
 ```python
+class Solution:
+    def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
+        def build_tree(preorder, inorder):
+            if len(preorder) == 0 or len(inorder) == 0:
+                return None
+            i = inorder.index(preorder[0])
+            left_inorder  = inorder[:i]
+            right_inorder = inorder[i+1:]
+            left_preorder  = preorder[1:i+1]
+            right_preorder = preorder[i+1:]
+            root = TreeNode(preorder[0])
+            root.left  = build_tree(left_preorder, left_inorder)
+            root.right = build_tree(right_preorder, right_inorder)
+            return root
 
+        return build_tree(preorder, inorder)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    TreeNode* build_tree(vector<int> preorder, vector<int> inorder) {
+        if (size(preorder) == 0 or size(inorder) == 0)
+            return NULL;
+        int i = find(inorder.begin(), inorder.end(), preorder[0]) - inorder.begin();
+        vector<int> left_inorder(inorder.begin(), inorder.begin()+i);
+        vector<int> right_inorder(inorder.begin()+i+1, inorder.end());
+        vector<int> left_preorder(preorder.begin()+1, preorder.begin()+i+1);
+        vector<int> right_preorder(preorder.begin()+i+1, preorder.end());
+        TreeNode *root = new TreeNode(preorder[0]);
+        root->left  = build_tree(left_preorder, left_inorder);
+        root->right = build_tree(right_preorder, right_inorder);
+        return root;
+    }
+public:
+    TreeNode* buildTree(vector<int> &preorder, vector<int> &inorder) {
+        return build_tree(preorder, inorder);
+    }
+};
 ```
 
 ### problemname:
