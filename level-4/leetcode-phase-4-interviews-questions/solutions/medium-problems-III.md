@@ -1065,28 +1065,113 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### path sum ii:
+Problem Link: https://leetcode.com/problems/path-sum-ii
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
+        def dfs(curr_node, curr_sum, curr_path):
+            if not curr_node.left and not curr_node.right:
+                if curr_sum == 0:
+                    res.append(curr_path)
+                return
+            if curr_node.left:
+                dfs(curr_node.left,  curr_sum-curr_node.left.val, 
+                    curr_path+[curr_node.left.val])
+            if curr_node.right:
+                dfs(curr_node.right, curr_sum-curr_node.right.val, 
+                    curr_path+[curr_node.right.val])
+        
+        if not root:
+            return []
+        res = []
+        dfs(root, targetSum-root.val, [root.val])
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    void dfs(TreeNode *curr_node, int curr_sum, vector<int> curr_path, 
+             vector<vector<int>> &res) {
+        if (not curr_node->left and not curr_node->right) {
+            if (curr_sum == 0)
+                res.push_back(curr_path);
+            return;
+        }
+        if (curr_node->left) {
+            curr_path.push_back(curr_node->left->val);
+            dfs(curr_node->left,  curr_sum-curr_node->left->val, 
+                curr_path, res);
+            curr_path.pop_back();
+        }
+        if (curr_node->right) {
+            curr_path.push_back(curr_node->right->val);
+            dfs(curr_node->right, curr_sum-curr_node->right->val, 
+                curr_path, res);
+            curr_path.pop_back();
+        }
+    }        
+public:
+    vector<vector<int>> pathSum(TreeNode *root, int targetSum) {
+        if (not root)
+            return {};
+        vector<vector<int>> res;
+        dfs(root, targetSum-root->val, {root->val}, res);
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### path sum iii:
+Problem Link: https://leetcode.com/problems/path-sum-iii
 
 #### - Python Solution
 ```python
+class Solution:
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+        def dfs(curr_node, curr_sum):
+            res_left, res_right = 0, 0
+            if curr_node.left:
+                res_left  = dfs(curr_node.left,  curr_sum-curr_node.left.val)
+            if curr_node.right:
+                res_right = dfs(curr_node.right, curr_sum-curr_node.right.val)
+            return res_left + res_right + int(curr_sum == 0)
 
+        def dfs_tree(curr_node):
+            if not curr_node:
+                return 0
+            return dfs_tree(curr_node.left) + \
+                   dfs_tree(curr_node.right) + \
+                   dfs(curr_node, targetSum-curr_node.val)
+
+        return dfs_tree(root)
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    int dfs(TreeNode *curr_node, long curr_sum) {
+        int res_left = 0, res_right = 0;
+        if (curr_node->left)
+            res_left  = dfs(curr_node->left,  curr_sum-curr_node->left->val);
+        if (curr_node->right)
+            res_right = dfs(curr_node->right, curr_sum-curr_node->right->val);
+        return res_left + res_right + int(curr_sum == 0);
+    }
 
+    int dfs_tree(TreeNode *curr_node, int targetSum) {
+        if (not curr_node)
+            return 0;
+        return dfs_tree(curr_node->left, targetSum) +
+               dfs_tree(curr_node->right, targetSum) +
+               dfs(curr_node, targetSum-curr_node->val);
+    }
+public:
+    int pathSum(TreeNode *root, int targetSum) {
+        return dfs_tree(root, targetSum);
+    }
+};
 ```
 
 ### problemname:
