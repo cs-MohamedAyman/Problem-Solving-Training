@@ -1174,40 +1174,140 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### lowest common ancestor of a binary tree:
+Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 
 #### - Python Solution
 ```python
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        def search(curr, p, q):
+            if not curr:
+                return curr
+            if curr.val == p.val or curr.val == q.val:
+                return curr
+            left  = search(curr.left,  p, q)
+            right = search(curr.right, p, q)
+            if left and right:
+                return curr
+            return left if left else right
 
+        if not root or not p or not q:
+            return None
+        return search(root, p, q)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    TreeNode* search(TreeNode *curr, TreeNode *p, TreeNode *q) {
+        if (not curr)
+            return curr;
+        if (curr->val == p->val or curr->val == q->val)
+            return curr;
+        TreeNode *left  = search(curr->left,  p, q);
+        TreeNode *right = search(curr->right, p, q);
+        if (left and right)
+            return curr;
+        return left? left : right;
+    }
+public:
+    TreeNode* lowestCommonAncestor(TreeNode *root, TreeNode *p, TreeNode *q) {
+        if (not root or not p or not q)
+            return NULL;
+        return search(root, p, q);
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### maximum binary tree:
+Problem Link: https://leetcode.com/problems/maximum-binary-tree
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def constructMaximumBinaryTree(self, nums: List[int]) -> Optional[TreeNode]:
+        def build_tree(nums):
+            if len(nums) == 0:
+                return None
+            i = nums.index(max(nums))
+            left_nums  = nums[:i]
+            right_nums = nums[i+1:]
+            root = TreeNode(max(nums))
+            root.left  = build_tree(left_nums)
+            root.right = build_tree(right_nums)
+            return root
+        
+        return build_tree(nums)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    TreeNode* build_tree(vector<int> nums) {
+        if (size(nums) == 0)
+            return NULL;
+        int i = max_element(nums.begin(), nums.end()) - nums.begin();
+        vector<int> left_nums(nums.begin(), nums.begin()+i);
+        vector<int> right_nums(nums.begin()+i+1, nums.end());
+        TreeNode *root = new TreeNode(*max_element(nums.begin(), nums.end()));
+        root->left  = build_tree(left_nums);
+        root->right = build_tree(right_nums);
+        return root;
+    }
+public:
+    TreeNode* constructMaximumBinaryTree(vector<int> &nums) {
+        return build_tree(nums);
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### maximum width of binary tree:
+Problem Link: https://leetcode.com/problems/maximum-width-of-binary-tree
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        q = [(root, 0)]
+        res = 0
+        while len(q):
+            curr_len = len(q)
+            prt_width = q[0][1]
+            last_width = -1
+            for i in range(curr_len):
+                curr, width = q.pop(0)
+                if curr.left:
+                    q.append((curr.left,  2*width - 2*prt_width))
+                if curr.right:
+                    q.append((curr.right, 2*width+1 - 2*prt_width))
+                last_width = width
+            res = max(res, last_width-prt_width+1)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int widthOfBinaryTree(TreeNode *root) {
+        vector<pair<TreeNode*, long>> q = {{root, 0}};
+        int res = 0;
+        while (size(q)) {
+            int curr_len = size(q);
+            int prt_width = q[0].second;
+            int last_width;
+            for (int i=0; i<curr_len; i++) {
+                auto [curr, width] = q[0];
+                q.erase(q.begin());
+                if (curr->left)
+                    q.push_back({curr->left,  2*width - 2*prt_width});
+                if (curr->right)
+                    q.push_back({curr->right, 2*width+1 - 2*prt_width});
+                last_width = width;
+            }
+            res = max(res, last_width-prt_width+1);
+        }
+        return res;
+    }
+};
 ```
 
 ### problemname:
