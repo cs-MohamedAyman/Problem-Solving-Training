@@ -1393,21 +1393,21 @@ Problem Link: https://leetcode.com/problems/implement-trie-prefix-tree
 
 #### - Python Solution
 ```python
-class TrieNode:
-    def __init__(self):
-        self.child = [None] * 26
-        self.end = False
-
 class Trie:
+    class TrieNode:
+        def __init__(self):
+            self.child = [None] * 26
+            self.end = False
+
     def __init__(self):
-        self.root = TrieNode()
+        self.root = self.TrieNode()
 
     def insert(self, word: str) -> None:
         curr = self.root
         for c in word:
             i = ord(c) - ord('a')
             if curr.child[i] == None:
-                curr.child[i] = TrieNode()
+                curr.child[i] = self.TrieNode()
             curr = curr.child[i]
         curr.end = True
 
@@ -1431,16 +1431,16 @@ class Trie:
 ```
 #### - CPP Solution
 ```cpp
-class TrieNode {
-public:
-    vector<TrieNode*> child;
-    bool end;
-    TrieNode() {
-        this->child.assign(26, NULL);
-        this->end = false;
-    }
-};
 class Trie {
+    class TrieNode {
+    public:
+        vector<TrieNode*> child;
+        bool end;
+        TrieNode() {
+            this->child.assign(26, NULL);
+            this->end = false;
+        }
+    };
     TrieNode *root;
 public:
     Trie() {
@@ -1678,26 +1678,216 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### container with most water:
+Problem Link: https://leetcode.com/problems/container-with-most-water
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        l, r = 0, len(height)-1
+        res = 0
+        while l < r:
+            res = max(res, min(height[l], height[r]) * (r - l))
+            if height[l] < height[r]:
+                l += 1
+            elif height[r] < height[l]:
+                r -= 1
+            else:
+                l += 1
+                r -= 1
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int maxArea(vector<int>& height) {
+        int l = 0, r = size(height)-1;
+        int res = 0;
+        while (l < r) {
+            res = max(res, min(height[l], height[r]) * (r - l));
+            if (height[l] < height[r])
+                l ++;
+            else if (height[r] < height[l])
+                r --;
+            else {
+                l ++;
+                r --;
+            }
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### longest word in dictionary:
+Problem Link: https://leetcode.com/problems/longest-word-in-dictionary
 
 #### - Python Solution
 ```python
+class Trie:
+    class TrieNode:
+        def __init__(self):
+            self.child = [None] * 26
+            self.end = False
 
+    def __init__(self):
+        self.root = self.TrieNode()
+
+    def insert(self, word: str) -> None:
+        curr = self.root
+        for c in word:
+            i = ord(c) - ord('a')
+            if curr.child[i] == None:
+                curr.child[i] = self.TrieNode()
+            curr = curr.child[i]
+        curr.end = True
+
+    def search(self, word: str) -> bool:
+        curr = self.root
+        for c in word:
+            i = ord(c) - ord("a")
+            if curr.child[i] == None:
+                return False
+            curr = curr.child[i]
+        return curr.end
+
+    def startsWith(self, prefix: str) -> bool:
+        curr = self.root
+        for c in prefix:
+            i = ord(c) - ord("a")
+            if curr.child[i] == None:
+                return False
+            curr = curr.child[i]
+            if not curr.end:
+                return False
+        return True
+
+class Solution:
+    def longestWord(self, words: List[str]) -> str:
+        t = Trie()
+        words.sort()
+        for w in words:
+            t.insert(w)
+        res = ''
+        for w in words:
+            if len(w) < len(res) or len(w) == len(res) and w >= res:
+                continue
+            if t.startsWith(w):
+                res = w
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Trie {
+    class TrieNode {
+    public:
+        vector<TrieNode*> child;
+        bool end;
+        TrieNode() {
+            this->child.assign(26, NULL);
+            this->end = false;
+        }
+    };
+    TrieNode *root;
+public:
+    Trie() {
+        this->root = new TrieNode();
+    }
+    void insert(string word) {
+        TrieNode *curr = this->root;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                curr->child[i] = new TrieNode();
+            curr = curr->child[i];
+        }
+        curr->end = true;
+    }
+    bool search(string word) {
+        TrieNode *curr = this->root;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                return false;
+            curr = curr->child[i];
+        }
+        return curr->end;
+    }
+    bool startsWith(string prefix) {
+        TrieNode *curr = this->root;
+        for (char c : prefix) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                return false;
+            curr = curr->child[i];
+            if (not curr->end)
+                return false;
+        }
+        return true;
+    }
+};
 
+class Solution {
+public:
+    string longestWord(vector<string>& words) {
+        Trie t = Trie();
+        sort(words.begin(), words.end());
+        for (string w : words)
+            t.insert(w);
+        string res = "";
+        for (string w : words) {
+            if (size(w) < size(res) or size(w) == size(res) and w >= res)
+                continue;
+            if (t.startsWith(w))
+                res = w;
+        }
+        return res;
+    }
+};
+```
+
+### maximum xor of two numbers in an array:
+Problem Link: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array
+
+#### - Python Solution
+```python
+class Solution:
+    def findMaximumXOR(self, nums: List[int]) -> int:
+        mask, res = 0, 0
+        for i in range(31, -1, -1):
+            mask |= (1 << i)
+            prefixes = set()
+            for n in nums:
+                prefixes.add(mask & n)
+            tmp = res | (1 << i)
+            for p in prefixes:
+                if (tmp ^ p) in prefixes:
+                    res = tmp
+                    break
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    int findMaximumXOR(vector<int> &nums) {
+        int mask = 0, res = 0;
+        for (int i = 31; i >= 0; i--) {
+            mask |= (1 << i);
+            set<int> prefixes;
+            for (int n : nums)
+                prefixes.insert(mask & n);
+            int tmp = res | (1 << i);
+            for (int p : prefixes) {
+                if (prefixes.find((tmp ^ p)) != prefixes.end()) {
+                    res = tmp;
+                    break;
+                }
+            }
+        }
+        return res;
+    }
+};
 ```
