@@ -1368,7 +1368,7 @@ class Solution:
             return min_val <= curr.val <= max_val and \
                    check_BST(curr.left, min_val, curr.val-1) and \
                    check_BST(curr.right, curr.val+1, max_val)
-        
+
         return check_BST(root, -1<<31, 1<<31)
 ```
 #### - CPP Solution
@@ -1614,7 +1614,7 @@ public:
             }
             c += j-i+1;
         }
-        return c;   
+        return c;
     }
 };
 ```
@@ -1645,7 +1645,7 @@ class Solution:
                 arr[0], arr[i] = arr[i], arr[0]
                 heapify(arr, i, 0)
 
-        heap_sort(nums, len(nums))         
+        heap_sort(nums, len(nums))
 ```
 #### - CPP Solution
 ```cpp
