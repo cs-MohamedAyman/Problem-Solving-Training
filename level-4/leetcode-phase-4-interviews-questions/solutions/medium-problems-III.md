@@ -1355,76 +1355,327 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### validate binary search tree:
+Problem Link: https://leetcode.com/problems/validate-binary-search-tree
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        def check_BST(curr, min_val, max_val):
+            if not curr:
+                return True
+            return min_val <= curr.val <= max_val and \
+                   check_BST(curr.left, min_val, curr.val-1) and \
+                   check_BST(curr.right, curr.val+1, max_val)
+        
+        return check_BST(root, -1<<31, 1<<31)
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    bool check_BST(TreeNode *curr, long min_val, long max_val) {
+        if (not curr)
+            return true;
+        return min_val <= curr->val and curr->val <= max_val and
+               check_BST(curr->left, min_val, curr->val-1LL) and
+               check_BST(curr->right, curr->val+1LL, max_val);
+    }
+public:
+    bool isValidBST(TreeNode *root) {
+        return check_BST(root, -long(1LL<<31), long(1LL<<31));
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### implement trie prefix tree:
+Problem Link: https://leetcode.com/problems/implement-trie-prefix-tree
 
 #### - Python Solution
 ```python
+class TrieNode:
+    def __init__(self):
+        self.child = [None] * 26
+        self.end = False
 
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+
+    def insert(self, word: str) -> None:
+        curr = self.root
+        for c in word:
+            i = ord(c) - ord('a')
+            if curr.child[i] == None:
+                curr.child[i] = TrieNode()
+            curr = curr.child[i]
+        curr.end = True
+
+    def search(self, word: str) -> bool:
+        curr = self.root
+        for c in word:
+            i = ord(c) - ord("a")
+            if curr.child[i] == None:
+                return False
+            curr = curr.child[i]
+        return curr.end
+
+    def startsWith(self, prefix: str) -> bool:
+        curr = self.root
+        for c in prefix:
+            i = ord(c) - ord("a")
+            if curr.child[i] == None:
+                return False
+            curr = curr.child[i]
+        return True
 ```
 #### - CPP Solution
 ```cpp
-
+class TrieNode {
+public:
+    vector<TrieNode*> child;
+    bool end;
+    TrieNode() {
+        this->child.assign(26, NULL);
+        this->end = false;
+    }
+};
+class Trie {
+    TrieNode *root;
+public:
+    Trie() {
+        this->root = new TrieNode();
+    }
+    void insert(string word) {
+        TrieNode *curr = this->root;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                curr->child[i] = new TrieNode();
+            curr = curr->child[i];
+        }
+        curr->end = true;
+    }
+    bool search(string word) {
+        TrieNode *curr = this->root;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                return false;
+            curr = curr->child[i];
+        }
+        return curr->end;
+    }
+    bool startsWith(string prefix) {
+        TrieNode *curr = this->root;
+        for (char c : prefix) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                return false;
+            curr = curr->child[i];
+        }
+        return true;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### 3Sum:
+Problem Link: https://leetcode.com/problems/3sum
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        res = set()
+        nums.sort()
+        for i in range(len(nums)):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            l, r = i+1, len(nums)-1
+            while l < r:
+                s = nums[i] + nums[l] + nums[r]
+                if s > 0:
+                    r -= 1
+                elif s <= 0:
+                    if s == 0 and (nums[i], nums[l], nums[r]) not in res:
+                        res.add((nums[i], nums[l], nums[r]))
+                    l += 1
+        ans = list(res)
+        return ans
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int> &nums) {
+        set<vector<int>> res;
+        sort(nums.begin(), nums.end());
+        for (int i=0; i<size(nums); i++) {
+            if (i > 0 and nums[i] == nums[i-1])
+                continue;
+            int l = i+1, r = size(nums)-1;
+            while (l < r) {
+                int s = nums[i] + nums[l] + nums[r];
+                if (s > 0)
+                    r --;
+                else if (s <= 0) {
+                    if (s == 0 and res.find({nums[i], nums[l], nums[r]}) == res.end())
+                        res.insert({nums[i], nums[l], nums[r]});
+                    l ++;
+                }
+            }
+        }
+        vector<vector<int>> ans(res.begin(), res.end());
+        return ans;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### 3sum closest:
+Problem Link: https://leetcode.com/problems/3sum-closest
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        res = 2e4
+        nums.sort()
+        for i in range(len(nums)):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            l, r = i+1, len(nums)-1
+            while l < r:
+                s = nums[i] + nums[l] + nums[r]
+                if abs(s-target) < abs(res-target):
+                    res = s
+                if s > target:
+                    r -= 1
+                elif s <= target:
+                    l += 1
+                else:
+                    return res
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int threeSumClosest(vector<int> &nums, int target) {
+        int res = 2e4;
+        sort(nums.begin(), nums.end());
+        for (int i=0; i<size(nums); i++) {
+            if (i > 0 and nums[i] == nums[i-1])
+                continue;
+            int l = i+1, r = size(nums)-1;
+            while (l < r) {
+                int s = nums[i] + nums[l] + nums[r];
+                if (abs(s-target) < abs(res-target))
+                    res = s;
+                if (s > target)
+                    r --;
+                else if (s <= target)
+                    l ++;
+                else
+                    return res;
+            }
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### subarray product less than k:
+Problem Link: https://leetcode.com/problems/subarray-product-less-than-k
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
+        p, c, i = 1, 0, 0
+        for j in range(len(nums)):
+            p *= nums[j]
+            while i <= j and p >= k:
+                p //= nums[i]
+                i += 1
+            c += j-i+1
+        return c
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int numSubarrayProductLessThanK(vector<int> &nums, int k) {
+        int p=1, c=0, i=0;
+        for (int j=0; j<size(nums); j++) {
+            p *= nums[j];
+            while (i <= j and p >= k) {
+                p /= nums[i];
+                i ++;
+            }
+            c += j-i+1;
+        }
+        return c;   
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### sort colors:
+Problem Link: https://leetcode.com/problems/sort-colors
 
 #### - Python Solution
 ```python
+class Solution:
+    def sortColors(self, nums: List[int]) -> None:
+        def heapify(arr, n, i):
+            j = -1
+            while i != j:
+                j = i
+                left_idx  = 2*i+1
+                right_idx = 2*i+2
+                if left_idx < n and arr[left_idx] > arr[i]:
+                    i = left_idx
+                if right_idx < n and arr[right_idx] > arr[i]:
+                    i = right_idx
+                arr[i], arr[j] = arr[j], arr[i]
 
+        def heap_sort(arr, n):
+            for i in range(n//2, -1, -1):
+                heapify(arr, n, i)
+            for i in range(n-1, -1, -1):
+                arr[0], arr[i] = arr[i], arr[0]
+                heapify(arr, i, 0)
+
+        heap_sort(nums, len(nums))         
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    void heapify(vector<int> &arr, int n, int i) {
+        int j = -1;
+        while (i != j) {
+            j = i;
+            int left_idx  = 2*i+1;
+            int right_idx = 2*i+2;
+            if (left_idx < n and arr[left_idx] > arr[i])
+                i = left_idx;
+            if (right_idx < n and arr[right_idx] > arr[i])
+                i = right_idx;
+            swap(arr[i], arr[j]);
+        }
+    }
+    void heap_sort(vector<int> &arr, int n) {
+        for (int i = n/2; i >= 0; i--)
+            heapify(arr, n, i);
+        for (int i = n-1; i >= 0; i--) {
+            swap(arr[0], arr[i]);
+            heapify(arr, i, 0);
+        }
+    }
+public:
+    void sortColors(vector<int> &nums) {
+        heap_sort(nums, size(nums));
+    }
+};
 ```
 
 ### problemname:
