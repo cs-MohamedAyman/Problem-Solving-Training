@@ -416,15 +416,11 @@
         </tr>
         <tr>
             <th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/">maximum score from performing multiplication operations</a></th>
-            <th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://leetcode.com/problems/can-i-win/">can i win</a></th>
+            <th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-ways/">decode ways</a></th>
         </tr>
         <tr>
-            <th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-ways/">decode ways</a></th>
-            <th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://leetcode.com/problems/continuous-subarray-sum/">continuous subarray sum</a></th>
-        </tr>
-        <tr>
-            <th align="center" width="50px">49</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-concatenation-maximum-sum/">k concatenation maximum sum</a></th>
-            <th align="center" width="50px">50</th><th align="left" width="550px"><a href=""></a></th>
+            <th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://leetcode.com/problems/continuous-subarray-sum/">continuous subarray sum</a></th>
+            <th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-concatenation-maximum-sum/">k concatenation maximum sum</a></th>
         </tr>
     </tbody>
 </table>
