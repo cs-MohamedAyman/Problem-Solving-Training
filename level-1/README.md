@@ -1,15 +1,15 @@
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uva.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/topcoder.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/spoj.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uva.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/topcoder.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/spoj.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
@@ -40,12 +40,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 <table>
     <thead>
         <tr>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
@@ -60,12 +60,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </tbody>
     <thead>
         <tr>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
@@ -80,12 +80,12 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     </tbody>
     <thead>
         <tr>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
-<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg" width="70%"></img></td>
+<td align="center" width="16.6%"><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg" width="70%"></img></td>
         </tr>
     </thead>
     <tbody>
@@ -101,7 +101,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 </table>
 <br><br>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg">
 <br>
 
 ## [`URI OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
@@ -187,7 +187,7 @@ The URI OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solvin
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
@@ -221,7 +221,7 @@ The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Probl
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg">
 <br>
 
 ## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
@@ -249,7 +249,7 @@ The AtCoder OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-So
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg">
 <br>
 
 ## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
@@ -303,7 +303,7 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg">
+<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)

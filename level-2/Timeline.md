@@ -4,8 +4,8 @@
     <tbody>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-01-10.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri/phase-2-1"> phase-2-1</a></td>
         </tr>
         <tr>
@@ -13,8 +13,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-11-20.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img></td>
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-1"> phase-2-1</a></td>
         </tr>
         <tr>
@@ -22,8 +22,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-21-30.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerrank.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri/phase-2-2"> phase-2-2</a></td>
         </tr>
         <tr>
@@ -31,8 +31,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-31-40.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img></td>
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-2"> phase-2-2</a></td>
         </tr>
         <tr>
@@ -40,8 +40,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-41-50.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri/phase-2-3"> phase-2-3</a></td>
         </tr>
         <tr>
@@ -49,8 +49,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-51-60.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img></td>
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-3"> phase-2-3</a></td>
         </tr>
         <tr>
@@ -58,8 +58,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-61-70.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/atcoder.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri/phase-2-4"> phase-2-4</a></td>
         </tr>
         <tr>
@@ -67,8 +67,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-71-80.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/codeforces.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img></td>
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-4"> phase-2-4</a></td>
         </tr>
         <tr>
@@ -76,8 +76,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-81-90.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri/phase-2-5"> phase-2-5</a></td>
         </tr>
         <tr>
@@ -85,8 +85,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-91-100.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img></td>
 <td align="left">LeetCode<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode/phase-2-5"> phase-2-5</a></td>
         </tr>
         <tr>
@@ -94,8 +94,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-101-110.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/uri/phase-2-6"> phase-2-6</a></td>
         </tr>
         <tr>
@@ -103,8 +103,8 @@
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-111-120.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/leetcode.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/hackerearth.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img></td>
 <td align="left">LeetCode<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/leetcode/phase-2-6"> phase-2-6</a></td>
         </tr>
         <tr>
