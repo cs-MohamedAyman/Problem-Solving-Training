@@ -1,4 +1,4 @@
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/online-judges-logos/metahackercup.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/metahackercup.jpg">
 
 ## [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/) - Phase 4 Meta HackerCup `200 problems` `100 hrs`
 
