@@ -207,8 +207,206 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### reverse nodes in k group:
+Problem Link: https://leetcode.com/problems/reverse-nodes-in-k-group
+
+#### - Python Solution
+```python
+class Solution:
+    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        def reverseList(head, tail):
+            if head == None:
+                return head
+            prv = None
+            cur = head
+            nxt = cur.next
+            while nxt != tail:
+                cur.next = prv
+                prv = cur
+                cur = nxt
+                nxt = nxt.next
+            cur.next = prv
+            return cur
+        
+        i = 0
+        res = ListNode(0, head)
+        curr_tail = res.next
+        curr_head = res
+        last_head = res.next
+        while curr_tail:
+            i += 1
+            curr_tail = curr_tail.next
+            if i % k == 0:
+                curr_head.next = reverseList(curr_head.next, curr_tail)
+                last_head.next = curr_tail
+                curr_head = last_head
+                last_head = curr_tail
+        return res.next
+```
+#### - CPP Solution
+```cpp
+class Solution {
+     ListNode* reverseList(ListNode *head, ListNode *tail) {
+            if (head == NULL)
+                return head;
+            ListNode *prv = NULL;
+            ListNode *cur = head;
+            ListNode *nxt = cur->next;
+            while (nxt != tail) {
+                cur->next = prv;
+                prv = cur;
+                cur = nxt;
+                nxt = nxt->next;
+            }
+            cur->next = prv;
+            return cur;
+     }        
+public:
+    ListNode* reverseKGroup(ListNode *head, int k) {
+        int i = 0;
+        ListNode *res = new ListNode(0, head);
+        ListNode *curr_tail = res->next;
+        ListNode *curr_head = res;
+        ListNode *last_head = res->next;
+        while (curr_tail) {
+            i ++;
+            curr_tail = curr_tail->next;
+            if (i % k == 0) {
+                curr_head->next = reverseList(curr_head->next, curr_tail);
+                last_head->next = curr_tail;
+                curr_head = last_head;
+                last_head = curr_tail;
+            }
+        }
+        return res->next;
+    }
+};
+```
+
+### merge k sorted lists:
+Problem Link: https://leetcode.com/problems/merge-k-sorted-lists
+
+#### - Python Solution
+```python
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        def mergeTwoLists(list1, list2):
+            head = ListNode()
+            curr = head
+            while list1 and list2:
+                if list1.val <= list2.val:
+                    curr.next = list1
+                    list1 = list1.next
+                else:
+                    curr.next = list2
+                    list2 = list2.next
+                curr = curr.next
+            if list1:
+                curr.next = list1
+            if list2:
+                curr.next = list2
+            return head.next
+        
+        if len(lists) == 0:
+            return None
+        for i in range(1, len(lists)):
+            lists[0] = mergeTwoLists(lists[0], lists[i])
+        return lists[0]
+```
+#### - CPP Solution
+```cpp
+class Solution {
+    ListNode* mergeTwoLists(ListNode *list1, ListNode *list2) {
+        ListNode *head = new ListNode();
+        ListNode *curr = head;
+        while (list1 and list2) {
+            if (list1->val <= list2->val)
+                curr->next = list1,
+                list1 = list1->next;
+            else
+                curr->next = list2,
+                list2 = list2->next;
+            curr = curr->next;
+        }
+        if (list1)
+            curr->next = list1;
+        if (list2)
+            curr->next = list2;
+        return head->next;
+    }
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if (size(lists) == 0)
+            return NULL;
+        for (int i=1; i<size(lists); i++)
+            lists[0] = mergeTwoLists(lists[0], lists[i]);
+        return lists[0];
+    }
+};
+```
+
+### smallest range covering elements from k lists:
+Problem Link: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+
+#### - Python Solution
+```python
+import queue
+
+class Solution:
+    def smallestRange(self, nums: List[List[int]]) -> List[int]:
+        min_heap = queue.PriorityQueue()
+        max_end = -2e5
+        for i in range(len(nums)):
+            min_heap.put((nums[i][0], i, 0))
+            max_end = max(max_end, nums[i][0])
+        t, i, j = min_heap.get()
+        res = [t, max_end]
+        while j < len(nums[i])-1:
+            max_end = max(max_end, nums[i][j+1])
+            min_heap.put((nums[i][j+1], i, j+1))
+            t, i, j = min_heap.get()
+            if max_end - t < res[1] - res[0]:
+                res[0], res[1] = t, max_end
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+    struct Item {
+        int t, i, j;
+        Item(int t, int i, int j) :
+            t(t), i(i), j(j) {
+        }
+    };
+public:
+    vector<int> smallestRange(vector<vector<int>> &nums) {
+        auto comp = [](const Item &x, const Item &y) {
+            return x.t > y.t;
+        };
+        priority_queue<Item, vector<Item>, decltype(comp)> min_heap(comp);
+        int max_end = -2e5;
+        for (int i=0; i<size(nums); i++) {
+            min_heap.push(Item(nums[i][0], i, 0));
+            max_end = max(max_end, nums[i][0]);
+        }
+        Item x = min_heap.top();
+        min_heap.pop();
+        vector<int> res = {x.t, max_end};
+        while (x.j < size(nums[x.i])-1) {
+            max_end = max(max_end, nums[x.i][x.j+1]);
+            min_heap.push(Item(nums[x.i][x.j+1], x.i, x.j+1));
+            x = min_heap.top();
+            min_heap.pop();
+            if (max_end - x.t < res[1] - res[0])
+                res[0] = x.t, res[1] = max_end;
+        }
+        return res;
+    }
+};
+```
+
+### employee free time:
+Problem Link: https://leetcode.com/problems/employee-free-time
 
 #### - Python Solution
 ```python
@@ -219,52 +417,61 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### count of range sum:
+Problem Link: https://leetcode.com/problems/count-of-range-sum
 
 #### - Python Solution
 ```python
+class Solution:
+    def countRangeSum(self, nums: List[int], lower: int, upper: int) -> int:
+        def merge_sort(l, r):
+            m = (l+r) // 2
+            if l == m:
+                return 0
+            res = merge_sort(l, m) + merge_sort(m, r)
+            i, j = m, m
+            for k in range(l, m):
+                while i < r and cumulative_sum[i] - cumulative_sum[k] <  lower: 
+                    i += 1
+                while j < r and cumulative_sum[j] - cumulative_sum[k] <= upper: 
+                    j += 1
+                res += j - i
+            cumulative_sum[l:r] = sorted(cumulative_sum[l:r])
+            return res
 
+        cumulative_sum = [0] * (len(nums)+1)
+        for i in range(len(nums)):
+            cumulative_sum[i+1] = cumulative_sum[i] + nums[i]
+        return merge_sort(0, len(cumulative_sum))
 ```
 #### - CPP Solution
 ```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
+class Solution {
+    int merge_sort(int l, int r, vector<long> &cumulative_sum, int lower, int upper) {
+        int m = (l+r) / 2;
+        if (l == m)
+            return 0;
+        int res = merge_sort(l, m, cumulative_sum, lower, upper) + 
+                  merge_sort(m, r, cumulative_sum, lower, upper);
+        int i = m, j = m;
+        for (int k=l; k<m; k++) {
+            while (i < r and cumulative_sum[i] - cumulative_sum[k] <  lower)
+                i ++;
+            while (j < r and cumulative_sum[j] - cumulative_sum[k] <= upper)
+                j ++;
+            res += j - i;
+        }
+        sort(cumulative_sum.begin()+l, cumulative_sum.begin()+r);
+        return res;
+    }
+public:
+    int countRangeSum(vector<int> &nums, int lower, int upper) {
+        vector<long> cumulative_sum(size(nums)+1, 0);
+        for (int i=0; i<size(nums); i++)
+            cumulative_sum[i+1] = cumulative_sum[i] + nums[i];
+        return merge_sort(0, size(cumulative_sum), cumulative_sum, lower, upper);
+    }
+};
 ```
 
 ### problemname:

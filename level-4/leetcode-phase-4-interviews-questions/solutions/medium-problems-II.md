@@ -982,7 +982,7 @@ class Solution:
 #### - CPP Solution
 ```cpp
 class Solution {
-    struct Item{
+    struct Item {
         int t, n1, n2, idx;
         Item(int t, int n1, int n2, int idx) :
             t(t), n1(n1), n2(n2), idx(idx) {
