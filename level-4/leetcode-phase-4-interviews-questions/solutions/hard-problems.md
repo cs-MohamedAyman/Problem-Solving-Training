@@ -227,7 +227,7 @@ class Solution:
                 nxt = nxt.next
             cur.next = prv
             return cur
-        
+
         i = 0
         res = ListNode(0, head)
         curr_tail = res.next
@@ -260,7 +260,7 @@ class Solution {
             }
             cur->next = prv;
             return cur;
-     }        
+     }
 public:
     ListNode* reverseKGroup(ListNode *head, int k) {
         int i = 0;
@@ -306,7 +306,7 @@ class Solution:
             if list2:
                 curr.next = list2
             return head.next
-        
+
         if len(lists) == 0:
             return None
         for i in range(1, len(lists)):
@@ -431,9 +431,9 @@ class Solution:
             res = merge_sort(l, m) + merge_sort(m, r)
             i, j = m, m
             for k in range(l, m):
-                while i < r and cumulative_sum[i] - cumulative_sum[k] <  lower: 
+                while i < r and cumulative_sum[i] - cumulative_sum[k] <  lower:
                     i += 1
-                while j < r and cumulative_sum[j] - cumulative_sum[k] <= upper: 
+                while j < r and cumulative_sum[j] - cumulative_sum[k] <= upper:
                     j += 1
                 res += j - i
             cumulative_sum[l:r] = sorted(cumulative_sum[l:r])
@@ -451,7 +451,7 @@ class Solution {
         int m = (l+r) / 2;
         if (l == m)
             return 0;
-        int res = merge_sort(l, m, cumulative_sum, lower, upper) + 
+        int res = merge_sort(l, m, cumulative_sum, lower, upper) +
                   merge_sort(m, r, cumulative_sum, lower, upper);
         int i = m, j = m;
         for (int k=l; k<m; k++) {
