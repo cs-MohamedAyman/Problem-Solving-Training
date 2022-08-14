@@ -474,52 +474,186 @@ public:
 };
 ```
 
-### problemname:
+### sliding window maximum:
+Problem Link: https://leetcode.com/problems/sliding-window-maximum
+
+#### - Python Solution
+```python
+class Solution:
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        q = deque()
+        res = []
+        for i in range(len(nums)):
+            while q and nums[i] > q[-1][0]:
+                q.pop()
+            q.append((nums[i], i))
+            if i < k-1:
+                continue
+            res.append(q[0][0])
+            if i - q[0][1] + 1 == k:
+                q.popleft()
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    vector<int> maxSlidingWindow(vector<int> &nums, int k) {
+        deque<pair<int, int>> q;
+        vector<int> res;
+        for (int i=0; i<size(nums); i++) {
+            while (size(q) and nums[i] > q.back().first)
+                q.pop_back();
+            q.push_back({nums[i], i});
+            if (i < k-1)
+                continue;
+            res.push_back(q[0].first);
+            if (i - q.front().second + 1 == k)
+                q.pop_front();
+        }
+        return res;
+    }
+};
+```
+
+### minimum number of k consecutive bit flips:
+Problem Link: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
+
+#### - Python Solution
+```python
+class Solution:
+    def minKBitFlips(self, nums: List[int], k: int) -> int:
+        res, flipped = 0, 0
+        is_flipped = [0] * len(nums)
+        for i in range(len(nums)):
+            if i >= k:
+                flipped ^= is_flipped[i-k]
+            if flipped != nums[i]:
+                continue
+            if i+k > len(nums):
+                return -1
+            is_flipped[i] = 1
+            flipped = 1 - flipped
+            res += 1
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    int minKBitFlips(vector<int> &nums, int k) {
+        int res = 0, flipped = 0;
+        vector<int> is_flipped(size(nums), 0);
+        for (int i=0; i<size(nums); i++) {
+            if (i >= k)
+                flipped ^= is_flipped[i-k];
+            if (flipped != nums[i])
+                continue;
+            if (i+k > size(nums))
+                return -1;
+            is_flipped[i] = 1;
+            flipped = 1 - flipped;
+            res ++;
+        }
+        return res;
+    }
+};
+```
+
+### count unique characters of all substrings of a given string:
 Problem Link:
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def uniqueLetterString(self, s: str) -> int:
+        idx = {chr(i): [-1, -1] for i in range(ord('A'), ord('Z')+1)}
+        res = 0
+        for i in range(len(s)):
+            k, j = idx[s[i]]
+            res += (i-j) * (j-k)
+            idx[s[i]] = [j, i]
+        for i in idx:
+            k, j = idx[i]
+            res += (len(s)-j) * (j-k)
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int uniqueLetterString(string s) {
+        map<char, pair<int, int>> idx;
+        for (char i='A'; i<='Z'; i++)
+            idx[i] = {-1, -1};
+        int res = 0;
+        for (int i=0; i<size(s); i++) {
+            auto [k, j] = idx[s[i]];
+            res += (i-j) * (j-k);
+            idx[s[i]] = {j, i};
+        }
+        for (auto &[i, v] : idx) {
+            auto [k, j] = v;
+            res += (size(s)-j) * (j-k);
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### minimum window substring:
+Problem Link: https://leetcode.com/problems/minimum-window-substring
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def minWindow(self, s: str, t: str) -> str:
+        cnt, window = {}, {}
+        for i in t:
+            cnt[i] = cnt.get(i, 0) + 1
+        curr, need = 0, len(cnt)
+        res_i, res_j, res_len = -1, -1, 2e5
+        j = 0
+        for i in range(len(s)):
+            window[s[i]] = window.get(s[i], 0) + 1
+            if s[i] in cnt and window[s[i]] == cnt[s[i]]:
+                curr += 1
+            while curr == need:
+                if i-j+1 < res_len:
+                    res_i, res_j, res_len = j, i, i-j+1
+                window[s[j]] -= 1
+                if s[j] in cnt and window[s[j]] < cnt[s[j]]:
+                    curr -= 1
+                j += 1
+        return s[res_i:res_j+1] if res_len != 2e5 else ""
 ```
 #### - CPP Solution
 ```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
+class Solution {
+public:
+    string minWindow(string s, string t) {
+        map<char, int> cnt, window;
+        for (char i : t)
+            cnt[i] ++;
+        int curr = 0, need = size(cnt);
+        int res_i = -1, res_j = -1, res_len = 2e5;
+        int j = 0;
+        for (int i=0; i<size(s); i++) {
+            window[s[i]] ++;
+            if (cnt.find(s[i]) != cnt.end() and window[s[i]] == cnt[s[i]])
+                curr ++;
+            while (curr == need) {
+                if (i-j+1 < res_len)
+                    res_i = j, res_j = i, res_len = i-j+1;
+                window[s[j]] --;
+                if (cnt.find(s[j]) != cnt.end() and window[s[j]] < cnt[s[j]])
+                    curr --;
+                j ++;
+            }
+        }
+        return res_len != 2e5? s.substr(res_i, res_j-res_i+1) : "";
+    }
+};
 ```
 
 ### problemname:
