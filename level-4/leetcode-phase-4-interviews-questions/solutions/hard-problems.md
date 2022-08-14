@@ -656,8 +656,77 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### substring with concatenation of all words:
+Problem Link: https://leetcode.com/problems/substring-with-concatenation-of-all-words
+
+#### - Python Solution
+```python
+class Solution:
+    def findSubstring(self, s: str, words: List[str]) -> List[int]:
+        cnt, sub = {}, {}
+        res = []
+        is_substr = True
+        n = len(words[0])
+        if len(s) <= 0 or len(s) < len(words)*n:
+            return res
+        for i in range(len(words)):
+            cnt[words[i]] = cnt.get(words[i], 0) + 1
+        for i in range(len(s)-n*len(words)+1):
+            is_substr = True
+            sub.clear()
+            if s[i:i+n] not in cnt:
+                continue
+            for j in range(len(words)):
+                next_word = s[i+j*n:i+j*n+n]
+                if next_word in cnt:
+                    sub[next_word] = sub.get(next_word, 0) + 1
+                if next_word not in cnt or \
+                    sub[next_word] > cnt[next_word]:
+                    is_substr = False
+                    break
+            if is_substr == True:
+                res.append(i)
+        return res
+```
+#### - CPP Solution
+```cpp
+class Solution {
+public:
+    vector<int> findSubstring(string s, vector<string> &words) {
+        map<string, int> cnt;
+        map<string, int> sub;
+        vector<int> res;
+        bool is_substr = true;
+        int n = size(words[0]);
+        if (size(s) <= 0 or size(s) < size(words)*n)
+            return res;
+        for (int i=0; i<size(words); i++)
+            cnt[words[i]] ++;
+        for (int i=0; i<size(s)-n*size(words)+1; i++) {
+            is_substr = true;
+            sub.clear();
+            if (cnt.find(s.substr(i, n)) == cnt.end())
+                continue;
+            for (int j=0 ; j<size(words); j++){
+                string next_word = s.substr(i+j*n, n);
+                if (cnt.find(next_word) != cnt.end())
+                    sub[next_word] ++;
+                if (cnt.find(next_word) == cnt.end() or
+                    sub[next_word] > cnt[next_word]) {
+                    is_substr = false;
+                    break;
+                }
+            }
+            if (is_substr == true)
+                res.push_back(i);
+        }
+        return res;
+    }
+};
+```
+
+### rearrange string k distance apart:
+Problem Link: https://leetcode.com/problems/rearrange-string-k-distance-apart
 
 #### - Python Solution
 ```python
@@ -668,28 +737,46 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### course schedule iii:
+Problem Link: https://leetcode.com/problems/course-schedule-iii
 
 #### - Python Solution
 ```python
+import queue
 
+class Solution:
+    def scheduleCourse(self, courses: List[List[int]]) -> int:
+        courses.sort(key = lambda x: x[1])
+        max_heap = queue.PriorityQueue()
+        now = 0
+        for t, end in courses:
+            now += t
+            max_heap.put(-t)
+            if now > end:
+                now += max_heap.get()
+        return max_heap.qsize()
 ```
 #### - CPP Solution
 ```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
+class Solution {
+public:
+    int scheduleCourse(vector<vector<int>> &courses) {
+        sort(courses.begin(), courses.end(), [](const vector<int> &x, const vector<int> &y) {
+                                                return x[1] < y[1];}
+            );
+        priority_queue<int> max_heap;
+        int now = 0;
+        for (auto it : courses) {
+            now += it[0];
+            max_heap.push(it[0]);
+            if (now > it[1]) {
+                now += -max_heap.top();
+                max_heap.pop();
+            }
+        }
+        return size(max_heap);
+    }
+};
 ```
 
 ### problemname:
