@@ -825,7 +825,7 @@ public:
         int x = freq[max_freq].top();
         freq[max_freq].pop();
         cnt[x] --;
-        if (not size(freq[max_freq])) 
+        if (not size(freq[max_freq]))
             max_freq --;
         return x;
     }
@@ -859,7 +859,7 @@ class Solution:
             right_max = max(dfs(root.right), 0)
             res = max(res, root.val + left_max + right_max)
             return root.val + max(left_max, right_max)
-        
+
         res = -2e3
         dfs(root)
         return res
@@ -926,7 +926,7 @@ class Codec:
 class Codec {
     vector<string> vals;
     vector<string> res;
-    
+
     void dfs1(TreeNode *node) {
         if (not node) {
             res.push_back("NA");
@@ -1082,7 +1082,7 @@ class Solution {
     set<string> res;
     set<pair<int, int>> visited;
     Trie t;
-    
+
     void dfs(int r, int c, TrieNode *curr, string word, const vector<vector<char>> &board) {
         if (r < 0 or c < 0 or r == n or c == m or
             not curr->child[board[r][c] - 'a'] or
@@ -1113,7 +1113,7 @@ public:
             for (int c=0; c<m; c++)
                 dfs(r, c, t.root, "", board);
         vector<string> ans(res.begin(), res.end());
-        return ans;        
+        return ans;
     }
 };
 ```
@@ -1174,18 +1174,18 @@ public:
         int l = not size(max_heap) ? -1e9 : max_heap.top();
         int r = not size(min_heap) ?  1e9 : min_heap.top();
         if (l > r) {
-            max_heap.pop(); 
+            max_heap.pop();
             max_heap.push(r);
-            min_heap.pop(); 
+            min_heap.pop();
             min_heap.push(l);
         }
     }
     double findMedian() {
         int l = not size(max_heap) ? 0 : max_heap.top();
         int r = not size(min_heap) ? 0 : min_heap.top();
-        if (cnt % 2) 
+        if (cnt % 2)
             return l;
-        else 
+        else
             return 1.0*(l+r)/2;
     }
 };
