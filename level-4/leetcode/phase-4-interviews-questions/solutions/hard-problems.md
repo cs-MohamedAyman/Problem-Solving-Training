@@ -972,23 +972,223 @@ Problem Link: https://leetcode.com/problems/word-search-ii
 
 #### - Python Solution
 ```python
+class Trie:
+    class TrieNode:
+        def __init__(self):
+            self.child = [None] * 26
+            self.end = False
+            self.cnt = 0
 
+    def __init__(self):
+        self.root = self.TrieNode()
+
+    def insert(self, word):
+        curr = self.root
+        curr.cnt += 1
+        for c in word:
+            i = ord(c) - ord('a')
+            if curr.child[i] == None:
+                curr.child[i] = self.TrieNode()
+            curr = curr.child[i]
+            curr.cnt += 1
+        curr.end = True
+
+    def remove(self, word):
+        curr = self.root
+        curr.cnt -= 1
+        for c in word:
+            i = ord(c) - ord('a')
+            if curr.child[i] != None:
+                curr = curr.child[i]
+                curr.cnt -= 1
+
+class Solution:
+    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
+        def dfs(r, c, curr, word):
+            if r < 0 or c < 0 or r == n or c == m or \
+               not curr.child[ord(board[r][c]) - ord('a')] or \
+               curr.child[ord(board[r][c]) - ord('a')].cnt < 1 or \
+               (r, c) in visited:
+                return
+            visited.add((r, c))
+            curr = curr.child[ord(board[r][c]) - ord('a')]
+            word += board[r][c]
+            if curr.end:
+                curr.end = False
+                res.add(word)
+                t.remove(word)
+            dfs(r+1, c, curr, word)
+            dfs(r-1, c, curr, word)
+            dfs(r, c+1, curr, word)
+            dfs(r, c-1, curr, word)
+            visited.remove((r, c))
+
+        t = Trie()
+        for w in words:
+            t.insert(w)
+        n, m = len(board), len(board[0])
+        res, visited = set(), set()
+        for r in range(n):
+            for c in range(m):
+                dfs(r, c, t.root, "")
+        return list(res)
 ```
 #### - CPP Solution
 ```cpp
+class TrieNode {
+public:
+    vector<TrieNode*> child;
+    bool end;
+    int cnt;
+    TrieNode() {
+        this->child.assign(26, NULL);
+        this->end = false;
+        this->cnt = 0;
+    }
+};
 
+class Trie {
+public:
+    TrieNode *root;
+    Trie() {
+        this->root = new TrieNode();
+    }
+    void insert(string word) {
+        TrieNode *curr = this->root;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                curr->child[i] = new TrieNode();
+            curr = curr->child[i];
+            curr->cnt ++;
+        }
+        curr->end = true;
+    }
+    void remove(string word) {
+        TrieNode *curr = this->root;
+        curr->cnt --;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] != NULL) {
+                curr = curr->child[i];
+                curr->cnt --;
+            }
+        }
+    }
+};
+
+class Solution {
+    int n, m;
+    set<string> res;
+    set<pair<int, int>> visited;
+    Trie t;
+    
+    void dfs(int r, int c, TrieNode *curr, string word, const vector<vector<char>> &board) {
+        if (r < 0 or c < 0 or r == n or c == m or
+            not curr->child[board[r][c] - 'a'] or
+            curr->child[board[r][c] - 'a']->cnt < 1 or
+            visited.find({r, c}) != visited.end())
+            return;
+        visited.insert({r, c});
+        curr = curr->child[board[r][c] - 'a'];
+        word += board[r][c];
+        if (curr->end) {
+            curr->end = false;
+            res.insert(word);
+            t.remove(word);
+        }
+        dfs(r+1, c, curr, word, board);
+        dfs(r-1, c, curr, word, board);
+        dfs(r, c+1, curr, word, board);
+        dfs(r, c-1, curr, word, board);
+        visited.erase(visited.find({r, c}));
+    }
+public:
+    vector<string> findWords(vector<vector<char>> &board, vector<string> &words) {
+        t = Trie();
+        for (string w : words)
+            t.insert(w);
+        n = size(board), m = size(board[0]);
+        for (int r=0; r<n; r++)
+            for (int c=0; c<m; c++)
+                dfs(r, c, t.root, "", board);
+        vector<string> ans(res.begin(), res.end());
+        return ans;        
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### find median from data stream:
+Problem Link: https://leetcode.com/problems/find-median-from-data-stream
 
 #### - Python Solution
 ```python
+import queue
 
+class MedianFinder:
+    def __init__(self):
+        self.max_heap = queue.PriorityQueue()
+        self.min_heap = queue.PriorityQueue()
+        self.cnt = 0
+
+    def addNum(self, num: int) -> None:
+        if self.cnt % 2:
+            self.min_heap.put(num)
+        else:
+            self.max_heap.put(-num)
+        self.cnt += 1
+        l = -1e9 if not self.max_heap.qsize() else -self.max_heap.queue[0]
+        r =  1e9 if not self.min_heap.qsize() else self.min_heap.queue[0]
+        if l > r:
+            self.max_heap.get()
+            self.max_heap.put(-r)
+            self.min_heap.get()
+            self.min_heap.put(l)
+
+    def findMedian(self) -> float:
+        l = 0 if not self.max_heap.qsize() else -self.max_heap.queue[0]
+        r = 0 if not self.min_heap.qsize() else self.min_heap.queue[0]
+        if self.cnt % 2:
+            return l
+        else:
+            return (l+r)/2
 ```
 #### - CPP Solution
 ```cpp
-
+class MedianFinder {
+    priority_queue<int> max_heap;
+    priority_queue<int, vector<int>, greater<int>> min_heap;
+    int cnt;
+public:
+    MedianFinder() {
+        max_heap = priority_queue<int>();
+        min_heap = priority_queue<int, vector<int>, greater<int>>();
+        cnt = 0;
+    }
+    void addNum(int num) {
+        if (cnt % 2)
+            min_heap.push(num);
+        else
+            max_heap.push(num);
+        cnt ++;
+        int l = not size(max_heap) ? -1e9 : max_heap.top();
+        int r = not size(min_heap) ?  1e9 : min_heap.top();
+        if (l > r) {
+            max_heap.pop(); 
+            max_heap.push(r);
+            min_heap.pop(); 
+            min_heap.push(l);
+        }
+    }
+    double findMedian() {
+        int l = not size(max_heap) ? 0 : max_heap.top();
+        int r = not size(min_heap) ? 0 : min_heap.top();
+        if (cnt % 2) 
+            return l;
+        else 
+            return 1.0*(l+r)/2;
+    }
+};
 ```
 
 ### problemname:
