@@ -561,7 +561,7 @@ public:
 ```
 
 ### count unique characters of all substrings of a given string:
-Problem Link:
+Problem Link: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string
 
 #### - Python Solution
 ```python
@@ -779,8 +779,61 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### maximum frequency stack:
+Problem Link: https://leetcode.com/problems/maximum-frequency-stack
+
+#### - Python Solution
+```python
+class FreqStack:
+    def __init__(self):
+        self.max_freq = 0
+        self.cnt = {}
+        self.freq = {}
+
+    def push(self, val: int) -> None:
+        self.cnt[val] = self.cnt.get(val, 0) + 1
+        if self.max_freq < self.cnt[val]:
+            self.max_freq = self.cnt[val]
+        if self.cnt[val] not in self.freq:
+            self.freq[self.cnt[val]] = [val]
+        else:
+            self.freq[self.cnt[val]].append(val)
+
+    def pop(self) -> int:
+        x = self.freq[self.max_freq].pop()
+        self.cnt[x] -= 1
+        if not len(self.freq[self.max_freq]):
+            self.max_freq -= 1
+        return x
+```
+#### - CPP Solution
+```cpp
+class FreqStack {
+    map<int, int> cnt;
+    map<int, stack<int>> freq;
+    int max_freq;
+public:
+    FreqStack() {
+        max_freq = 0;
+    }
+    void push(int val) {
+        cnt[val] ++;
+        max_freq = max(max_freq, cnt[val]);
+        freq[cnt[val]].push(val);
+    }
+    int pop() {
+        int x = freq[max_freq].top();
+        freq[max_freq].pop();
+        cnt[x] --;
+        if (not size(freq[max_freq])) 
+            max_freq --;
+        return x;
+    }
+};
+```
+
+### alien dictionary:
+Problem Link: https://leetcode.com/problems/alien-dictionary
 
 #### - Python Solution
 ```python
@@ -791,44 +844,131 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### binary tree maximum path sum:
+Problem Link: https://leetcode.com/problems/binary-tree-maximum-path-sum
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def maxPathSum(self, root: Optional[TreeNode]) -> int:
+        def dfs(root):
+            nonlocal res
+            if not root:
+                return 0
+            left_max  = max(dfs(root.left), 0)
+            right_max = max(dfs(root.right), 0)
+            res = max(res, root.val + left_max + right_max)
+            return root.val + max(left_max, right_max)
+        
+        res = -2e3
+        dfs(root)
+        return res
 ```
 #### - CPP Solution
 ```cpp
+class Solution {
+    int res;
 
+    int dfs(TreeNode *root) {
+        if (not root)
+            return 0;
+        int left_max  = max(dfs(root->left), 0);
+        int right_max = max(dfs(root->right), 0);
+        res = max(res, root->val + left_max + right_max);
+        return root->val + max(left_max, right_max);
+    }
+public:
+    int maxPathSum(TreeNode *root) {
+        res = -2e3;
+        dfs(root);
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### serialize and deserialize binary tree:
+Problem Link: https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 
 #### - Python Solution
 ```python
+class Codec:
+    def serialize(self, root):
+        def dfs(node):
+            if not node:
+                res.append("NA")
+                return
+            res.append(str(node.val))
+            dfs(node.left)
+            dfs(node.right)
 
+        res = []
+        dfs(root)
+        return ','.join(res)
+
+    def deserialize(self, s):
+        def dfs():
+            nonlocal i
+            if vals[i] == "NA":
+                return None
+            node = TreeNode(int(vals[i]))
+            i += 1
+            node.left  = dfs()
+            i += 1
+            node.right = dfs()
+            return node
+
+        vals = s.split(",")
+        i = 0
+        return dfs()
 ```
 #### - CPP Solution
 ```cpp
-
+class Codec {
+    vector<string> vals;
+    vector<string> res;
+    
+    void dfs1(TreeNode *node) {
+        if (not node) {
+            res.push_back("NA");
+            return;
+        }
+        res.push_back(to_string(node->val));
+        dfs1(node->left);
+        dfs1(node->right);
+    }
+    TreeNode* dfs2(int &i) {
+        if (vals[i] == "NA")
+            return NULL;
+        TreeNode *node = new TreeNode(stoi(vals[i]));
+        i ++;
+        node->left  = dfs2(i);
+        i ++;
+        node->right = dfs2(i);
+        return node;
+    }
+public:
+    string serialize(TreeNode *root) {
+        dfs1(root);
+        stringstream tmp;
+        copy(res.begin(), res.end(), ostream_iterator<string>(tmp, ","));
+        return tmp.str();
+    }
+    TreeNode* deserialize(string s) {
+        int pos = 0;
+        string token;
+        while ((pos = s.find(',')) != string::npos) {
+            token = s.substr(0, pos);
+            vals.push_back(token);
+            s.erase(0, pos+1);
+        }
+        int i = 0;
+        return dfs2(i);
+    }
+};
 ```
 
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
+### word search ii:
+Problem Link: https://leetcode.com/problems/word-search-ii
 
 #### - Python Solution
 ```python
