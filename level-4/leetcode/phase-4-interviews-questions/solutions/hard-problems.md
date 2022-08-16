@@ -1191,44 +1191,165 @@ public:
 };
 ```
 
-### problemname:
-Problem Link:
+### sliding window median:
+Problem Link: https://leetcode.com/problems/sliding-window-median/submissions
 
 #### - Python Solution
 ```python
+class Solution:
+    def medianSlidingWindow(self, nums: List[int], k: int) -> List[float]:
+        def binary_search(arr, x):
+            l, r = 0, len(arr)
+            while l < r:
+                m = (l+r) // 2
+                if arr[m] < x:
+                    l = m + 1
+                else:
+                    r = m
+            return l
 
+        window = sorted(nums[:k-1])
+        res = []
+        for i in range(k-1, len(nums)):
+            j = binary_search(window, nums[i])
+            window.insert(j, nums[i])
+            res.append((window[k//2] + window[(k-1)//2]) / 2.0)
+            window.remove(nums[i-k+1])
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    int binary_search(vector<int> arr, int x) {
+        int l = 0, r = size(arr);
+        while (l < r) {
+            int m = (l+r) / 2;
+            if (arr[m] < x)
+                l = m + 1;
+            else
+                r = m;
+        }
+        return l;
+    }
+public:
+    vector<double> medianSlidingWindow(vector<int> &nums, int k) {
+        vector<int> window(nums.begin(), nums.begin()+k-1);
+        sort(window.begin(), window.end());
+        vector<double> res;
+        for (int i=k-1; i<size(nums); i++) {
+            int j = binary_search(window, nums[i]);
+            window.insert(window.begin()+j, nums[i]);
+            res.push_back((1LL*window[k/2] + 1LL*window[(k-1)/2]) / 2.0);
+            window.erase(find(window.begin(), window.end(), nums[i-k+1]));
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### trapping rain water:
+Problem Link: https://leetcode.com/problems/trapping-rain-water
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        if not height:
+            return 0
+        l, r = 0, len(height)-1
+        l_max, r_max = height[l], height[r]
+        res = 0
+        while l < r:
+            if l_max < r_max:
+                l += 1
+                l_max = max(l_max, height[l])
+                res += l_max - height[l]
+            else:
+                r -= 1
+                r_max = max(r_max, height[r])
+                res += r_max - height[r]
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    int trap(vector<int> &height) {
+        if (not size(height))
+            return 0;
+        int l = 0, r = size(height)-1;
+        int l_max = height[l], r_max = height[r];
+        int res = 0;
+        while (l < r) {
+            if (l_max < r_max) {
+                l ++;
+                l_max = max(l_max, height[l]);
+                res += l_max - height[l];
+            }
+            else {
+                r --;
+                r_max = max(r_max, height[r]);
+                res += r_max - height[r];
+            }
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### concatenated words:
+Problem Link: https://leetcode.com/problems/concatenated-words
 
 #### - Python Solution
 ```python
-
+class Solution:
+    def findAllConcatenatedWordsInADict(self, words: List[str]) -> List[str]:
+        words_set = set(words)
+        res = []
+        for word in words: 
+            dp = [False] * (len(word)+1)
+            dp[0] = True
+            for i in range(len(word)):
+                if not dp[i]:
+                    continue
+                for j in range(i+1, len(word)+1):
+                    if j - i < len(word) and word[i:j] in words_set: 
+                        dp[j] = True
+                if dp[len(word)]:
+                    res.append(word)
+                    break
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    vector<string> findAllConcatenatedWordsInADict(vector<string>& words) {
+        set<string> words_set(words.begin(), words.end());
+        vector<string> res;
+        for (string word : words) {
+            vector<bool> dp(size(word), false);
+            dp[0] = true;
+            for (int i=0; i<size(word); i++) {
+                if (not dp[i])
+                    continue;
+                for (int j=i+1; j<size(word)+1; j++) {
+                    if (j - i < size(word) and words_set.find(word.substr(i, j-i)) != words_set.end())
+                        dp[j] = true;
+                }
+                if (dp[size(word)]) {
+                    res.push_back(word);
+                    break;
+                }
+            }
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### prefix and suffix search:
+Problem Link: https://leetcode.com/problems/prefix-and-suffix-search
 
 #### - Python Solution
 ```python
