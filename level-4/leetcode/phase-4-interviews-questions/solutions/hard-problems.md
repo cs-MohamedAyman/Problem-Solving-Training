@@ -1306,14 +1306,14 @@ class Solution:
     def findAllConcatenatedWordsInADict(self, words: List[str]) -> List[str]:
         words_set = set(words)
         res = []
-        for word in words: 
+        for word in words:
             dp = [False] * (len(word)+1)
             dp[0] = True
             for i in range(len(word)):
                 if not dp[i]:
                     continue
                 for j in range(i+1, len(word)+1):
-                    if j - i < len(word) and word[i:j] in words_set: 
+                    if j - i < len(word) and word[i:j] in words_set:
                         dp[j] = True
                 if dp[len(word)]:
                     res.append(word)
@@ -1361,7 +1361,7 @@ class Trie(object):
 
     def __init__(self):
         self.root = self.TrieNode()
-        
+
     def insert(self, word, j):
         curr = self.root
         curr.idx.append(j)
@@ -1443,13 +1443,13 @@ public:
 class WordFilter {
     Trie t;
 public:
- 	WordFilter(vector<string> &words) {
+     WordFilter(vector<string> &words) {
         for (int i=0; i<size(words); i++) {
             for (int j=0; j<size(words[i])+1; j++)
                 t.insert(words[i].substr(j) + "." + words[i], i);
         }
- 	}
- 	int f(string pref, string suff) {
+     }
+     int f(string pref, string suff) {
         return t.find(suff + "." + pref);
     }
 };
@@ -1460,15 +1460,80 @@ Problem Link: https://leetcode.com/problems/palindrome-pairs
 
 #### - Python Solution
 ```python
+class Solution:
+    def palindromePairs(self, words: List[str]) -> List[List[int]]:
+        def is_palindrome(s, i, j):
+            while i < j and s[i] == s[j]:
+                i += 1; j -= 1
+            return i >= j
 
+        idx = {}
+        words_len = set()
+        res = []
+        for i in range(len(words)):
+            idx[words[i]] = i
+            words_len.add(len(words[i]))
+        for i in range(len(words)):
+            rev_word = words[i][::-1]
+            if rev_word in idx and idx[rev_word] != i:
+                res.append((idx[rev_word] , i))
+            word_len = len(rev_word)
+            for j in words_len:
+                if j >= word_len:
+                    continue
+                suff = rev_word[word_len-j:]
+                pref = rev_word[:j]
+                if is_palindrome(rev_word, 0, word_len-j-1) and suff in idx:
+                    res.append((i , idx[suff]))
+                if is_palindrome(rev_word, j, word_len-1) and pref in idx:
+                    res.append((idx[pref], i))
+        return res
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+    bool is_palindrome(string &s, int i, int j) {
+        while (i < j and s[i] == s[j]) {
+            i ++, j --;
+        }
+        return i >= j;
+    }
+public:
+    vector<vector<int>> palindromePairs(vector<string> &words) {
+        vector<vector<int>> res;
+        map<string, int> idx;
+        set<int> words_len;
+        for (int i = 0; i < size(words); i++) {
+            idx[words[i]] = i;
+            words_len.insert(size(words[i]));
+        }
+        for(int i = 0; i < size(words); i++) {
+            string rev_word = words[i];
+            reverse(rev_word.begin(),rev_word.end());
+            if (idx.find(rev_word) != idx.end() and idx[rev_word] != i) {
+                res.push_back({idx[rev_word] , i});
+            }
+            int word_len = size(rev_word);
+            auto end_len = words_len.find(word_len);
+            for (auto it = words_len.begin(); it != end_len; it++) {
+                int j = *it;
+                string suff = rev_word.substr(word_len-j);
+                string pref = rev_word.substr(0, j);
+                if (is_palindrome(rev_word, 0, word_len-j-1) and idx.find(suff) != idx.end()) {
+                    res.push_back({i , idx[suff]});
+                }
+                if (is_palindrome(rev_word, j, word_len-1) and idx.find(pref) != idx.end()) {
+                    res.push_back({idx[pref], i});
+                }
+            }
+        }
+        return res;
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### design search autocomplete system:
+Problem Link: https://leetcode.com/problems/design-search-autocomplete-system
 
 #### - Python Solution
 ```python
@@ -1479,8 +1544,8 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### word squares:
+Problem Link: https://leetcode.com/problems/word-squares
 
 #### - Python Solution
 ```python
@@ -1491,8 +1556,8 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
+### sort items by groups respecting dependencies:
+Problem Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
 
 #### - Python Solution
 ```python
@@ -1503,56 +1568,8 @@ Problem Link:
 
 ```
 
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
-
-#### - Python Solution
-```python
-
-```
-#### - CPP Solution
-```cpp
-
-```
-
-### problemname:
-Problem Link:
+### median of two sorted arrays:
+Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays
 
 #### - Python Solution
 ```python
