@@ -1353,15 +1353,110 @@ Problem Link: https://leetcode.com/problems/prefix-and-suffix-search
 
 #### - Python Solution
 ```python
+class Trie(object):
+    class TrieNode:
+        def __init__(self):
+            self.child = [None] * 26
+            self.idx = []
 
+    def __init__(self):
+        self.root = self.TrieNode()
+        
+    def insert(self, word, j):
+        curr = self.root
+        curr.idx.append(j)
+        for c in word:
+            i = ord(c) - ord('a')
+            if curr.child[i] == None:
+                curr.child[i] = self.TrieNode()
+            curr = curr.child[i]
+            curr.idx.append(j)
+
+    def find(self, word):
+        curr = self.root
+        for c in word:
+            i = ord(c) - ord('a')
+            if curr.child[i] != None:
+                curr = curr.child[i]
+            else:
+                return []
+        return curr.idx
+
+class WordFilter:
+    def __init__(self, words: List[str]):
+        self.pref_trie = Trie()
+        self.suff_trie = Trie()
+        for i in range(len(words)-1, -1, -1):
+            self.pref_trie.insert(words[i], i)
+            self.suff_trie.insert(words[i][::-1], i)
+
+    def f(self, pref: str, suff: str) -> int:
+        pref_idx = self.pref_trie.find(pref)
+        suff_idx = self.suff_trie.find(suff[::-1])
+        i, j = 0, 0
+        while i != len(pref_idx) and j != len(suff_idx):
+            if pref_idx[i] > suff_idx[j]:
+                i += 1
+            elif pref_idx[i] < suff_idx[j]:
+                j += 1
+            else:
+                return pref_idx[i]
+        return -1
 ```
 #### - CPP Solution
 ```cpp
+class Trie {
+    class TrieNode {
+    public:
+        map<int, TrieNode*> child;
+        int weight;
+    };
+public:
+    TrieNode *root;
+    Trie() {
+        this->root = new TrieNode();
+    }
+    void insert(string word, int j) {
+        TrieNode *curr = this->root;
+        curr->weight = j;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] == NULL)
+                curr->child[i] = new TrieNode();
+            curr = curr->child[i];
+            curr->weight = j;
+        }
+    }
+    int find(string word) {
+        TrieNode *curr = this->root;
+        for (char c : word) {
+            int i = c - 'a';
+            if (curr->child[i] != NULL)
+                curr = curr->child[i];
+            else
+                return -1;
+        }
+        return curr->weight;
+    }
+};
 
+class WordFilter {
+    Trie t;
+public:
+ 	WordFilter(vector<string> &words) {
+        for (int i=0; i<size(words); i++) {
+            for (int j=0; j<size(words[i])+1; j++)
+                t.insert(words[i].substr(j) + "." + words[i], i);
+        }
+ 	}
+ 	int f(string pref, string suff) {
+        return t.find(suff + "." + pref);
+    }
+};
 ```
 
-### problemname:
-Problem Link:
+### palindrome pairs:
+Problem Link: https://leetcode.com/problems/palindrome-pairs
 
 #### - Python Solution
 ```python
