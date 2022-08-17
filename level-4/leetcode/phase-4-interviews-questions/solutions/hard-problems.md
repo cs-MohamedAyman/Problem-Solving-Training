@@ -1507,7 +1507,7 @@ public:
             idx[words[i]] = i;
             words_len.insert(size(words[i]));
         }
-        for(int i = 0; i < size(words); i++) {
+        for (int i = 0; i < size(words); i++) {
             string rev_word = words[i];
             reverse(rev_word.begin(),rev_word.end());
             if (idx.find(rev_word) != idx.end() and idx[rev_word] != i) {
