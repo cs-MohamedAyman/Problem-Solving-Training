@@ -1573,9 +1573,54 @@ Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays
 
 #### - Python Solution
 ```python
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        def findKth(A, B, k):
+            n, m = len(A), len(B)
+            if n > m:
+                A, B = B, A
+                n, m = m, n
+            l, r = 0, n
+            while l < r:
+                mid = (l+r) // 2
+                if 0 <= k-1-mid < m and A[mid] >= B[k-1-mid]:
+                    r = mid
+                else:
+                    l = mid + 1
+            x = A[l-1]   if l-1 >= 0   else -2e9
+            y = B[k-1-l] if k-1-l >= 0 else -2e9
+            return max(x, y)
 
+        n, m = len(nums1), len(nums2)
+        return (findKth(nums1, nums2, (n+m+1) // 2) +
+                findKth(nums1, nums2, (n+m+2) // 2)) / 2.0
 ```
 #### - CPP Solution
 ```cpp
-
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2) {
+        int n = size(nums1), m = size(nums2);
+        return (findKth(nums1, nums2, (n+m+1) / 2) +
+                findKth(nums1, nums2, (n+m+2) / 2)) / 2.0;
+    }
+    int findKth(vector<int> &A, vector<int> &B, int k) {
+        int n = size(A), m = size(B);
+        if (n > m) {
+            swap(A, B);
+            swap(n, m);
+        }
+        int l = 0, r = n;
+        while (l < r) {
+            int mid = (l+r) / 2;
+            if (0 <= k-1-mid and k-1-mid < m and A[mid] >= B[k-1-mid])
+                r = mid;
+            else
+                l = mid + 1;
+        }
+        int x = l-1 >= 0?   A[l-1]   : -2e9;
+        int y = k-1-l >= 0? B[k-1-l] : -2e9;
+        return max(x, y);
+    }
+};
 ```
