@@ -163,7 +163,7 @@
         </tr>
         <tr>
             <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/">number of longest increasing subsequence</a></th>
-            <th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
+            <th align="center" width="50px"></th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -242,7 +242,7 @@
         </tr>
         <tr>
             <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fruit-into-baskets/">fruit into baskets</a></th>
-            <th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
+            <th align="center" width="50px"></th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -321,7 +321,7 @@
         </tr>
         <tr>
             <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/">maximum xor of two numbers in an array</a></th>
-            <th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
+            <th align="center" width="50px"></th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
