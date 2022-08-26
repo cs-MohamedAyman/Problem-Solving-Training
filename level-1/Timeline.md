@@ -41,11 +41,11 @@
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-41-50.jpg"></img></td>
 <td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
 <td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-3"> phase-1-3</a></td>
         </tr>
         <tr>
-<td align="left">AtCoder<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder/phase-1-1"> phase-1-1</a></td>
+<td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-4"> phase-1-4</a></td>
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-51-60.jpg"></img></td>
@@ -59,11 +59,11 @@
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-61-70.jpg"></img></td>
 <td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img></td>
-<td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-4"> phase-1-4</a></td>
+<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
+<td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-5"> phase-1-5</a></td>
         </tr>
         <tr>
-<td align="left">AtCoder<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder/phase-1-2"> phase-1-2</a></td>
+<td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-6"> phase-1-6</a></td>
         </tr>
         <tr>
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-71-80.jpg"></img></td>
@@ -73,15 +73,6 @@
         </tr>
         <tr>
 <td align="left">HackerEarth<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-4"> phase-1-4</a></td>
-        </tr>
-        <tr>
-<td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-81-90.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
-<td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img></td>
-<td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-5"> phase-1-5</a></td>
-        </tr>
-        <tr>
-<td align="left">URI<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-6"> phase-1-6</a></td>
         </tr>
     </tbody>
 </table>
