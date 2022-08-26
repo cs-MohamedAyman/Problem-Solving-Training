@@ -185,9 +185,6 @@ The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-So
         <tr><td>2020-2021 Beginner Contests</td><td align="center">40 problems</td><td>solutions</td>
             <td>2020-2021 Beginner Contests</td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
-</table>
-
-<table>
     <thead>
         <tr>
             <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1">phase-2-1</a></th>
