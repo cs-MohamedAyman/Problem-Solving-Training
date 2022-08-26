@@ -30,7 +30,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
 
-This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
+This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***. Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/master/README.md)
@@ -157,34 +157,6 @@ The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Probl
             <td>Standard Libraries         </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Structs and Classes        </td><td align="center">30 problems</td><td>solutions</td>
             <td>Classes                    </td><td align="center">10 problems</td><td>solutions</td></tr>
-    </tbody>
-</table>
-
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg">
-<br>
-
-## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
-
-The AtCoder OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder/phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder/phase-1-2), These sheets focus on beginner contests (easy contests) and each sheet contains ~90 problems.
-
-<table>
-    <thead>
-        <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder/phase-1-1">phase-1-1</a></th>
-            <th align="center" width="150px">90 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/atcoder/phase-1-2">phase-1-2</a></th>
-            <th align="center" width="150px">90 problems</th>
-            <th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>2016-2017 Beginner Contests</td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests</td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
