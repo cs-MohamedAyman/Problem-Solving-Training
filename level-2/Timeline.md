@@ -69,7 +69,7 @@
 <td align="left" width="25%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/day-71-80.jpg"></img></td>
 <td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img></td>
 <td width="10%" rowspan=2><img src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img></td>
-<td align="left">HackerEarth<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth/phase-2-linear-data-structures"> phase-2-non-linear-data-structures</a></td>
+<td align="left">HackerEarth<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth/phase-2-linear-data-structures"> phase-2-linear-data-structures</a></td>
         </tr>
         <tr>
 <td align="left">HackerEarth<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/hackerearth/phase-2-non-linear-data-structures"> phase-2-non-linear-data-structures</a></td>
