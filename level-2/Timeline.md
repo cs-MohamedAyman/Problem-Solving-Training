@@ -18,7 +18,7 @@
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-1"> phase-2-1</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1"> phase-2-1</a></td>
+<td align="left">AtCoder<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1"> phase-2-1</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/week-05-06.jpg"></img></td>
@@ -45,7 +45,7 @@
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-2"> phase-2-2</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-2"> phase-2-2</a></td>
+<td align="left">AtCoder<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-2"> phase-2-2</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/week-11-12.jpg"></img></td>
@@ -63,7 +63,7 @@
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-3"> phase-2-3</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-3"> phase-2-3</a></td>
+<td align="left">AtCoder<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-3"> phase-2-3</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/week-15-16.jpg"></img></td>
@@ -90,7 +90,7 @@
 <td align="left">Codeforces<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces/phase-2-4"> phase-2-4</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-4"> phase-2-4</a></td>
+<td align="left">AtCoder<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-4"> phase-2-4</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/100-days/week-21-22.jpg"></img></td>
