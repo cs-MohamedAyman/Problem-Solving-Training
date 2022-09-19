@@ -10,7 +10,7 @@
 - ***String***                                     `50 problems`
 - ***Dynamic Programming***                     `50 problems`
 
-### LeetCode - Segment Tree & Suffix Array & Geometry `30 problems`
+### LeetCode - Segment Tree, Suffix Array, Geometry `30 problems`
 
 <table>
     <tbody>
