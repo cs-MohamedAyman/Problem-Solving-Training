@@ -21,7 +21,6 @@ Problem Solving Training for computer science students.
      * [Level Timeline](#level-timeline)
      * [URI Online Judge Sheets](#uri-oj-sheets)
      * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-     * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
