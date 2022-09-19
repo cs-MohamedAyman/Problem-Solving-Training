@@ -294,8 +294,8 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
         </tr>
     </thead>
     <tbody>
-        <tr><td>Union Find & Binary Indexed Tree & Trie</td><td align="center">30 problems</td><td>solutions</td>
-            <td>Segment Tree & Suffix Array & Geometry </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Union Find, Binary Indexed Tree, Trie</td><td align="center">30 problems</td><td>solutions</td>
+            <td>Segment Tree, Suffix Array, Geometry </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Math I                                 </td><td align="center">30 problems</td><td>solutions</td>
             <td>Math I                                 </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Math II                                </td><td align="center">30 problems</td><td>solutions</td>
