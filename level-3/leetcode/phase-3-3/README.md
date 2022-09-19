@@ -10,7 +10,7 @@
 - ***String***                                     `50 problems`
 - ***Dynamic Programming***                     `50 problems`
 
-### LeetCode - Union Find & Binary Indexed Tree & Trie `30 problems`
+### LeetCode - Union Find, Binary Indexed Tree, Trie `30 problems`
 
 <table>
     <tbody>
