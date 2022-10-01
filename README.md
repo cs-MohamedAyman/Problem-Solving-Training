@@ -81,7 +81,7 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
 
 ## [`Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-This level simply consists of 26 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
+This level simply consists of 24 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***. Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
@@ -110,7 +110,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](https://github.com/cs-Mohame
 
 ## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-2), [phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-3), [phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-4), These sheets focus on beginner contests (easy contests) and each sheet contains ~90 problems.
+The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-2), These sheets focus on beginner contests (easy contests) and each sheet contains ~90 problems.
 
 <img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg">
 <br>
