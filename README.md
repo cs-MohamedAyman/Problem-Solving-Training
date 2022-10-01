@@ -110,7 +110,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](https://github.com/cs-Mohame
 
 ## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/README.md)
 
-The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-2), These sheets focus on beginner contests (easy contests) and each sheet contains ~90 problems.
+The AtCoder OJ sheets: [phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-1), [phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/atcoder/phase-2-2), These sheets focus on beginner contests (easy contests) and each sheet contains ~180 problems.
 
 <img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg">
 <br>
