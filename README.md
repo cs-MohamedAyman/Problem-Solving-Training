@@ -17,7 +17,7 @@ Problem Solving Training for computer science students.
 <br><br><br><br>
 
 <br>
-<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
 
 ## Table of Contents
   * [Level 1](#level-1)
