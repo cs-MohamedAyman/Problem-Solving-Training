@@ -152,7 +152,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](https://github.com/cs-Mohame
             <td>Sorting                   </td><td align="center">15 problems</td><td>solutions</td></tr>
         <tr><td>Trees & Balanced Trees    </td><td align="center">25 problems</td><td>solutions</td>
             <td>Search                    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Heap & Disjoint Set & Trie</td><td align="center">10 problems</td><td>solutions</td>
+        <tr><td>Heap & Disjoint Set       </td><td align="center">10 problems</td><td>solutions</td>
             <td>Implementation I          </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Advanced                  </td><td align="center">50 problems</td><td>solutions</td>
             <td>Implementation II         </td><td align="center">30 problems</td><td>solutions</td></tr>
