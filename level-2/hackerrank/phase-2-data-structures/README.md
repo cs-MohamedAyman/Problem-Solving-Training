@@ -7,7 +7,7 @@
 - ***Array and Linked List*** `20 problems`
 - ***Stack and Queue*** `10 problems`
 - ***Binary Tree and Balanced Binary Tree*** `20 problems`
-- ***Heap & Disjoint Set & Trie*** `10 problems`
+- ***Heap & Disjoint Set*** `10 problems`
 - ***Advanced*** `50 problems`
 
 ### HackerRank - Array and Linked List `20 problems`
@@ -139,7 +139,7 @@
     </tbody>
 </table>
 
-### HackerRank - Heap & Disjoint Set & Trie `10 problems`
+### HackerRank - Heap & Disjoint Set `10 problems`
 
 <table>
     <tbody>
