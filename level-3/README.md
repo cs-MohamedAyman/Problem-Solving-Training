@@ -281,7 +281,7 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
         <tr><td>Depth First Search II  </td><td align="center">35 problems</td><td>solutions</td>
             <td>Graph  II              </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Dynamic Programming    </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Dynamic Programming    </td><td align="center">30 problems</td><td>solutions</td></tr>
+            <td>Dynamic Programming    </td><td align="center">50 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
