@@ -361,7 +361,7 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
             <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
             <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-dynamic-programming-2">dynamic-programming-2</a></th>
-            <th align="center" width="150px">120 problems</th>
+            <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
         </tr>
     </thead>
