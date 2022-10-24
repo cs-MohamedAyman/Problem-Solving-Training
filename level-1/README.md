@@ -1,15 +1,15 @@
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uva.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/topcoder.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/spoj.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img>
+<img width="85" src="/logos/codeforces.jpg"></img>
+<img width="85" src="/logos/leetcode.jpg"></img>
+<img width="85" src="/logos/atcoder.jpg"></img>
+<img width="85" src="/logos/uva.jpg"></img>
+<img width="85" src="/logos/topcoder.jpg"></img>
+<img width="85" src="/logos/spoj.jpg"></img>
+<img width="85" src="/logos/hackerearth.jpg"></img>
+<img width="85" src="/logos/hackerrank.jpg"></img>
+<img width="85" src="/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
@@ -25,59 +25,34 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-cover.jpg"></img>
+<img width="100%" src="/level-1/level-1-cover.jpg"></img>
 
-## [`Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
+## [`Level 1`](/level-1/README.md)
 
 This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***. Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 
-## [`Level Timeline`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/Timeline.md)
+## [`Level Timeline`](/level-1/Timeline.md)
 
-<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/level-1-timeline.jpg"></img>
+<img width="100%" src="/level-1/level-1-timeline.jpg"></img>
 <br><br>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg">
+<img align="right" width="85" src="/logos/uri.jpg">
 <br>
 
-## [`URI OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
+## [`URI OJ sheets`](/level-1/README.md)
 
-The URI OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-4), [phase-1-5](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-5), [phase-1-6](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-6) each sheet of them divided into 6 classes of problems (Beginner - Ad-Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~175 problems.
+The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri/phase-1-2), [phase-1-3](/level-1/uri/phase-1-3), [phase-1-4](/level-1/uri/phase-1-4), [phase-1-5](/level-1/uri/phase-1-5), [phase-1-6](/level-1/uri/phase-1-6) each sheet of them divided into 6 classes of problems (Beginner - Ad-Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~175 problems.
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-1">phase-1-1</a></th>
+            <th align="center" width="400px"><a href="/level-1/uri/phase-1-1">phase-1-1</a></th>
             <th align="center" width="150px">175 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-2">phase-1-2</a></th>
-            <th align="center" width="150px">175 problems</th>
-            <th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Beginner       </td><td align="center">45 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">45 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Strings        </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Strings        </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Data Structures</td><td align="center">15 problems</td><td>solutions</td>
-            <td>Data Structures</td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
-    </tbody>
-        <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-3">phase-1-3</a></th>
-            <th align="center" width="150px">175 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-4">phase-1-4</a></th>
+            <th align="center" width="400px"><a href="/level-1/uri/phase-1-2">phase-1-2</a></th>
             <th align="center" width="150px">175 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -99,10 +74,35 @@ The URI OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solvin
             <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-5">phase-1-5</a></th>
+            <th align="center" width="400px"><a href="/level-1/uri/phase-1-3">phase-1-3</a></th>
             <th align="center" width="150px">175 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/uri/phase-1-6">phase-1-6</a></th>
+            <th align="center" width="400px"><a href="/level-1/uri/phase-1-4">phase-1-4</a></th>
+            <th align="center" width="150px">175 problems</th>
+            <th align="center" width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Beginner       </td><td align="center">45 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align="center">45 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Strings        </td><td align="center">10 problems</td><td>solutions</td>
+            <td>Strings        </td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structures</td><td align="center">15 problems</td><td>solutions</td>
+            <td>Data Structures</td><td align="center">15 problems</td><td>solutions</td></tr>
+        <tr><td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
+            <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
+    </tbody>
+        <tr>
+            <th align="center" width="400px"><a href="/level-1/uri/phase-1-5">phase-1-5</a></th>
+            <th align="center" width="150px">175 problems</th>
+            <th align="center" width="50px"></th>
+            <th align="center" width="400px"><a href="/level-1/uri/phase-1-6">phase-1-6</a></th>
             <th align="center" width="150px">165 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -125,20 +125,20 @@ The URI OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solvin
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg">
+<img align="right" width="85" src="/logos/hackerrank.jpg">
 <br>
 
-## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
+## [`HackerRank OJ sheets`](/level-1/README.md)
 
-The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank/phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 7 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank/phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems.
+The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp) This sheet focus on c/c++ basic problems, It's divided into 7 classes of problems (Introduction - Conditionals and Loops - Arrays and Strings - Functions - Standard Template Libraries - Structs and Enums - Classes and Inheritance). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~70 problems. [phase-1-python](/level-1/hackerrank/phase-1-python) This sheet focus on python basic problems, It's divided into 6 classes of problems (Introduction - Basic Data Types - Collections - Functions - Standard Libraries - Classes). It was ordered based on the problem difficulty and grouped by the problem type. Finally, this sheet contains ~100 problems.
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank/phase-1-cpp">cpp</a></th>
+            <th align="center" width="400px"><a href="/level-1/hackerrank/phase-1-cpp">cpp</a></th>
             <th align="center" width="150px">70 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank/phase-1-python">python</a></th>
+            <th align="center" width="400px"><a href="/level-1/hackerrank/phase-1-python">python</a></th>
             <th align="center" width="150px">100 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -159,20 +159,20 @@ The HackerRank OJ sheets: [phase-1-cpp](https://github.com/cs-MohamedAyman/Probl
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg">
+<img align="right" width="85" src="/logos/codeforces.jpg">
 <br>
 
-## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
+## [`Codeforces OJ sheets`](/level-1/README.md)
 
-The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-4) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
+The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2](/level-1/codeforces/phase-1-2), [phase-1-3](/level-1/codeforces/phase-1-3), [phase-1-4](/level-1/codeforces/phase-1-4) contain A-Div2 problems, and each sheet of them divided into 5 classes of problems (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-1">phase-1-1</a></th>
+            <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-1">phase-1-1</a></th>
             <th align="center" width="150px">140 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-2">phase-1-2</a></th>
+            <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-2">phase-1-2</a></th>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -191,10 +191,10 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-3">phase-1-3</a></th>
+            <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-3">phase-1-3</a></th>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-4">phase-1-4</a></th>
+            <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-4">phase-1-4</a></th>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -213,20 +213,20 @@ The Codeforces OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg">
+<img align="right" width="85" src="/logos/hackerearth.jpg">
 <br>
 
-## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/README.md)
+## [`HackerEarth OJ sheets`](/level-1/README.md)
 
-The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-1), [phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-2), [phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-3), [phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-4) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators).
+The HackerEarth OJ sheets: [phase-1-1](/level-1/hackerearth/phase-1-1), [phase-1-2](/level-1/hackerearth/phase-1-2), [phase-1-3](/level-1/hackerearth/phase-1-3), [phase-1-4](/level-1/hackerearth/phase-1-4) contain implementation problems and basic programming problems. These sheets were ordered based on difficulty. Each sheet contains ~100 problems. It's divided into 4 classes of problems (Input/Output - Bit Manipulation - Recursion - Operators).
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-1">phase-1-1</a></th>
+            <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-1">phase-1-1</a></th>
             <th align="center" width="150px">100 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-2">phase-1-2</a></th>
+            <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-2">phase-1-2</a></th>
             <th align="center" width="150px">100 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -243,10 +243,10 @@ The HackerEarth OJ sheets: [phase-1-1](https://github.com/cs-MohamedAyman/Proble
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-3">phase-1-3</a></th>
+            <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-3">phase-1-3</a></th>
             <th align="center" width="150px">100 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerearth/phase-1-4">phase-1-4</a></th>
+            <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-4">phase-1-4</a></th>
             <th align="center" width="150px">130 problems</th>
             <th align="center" width="50px"></th>
         </tr>
