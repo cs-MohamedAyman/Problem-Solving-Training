@@ -1,15 +1,15 @@
 # Problem Solving Training - Level 3
 Problem Solving Training for computer science students.
 
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uva.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/topcoder.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/spoj.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img>
+<img width="85" src="/logos/codeforces.jpg"></img>
+<img width="85" src="/logos/leetcode.jpg"></img>
+<img width="85" src="/logos/atcoder.jpg"></img>
+<img width="85" src="/logos/uva.jpg"></img>
+<img width="85" src="/logos/topcoder.jpg"></img>
+<img width="85" src="/logos/spoj.jpg"></img>
+<img width="85" src="/logos/hackerearth.jpg"></img>
+<img width="85" src="/logos/hackerrank.jpg"></img>
+<img width="85" src="/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
@@ -26,34 +26,34 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/level-3-cover.jpg"></img>
+<img width="100%" src="/level-3/level-3-cover.jpg"></img>
 
-## [`Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+## [`Level 3`](/level-3/README.md)
 
 This level simply consists of 24 sheets, 4 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## `Prerequisite Knowledge`
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***. Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
 
-## [`Level Timeline`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/Timeline.md)
+## [`Level Timeline`](/level-3/Timeline.md)
 
-<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/level-3-timeline.jpg"></img>
+<img width="100%" src="/level-3/level-3-timeline.jpg"></img>
 <br><br>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg">
+<img align="right" width="85" src="/logos/hackerrank.jpg">
 <br>
 
-## [`HackerRank OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+## [`HackerRank OJ sheets`](/level-3/README.md)
 
-The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-mathematics-1), [phase-3-mathematics-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-mathematics-2), [phase-3-graph-string](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-graph-string), [phase-3-dynamic-programming](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-dynamic-programming), These sheets contain string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming problems. These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~130 problems.
+The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-mathematics-1), [phase-3-mathematics-2](/level-3/hackerrank/phase-3-mathematics-2), [phase-3-graph-string](/level-3/hackerrank/phase-3-graph-string), [phase-3-dynamic-programming](/level-3/hackerrank/phase-3-dynamic-programming), These sheets contain string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming problems. These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~130 problems.
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-mathematics-1">mathematics-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-1">mathematics-1</a></th>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-mathematics-2">mathematics-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-2">mathematics-2</a></th>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -72,10 +72,10 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-graph-string">graph-string</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-graph-string">graph-string</a></th>
             <th align="center" width="150px">130 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerrank/phase-3-dynamic-programming">dynamic-programming</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-dynamic-programming">dynamic-programming</a></th>
             <th align="center" width="150px">140 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -94,20 +94,20 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](https://github.com/cs-MohamedA
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg">
+<img align="right" width="85" src="/logos/atcoder.jpg">
 <br>
 
-## [`AtCoder OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+## [`AtCoder OJ sheets`](/level-3/README.md)
 
-The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-1-regular-contests), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-2-regular-contests), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-3-grand-contests), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-4/atcoder/phase-3-4-grand-contests), These sheets focus on Regular + Grand contests (medium contests) and contains ~60 contests
+The AtCoder OJ sheets: [phase-3-1](/level-3/atcoder/phase-3-1-regular-contests), [phase-3-2](/level-3/atcoder/phase-3-2-regular-contests), [phase-3-3](/level-3/atcoder/phase-3-3-grand-contests), [phase-3-4](/level-3/atcoder/phase-3-4-grand-contests), These sheets focus on Regular + Grand contests (medium contests) and contains ~60 contests
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-1-regular-contests">phase-3-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-1-regular-contests">phase-3-1</a></th>
             <th align="center" width="150px">70 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-2-regular-contests">phase-3-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-2-regular-contests">phase-3-2</a></th>
             <th align="center" width="150px">70 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -122,10 +122,10 @@ The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-3-grand-contests">phase-3-3</a></th>
+            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-3-grand-contests">phase-3-3</a></th>
             <th align="center" width="150px">55 contests</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/atcoder/phase-3-4-grand-contests">phase-3-4</a></th>
+            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-4-grand-contests">phase-3-4</a></th>
             <th align="center" width="150px">55 contests</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -140,22 +140,22 @@ The AtCoder OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-So
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg">
+<img align="right" width="85" src="/logos/codeforces.jpg">
 <br>
 
-## [`Codeforces OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+## [`Codeforces OJ sheets`](/level-3/README.md)
 
-The Codeforces OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
+The Codeforces OJ sheets: [phase-3-1](/level-3/codeforces/phase-3-1), [phase-3-2](/level-3/codeforces/phase-3-2), [phase-3-3](/level-3/codeforces/phase-3-3), [phase-3-4](/level-3/codeforces/phase-3-4) contain C-Div2/A-Div1 problems, and each sheet of them divided into 7 classes of problems (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~120 problems.
 
-For the last 4 sheets [phase-3-gym-contests-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-1), [phase-3-gym-contests-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-2), [phase-3-gym-contests-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-3), [phase-3-gym-contests-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-4) that focus on gym-contests that contains ~125 contests.
+For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-contests-1), [phase-3-gym-contests-2](/level-3/codeforces/phase-3-gym-contests-2), [phase-3-gym-contests-3](/level-3/codeforces/phase-3-gym-contests-3), [phase-3-gym-contests-4](/level-3/codeforces/phase-3-gym-contests-4) that focus on gym-contests that contains ~125 contests.
 
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-1">phase-3-1</a></td>
+            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-1">phase-3-1</a></td>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-2">phase-3-2</a></td>
+            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-2">phase-3-2</a></td>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -178,10 +178,10 @@ For the last 4 sheets [phase-3-gym-contests-1](https://github.com/cs-MohamedAyma
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-3">phase-3-3</a></td>
+            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-3">phase-3-3</a></td>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-4">phase-3-4</a></td>
+            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-4">phase-3-4</a></td>
             <th align="center" width="150px">130 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -207,10 +207,10 @@ For the last 4 sheets [phase-3-gym-contests-1](https://github.com/cs-MohamedAyma
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
             <th align="center" width="150px">125 contests</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
             <th align="center" width="150px">125 contests</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -229,10 +229,10 @@ For the last 4 sheets [phase-3-gym-contests-1](https://github.com/cs-MohamedAyma
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-3">phase-3-gym-contests-3</a></th>
+            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-3">phase-3-gym-contests-3</a></th>
             <th align="center" width="150px">125 contests</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces/phase-3-gym-contests-4">phase-3-gym-contests-4</a></th>
+            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-4">phase-3-gym-contests-4</a></th>
             <th align="center" width="150px">125 contests</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -251,20 +251,20 @@ For the last 4 sheets [phase-3-gym-contests-1](https://github.com/cs-MohamedAyma
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg">
+<img align="right" width="85" src="/logos/leetcode.jpg">
 <br>
 
-## [`LeetCode OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+## [`LeetCode OJ sheets`](/level-3/README.md)
 
-The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-1), [phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-2), [phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-3), [phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-4) contain graph algorithms, mathematical algorithms, number theory, string algorithms, and dynamic programming problems, in addition to advanced data structures, Each sheet of them divided into 6 classes of problems (Binary Search - Divide and Conquer - Sort - Greedy - Graph - Breadth First Search - Depth First Search - Backtracking - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~180 problems.
+The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/level-3/leetcode/phase-3-2), [phase-3-3](/level-3/leetcode/phase-3-3), [phase-3-4](/level-3/leetcode/phase-3-4) contain graph algorithms, mathematical algorithms, number theory, string algorithms, and dynamic programming problems, in addition to advanced data structures, Each sheet of them divided into 6 classes of problems (Binary Search - Divide and Conquer - Sort - Greedy - Graph - Breadth First Search - Depth First Search - Backtracking - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~180 problems.
 
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-1">phase-3-1</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-1">phase-3-1</a></td>
             <th align="center" width="150px">200 problems</th>
             <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-2">phase-3-2</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-2">phase-3-2</a></td>
             <th align="center" width="150px">185 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -285,10 +285,10 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-3">phase-3-3</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-3">phase-3-3</a></td>
             <th align="center" width="150px">190 problems</th>
             <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/leetcode/phase-3-4">phase-3-4</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-4">phase-3-4</a></td>
             <th align="center" width="150px">190 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -307,20 +307,20 @@ The LeetCode OJ sheets: [phase-3-1](https://github.com/cs-MohamedAyman/Problem-S
     </tbody>
 </table>
 
-<img align="right" width="85" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg">
+<img align="right" width="85" src="/logos/hackerearth.jpg">
 <br>
 
-## [`HackerEarth OJ sheets`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/README.md)
+## [`HackerEarth OJ sheets`](/level-3/README.md)
 
-The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-mathematics-strings-1), [phase-3-mathematics-strings-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-mathematics-strings-2), [phase-3-graph-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-graph-1), [phase-3-graph-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-graph-2), [phase-3-dynamic-programming-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-dynamic-programming-1), [phase-3-dynamic-programming-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-dynamic-programming-2), [phase-3-advanced-data-structures-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-advanced-data-structures-1), [phase-3-advanced-data-structures-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-advanced-data-structures-2), Each sheet contains string, graph, greedy, mathematics, number theory, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~120 problems.
+The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/phase-3-mathematics-strings-1), [phase-3-mathematics-strings-2](/level-3/hackerearth/phase-3-mathematics-strings-2), [phase-3-graph-1](/level-3/hackerearth/phase-3-graph-1), [phase-3-graph-2](/level-3/hackerearth/phase-3-graph-2), [phase-3-dynamic-programming-1](/level-3/hackerearth/phase-3-dynamic-programming-1), [phase-3-dynamic-programming-2](/level-3/hackerearth/phase-3-dynamic-programming-2), [phase-3-advanced-data-structures-1](/level-3/hackerearth/phase-3-advanced-data-structures-1), [phase-3-advanced-data-structures-2](/level-3/hackerearth/phase-3-advanced-data-structures-2), Each sheet contains string, graph, greedy, mathematics, number theory, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem type, each sheet contains ~120 problems.
 
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-mathematics-strings-1">mathematics-strings-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-1">mathematics-strings-1</a></th>
             <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-mathematics-strings-2">mathematics-strings-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-2">mathematics-strings-2</a></th>
             <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -337,10 +337,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-graph-1">graph-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-graph-1">graph-1</a></th>
             <th align="center" width="150px">150 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-graph-2">graph-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-graph-2">graph-2</a></th>
             <th align="center" width="150px">150 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -357,10 +357,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-dynamic-programming-1">dynamic-programming-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-dynamic-programming-1">dynamic-programming-1</a></th>
             <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-dynamic-programming-2">dynamic-programming-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-dynamic-programming-2">dynamic-programming-2</a></th>
             <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
         </tr>
@@ -379,10 +379,10 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](https://github.com/cs
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-advanced-data-structures-1">advanced-data-structures-1</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-advanced-data-structures-1">advanced-data-structures-1</a></th>
             <th align="center" width="150px">120 problems</th>
             <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/hackerearth/phase-3-advanced-data-structures-2">advanced-data-structures-2</a></th>
+            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-advanced-data-structures-2">advanced-data-structures-2</a></th>
             <th align="center" width="150px">110 problems</th>
             <th align="center" width="50px"></th>
         </tr>
