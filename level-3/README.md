@@ -1,15 +1,15 @@
 # Problem Solving Training - Level 3
 Problem Solving Training for computer science students.
 
-<img width="85" src="/logos/codeforces.jpg"></img>
-<img width="85" src="/logos/leetcode.jpg"></img>
-<img width="85" src="/logos/atcoder.jpg"></img>
-<img width="85" src="/logos/uva.jpg"></img>
-<img width="85" src="/logos/topcoder.jpg"></img>
-<img width="85" src="/logos/spoj.jpg"></img>
-<img width="85" src="/logos/hackerearth.jpg"></img>
-<img width="85" src="/logos/hackerrank.jpg"></img>
-<img width="85" src="/logos/uri.jpg"></img>
+<img width="80" src="/logos/codeforces.jpg"></img>
+<img width="80" src="/logos/leetcode.jpg"></img>
+<img width="80" src="/logos/atcoder.jpg"></img>
+<img width="80" src="/logos/uva.jpg"></img>
+<img width="80" src="/logos/topcoder.jpg"></img>
+<img width="80" src="/logos/spoj.jpg"></img>
+<img width="80" src="/logos/hackerearth.jpg"></img>
+<img width="80" src="/logos/hackerrank.jpg"></img>
+<img width="80" src="/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
@@ -40,7 +40,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 <img width="100%" src="/level-3/level-3-timeline.jpg"></img>
 <br><br>
 
-<img align="right" width="85" src="/logos/hackerrank.jpg">
+<img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](/level-3/README.md)
@@ -94,7 +94,7 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-ma
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/atcoder.jpg">
+<img align="right" width="80" src="/logos/atcoder.jpg">
 <br>
 
 ## [`AtCoder OJ sheets`](/level-3/README.md)
@@ -140,7 +140,7 @@ The AtCoder OJ sheets: [phase-3-1](/level-3/atcoder/phase-3-1-regular-contests),
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/codeforces.jpg">
+<img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
 ## [`Codeforces OJ sheets`](/level-3/README.md)
@@ -251,7 +251,7 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/leetcode.jpg">
+<img align="right" width="80" src="/logos/leetcode.jpg">
 <br>
 
 ## [`LeetCode OJ sheets`](/level-3/README.md)
@@ -307,7 +307,7 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/hackerearth.jpg">
+<img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-3/README.md)
