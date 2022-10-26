@@ -1,15 +1,15 @@
 # Problem Solving Training - Level 2
 Problem Solving Training for computer science students.
 
-<img width="85" src="/logos/codeforces.jpg"></img>
-<img width="85" src="/logos/leetcode.jpg"></img>
-<img width="85" src="/logos/atcoder.jpg"></img>
-<img width="85" src="/logos/uva.jpg"></img>
-<img width="85" src="/logos/topcoder.jpg"></img>
-<img width="85" src="/logos/spoj.jpg"></img>
-<img width="85" src="/logos/hackerearth.jpg"></img>
-<img width="85" src="/logos/hackerrank.jpg"></img>
-<img width="85" src="/logos/uri.jpg"></img>
+<img width="80" src="/logos/codeforces.jpg"></img>
+<img width="80" src="/logos/leetcode.jpg"></img>
+<img width="80" src="/logos/atcoder.jpg"></img>
+<img width="80" src="/logos/uva.jpg"></img>
+<img width="80" src="/logos/topcoder.jpg"></img>
+<img width="80" src="/logos/spoj.jpg"></img>
+<img width="80" src="/logos/hackerearth.jpg"></img>
+<img width="80" src="/logos/hackerrank.jpg"></img>
+<img width="80" src="/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
@@ -41,7 +41,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 <img width="100%" src="/level-2/level-2-timeline.jpg"></img>
 <br><br>
 
-<img align="right" width="85" src="/logos/uri.jpg">
+<img align="right" width="80" src="/logos/uri.jpg">
 <br>
 
 ## [`URI OJ sheets`](/level-2/README.md)
@@ -127,7 +127,7 @@ The URI OJ sheets: [phase-2-1](/level-2/uri/phase-2-1), [phase-2-2](/level-2/uri
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/hackerrank.jpg">
+<img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](/level-2/README.md)
@@ -159,7 +159,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/atcoder.jpg">
+<img align="right" width="80" src="/logos/atcoder.jpg">
 <br>
 
 ## [`AtCoder OJ sheets`](/level-2/README.md)
@@ -193,7 +193,7 @@ The AtCoder OJ sheets: [phase-2-1](/level-2/atcoder/phase-2-1), [phase-2-2](/lev
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/codeforces.jpg">
+<img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
 ## [`Codeforces OJ sheets`](/level-2/README.md)
@@ -296,7 +296,7 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/leetcode.jpg">
+<img align="right" width="80" src="/logos/leetcode.jpg">
 <br>
 
 ## [`LeetCode OJ sheets`](/level-2/README.md)
@@ -378,7 +378,7 @@ The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/l
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/hackerearth.jpg">
+<img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-2/README.md)
