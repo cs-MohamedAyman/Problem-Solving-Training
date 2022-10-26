@@ -1,15 +1,15 @@
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
-<img width="85" src="/logos/codeforces.jpg"></img>
-<img width="85" src="/logos/leetcode.jpg"></img>
-<img width="85" src="/logos/atcoder.jpg"></img>
-<img width="85" src="/logos/uva.jpg"></img>
-<img width="85" src="/logos/topcoder.jpg"></img>
-<img width="85" src="/logos/spoj.jpg"></img>
-<img width="85" src="/logos/hackerearth.jpg"></img>
-<img width="85" src="/logos/hackerrank.jpg"></img>
-<img width="85" src="/logos/uri.jpg"></img>
+<img width="80" src="/logos/codeforces.jpg"></img>
+<img width="80" src="/logos/leetcode.jpg"></img>
+<img width="80" src="/logos/atcoder.jpg"></img>
+<img width="80" src="/logos/uva.jpg"></img>
+<img width="80" src="/logos/topcoder.jpg"></img>
+<img width="80" src="/logos/spoj.jpg"></img>
+<img width="80" src="/logos/hackerearth.jpg"></img>
+<img width="80" src="/logos/hackerrank.jpg"></img>
+<img width="80" src="/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
@@ -39,7 +39,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 <img width="100%" src="/level-1/level-1-timeline.jpg"></img>
 <br><br>
 
-<img align="right" width="85" src="/logos/uri.jpg">
+<img align="right" width="80" src="/logos/uri.jpg">
 <br>
 
 ## [`URI OJ sheets`](/level-1/README.md)
@@ -125,7 +125,7 @@ The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/hackerrank.jpg">
+<img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](/level-1/README.md)
@@ -159,7 +159,7 @@ The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp) This sh
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/codeforces.jpg">
+<img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
 ## [`Codeforces OJ sheets`](/level-1/README.md)
@@ -213,7 +213,7 @@ The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2
     </tbody>
 </table>
 
-<img align="right" width="85" src="/logos/hackerearth.jpg">
+<img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-1/README.md)
