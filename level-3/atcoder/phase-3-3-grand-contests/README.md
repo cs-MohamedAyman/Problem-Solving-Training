@@ -1,4 +1,4 @@
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg">
+<img align="right" width="80" src="/logos/atcoder.jpg">
 
 ## [AtCoder](https://atcoder.jp/) OJ - Phase 3.3 Grand Contests `55 contests` `60 hrs`
 

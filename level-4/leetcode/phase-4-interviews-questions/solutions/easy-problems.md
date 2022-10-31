@@ -1,4 +1,4 @@
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg">
+<img align="right" width="80" src="/logos/leetcode.jpg">
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Easy Problems
 

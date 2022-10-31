@@ -1,4 +1,4 @@
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg">
+<img align="right" width="80" src="/logos/hackerearth.jpg">
 
 ## [HackerEarth](https://hackerearth.com/) OJ - Dynamic Programming 1 `110 problems` `80 hrs`
 

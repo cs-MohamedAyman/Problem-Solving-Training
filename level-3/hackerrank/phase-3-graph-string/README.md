@@ -1,4 +1,4 @@
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg">
+<img align="right" width="80" src="/logos/hackerrank.jpg">
 
 ## [HackerRank](https://www.hackerrank.com/) OJ - Graph Algorithms `130 problems` `80 hrs`
 

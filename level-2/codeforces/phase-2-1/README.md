@@ -1,4 +1,4 @@
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg">
+<img align="right" width="80" src="/logos/codeforces.jpg">
 
 ## [Codeforces](https://codeforces.com/) OJ - Phase 2.1 `120 problems` `100 hrs`
 
