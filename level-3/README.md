@@ -50,12 +50,12 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-ma
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-1">mathematics-1</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-2">mathematics-2</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-1">mathematics-1</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-2">mathematics-2</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -72,12 +72,12 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-ma
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-graph-string">graph-string</a></th>
-            <th align="center" width="150px">130 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-dynamic-programming">dynamic-programming</a></th>
-            <th align="center" width="150px">140 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-graph-string">graph-string</a></th>
+<th align="center" width="150px">130 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-dynamic-programming">dynamic-programming</a></th>
+<th align="center" width="150px">140 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -104,12 +104,12 @@ The AtCoder OJ sheets: [phase-3-1](/level-3/atcoder/phase-3-1-regular-contests),
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-1-regular-contests">phase-3-1</a></th>
-            <th align="center" width="150px">70 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-2-regular-contests">phase-3-2</a></th>
-            <th align="center" width="150px">70 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/phase-3-1-regular-contests">phase-3-1</a></th>
+<th align="center" width="150px">70 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/phase-3-2-regular-contests">phase-3-2</a></th>
+<th align="center" width="150px">70 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -122,12 +122,12 @@ The AtCoder OJ sheets: [phase-3-1](/level-3/atcoder/phase-3-1-regular-contests),
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-3-grand-contests">phase-3-3</a></th>
-            <th align="center" width="150px">55 contests</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-4-grand-contests">phase-3-4</a></th>
-            <th align="center" width="150px">55 contests</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/phase-3-3-grand-contests">phase-3-3</a></th>
+<th align="center" width="150px">55 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/phase-3-4-grand-contests">phase-3-4</a></th>
+<th align="center" width="150px">55 contests</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -153,11 +153,11 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-1">phase-3-1</a></td>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-2">phase-3-2</a></td>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -179,11 +179,11 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-3">phase-3-3</a></td>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-4">phase-3-4</a></td>
-            <th align="center" width="150px">130 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">130 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -207,12 +207,12 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
-            <th align="center" width="150px">125 contests</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
-            <th align="center" width="150px">125 contests</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-1">phase-3-gym-contests-1</a></th>
+<th align="center" width="150px">125 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-2">phase-3-gym-contests-2</a></th>
+<th align="center" width="150px">125 contests</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -229,12 +229,12 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-3">phase-3-gym-contests-3</a></th>
-            <th align="center" width="150px">125 contests</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-4">phase-3-gym-contests-4</a></th>
-            <th align="center" width="150px">125 contests</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-3">phase-3-gym-contests-3</a></th>
+<th align="center" width="150px">125 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/codeforces/phase-3-gym-contests-4">phase-3-gym-contests-4</a></th>
+<th align="center" width="150px">125 contests</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -262,11 +262,11 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-1">phase-3-1</a></td>
-            <th align="center" width="150px">200 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">200 problems</th>
+<th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-2">phase-3-2</a></td>
-            <th align="center" width="150px">185 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">185 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -286,11 +286,11 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-3">phase-3-3</a></td>
-            <th align="center" width="150px">190 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">190 problems</th>
+<th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-4">phase-3-4</a></td>
-            <th align="center" width="150px">190 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">190 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -317,12 +317,12 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-1">mathematics-strings-1</a></th>
-            <th align="center" width="150px">110 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-2">mathematics-strings-2</a></th>
-            <th align="center" width="150px">110 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-1">mathematics-strings-1</a></th>
+<th align="center" width="150px">110 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-2">mathematics-strings-2</a></th>
+<th align="center" width="150px">110 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -337,12 +337,12 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-graph-1">graph-1</a></th>
-            <th align="center" width="150px">150 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-graph-2">graph-2</a></th>
-            <th align="center" width="150px">150 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-graph-1">graph-1</a></th>
+<th align="center" width="150px">150 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-graph-2">graph-2</a></th>
+<th align="center" width="150px">150 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -357,12 +357,12 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-dynamic-programming-1">dynamic-programming-1</a></th>
-            <th align="center" width="150px">110 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-dynamic-programming-2">dynamic-programming-2</a></th>
-            <th align="center" width="150px">110 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-dynamic-programming-1">dynamic-programming-1</a></th>
+<th align="center" width="150px">110 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-dynamic-programming-2">dynamic-programming-2</a></th>
+<th align="center" width="150px">110 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -379,12 +379,12 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-advanced-data-structures-1">advanced-data-structures-1</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-advanced-data-structures-2">advanced-data-structures-2</a></th>
-            <th align="center" width="150px">110 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-advanced-data-structures-1">advanced-data-structures-1</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-advanced-data-structures-2">advanced-data-structures-2</a></th>
+<th align="center" width="150px">110 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>

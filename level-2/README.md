@@ -51,12 +51,12 @@ The URI OJ sheets: [phase-2-1](/level-2/uri/phase-2-1), [phase-2-2](/level-2/uri
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/uri/phase-2-1">phase-2-1</a></th>
-            <th align="center" width="150px">160 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/uri/phase-2-2">phase-2-2</a></th>
-            <th align="center" width="150px">160 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/uri/phase-2-1">phase-2-1</a></th>
+<th align="center" width="150px">160 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/uri/phase-2-2">phase-2-2</a></th>
+<th align="center" width="150px">160 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -76,12 +76,12 @@ The URI OJ sheets: [phase-2-1](/level-2/uri/phase-2-1), [phase-2-2](/level-2/uri
             <td>Geometry       </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/uri/phase-2-3">phase-2-3</a></th>
-            <th align="center" width="150px">160 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/uri/phase-2-4">phase-2-4</a></th>
-            <th align="center" width="150px">160 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/uri/phase-2-3">phase-2-3</a></th>
+<th align="center" width="150px">160 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/uri/phase-2-4">phase-2-4</a></th>
+<th align="center" width="150px">160 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -101,12 +101,12 @@ The URI OJ sheets: [phase-2-1](/level-2/uri/phase-2-1), [phase-2-2](/level-2/uri
             <td>Geometry       </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/uri/phase-2-5">phase-2-5</a></th>
-            <th align="center" width="150px">125 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/uri/phase-2-6">phase-2-6</a></th>
-            <th align="center" width="150px">125 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/uri/phase-2-5">phase-2-5</a></th>
+<th align="center" width="150px">125 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/uri/phase-2-6">phase-2-6</a></th>
+<th align="center" width="150px">125 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -137,12 +137,12 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-data-structures">data-structures</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-algorithms-basics">algorithms-basics</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-data-structures">data-structures</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-algorithms-basics">algorithms-basics</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -169,12 +169,12 @@ The AtCoder OJ sheets: [phase-2-1](/level-2/atcoder/phase-2-1), [phase-2-2](/lev
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/atcoder/phase-2-1">phase-2-1</a></th>
-            <th align="center" width="150px">180 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/atcoder/phase-2-2">phase-2-2</a></th>
-            <th align="center" width="150px">180 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-1">phase-2-1</a></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-2">phase-2-2</a></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -205,12 +205,12 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-1">phase-2-1</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-2">phase-2-2</a></th>
-            <th align="center" width="150px">130 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-1">phase-2-1</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-2">phase-2-2</a></th>
+<th align="center" width="150px">130 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -227,12 +227,12 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-3">phase-2-3</a></th>
-            <th align="center" width="150px">105 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-4">phase-2-4</a></th>
-            <th align="center" width="150px">145 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-3">phase-2-3</a></th>
+<th align="center" width="150px">105 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-4">phase-2-4</a></th>
+<th align="center" width="150px">145 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -252,12 +252,12 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-div3-div4-contests">phase-2-div3-div4-contests</a></th>
-            <th align="center" width="150px">100 contests</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-educational-contests">phase-2-educational-contests</a></th>
-            <th align="center" width="150px">150 contests</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-div3-div4-contests">phase-2-div3-div4-contests</a></th>
+<th align="center" width="150px">100 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-educational-contests">phase-2-educational-contests</a></th>
+<th align="center" width="150px">150 contests</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -274,12 +274,12 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-gym-contests-1">phase-2-gym-contests-1</a></th>
-            <th align="center" width="150px">115 contests</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-gym-contests-2">phase-2-gym-contests-2</a></th>
-            <th align="center" width="150px">110 contests</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-gym-contests-1">phase-2-gym-contests-1</a></th>
+<th align="center" width="150px">115 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/phase-2-gym-contests-2">phase-2-gym-contests-2</a></th>
+<th align="center" width="150px">110 contests</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -306,12 +306,12 @@ The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/l
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-1">phase-2-1</a></th>
-            <th align="center" width="150px">200 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-2">phase-2-2</a></th>
-            <th align="center" width="150px">210 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-1">phase-2-1</a></th>
+<th align="center" width="150px">200 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-2">phase-2-2</a></th>
+<th align="center" width="150px">210 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -331,11 +331,11 @@ The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/l
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-3">phase-2-3</a></td>
-            <th align="center" width="150px">170 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">170 problems</th>
+<th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-4">phase-2-4</a></td>
-            <th align="center" width="150px">180 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -355,11 +355,11 @@ The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/l
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-5">phase-2-5</a></td>
-            <th align="center" width="150px">190 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">190 problems</th>
+<th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-6">phase-2-6</a></td>
-            <th align="center" width="150px">200 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="150px">200 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -388,12 +388,12 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth
 <table>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-linear-data-structures">linear-data-structures</a></th>
-            <th align="center" width="150px">110 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-non-linear-data-structures">non-linear-data-structures</a></th>
-            <th align="center" width="150px">90 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-linear-data-structures">linear-data-structures</a></th>
+<th align="center" width="150px">110 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-non-linear-data-structures">non-linear-data-structures</a></th>
+<th align="center" width="150px">90 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
@@ -408,12 +408,12 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth
     </tbody>
     <thead>
         <tr>
-            <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-algorithms-searching">algorithms-searching</a></th>
-            <th align="center" width="150px">120 problems</th>
-            <th align="center" width="50px"></th>
-            <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-algorithms-sorting">algorithms-sorting</a></th>
-            <th align="center" width="150px">140 problems</th>
-            <th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-algorithms-searching">algorithms-searching</a></th>
+<th align="center" width="150px">120 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-algorithms-sorting">algorithms-sorting</a></th>
+<th align="center" width="150px">140 problems</th>
+<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
