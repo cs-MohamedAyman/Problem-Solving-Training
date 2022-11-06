@@ -270,18 +270,18 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
         </tr>
     </thead>
     <tbody>
-        <tr><td>Backtracking           </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Backtracking           </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search I </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Breadth First Search   </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search II</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Depth First Search     </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search I   </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Graph  I               </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search II  </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Graph  II              </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming    </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Dynamic Programming    </td><td align="center">50 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search I               </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Backtracking I                       </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search II              </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Backtracking II                      </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search III             </td><td align="center">20 problems</td><td>solutions</td>
+            <td>Graph  I                             </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search I                 </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Graph  II                            </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search II                </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Union Find, Binary Indexed Tree, Trie</td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search III               </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Segment Tree, Suffix Array, Geometry </td><td align="center">30 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -294,16 +294,14 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
         </tr>
     </thead>
     <tbody>
-        <tr><td>Union Find, Binary Indexed Tree, Trie</td><td align="center">30 problems</td><td>solutions</td>
-            <td>Segment Tree, Suffix Array, Geometry </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Math I                                 </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Math I                                 </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Math II                                </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Math II                                </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>String                                 </td><td align="center">50 problems</td><td>solutions</td>
-            <td>String                                 </td><td align="center">50 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming                    </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Dynamic Programming                    </td><td align="center">50 problems</td><td>solutions</td></tr>
+        <tr><td>Math I                  </td><td align="center">60 problems</td><td>solutions</td>
+            <td>Dynamic Programming I   </td><td align="center">50 problems</td><td>solutions</td></tr>
+        <tr><td>Math II                 </td><td align="center">60 problems</td><td>solutions</td>
+            <td>Dynamic Programming II  </td><td align="center">50 problems</td><td>solutions</td></tr>
+        <tr><td>String I                </td><td align="center">50 problems</td><td>solutions</td>
+            <td>Dynamic Programming III </td><td align="center">50 problems</td><td>solutions</td></tr>
+        <tr><td>String II               </td><td align="center">50 problems</td><td>solutions</td>
+            <td>Dynamic Programming IV  </td><td align="center">50 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
