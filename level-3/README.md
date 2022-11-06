@@ -262,10 +262,10 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-1">phase-3-1</a></td>
-<th align="center" width="150px">200 problems</th>
+<th align="center" width="150px">160 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-2">phase-3-2</a></td>
-<th align="center" width="150px">185 problems</th>
+<th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -286,10 +286,10 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-3">phase-3-3</a></td>
-<th align="center" width="150px">190 problems</th>
+<th align="center" width="150px">220 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-4">phase-3-4</a></td>
-<th align="center" width="150px">190 problems</th>
+<th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
