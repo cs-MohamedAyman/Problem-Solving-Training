@@ -4,12 +4,12 @@
 
 ### Table of Content
 
-- ***Dynamic Programming***    `50 problems`
-- ***Dynamic Programming***    `50 problems`
-- ***Dynamic Programming***    `50 problems`
-- ***Dynamic Programming***    `50 problems`
+- ***Dynamic Programming I***      `50 problems`
+- ***Dynamic Programming II***     `50 problems`
+- ***Dynamic Programming III***    `50 problems`
+- ***Dynamic Programming IV***     `50 problems`
 
-### LeetCode - Dynamic Programming `50 problems`
+### LeetCode - Dynamic Programming I `50 problems`
 
 <table>
     <tbody>
@@ -116,7 +116,7 @@
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming `50 problems`
+### LeetCode - Dynamic Programming II `50 problems`
 
 <table>
     <tbody>
@@ -219,7 +219,7 @@
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming `50 problems`
+### LeetCode - Dynamic Programming III `50 problems`
 
 <table>
     <tbody>
@@ -330,7 +330,7 @@
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming `50 problems`
+### LeetCode - Dynamic Programming IV `50 problems`
 
 <table>
     <tbody>
