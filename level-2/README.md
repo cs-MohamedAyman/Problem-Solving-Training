@@ -414,19 +414,21 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth
 <th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-algorithms-sorting">algorithms-sorting</a></th>
-<th align="center" width="150px">140 problems</th>
+<th align="center" width="150px">135 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Linear Search                      </td><td align="center">15 problems</td><td>solutions</td>
             <td>Bubble, Selection, Insertion, Merge</td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Binary Search I                    </td><td align="center">50 problems</td><td>solutions</td>
+        <tr><td>Binary Search I                    </td><td align="center">35 problems</td><td>solutions</td>
             <td>Quick, Count, Heap                 </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Binary Search II                   </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Greedy Algorithms I                </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Search II                   </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Greedy Algorithms I                </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Search III                  </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Greedy Algorithms II               </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Ternary Search                     </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Greedy Algorithms II               </td><td align="center">40 problems</td><td>solutions</td></tr>
+            <td>Greedy Algorithms III              </td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
