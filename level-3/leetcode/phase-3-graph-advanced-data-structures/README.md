@@ -4,12 +4,12 @@
 
 ### Table of Content
 
-- ***Backtracking I***                          `35 problems`
-- ***Backtracking II***                         `35 problems`
-- ***Graph I***                                 `30 problems`
-- ***Graph II***                                `30 problems`
-- ***Union Find & Binary Indexed Tree & Trie*** `30 problems`
-- ***Segment Tree & Suffix Array & Geometry***  `30 problems`
+- ***Backtracking I***           `35 problems`
+- ***Backtracking II***          `35 problems`
+- ***Graph I***                  `30 problems`
+- ***Graph II***                 `30 problems`
+- ***Advanced Data Structures*** `40 problems`
+- ***Geometry***                 `20 problems`
 
 ### LeetCode - Backtracking I `35 problems`
 
@@ -303,7 +303,7 @@
     </tbody>
 </table>
 
-### LeetCode - Union Find, Binary Indexed Tree, Trie `30 problems`
+### LeetCode - Advanced Data Structures `40 problems`
 
 <table>
     <tbody>
@@ -371,72 +371,76 @@
 <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prefix-and-suffix-search/">prefix and suffix search</a></th>
 <th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/">k th smallest in lexicographical order</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-query-mutable/">range sum query mutable</a></th>
+<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-area-ii/">rectangle area ii</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-query-2d-mutable/">range sum query 2d mutable</a></th>
+<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fancy-sequence/">fancy sequence</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-repeating-substring/">longest repeating substring</a></th>
+<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-common-subpath/">longest common subpath</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-separate-numbers/">number of ways to separate numbers</a></th>
+<th align="center" width="50px">40</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
     </tbody>
 </table>
 
-### LeetCode - Segment Tree, Suffix Array, Geometry `30 problems`
+### LeetCode - Geometry `20 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-query-mutable/">range sum query mutable</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-area-ii/">rectangle area ii</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/projection-area-of-3d-shapes/">projection area of 3d shapes</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/surface-area-of-3d-shapes/">surface area of 3d shapes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-query-2d-mutable/">range sum query 2d mutable</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fancy-sequence/">fancy sequence</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-triangle-area/">largest triangle area</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-overlap/">rectangle overlap</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-repeating-substring/">longest repeating substring</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-common-subpath/">longest common subpath</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-boomerang/">valid boomerang</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/">queries on number of points inside a circle</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-separate-numbers/">number of ways to separate numbers</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/projection-area-of-3d-shapes/">projection area of 3d shapes</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/mirror-reflection/">mirror reflection</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-area-rectangle-ii/">minimum area rectangle ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/surface-area-of-3d-shapes/">surface area of 3d shapes</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-triangle-area/">largest triangle area</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-square/">valid square</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/circle-and-rectangle-overlapping/">circle and rectangle overlapping</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-overlap/">rectangle overlap</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-boomerang/">valid boomerang</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-area/">rectangle area</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/generate-random-point-in-a-circle/">generate random point in a circle</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/">queries on number of points inside a circle</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/mirror-reflection/">mirror reflection</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convex-polygon/">convex polygon</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/erect-the-fence-ii/">erect the fence ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-area-rectangle-ii/">minimum area rectangle ii</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-square/">valid square</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/">minimum time for k virus variants to spread</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/erect-the-fence/">erect the fence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/circle-and-rectangle-overlapping/">circle and rectangle overlapping</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-area/">rectangle area</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-position-for-a-service-centre/">best position for a service centre</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/">maximum number of darts inside of a circular dartboard</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/generate-random-point-in-a-circle/">generate random point in a circle</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convex-polygon/">convex polygon</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-visible-points/">maximum number of visible points</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/self-crossing/">self crossing</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/erect-the-fence-ii/">erect the fence ii</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/">minimum time for k virus variants to spread</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/perfect-rectangle/">perfect rectangle</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-area-ii/">rectangle area ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/erect-the-fence/">erect the fence</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-position-for-a-service-centre/">best position for a service centre</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/">maximum number of darts inside of a circular dartboard</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-visible-points/">maximum number of visible points</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/self-crossing/">self crossing</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/perfect-rectangle/">perfect rectangle</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rectangle-area-ii/">rectangle area ii</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-interval-to-include-each-query/">minimum interval to include each query</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-interval-to-include-each-query/">minimum interval to include each query</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

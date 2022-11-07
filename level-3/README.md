@@ -270,18 +270,18 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
         </tr>
     </thead>
     <tbody>
-        <tr><td>Breadth First Search I               </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Backtracking I                       </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search II              </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Backtracking II                      </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search III             </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Graph  I                             </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search I                 </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Graph  II                            </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search II                </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Union Find, Binary Indexed Tree, Trie</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search III               </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Segment Tree, Suffix Array, Geometry </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search I   </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Backtracking I           </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search II  </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Backtracking II          </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search III </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Graph  I                 </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search I     </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Graph  II                </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search II    </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Advanced Data Structures </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search III   </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Geometry                 </td><td align="center">20 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
