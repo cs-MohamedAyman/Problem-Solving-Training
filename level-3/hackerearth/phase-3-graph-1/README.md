@@ -6,8 +6,9 @@
 
 - ***Graph Representation & Topological Sort***        `35 problems`
 - ***Breadth First Search***                           `35 problems`
-- ***Depth First Search I***                           `40 problems`
-- ***Depth First Search II***                          `40 problems`
+- ***Depth First Search I***                           `30 problems`
+- ***Depth First Search II***                          `30 problems`
+- ***Depth First Search III***                         `20 problems`
 
 ### HackerEarth - Graph Representation & Topological Sort `35 problems`
 
@@ -167,7 +168,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Depth First Search I `40 problems`
+### HackerEarth - Depth First Search I `30 problems`
 
 <table>
     <tbody>
@@ -231,116 +232,119 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/anupam-graph/">anupam graph</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/anushree-and-the-chess-trials-f65a7811/">anushree and the chess trials</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/destructive-tree-explosion-45170564/">destructive tree explosion</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/big-p-and-the-road-less-travelled-1/">big p and the road less travelled 1</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/a-new-order/">a new order</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/visiting-friends-9f10e4c8/">visiting friends</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/longest-path-fecb5ecc/">longest path</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/reduction-game-56c3c092/">reduction game</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/crazy-matrix/">crazy matrix</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/tree-and-special-node-ecdb1606/">tree and special node ecdb1606</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/fix-the-roads/">fix the roads</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/magic-sum/">magic sum</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/loan-for-travel-24cf67a1/">loan for travel</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
     </tbody>
 </table>
 
-### HackerEarth - Depth First Search II `40 problems`
+### HackerEarth - Depth First Search II `30 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/explorers-birthday/">explorers birthday</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/plan-to-make-a-dish-23553bf3/">plan to make a dish</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/destructive-tree-explosion-45170564/">destructive tree explosion</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/big-p-and-the-road-less-travelled-1/">big p and the road less travelled 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/rhezo-and-super-tanks-a5a3a2f1/">rhezo and super tanks</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/sonu-and-tree-49d999cf/">sonu and tree</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/a-new-order/">a new order</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/visiting-friends-9f10e4c8/">visiting friends</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/snakes-and-ladders-8f64d050/">snakes and ladders</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/largest-windmill/">largest windmill</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/longest-path-fecb5ecc/">longest path</a></th>
+<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/reduction-game-56c3c092/">reduction game</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/corona-and-the-tree/">corona and the tree</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/mrinal-and-three-musketeers-128f4c52/">mrinal and three musketeers</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/crazy-matrix/">crazy matrix</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/tree-and-special-node-ecdb1606/">tree and special node ecdb1606</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/approximate/jp-and-the-escape-planapprox/">jp and the escape planapprox</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/tree-wala-question-2/">tree wala question 2</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/fix-the-roads/">fix the roads</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/magic-sum/">magic sum</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/i-katched-a-dog/">i katched a dog</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/pink-and-blue/">pink and blue</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/loan-for-travel-24cf67a1/">loan for travel</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/explorers-birthday/">explorers birthday</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jacks-crush/">jacks crush</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/norzias-query/">norzias query</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/plan-to-make-a-dish-23553bf3/">plan to make a dish</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/rhezo-and-super-tanks-a5a3a2f1/">rhezo and super tanks</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/little-shino-and-k-ancestor-57fdef57/">little shino and k ancestor</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/maximum-spanning-tree/">maximum spanning tree</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/sonu-and-tree-49d999cf/">sonu and tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/snakes-and-ladders-8f64d050/">snakes and ladders</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/family-tree-of-aman-f2e011b3/">family tree of aman</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/the-tree/">the tree</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/largest-windmill/">largest windmill</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/corona-and-the-tree/">corona and the tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/edge-strength-67ff0bae/">edge strength</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/big-p-and-punishment-5/">big p and punishment 5</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/mrinal-and-three-musketeers-128f4c52/">mrinal and three musketeers</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/approximate/jp-and-the-escape-planapprox/">jp and the escape planapprox</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/velma-and-queries/">velma and queries</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/ben-and-the-omnitrix/">ben and the omnitrix</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/tree-wala-question-2/">tree wala question 2</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/i-katched-a-dog/">i katched a dog</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/comrades-i-3/">comrades i 3</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/d-count-the-numbers/">d count the numbers</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/pink-and-blue/">pink and blue</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jacks-crush/">jacks crush</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/one-and-only-flow-740e0808/">one and only flow</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/visiting-islands/">visiting islands</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/norzias-query/">norzias query</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/little-shino-and-k-ancestor-57fdef57/">little shino and k ancestor</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/strange-city-ea5f4994/">strange city</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/disconnect-tree-1dfe3ce6-f92d2568/">disconnect tree</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/maximum-spanning-tree/">maximum spanning tree</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/family-tree-of-aman-f2e011b3/">family tree of aman</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/approximate/confused/">confused</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/altf4-and-spinal-network/">altf4 and spinal network</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/the-tree/">the tree</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/edge-strength-67ff0bae/">edge strength</a></th>
+        </tr>
+    </tbody>
+</table>
+
+### HackerEarth - Depth First Search III `20 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/big-p-and-punishment-5/">big p and punishment 5</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/velma-and-queries/">velma and queries</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/befuddled-hosts/">befuddled hosts</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/owcamay-cir-19-acc1798b/">owcamay cir 19</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/ben-and-the-omnitrix/">ben and the omnitrix</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/comrades-i-3/">comrades i 3</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/longest-paths-in-tree/">longest paths in tree</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/alphabets-in-tree/">alphabets in tree</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/d-count-the-numbers/">d count the numbers</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/one-and-only-flow-740e0808/">one and only flow</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kavirioo-back-up-754d2621/">kavirioo back up</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/studious-amit-and-his-new-college/">studious amit and his new college</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/visiting-islands/">visiting islands</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/strange-city-ea5f4994/">strange city</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bomb-game-13ebde2d/">bomb game</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/sightseeing-walk-september-clash/">sightseeing walk september clash</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/disconnect-tree-1dfe3ce6-f92d2568/">disconnect tree</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/approximate/confused/">confused</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monks-birthday-treat/">monks birthday treat</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/altf4-and-spinal-network/">altf4 and spinal network</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/befuddled-hosts/">befuddled hosts</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/owcamay-cir-19-acc1798b/">owcamay cir 19</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/longest-paths-in-tree/">longest paths in tree</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/alphabets-in-tree/">alphabets in tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kavirioo-back-up-754d2621/">kavirioo back up</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/studious-amit-and-his-new-college/">studious amit and his new college</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bomb-game-13ebde2d/">bomb game</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/sightseeing-walk-september-clash/">sightseeing walk september clash</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monks-birthday-treat/">monks birthday treat</a></th>
         </tr>
     </tbody>
 </table>
