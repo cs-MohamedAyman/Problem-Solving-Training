@@ -6,7 +6,7 @@
 
 - ***Depth First Search***                             `40 problems`
 - ***Shortest Path***                                  `45 problems`
-- ***Minimum Spanning Tree & Biconnected Components*** `40 problems`
+- ***Minimum Spanning Tree & Biconnected Components*** `35 problems`
 - ***Minimum Cost & Maximum Flow & Min-Cut***          `30 problems`
 
 ### HackerEarth - Depth First Search `40 problems`
