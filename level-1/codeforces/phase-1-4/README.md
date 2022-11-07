@@ -8,7 +8,7 @@
 - ***Condition***      `20 problems`
 - ***Loop***           `20 problems`
 - ***String***         `30 problems`
-- ***List / Array***   `45 problems`
+- ***List / Array***   `40 problems`
 
 ### Codeforces - Basic Operator `5 problems`
 
@@ -194,7 +194,7 @@
     </tbody>
 </table>
 
-### Codeforces - List / Array `45 problems`
+### Codeforces - List / Array `40 problems`
 
 <table>
     <tbody>
