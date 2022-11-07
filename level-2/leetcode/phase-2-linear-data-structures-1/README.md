@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Phase 2.1 `200 problems` `140 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures 1 `200 problems` `140 hrs`
 
 ### Table of Content
 
