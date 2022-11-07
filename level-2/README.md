@@ -323,7 +323,7 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
             <td>Array III        </td><td align="center">50 problems</td><td>solutions</td></tr>
         <tr><td>Linked List      </td><td align="center">10 problems</td><td>solutions</td>
             <td>Linked List      </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Stack            </td><td align="center">50 problems</td><td>solutions</td>
+        <tr><td>Stack            </td><td align="center">45 problems</td><td>solutions</td>
             <td>Stack            </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Queue and Dequeue</td><td align="center">20 problems</td><td>solutions</td>
             <td>Queue and Dequeue</td><td align="center">20 problems</td><td>solutions</td></tr>
