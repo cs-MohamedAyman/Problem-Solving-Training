@@ -5,7 +5,8 @@
 ### Table of Content
 
 - ***Depth First Search***                             `40 problems`
-- ***Shortest Path***                                  `45 problems`
+- ***Shortest Path I***                                `25 problems`
+- ***Shortest Path II***                               `20 problems`
 - ***Minimum Spanning Tree & Biconnected Components*** `35 problems`
 - ***Minimum Cost & Maximum Flow & Min-Cut***          `30 problems`
 
@@ -96,7 +97,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Shortest Path `45 problems`
+### HackerEarth - Shortest Path I `25 problems`
 
 <table>
     <tbody>
@@ -152,45 +153,52 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/mittal-wants-to-go-to-play/">mittal wants to go to play</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/route-planning-c6409134/">route planning</a></th>
         </tr>
+    </tbody>
+</table>
+
+### HackerEarth - Shortest Path II `20 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/minimizing-path-cost/">minimizing path cost</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/cross-the-street-72/">cross the street 72</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/minimizing-path-cost/">minimizing path cost</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/cross-the-street-72/">cross the street 72</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/metro-6db2ba1b/">metro</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/q-4/">q 4</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/metro-6db2ba1b/">metro</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/q-4/">q 4</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/costly-phone-number-december-easy-easy-medium/">costly phone number december easy easy medium</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/sherlock-and-travelling/">sherlock and travelling</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/costly-phone-number-december-easy-easy-medium/">costly phone number december easy easy medium</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/sherlock-and-travelling/">sherlock and travelling</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/dangerous-dungeon/">dangerous dungeon</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/mancunian-and-nancy-play-a-game-1/">mancunian and nancy play a game 1</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/dangerous-dungeon/">dangerous dungeon</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/mancunian-and-nancy-play-a-game-1/">mancunian and nancy play a game 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/vizard-and-turns-a8c61c7e/">vizard and turns</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/diverging-directions-c3a64882/">diverging directions</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/vizard-and-turns-a8c61c7e/">vizard and turns</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/diverging-directions-c3a64882/">diverging directions</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/irctc/">irctc</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/approximate/maximize-the-distance-in-graph-2e8503e7/">maximize the distance in graph</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/irctc/">irctc</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/approximate/maximize-the-distance-in-graph-2e8503e7/">maximize the distance in graph</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/sherlock-and-the-bit-manipulation-challenge-d4e61686/">sherlock and the bit manipulation challenge</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/completing-subgraphs-8a55d9a5/">completing subgraphs</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/sherlock-and-the-bit-manipulation-challenge-d4e61686/">sherlock and the bit manipulation challenge</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/completing-subgraphs-8a55d9a5/">completing subgraphs</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/money-transfer-c6c93a50/">money transfer</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/find-the-shortest-path-71e2e3d7/">find the shortest path</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/money-transfer-c6c93a50/">money transfer</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/find-the-shortest-path-71e2e3d7/">find the shortest path</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/matrix-problem/">matrix problem</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/furthest-vertex/">furthest vertex</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/matrix-problem/">matrix problem</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/furthest-vertex/">furthest vertex</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/wifi-routers/">wifi routers</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/wifi-routers/">wifi routers</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
