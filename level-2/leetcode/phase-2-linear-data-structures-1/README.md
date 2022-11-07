@@ -8,7 +8,7 @@
 - ***Array II***             `40 problems`
 - ***Array III***             `40 problems`
 - ***Linked List***         `10 problems`
-- ***Stack***                 `50 problems`
+- ***Stack***                 `45 problems`
 - ***Queue and Dequeue***     `20 problems`
 
 ### LeetCode - Array I `40 problems`
@@ -311,7 +311,7 @@
     </tbody>
 </table>
 
-### LeetCode - Stack `50 problems`
+### LeetCode - Stack `45 problems`
 
 <table>
     <tbody>
