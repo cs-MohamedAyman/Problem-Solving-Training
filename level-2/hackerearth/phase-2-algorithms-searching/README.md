@@ -48,7 +48,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Binary Search I [50 problems]
+### HackerEarth - Binary Search I `50 problems`
 
 <table>
     <tbody>
