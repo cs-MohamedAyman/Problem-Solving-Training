@@ -8,7 +8,8 @@
 - ***Stack and Queue*** `10 problems`
 - ***Binary Tree and Balanced Binary Tree*** `20 problems`
 - ***Heap & Disjoint Set*** `10 problems`
-- ***Advanced*** `50 problems`
+- ***Advanced I*** `25 problems`
+- ***Advanced II*** `25 problems`
 
 ### HackerRank - Array and Linked List `20 problems`
 
@@ -166,7 +167,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced `50 problems`
+### HackerRank - Advanced I `25 problems`
 
 <table>
     <tbody>
@@ -222,61 +223,68 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/self-driving-bus/problem">self driving bus</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/unique-colors/problem">unique colors</a></th>
         </tr>
+    </tbody>
+</table>
+
+### HackerRank - Advanced II `25 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/functional-palindromes/problem">functional palindromes</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums/problem">little alexey and sum of maximums</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/functional-palindromes/problem">functional palindromes</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums/problem">little alexey and sum of maximums</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/heavy-light-2-white-falcon/problem">heavy light 2 white falcon</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/starfleet/problem">starfleet</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/heavy-light-2-white-falcon/problem">heavy light 2 white falcon</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/starfleet/problem">starfleet</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/swaps-and-sum/problem">swaps and sum</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/arithmetic-progressions/problem">arithmetic progressions</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/swaps-and-sum/problem">swaps and sum</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/arithmetic-progressions/problem">arithmetic progressions</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/coolguy-and-two-subsequences/problem">coolguy and two subsequences</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/subtrees-and-paths/problem">subtrees and paths</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/coolguy-and-two-subsequences/problem">coolguy and two subsequences</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/subtrees-and-paths/problem">subtrees and paths</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/triplets/problem">triplets</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/triplets/problem">triplets</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/taxicab-drivers-problem/problem">taxicab drivers problem</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/jagia-playing-with-numbers/problem">jagia playing with numbers</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/taxicab-drivers-problem/problem">taxicab drivers problem</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/jagia-playing-with-numbers/problem">jagia playing with numbers</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/helix/problem">helix</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/company-retreat/problem">company retreat</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/helix/problem">helix</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/company-retreat/problem">company retreat</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/counting-on-a-tree/problem">counting on a tree</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/fibonacci-numbers-tree/problem">fibonacci numbers tree</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/counting-on-a-tree/problem">counting on a tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/fibonacci-numbers-tree/problem">fibonacci numbers tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/pair-sums/problem">pair sums</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/ticket-to-ride/problem">ticket to ride</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/pair-sums/problem">pair sums</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/ticket-to-ride/problem">ticket to ride</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/number-game-on-a-tree/problem">number game on a tree</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/almost-equal-advanced/problem">almost equal advanced</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/number-game-on-a-tree/problem">number game on a tree</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/almost-equal-advanced/problem">almost equal advanced</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/almost-sorted-interval/problem">almost sorted interval</a></th>
-<th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/almost-sorted-interval/problem">almost sorted interval</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">49</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/ab0/problem">ab0</a></th>
-<th align="center" width="50px">50</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/easy-addition/problem">easy addition</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/ab0/problem">ab0</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/easy-addition/problem">easy addition</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">51</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/find-the-permutation/problem">find the permutation</a></th>
-<th align="center" width="50px">52</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/box-operations/problem">box operations</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/find-the-permutation/problem">find the permutation</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/box-operations/problem">box operations</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">53</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/max-transform/problem">max transform</a></th>
-<th align="center" width="50px">54</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/max-transform/problem">max transform</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
