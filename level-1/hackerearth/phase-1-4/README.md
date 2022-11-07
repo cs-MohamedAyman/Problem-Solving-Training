@@ -4,7 +4,7 @@
 
 ### Table of Content
 
-- ***Input/Output***      `50 problems`
+- ***Input/Output***      `45 problems`
 - ***Bit Manipulation***  `40 problems`
 - ***Recursion***         `10 problems`
 - ***Operators***         `35 problems`
