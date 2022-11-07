@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Phase 1.4 `130 problems` `100 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Phase 1.4 `120 problems` `100 hrs`
 
 ### Table of Content
 
-- ***Input/Output***      `45 problems`
+- ***Input/Output***      `40 problems`
 - ***Bit Manipulation***  `40 problems`
 - ***Recursion***         `10 problems`
 - ***Operators***         `35 problems`
 
-### HackerEarth - Input/Output `50 problems`
+### HackerEarth - Input/Output `40 problems`
 
 <table>
     <tbody>
