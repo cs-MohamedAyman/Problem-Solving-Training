@@ -126,7 +126,7 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 
 ## [`LeetCode OJ sheets`](/level-2/README.md)
 
-The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/level-2/leetcode/phase-2-2), [phase-2-3](/level-2/leetcode/phase-2-3), [phase-2-4](/level-2/leetcode/phase-2-4), [phase-2-5](/level-2/leetcode/phase-2-5), [phase-2-6](/level-2/leetcode/phase-2-6), each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
+The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/phase-2-linear-data-structures-1), [phase-2-linear-data-structures-2](/level-2/leetcode/phase-2-linear-data-structures-2), [phase-2-nonlinear-data-structures-1](/level-2/leetcode/phase-2-nonlinear-data-structures-1), [phase-2-nonlinear-data-structures-2](/level-2/leetcode/phase-2-nonlinear-data-structures-2), [phase-2-basic-algorithms-1](/level-2/leetcode/phase-2-basic-algorithms-1), [phase-2-basic-algorithms-2](/level-2/leetcode/phase-2-basic-algorithms-2), each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>

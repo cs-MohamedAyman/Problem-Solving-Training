@@ -301,15 +301,15 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 
 ## [`LeetCode OJ sheets`](/level-2/README.md)
 
-The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/level-2/leetcode/phase-2-2), [phase-2-3](/level-2/leetcode/phase-2-3), [phase-2-4](/level-2/leetcode/phase-2-4), [phase-2-5](/level-2/leetcode/phase-2-5), [phase-2-6](/level-2/leetcode/phase-2-6), each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
+The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/phase-2-linear-data-structures-1), [phase-2-linear-data-structures-2](/level-2/leetcode/phase-2-linear-data-structures-2), [phase-2-nonlinear-data-structures-1](/level-2/leetcode/phase-2-nonlinear-data-structures-1), [phase-2-nonlinear-data-structures-2](/level-2/leetcode/phase-2-nonlinear-data-structures-2), [phase-2-basic-algorithms-1](/level-2/leetcode/phase-2-basic-algorithms-1), [phase-2-basic-algorithms-2](/level-2/leetcode/phase-2-basic-algorithms-2), each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-1">phase-2-1</a></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-1">phase-2-linear-data-structures-1</a></th>
 <th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-2">phase-2-2</a></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-2">phase-2-linear-data-structures-2</a></th>
 <th align="center" width="150px">210 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -330,10 +330,10 @@ The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/l
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-3">phase-2-3</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-1">phase-2-nonlinear-data-structures-1</a></td>
 <th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-4">phase-2-4</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-2">phase-2-nonlinear-data-structures-2</a></td>
 <th align="center" width="150px">180 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -354,10 +354,10 @@ The LeetCode OJ sheets: [phase-2-1](/level-2/leetcode/phase-2-1), [phase-2-2](/l
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-5">phase-2-5</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-1">phase-2-basic-algorithms-1</a></td>
 <th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-6">phase-2-6</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-2">phase-2-basic-algorithms-2</a></td>
 <th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
         </tr>
