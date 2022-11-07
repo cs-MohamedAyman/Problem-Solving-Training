@@ -306,10 +306,10 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-1">phase-2-linear-data-structures-1</a></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-1">linear-data-structures-1</a></th>
 <th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-2">phase-2-linear-data-structures-2</a></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-2">linear-data-structures-2</a></th>
 <th align="center" width="150px">210 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -330,10 +330,10 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-1">phase-2-nonlinear-data-structures-1</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-1">nonlinear-data-structures-1</a></td>
 <th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-2">phase-2-nonlinear-data-structures-2</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-2">nonlinear-data-structures-2</a></td>
 <th align="center" width="150px">180 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -354,10 +354,10 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-1">phase-2-basic-algorithms-1</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-1">basic-algorithms-1</a></td>
 <th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-2">phase-2-basic-algorithms-2</a></td>
+            <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-2">basic-algorithms-2</a></td>
 <th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
         </tr>
