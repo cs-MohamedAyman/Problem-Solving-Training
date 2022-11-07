@@ -247,13 +247,13 @@ The HackerEarth OJ sheets: [phase-1-1](/level-1/hackerearth/phase-1-1), [phase-1
 <th align="center" width="150px">100 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-4">phase-1-4</a></th>
-<th align="center" width="150px">130 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Input / Output  </td><td align="center">45 problems</td><td>solutions</td></tr>
+            <td>Input / Output  </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
             <td>Bit Manipulation</td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
