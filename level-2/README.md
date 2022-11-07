@@ -312,7 +312,7 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
 <th align="center" width="150px">195 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-2">linear-data-structures-2</a></th>
-<th align="center" width="150px">215 problems</th>
+<th align="center" width="150px">220 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -320,17 +320,17 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
         <tr><td>Array I          </td><td align="center">40 problems</td><td>solutions</td>
             <td>Array I          </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>Array II         </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Array II         </td><td align="center">35 problems</td><td>solutions</td></tr>
+            <td>Array II         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Array III        </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Array III        </td><td align="center">35 problems</td><td>solutions</td></tr>
+            <td>Array III        </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Linked List      </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Array IV         </td><td align="center">45 problems</td><td>solutions</td></tr>
+            <td>Array IV         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Stack I          </td><td align="center">25 problems</td><td>solutions</td>
             <td>Linked List      </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Stack II         </td><td align="center">20 problems</td><td>solutions</td>
             <td>Stack            </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Queue and Dequeue</td><td align="center">20 problems</td><td>solutions</td>
-            <td>Queue and Dequeue</td><td align="center">20 problems</td><td>solutions</td></tr>
+            <td>Queue and Dequeue</td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
