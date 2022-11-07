@@ -8,7 +8,7 @@
 - ***Strings***           `10 problems`
 - ***Data Structures***   `10 problems`
 - ***Mathematics***       `10 problems`
-- ***Graph***             `50 problems`
+- ***Graph***             `45 problems`
 - ***Paradigms***         `25 problems`
 - ***Geometry***          `5 problems`
 
