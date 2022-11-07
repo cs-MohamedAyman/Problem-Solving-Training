@@ -286,7 +286,7 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-mathematics-strings">phase-3-mathematics-strings</a></td>
-<th align="center" width="150px">220 problems</th>
+<th align="center" width="150px">210 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-dynamic-programming">phase-3-dynamic-programming</a></td>
 <th align="center" width="150px">200 problems</th>
@@ -294,14 +294,18 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
         </tr>
     </thead>
     <tbody>
-        <tr><td>Math I                  </td><td align="center">60 problems</td><td>solutions</td>
-            <td>Dynamic Programming I   </td><td align="center">50 problems</td><td>solutions</td></tr>
-        <tr><td>Math II                 </td><td align="center">60 problems</td><td>solutions</td>
-            <td>Dynamic Programming II  </td><td align="center">50 problems</td><td>solutions</td></tr>
-        <tr><td>String I                </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Dynamic Programming III </td><td align="center">50 problems</td><td>solutions</td></tr>
-        <tr><td>String II               </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Dynamic Programming IV  </td><td align="center">50 problems</td><td>solutions</td></tr>
+        <tr><td>Math I                  </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Dynamic Programming I   </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Math II                 </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Dynamic Programming II  </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Math III                </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Dynamic Programming III </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>String I                </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Dynamic Programming IV  </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>String II               </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Dynamic Programming V   </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>String III              </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Dynamic Programming VI  </td><td align="center">30 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
