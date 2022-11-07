@@ -6,7 +6,7 @@
 
 - ***Breadth First Search I***   `25 problems`
 - ***Breadth First Search II***  `25 problems`
-- ***Breadth First Search III*** `20 problems`
+- ***Breadth First Search III*** `25 problems`
 - ***Depth First Search I***     `30 problems`
 - ***Depth First Search II***    `30 problems`
 - ***Depth First Search III***   `25 problems`
@@ -129,7 +129,7 @@
     </tbody>
 </table>
 
-### LeetCode - Breadth First Search III `20 problems`
+### LeetCode - Breadth First Search III `25 problems`
 
 <table>
     <tbody>
