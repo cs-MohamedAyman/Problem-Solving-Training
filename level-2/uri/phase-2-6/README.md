@@ -5,7 +5,7 @@
 ### Table of Content
 
 - ***Ad-Hoc***            `15 problems`
-- ***Strings***           `10 problems`
+- ***Strings***           `15 problems`
 - ***Data Structures***   `10 problems`
 - ***Mathematics***       `10 problems`
 - ***Graph***             `45 problems`
