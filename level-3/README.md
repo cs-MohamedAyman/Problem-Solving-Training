@@ -51,10 +51,10 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-ma
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-1">mathematics-1</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-mathematics-2">mathematics-2</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -73,7 +73,7 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-ma
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-graph-string">graph-string</a></th>
-<th align="center" width="150px">130 problems</th>
+<th align="center" width="150px">135 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/phase-3-dynamic-programming">dynamic-programming</a></th>
 <th align="center" width="150px">140 problems</th>
@@ -87,9 +87,9 @@ The HackerRank OJ sheets: [phase-3-mathematics-1](/level-3/hackerrank/phase-3-ma
             <td>Dynamic Programming I  </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Greedy                 </td><td align="center">25 problems</td><td>solutions</td>
             <td>Dynamic Programming II </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Strings I              </td><td align="center">20 problems</td><td>solutions</td>
+        <tr><td>Strings I              </td><td align="center">25 problems</td><td>solutions</td>
             <td>Dynamic Programming III</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Strings II             </td><td align="center">20 problems</td><td>solutions</td>
+        <tr><td>Strings II             </td><td align="center">25 problems</td><td>solutions</td>
             <td>Constructive Algorithms</td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
@@ -164,15 +164,15 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
         <tr><td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td>
             <td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Graph                 </td><td align="center">15 problems</td><td>solutions</td>
-            <td>Graph                 </td><td align="center">10 problems</td><td>solutions</td></tr>
+            <td>Graph                 </td><td align="center">15 problems</td><td>solutions</td></tr>
         <tr><td>String                </td><td align="center">15 problems</td><td>solutions</td>
-            <td>String                </td><td align="center">10 problems</td><td>solutions</td></tr>
+            <td>String                </td><td align="center">15 problems</td><td>solutions</td></tr>
         <tr><td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td>
             <td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td>
             <td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Greedy and Brute Force</td><td align="center">20 problems</td><td>solutions</td></tr>
+            <td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td>
             <td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
@@ -182,23 +182,23 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
 <th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-4">phase-3-4</a></td>
-<th align="center" width="150px">130 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td>
             <td>Divide and Conquer    </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Graph                 </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Graph                 </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>String                </td><td align="center">10 problems</td><td>solutions</td>
-            <td>String                </td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Graph                 </td><td align="center">15 problems</td><td>solutions</td>
+            <td>Graph                 </td><td align="center">15 problems</td><td>solutions</td></tr>
+        <tr><td>String                </td><td align="center">15 problems</td><td>solutions</td>
+            <td>String                </td><td align="center">15 problems</td><td>solutions</td></tr>
         <tr><td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td>
             <td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td>
             <td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Greedy and Brute Force</td><td align="center">20 problems</td><td>solutions</td>
-            <td>Greedy and Brute Force</td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td>
+            <td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td>
             <td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
@@ -323,7 +323,7 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
 <th align="center" width="150px">110 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerearth/phase-3-mathematics-strings-2">mathematics-strings-2</a></th>
-<th align="center" width="150px">110 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -333,7 +333,7 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
         <tr><td>Primality Tests               </td><td align="center">30 problems</td><td>solutions</td>
             <td>Basics of Combinatorics       </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Totient Function              </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Inclusione-Exclusion          </td><td align="center">20 problems</td><td>solutions</td></tr>
+            <td>Inclusione-Exclusion          </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Basics of String Manipulation </td><td align="center">40 problems</td><td>solutions</td>
             <td>String Searching & Z Algorithm</td><td align="center">35 problems</td><td>solutions</td></tr>
     </tbody>
@@ -353,7 +353,7 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
         <tr><td>Breadth First Search       </td><td align="center">35 problems</td><td>solutions</td>
             <td>Shortest Path              </td><td align="center">45 problems</td><td>solutions</td></tr>
         <tr><td>Depth First Search I       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Spanning Tree              </td><td align="center">40 problems</td><td>solutions</td></tr>
+            <td>Spanning Tree              </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>Depth First Search II      </td><td align="center">40 problems</td><td>solutions</td>
             <td>Minimum Cost & Maximum Flow</td><td align="center">30 problems</td><td>solutions</td></tr>
     </tbody>
