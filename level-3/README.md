@@ -351,9 +351,9 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
         <tr><td>Graph Representation       </td><td align="center">35 problems</td><td>solutions</td>
             <td>Depth First Search         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Breadth First Search       </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Shortest Path              </td><td align="center">50 problems</td><td>solutions</td></tr>
+            <td>Shortest Path              </td><td align="center">45 problems</td><td>solutions</td></tr>
         <tr><td>Depth First Search I       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Spanning Tree              </td><td align="center">30 problems</td><td>solutions</td></tr>
+            <td>Spanning Tree              </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Depth First Search II      </td><td align="center">40 problems</td><td>solutions</td>
             <td>Minimum Cost & Maximum Flow</td><td align="center">30 problems</td><td>solutions</td></tr>
     </tbody>
