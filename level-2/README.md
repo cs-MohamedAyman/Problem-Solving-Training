@@ -119,7 +119,7 @@ The URI OJ sheets: [phase-2-1](/level-1/uri/phase-2-1), [phase-2-2](/level-1/uri
         <tr><td>Mathematics    </td><td align="center">10 problems</td><td>solutions</td>
             <td>Mathematics    </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Graph          </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Graph          </td><td align="center">45 problems</td><td>solutions</td></tr>
+            <td>Graph          </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Paradigms      </td><td align="center">35 problems</td><td>solutions</td>
             <td>Paradigms      </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
