@@ -216,6 +216,14 @@
 <th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2357">2357 - Violence in Syldavia</a></th>
 <th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2155">2155 - The Lizard's Icosahedrons</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1489">1489 - Software Engineering</a></th>
+<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2652">2652 - How Many Trees?</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1562">1562 - Choosing the Pairs</a></th>
+<th align="center" width="50px">44</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
     </tbody>
 </table>
 
