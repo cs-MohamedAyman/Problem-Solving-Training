@@ -256,12 +256,12 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
 
 ## [`LeetCode OJ sheets`](/level-3/README.md)
 
-The LeetCode OJ sheets: [phase-3-bfs-dfs](/level-3/leetcode/phase-3-bfs-dfs), [phase-3-graph-advanced-data-structures](/level-3/leetcode/phase-3-graph-advanced-data-structures), [phase-3-mathematics-strings](/level-3/leetcode/phase-3-mathematics-strings), [phase-3-dynamic-programming](/level-3/leetcode/phase-3-dynamic-programming), These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
+The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level-3/leetcode/phase-3-breadth-first-search-depth-first-search), [phase-3-graph-advanced-data-structures](/level-3/leetcode/phase-3-graph-advanced-data-structures), [phase-3-mathematics-strings](/level-3/leetcode/phase-3-mathematics-strings), [phase-3-dynamic-programming](/level-3/leetcode/phase-3-dynamic-programming), These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-bfs-dfs">phase-3-bfs-dfs</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search">phase-3-breadth-first-search-depth-first-search</a></td>
 <th align="center" width="150px">160 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-graph-advanced-data-structures">phase-3-graph-advanced-data-structures</a></td>

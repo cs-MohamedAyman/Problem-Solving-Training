@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - BFS & DFS `160 problems` `80 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Breadth First Search & Depth First Search `160 problems` `80 hrs`
 
 ### Table of Content
 
