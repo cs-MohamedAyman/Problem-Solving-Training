@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Mathematical & Strings Algorithms 1 `110 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Mathematical & String Algorithms 1 `110 problems` `80 hrs`
 
 ### Table of Content
 

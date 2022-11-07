@@ -256,15 +256,15 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
 
 ## [`LeetCode OJ sheets`](/level-3/README.md)
 
-The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/level-3/leetcode/phase-3-2), [phase-3-3](/level-3/leetcode/phase-3-3), [phase-3-4](/level-3/leetcode/phase-3-4) contain graph algorithms, mathematical algorithms, number theory, string algorithms, and dynamic programming problems, in addition to advanced data structures, Each sheet of them divided into 6 classes of problems (Binary Search - Divide and Conquer - Sort - Greedy - Graph - Breadth First Search - Depth First Search - Backtracking - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
+The LeetCode OJ sheets: [phase-3-bfs-dfs](/level-3/leetcode/phase-3-bfs-dfs), [phase-3-graph-advanced-data-structures](/level-3/leetcode/phase-3-graph-advanced-data-structures), [phase-3-mathematics-strings](/level-3/leetcode/phase-3-mathematics-strings), [phase-3-dynamic-programming](/level-3/leetcode/phase-3-dynamic-programming) contain graph algorithms, mathematical algorithms, number theory, string algorithms, and dynamic programming problems, in addition to advanced data structures, Each sheet of them divided into 6 classes of problems (Binary Search - Divide and Conquer - Sort - Greedy - Graph - Breadth First Search - Depth First Search - Backtracking - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem type. Finally, each sheet contains ~200 problems.
 
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-1">phase-3-1</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-bfs-dfs">phase-3-bfs-dfs</a></td>
 <th align="center" width="150px">160 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-2">phase-3-2</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-graph-advanced-data-structures">phase-3-graph-advanced-data-structures</a></td>
 <th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -285,10 +285,10 @@ The LeetCode OJ sheets: [phase-3-1](/level-3/leetcode/phase-3-1), [phase-3-2](/l
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-3">phase-3-3</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-mathematics-strings">phase-3-mathematics-strings</a></td>
 <th align="center" width="150px">220 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-4">phase-3-4</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-dynamic-programming">phase-3-dynamic-programming</a></td>
 <th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
         </tr>
