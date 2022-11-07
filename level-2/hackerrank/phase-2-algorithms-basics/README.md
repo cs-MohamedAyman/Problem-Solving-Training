@@ -9,7 +9,7 @@
 - ***Search*** `25 problems`
 - ***Implementation I*** `20 problems`
 - ***Implementation II*** `20 problems`
-- ***Implementation III*** `20 problems`
+- ***Implementation III*** `25 problems`
 
 ### HackerEarth - Warmup & Recursion `20 problems`
 
@@ -250,7 +250,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Implementation III `20 problems`
+### HackerEarth - Implementation III `25 problems`
 
 <table>
     <tbody>
