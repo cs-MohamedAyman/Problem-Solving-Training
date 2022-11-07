@@ -18,7 +18,7 @@
 <td align="left">Codeforces<a href="/level-3/codeforces/phase-3-1"> phase-3-1</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search"> phase-3-1</a></td>
+<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search"> phase-3-breadth-first-search-depth-first-search</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-05-06.jpg"></img></td>
@@ -45,7 +45,7 @@
 <td align="left">Codeforces<a href="/level-3/codeforces/phase-3-2"> phase-3-2</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-graph-advanced-data-structures"> phase-3-2</a></td>
+<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-graph-advanced-data-structures"> phase-3-graph-advanced-data-structures</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-11-12.jpg"></img></td>
@@ -72,7 +72,7 @@
 <td align="left">Codeforces<a href="/level-3/codeforces/phase-3-3"> phase-3-3</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-mathematics-strings"> phase-3-3</a></td>
+<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-mathematics-strings"> phase-3-mathematics-strings</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-17-18.jpg"></img></td>
@@ -99,7 +99,7 @@
 <td align="left">Codeforces<a href="/level-3/codeforces/phase-3-4"> phase-3-4</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-dynamic-programming"> phase-3-4</a></td>
+<td align="left">LeetCode<a href="/level-3/leetcode/phase-3-dynamic-programming"> phase-3-dynamic-programming</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-23-24.jpg"></img></td>
