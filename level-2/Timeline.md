@@ -9,7 +9,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-1"> phase-2-1</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-1"> phase-2-1</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-linear-data-structures-1"> phase-2-1</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-03-04.jpg"></img></td>
@@ -27,7 +27,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-2"> phase-2-2</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-2"> phase-2-2</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-linear-data-structures-2"> phase-2-2</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-07-08.jpg"></img></td>
@@ -45,7 +45,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-3"> phase-2-3</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-3"> phase-2-3</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-nonlinear-data-structures-1"> phase-2-3</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-11-12.jpg"></img></td>
@@ -63,7 +63,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-4"> phase-2-4</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-4"> phase-2-4</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-nonlinear-data-structures-2"> phase-2-4</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-15-16.jpg"></img></td>
@@ -81,7 +81,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-5"> phase-2-5</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-5"> phase-2-5</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-basic-algorithms-1"> phase-2-5</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-19-20.jpg"></img></td>
@@ -99,7 +99,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-6"> phase-2-6</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-6"> phase-2-6</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/phase-2-basic-algorithms-2"> phase-2-6</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-23-24.jpg"></img></td>
