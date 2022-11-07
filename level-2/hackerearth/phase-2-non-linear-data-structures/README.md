@@ -7,7 +7,8 @@
 - ***Binary Tree*** `10 problems`
 - ***Binary Search Tree*** `10 problems`
 - ***Binary Heap / Priority Queue*** `20 problems`
-- ***Hash Tables*** `50 problems`
+- ***Hash Tables I*** `25 problems`
+- ***Hash Tables II*** `25 problems`
 
 ### HackerEarth - Binary Tree `10 problems`
 
@@ -114,7 +115,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Hash Tables `50 problems`
+### HackerEarth - Hash Tables I `25 problems`
 
 <table>
     <tbody>
@@ -170,53 +171,60 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/easy-one-8/">easy one 8</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/notebook-pages-dbad75a5/">notebook pages</a></th>
         </tr>
+    </tbody>
+</table>
+
+### HackerEarth - Hash Tables II `25 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/aman-and-lab-file-work-8cd1d24c/">aman and lab file work</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/difficult-characters/">difficult characters</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/aman-and-lab-file-work-8cd1d24c/">aman and lab file work</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/difficult-characters/">difficult characters</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/crushing-violence/">crushing violence</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/factorial-game-1/">factorial game 1</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/crushing-violence/">crushing violence</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/factorial-game-1/">factorial game 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/suzakus-festivals-14dacd7c/">suzakus festivals</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/little-jhool-and-the-magical-jewels/">little jhool and the magical jewels</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/suzakus-festivals-14dacd7c/">suzakus festivals</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/little-jhool-and-the-magical-jewels/">little jhool and the magical jewels</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/icpc-team-management/">icpc team management</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/e-16/">e 16</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/icpc-team-management/">icpc team management</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/e-16/">e 16</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/little-monk-and-the-matchmaker/">little monk and the matchmaker</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/the-monk-and-prateek/">the monk and prateek</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/little-monk-and-the-matchmaker/">little monk and the matchmaker</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/the-monk-and-prateek/">the monk and prateek</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mathison-and-the-divisible-trio-a0a169b0/">mathison and the divisible trio</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/highest-rating-f8ead57a/">highest rating</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mathison-and-the-divisible-trio-a0a169b0/">mathison and the divisible trio</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/highest-rating-f8ead57a/">highest rating</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/chetan-vs-fauji/">chetan vs fauji</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/a-needle-in-the-haystack-1/">a needle in the haystack 1</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/chetan-vs-fauji/">chetan vs fauji</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/a-needle-in-the-haystack-1/">a needle in the haystack 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/ishans-dilemma/">ishans dilemma</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/yet-another-valentines-proposal/">yet another valentines proposal</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/ishans-dilemma/">ishans dilemma</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/yet-another-valentines-proposal/">yet another valentines proposal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/the-electric-type/">the electric type</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/shantam-and-richness-1/">shantam and richness 1</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/the-electric-type/">the electric type</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/shantam-and-richness-1/">shantam and richness 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/longlong/">longlong</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mandee-and-his-girlfriend-9a96aabd/">mandee and his girlfriend</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/longlong/">longlong</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mandee-and-his-girlfriend-9a96aabd/">mandee and his girlfriend</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/shubham-and-subarrays-325b1e73/">shubham and subarrays</a></th>
-<th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/scrambled-letters-00e18912-6cb9f33c/">scrambled letters</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/shubham-and-subarrays-325b1e73/">shubham and subarrays</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/scrambled-letters-00e18912-6cb9f33c/">scrambled letters</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">49</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/chandu-and-chandni/">chandu and chandni</a></th>
-<th align="center" width="50px">50</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/chandu-and-chandni/">chandu and chandni</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
