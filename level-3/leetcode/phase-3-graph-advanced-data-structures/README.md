@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Graph Algorithms & Advanced Data Structure `190 problems` `100 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Graph & Advanced Data Structure `190 problems` `100 hrs`
 
 ### Table of Content
 
