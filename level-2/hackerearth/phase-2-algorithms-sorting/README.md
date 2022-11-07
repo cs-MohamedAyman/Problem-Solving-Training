@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Algorithms Sorting `140 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Algorithms Sorting `135 problems` `80 hrs`
 
 ### Table of Content
 
