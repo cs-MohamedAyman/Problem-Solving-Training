@@ -138,10 +138,10 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-data-structures">data-structures</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">115 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-algorithms-basics">algorithms-basics</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -150,12 +150,14 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
             <td>Warm-up & Recursion       </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Stacks & Queues           </td><td align="center">10 problems</td><td>solutions</td>
             <td>Sorting                   </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Trees & Balanced Trees    </td><td align="center">25 problems</td><td>solutions</td>
+        <tr><td>Trees & Balanced Trees    </td><td align="center">20 problems</td><td>solutions</td>
             <td>Search                    </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Heap & Disjoint Set       </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Implementation I          </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Advanced                  </td><td align="center">50 problems</td><td>solutions</td>
-            <td>Implementation II         </td><td align="center">30 problems</td><td>solutions</td></tr>
+            <td>Implementation I          </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Advanced I                </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Implementation II         </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Advanced II               </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Implementation III        </td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
