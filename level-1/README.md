@@ -44,22 +44,22 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [`URI OJ sheets`](/level-1/README.md)
 
-The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri/phase-1-2), [phase-1-3](/level-1/uri/phase-1-3), [phase-1-4](/level-1/uri/phase-1-4), [phase-1-5](/level-1/uri/phase-1-5), [phase-1-6](/level-1/uri/phase-1-6), each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~175 problems.
+The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri/phase-1-2), [phase-1-3](/level-1/uri/phase-1-3), [phase-1-4](/level-1/uri/phase-1-4), [phase-1-5](/level-1/uri/phase-1-5), [phase-1-6](/level-1/uri/phase-1-6), each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~170 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/uri/phase-1-1">phase-1-1</a></th>
-<th align="center" width="150px">175 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/uri/phase-1-2">phase-1-2</a></th>
-<th align="center" width="150px">175 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align="center">45 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">45 problems</td><td>solutions</td></tr>
+        <tr><td>Beginner       </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
             <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
@@ -75,16 +75,16 @@ The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri
     </tbody>
         <tr>
 <th align="center" width="400px"><a href="/level-1/uri/phase-1-3">phase-1-3</a></th>
-<th align="center" width="150px">175 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/uri/phase-1-4">phase-1-4</a></th>
-<th align="center" width="150px">175 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align="center">45 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">45 problems</td><td>solutions</td></tr>
+        <tr><td>Beginner       </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
             <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
@@ -100,16 +100,16 @@ The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri
     </tbody>
         <tr>
 <th align="center" width="400px"><a href="/level-1/uri/phase-1-5">phase-1-5</a></th>
-<th align="center" width="150px">175 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/uri/phase-1-6">phase-1-6</a></th>
-<th align="center" width="150px">165 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Beginner       </td><td align="center">45 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Beginner       </td><td align="center">40 problems</td><td>solutions</td>
+            <td>Beginner       </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
             <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
