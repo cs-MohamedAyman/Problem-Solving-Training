@@ -253,7 +253,7 @@ The HackerEarth OJ sheets: [phase-1-1](/level-1/hackerearth/phase-1-1), [phase-1
     </thead>
     <tbody>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Input / Output  </td><td align="center">50 problems</td><td>solutions</td></tr>
+            <td>Input / Output  </td><td align="center">45 problems</td><td>solutions</td></tr>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
             <td>Bit Manipulation</td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
