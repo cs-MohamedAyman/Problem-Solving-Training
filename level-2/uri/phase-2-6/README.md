@@ -140,7 +140,7 @@
     </tbody>
 </table>
 
-### URI - Graph `50 problems`
+### URI - Graph `45 problems`
 
 <table>
     <tbody>
