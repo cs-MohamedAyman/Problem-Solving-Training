@@ -209,7 +209,7 @@ The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2
         <tr><td>String        </td><td align="center">30 problems</td><td>solutions</td>
             <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>List / Array  </td><td align="center">40 problems</td><td>solutions</td>
-            <td>List / Array  </td><td align="center">45 problems</td><td>solutions</td></tr>
+            <td>List / Array  </td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
