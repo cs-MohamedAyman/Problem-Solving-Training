@@ -299,7 +299,7 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
         <tr><td>Math II                 </td><td align="center">40 problems</td><td>solutions</td>
             <td>Dynamic Programming II  </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>Math III                </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Dynamic Programming III </td><td align="center">30 problems</td><td>solutions</td></tr>
+            <td>Dynamic Programming III </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>String I                </td><td align="center">35 problems</td><td>solutions</td>
             <td>Dynamic Programming IV  </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>String II               </td><td align="center">35 problems</td><td>solutions</td>
