@@ -8,7 +8,7 @@
 - ***Condition***      `15 problems`
 - ***Loop***           `35 problems`
 - ***String***         `35 problems`
-- ***List / Array***   `140 problems`
+- ***List / Array***   `40 problems`
 
 ### Codeforces - Basic Operator `15 problems`
 
