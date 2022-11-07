@@ -6,8 +6,9 @@
 
 - ***Bubble & Selection & Insertion & Merge*** `40 problems`
 - ***Quick & Count & Heap***                   `20 problems`
-- ***Greedy Algorithms I***                    `40 problems`
-- ***Greedy Algorithms II***                   `40 problems`
+- ***Greedy Algorithms I***                    `25 problems`
+- ***Greedy Algorithms II***                   `25 problems`
+- ***Greedy Algorithms III***                  `25 problems`
 
 ### HackerEarth - Bubble & Selection & Insertion & Merge `40 problems`
 
@@ -151,7 +152,7 @@
     </tbody>
 </table>
 
-### HackerRank - Greedy Algorithms I `40 problems`
+### HackerRank - Greedy Algorithms I `25 problems`
 
 <table>
     <tbody>
@@ -207,116 +208,119 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/arjit-and-printing-press/">arjit and printing press</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-cabs-0798cfa5/">minimum cabs 0798cfa5</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/c-32/">c 32</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-it-2/">swap it 2</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/my-girlfriend-and-her-love-for-cats-1/">my girlfriend and her love for cats 1</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/hectic-game-2e74ada4/">hectic game 2e74ada4</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/raj-his-slippers/">raj his slippers</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/">flip the world</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-profit-fd9f0ee3/">bob and profit fd9f0ee3</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mathison-and-the-funny-substring-b3f58587/">mathison and the funny substring b3f58587</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/introduction-to-programming/">introduction to programming</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/">k friends 89908017</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/easy-strong-permutation/">easy strong permutation</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/forbidden-pairs/">forbidden pairs</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/stranger-game-3-1f0d2f47/">stranger game 3 1f0d2f47</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
     </tbody>
 </table>
 
-### HackerRank - Greedy Algorithms II `40 problems`
+### HackerRank - Greedy Algorithms II `25 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/sharpen-the-pencils-2/">sharpen the pencils 2</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/add-subtract/">add subtract</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/c-32/">c 32</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-it-2/">swap it 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/yet-another-array-problem-2/">yet another array problem 2</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/filip-kotinioo-39795217/">filip kotinioo 39795217</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/my-girlfriend-and-her-love-for-cats-1/">my girlfriend and her love for cats 1</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/hectic-game-2e74ada4/">hectic game 2e74ada4</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities/">protect the cities</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-ancient-algorithm/">the ancient algorithm</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/raj-his-slippers/">raj his slippers</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/">flip the world</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/toy-box-5044b3ed/">toy box 5044b3ed</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/destination-cost-2b27f15b/">destination cost 2b27f15b</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-profit-fd9f0ee3/">bob and profit fd9f0ee3</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mathison-and-the-funny-substring-b3f58587/">mathison and the funny substring b3f58587</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-gcd-d6d86b3b/">bob and gcd d6d86b3b</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ankur-2/">ankur 2</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/introduction-to-programming/">introduction to programming</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/">k friends 89908017</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mike-and-lms/">mike and lms</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/array-modification-4569e6e6/">array modification 4569e6e6</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/easy-strong-permutation/">easy strong permutation</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/forbidden-pairs/">forbidden pairs</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/operations-on-an-array-2187f48a/">operations on an array 2187f48a</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1/">protect the cities 1</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/stranger-game-3-1f0d2f47/">stranger game 3 1f0d2f47</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/sharpen-the-pencils-2/">sharpen the pencils 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/division-of-salary-e495efbb/">division of salary e495efbb</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/eat-or-not-22/">eat or not 22</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/add-subtract/">add subtract</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/yet-another-array-problem-2/">yet another array problem 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ab-string-5f6b213a/">ab string 5f6b213a</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/smallest-chosen-word-0108fd21/">smallest chosen word 0108fd21</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/filip-kotinioo-39795217/">filip kotinioo 39795217</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities/">protect the cities</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-ron-play-a-game-of-chess/">harry and ron play a game of chess</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/assorted-arrangement-3/">assorted arrangement 3</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-ancient-algorithm/">the ancient algorithm</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/toy-box-5044b3ed/">toy box 5044b3ed</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/an-easy-problem-1-47aac9ac/">an easy problem 1 47aac9ac</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximize-it/">maximize it</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/destination-cost-2b27f15b/">destination cost 2b27f15b</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-gcd-d6d86b3b/">bob and gcd d6d86b3b</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/milly-and-chocolates-iv-6/">milly and chocolates iv 6</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/playing-cards-1-8abea701/">playing cards 1 8abea701</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ankur-2/">ankur 2</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mike-and-lms/">mike and lms</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/taxi-please/">taxi please</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-falling-eagle-5/">the falling eagle 5</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/array-modification-4569e6e6/">array modification 4569e6e6</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/operations-on-an-array-2187f48a/">operations on an array 2187f48a</a></th>
+        </tr>
+    </tbody>
+</table>
+
+### HackerRank - Greedy Algorithms III `25 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1/">protect the cities 1</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/division-of-salary-e495efbb/">division of salary e495efbb</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-horcrux-1-df65f8e9/">harry and horcrux 1 df65f8e9</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/arrays-force-easy-contest/">arrays force easy contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/eat-or-not-22/">eat or not 22</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ab-string-5f6b213a/">ab string 5f6b213a</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/threequal-parts-ecf91f02/">threequal parts ecf91f02</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/help-1-0315faf6/">help 1 0315faf6</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/smallest-chosen-word-0108fd21/">smallest chosen word 0108fd21</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-ron-play-a-game-of-chess/">harry and ron play a game of chess</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/dexter-and-points-39399feb/">dexter and points 39399feb</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximal-subsequence-c9f19b0a/">maximal subsequence c9f19b0a</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/assorted-arrangement-3/">assorted arrangement 3</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/an-easy-problem-1-47aac9ac/">an easy problem 1 47aac9ac</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/max-num-eb15ff4f/">max num eb15ff4f</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/rooms-1/">rooms 1</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximize-it/">maximize it</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/milly-and-chocolates-iv-6/">milly and chocolates iv 6</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/tree-tearing-easy-contest/">tree tearing easy contest</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-friendly-bear-960ef1b2/">the friendly bear 960ef1b2</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/playing-cards-1-8abea701/">playing cards 1 8abea701</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/taxi-please/">taxi please</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/interesting-game-4-b6515135/">interesting game 4 b6515135</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-falling-eagle-5/">the falling eagle 5</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-horcrux-1-df65f8e9/">harry and horcrux 1 df65f8e9</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/arrays-force-easy-contest/">arrays force easy contest</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/threequal-parts-ecf91f02/">threequal parts ecf91f02</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/help-1-0315faf6/">help 1 0315faf6</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/dexter-and-points-39399feb/">dexter and points 39399feb</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximal-subsequence-c9f19b0a/">maximal subsequence c9f19b0a</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/max-num-eb15ff4f/">max num eb15ff4f</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/rooms-1/">rooms 1</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/tree-tearing-easy-contest/">tree tearing easy contest</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-friendly-bear-960ef1b2/">the friendly bear 960ef1b2</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/interesting-game-4-b6515135/">interesting game 4 b6515135</a></th>
         </tr>
     </tbody>
 </table>
