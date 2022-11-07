@@ -1,15 +1,16 @@
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Linear Data Structure `110 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Linear Data Structure `115 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Arrays 1D***                 `45 problems`
-- ***Arrays Multi-dimensional***  `40 problems`
+- ***Arrays 1D I***               `25 problems`
+- ***Arrays 1D II***              `25 problems`
+- ***Arrays Multi-dimensional***  `35 problems`
 - ***Stacks***                    `25 problems`
 - ***Queues***                    `5 problems`
 
-### HackerEarth - Arrays 1D `45 problems`
+### HackerEarth - Arrays 1D I `25 problems`
 
 <table>
     <tbody>
@@ -61,58 +62,65 @@
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/counting-the-subarrays-4187713a/">counting the subarrays</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/digitial-sequence-ee0ea080/">digitial sequence</a></th>
         </tr>
+    </tbody>
+</table>
+
+### HackerEarth - Arrays 1D II `25 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-lucky-minimum-3/">monk and lucky minimum 3</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-rotation-3/">monk and rotation 3</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-lucky-minimum-3/">monk and lucky minimum 3</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-rotation-3/">monk and rotation 3</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/snackdown-contest/">snackdown contest</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/mark-the-answer-1/">mark the answer 1</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/snackdown-contest/">snackdown contest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/mark-the-answer-1/">mark the answer 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-16/">pairs 16</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximum-goodness/">maximum goodness</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-16/">pairs 16</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximum-goodness/">maximum goodness</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/golf/distinct-count-2/">distinct count 2</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/perfect-subarray-43560f46/">perfect subarray</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/golf/distinct-count-2/">distinct count 2</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/perfect-subarray-43560f46/">perfect subarray</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/2-arrays-90c9019c/">2 arrays</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/achhe-din-6baeb5d1/">achhe din</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/2-arrays-90c9019c/">2 arrays</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/achhe-din-6baeb5d1/">achhe din</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/sumit-and-equal-array/">sumit and equal array</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/lal-evaluation/">lal evaluation</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/sumit-and-equal-array/">sumit and equal array</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/lal-evaluation/">lal evaluation</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/baaki-che/">baaki che</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/1st/">1st</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/baaki-che/">baaki che</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/1st/">1st</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/sumits-love-for-maths/">sumits love for maths</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/speed-7/">speed 7</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/sumits-love-for-maths/">sumits love for maths</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/speed-7/">speed 7</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/b-39/">b 39</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/testing-strings-d1f28949/">testing strings</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/b-39/">b 39</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/testing-strings-d1f28949/">testing strings</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/equal-sum-5b547fc2/">equal sum</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/anshul-usama-and-punishment-a-64758169-ed00e7ab/">anshul usama and punishment</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/equal-sum-5b547fc2/">equal sum</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/anshul-usama-and-punishment-a-64758169-ed00e7ab/">anshul usama and punishment</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/is-it-some-space-cakewalk/">is it some space cakewalk</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/x-4/">x 4</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/is-it-some-space-cakewalk/">is it some space cakewalk</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/x-4/">x 4</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/zulu-encounters-a-sequence-problem/">zulu encounters a sequence problem</a></th>
-<th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/k-rotation-is-what-you-can-855157f8/">k rotation is what you can</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/zulu-encounters-a-sequence-problem/">zulu encounters a sequence problem</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/k-rotation-is-what-you-can-855157f8/">k rotation is what you can</a></th>
         </tr>
     </tbody>
 </table>
 
-### HackerEarth - Arrays Multi-dimensional `40 problems`
+### HackerEarth - Arrays Multi-dimensional `35 problems`
 
 <table>
     <tbody>
