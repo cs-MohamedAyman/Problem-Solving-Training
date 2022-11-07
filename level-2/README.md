@@ -391,7 +391,7 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-linear-data-structures">linear-data-structures</a></th>
-<th align="center" width="150px">110 problems</th>
+<th align="center" width="150px">115 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/hackerearth/phase-2-non-linear-data-structures">non-linear-data-structures</a></th>
 <th align="center" width="150px">90 problems</th>
@@ -399,14 +399,16 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays 1D               </td><td align="center">45 problems</td><td>solutions</td>
+        <tr><td>Arrays 1D I             </td><td align="center">25 problems</td><td>solutions</td>
             <td>Binary Tree             </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Arrays Multi-dimensional</td><td align="center">40 problems</td><td>solutions</td>
+        <tr><td>Arrays 1D II            </td><td align="center">25 problems</td><td>solutions</td>
             <td>Binary Search Tree      </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Stacks                  </td><td align="center">25 problems</td><td>solutions</td>
+        <tr><td>Arrays Multi-dimensional</td><td align="center">40 problems</td><td>solutions</td>
             <td>Heaps / Priority Queues </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Stacks                  </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Hash Tables I           </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Queues                  </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Hash Tables             </td><td align="center">50 problems</td><td>solutions</td></tr>
+            <td>Hash Tables II          </td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
