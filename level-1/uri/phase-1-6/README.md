@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.6 `165 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.6 `170 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Beginner***          `35 problems`
+- ***Beginner***          `40 problems`
 - ***Ad-Hoc I***          `40 problems`
 - ***Ad-Hoc II***         `35 problems`
 - ***Strings***           `10 problems`
@@ -12,7 +12,7 @@
 - ***Mathematics***       `25 problems`
 - ***Geometry***          `5 problems`
 
-### URI - Beginner `35 problems`
+### URI - Beginner `40 problems`
 
 <table>
     <tbody>
@@ -53,36 +53,47 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2802">2802 - Dividing Circles</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3167">3167 - Finding Words on Secondary Diagonal</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3267">3267 - Cliff Walk</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2968">2968 - Hour for a Run</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3233">3233 - Juice</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3166">3166 - Finding Words on Main Diagonal</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2761">2761 - Input and Output of Various Types</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1160">1160 - Population Increase</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3230">3230 - Galactic Warlords</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2493">2493 - Jogo do Operador</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1021">1021 - Banknotes and Coins</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3229">3229 - Food Review</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3167">3167 - Finding Words on Secondary Diagonal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1837">1837 - Preface</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2770">2770 - Board Size</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3267">3267 - Cliff Walk</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3166">3166 - Finding Words on Main Diagonal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3089">3089 - Christmas Gifts</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3042">3042 - Deflecting from Christmas Trees</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2761">2761 - Input and Output of Various Types</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2493">2493 - Jogo do Operador</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1973">1973 - Star Trek</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2715">2715 - Splitting Assignments I</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1021">1021 - Banknotes and Coins</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1837">1837 - Preface</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2632">2632 - Magic and Sword</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3343">3343 - Attack On Gasparini</a></th>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2770">2770 - Board Size</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3089">3089 - Christmas Gifts</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2709">2709 - The Coins of Robbie</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1047">1047 - Game Time with Minutes</a></th>
+<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3042">3042 - Deflecting from Christmas Trees</a></th>
+<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1973">1973 - Star Trek</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2715">2715 - Splitting Assignments I</a></th>
+<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2632">2632 - Magic and Sword</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3343">3343 - Attack On Gasparini</a></th>
+<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2709">2709 - The Coins of Robbie</a></th>
+        </tr>
+<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1047">1047 - Game Time with Minutes</a></th>
+<th align="center" width="50px">40</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

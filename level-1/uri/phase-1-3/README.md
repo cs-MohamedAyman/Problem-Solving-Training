@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.3 `175 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.3 `170 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Beginner***          `45 problems`
+- ***Beginner***          `40 problems`
 - ***Ad-Hoc I***          `40 problems`
 - ***Ad-Hoc II***         `35 problems`
 - ***Strings***           `10 problems`
@@ -12,7 +12,7 @@
 - ***Mathematics***       `25 problems`
 - ***Geometry***          `5 problems`
 
-### URI - Beginner `45 problems`
+### URI - Beginner `40 problems`
 
 <table>
     <tbody>
@@ -98,15 +98,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2807">2807 - Iccanobif</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2982">2982 - The Strike Stops or Continues?</a></th>
+<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1182">1182 - Column in Array</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2949">2949 - The Fellowship of the Ring</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1041">1041 - Coordinates of a Point</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3181">3181 - Dinner</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1011">1011 - Sphere</a></th>
+<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2982">2982 - The Strike Stops or Continues?</a></th>
         </tr>
     </tbody>
 </table>

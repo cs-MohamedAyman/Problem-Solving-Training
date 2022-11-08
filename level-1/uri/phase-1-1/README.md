@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.1 `175 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.1 `170 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Beginner***          `45 problems`
+- ***Beginner***          `40 problems`
 - ***Ad-Hoc I***          `40 problems`
 - ***Ad-Hoc II***         `35 problems`
 - ***Strings***           `10 problems`
@@ -12,8 +12,7 @@
 - ***Mathematics***       `25 problems`
 - ***Geometry***          `5 problems`
 
-
-### URI - Beginner `45 problems`
+### URI - Beginner `40 problems`
 
 <table>
     <tbody>
@@ -104,10 +103,6 @@
         <tr>
 <th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2483">2483 - Merry Christmaaas!</a></th>
 <th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1759">1759 - Ho Ho Ho</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1017">1017 - Fuel Spent</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.5 `175 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.5 `170 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Beginner***          `45 problems`
+- ***Beginner***          `40 problems`
 - ***Ad-Hoc I***          `40 problems`
 - ***Ad-Hoc II***         `35 problems`
 - ***Strings***           `10 problems`
@@ -12,101 +12,97 @@
 - ***Mathematics***       `25 problems`
 - ***Geometry***          `5 problems`
 
-### URI - Beginner `45 problems`
+### URI - Beginner `40 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2542">2542 - Iu-Di-Oh!</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3053">3053 - Jogo Dos Copos</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3181">3181 - Dinner</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2635">2635 - Web Browser</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1847">1847 - Welcome to the Winter!</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3258">3258 - Boiling Vegetables</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2542">2542 - Iu-Di-Oh!</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3053">3053 - Jogo Dos Copos</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2850">2850 - Polyglot Parrot</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2162">2162 - Peaks and Valleys</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1847">1847 - Welcome to the Winter!</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3258">3258 - Boiling Vegetables</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2724">2724 - Help Patatatitu</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2203">2203 - Crowstorm</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2850">2850 - Polyglot Parrot</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2162">2162 - Peaks and Valleys</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3065">3065 - Calculando</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2160">2160 - Name at Form</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2724">2724 - Help Patatatitu</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2203">2203 - Crowstorm</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2785">2785 - Pyramid</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1045">1045 - Triangle Types</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3065">3065 - Calculando</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2160">2160 - Name at Form</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2774">2774 - Sensor Accuracy</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1001">1001 - Extremely Basic</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2785">2785 - Pyramid</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1045">1045 - Triangle Types</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1828">1828 - Bazinga!</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2765">2765 - Coming Input and Output</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2774">2774 - Sensor Accuracy</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1001">1001 - Extremely Basic</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2764">2764 - Date Input and Output</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2769">2769 - Assembly Line</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1828">1828 - Bazinga!</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2765">2765 - Coming Input and Output</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1101">1101 - Sequence of Numbers and Sum</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2823">2823 - Eearliest Deadline First</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2764">2764 - Date Input and Output</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2769">2769 - Assembly Line</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3162">3162 - Space Communication</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2540">2540 - Leader's Impeachment</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1101">1101 - Sequence of Numbers and Sum</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2823">2823 - Eearliest Deadline First</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2813">2813 - Avoiding Rain</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2930">2930 - Final Thesis of Christmas Depression</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3162">3162 - Space Communication</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2540">2540 - Leader's Impeachment</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1018">1018 - Banknotes</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2775">2775 - Preparing Production</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2813">2813 - Avoiding Rain</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2930">2930 - Final Thesis of Christmas Depression</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3076">3076 - History Exercise</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2712">2712 - Vehicular Restriction</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1018">1018 - Banknotes</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2775">2775 - Preparing Production</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2165">2165 - Twitting</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2163">2163 - The Force Awakens</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3076">3076 - History Exercise</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2712">2712 - Vehicular Restriction</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2758">2758 - Floating Number Input and Output</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2846">2846 - Fibonot</a></th>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2165">2165 - Twitting</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2163">2163 - The Force Awakens</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1958">1958 - Scientific Notation</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2863">2863 - Umil Bolt</a></th>
+<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2758">2758 - Floating Number Input and Output</a></th>
+<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2846">2846 - Fibonot</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2544">2544 - Kage Bunshin no Jutsu</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2718">2718 - Christmas Lights</a></th>
+<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1958">1958 - Scientific Notation</a></th>
+<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2863">2863 - Umil Bolt</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2028">2028 - Sequence of Sequence</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3084">3084 - Old Clock</a></th>
+<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2544">2544 - Kage Bunshin no Jutsu</a></th>
+<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1002">1002 - Area of a Circle</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3208">3208 - The Embarrassed Cryptographer</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3068">3068 - Meteoros</a></th>
+<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1183">1183 - Above the Main Diagonal</a></th>
+<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2718">2718 - Christmas Lights</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2968">2968 - Hour for a Run</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3233">3233 - Juice</a></th>
+<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2028">2028 - Sequence of Sequence</a></th>
+<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3084">3084 - Old Clock</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1160">1160 - Population Increase</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3230">3230 - Galactic Warlords</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3229">3229 - Food Review</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3208">3208 - The Embarrassed Cryptographer</a></th>
+<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3068">3068 - Meteoros</a></th>
         </tr>
     </tbody>
 </table>

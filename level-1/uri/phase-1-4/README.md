@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.4 `175 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.4 `170 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Beginner***          `45 problems`
+- ***Beginner***          `40 problems`
 - ***Ad-Hoc I***          `40 problems`
 - ***Ad-Hoc II***         `35 problems`
 - ***Strings***           `10 problems`
@@ -12,8 +12,7 @@
 - ***Mathematics***       `25 problems`
 - ***Geometry***          `5 problems`
 
-
-### URI - Beginner `45 problems`
+### URI - Beginner `40 problems`
 
 <table>
     <tbody>
@@ -102,12 +101,8 @@
 <th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1094">1094 - Experiments</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2635">2635 - Web Browser</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1002">1002 - Area of a Circle</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1183">1183 - Above the Main Diagonal</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2949">2949 - The Fellowship of the Ring</a></th>
+<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1041">1041 - Coordinates of a Point</a></th>
         </tr>
     </tbody>
 </table>

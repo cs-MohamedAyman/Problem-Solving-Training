@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.2 `175 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 1.2 `170 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Beginner***          `45 problems`
+- ***Beginner***          `40 problems`
 - ***Ad-Hoc I***          `40 problems`
 - ***Ad-Hoc II***         `35 problems`
 - ***Strings***           `10 problems`
@@ -12,8 +12,7 @@
 - ***Mathematics***       `25 problems`
 - ***Geometry***          `5 problems`
 
-
-### URI - Beginner `45 problems`
+### URI - Beginner `40 problems`
 
 <table>
     <tbody>
@@ -55,59 +54,55 @@
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2779">2779 - Album of the Cup</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1098">1098 - Sequence IJ 4</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1017">1017 - Fuel Spent</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2552">2552 - CheeseBreadSweeper</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1052">1052 - Month</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1098">1098 - Sequence IJ 4</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2552">2552 - CheeseBreadSweeper</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1145">1145 - Logical Sequence 2</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2147">2147 - Galopeira</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1052">1052 - Month</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1145">1145 - Logical Sequence 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2749">2749 - Output 3</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1962">1962 - A Long, Long Time Ago</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2147">2147 - Galopeira</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2749">2749 - Output 3</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2057">2057 - Time Zone</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1064">1064 - Positives and Average</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1962">1962 - A Long, Long Time Ago</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2057">2057 - Time Zone</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1051">1051 - Taxes</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1564">1564 - Brazil World Cup</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1064">1064 - Positives and Average</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1051">1051 - Taxes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2762">2762 - Input and Output 6</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2059">2059 - Odd, Even or Cheating</a></th>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1564">1564 - Brazil World Cup</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2762">2762 - Input and Output 6</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1864">1864 - Our Days Are Never Coming Back</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1080">1080 - Highest and Position</a></th>
+<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2059">2059 - Odd, Even or Cheating</a></th>
+<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1864">1864 - Our Days Are Never Coming Back</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1042">1042 - Simple Sort</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2031">2031 - Rock, Paper, Airstrike</a></th>
+<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1080">1080 - Highest and Position</a></th>
+<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1042">1042 - Simple Sort</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2003">2003 - Sunday Morning</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1184">1184 - Below the Main Diagonal</a></th>
+<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2031">2031 - Rock, Paper, Airstrike</a></th>
+<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2003">2003 - Sunday Morning</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2311">2311 - Diving</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2167">2167 - Engine Failure</a></th>
+<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1184">1184 - Below the Main Diagonal</a></th>
+<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2311">2311 - Diving</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1044">1044 - Multiples</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3214">3214 - Soda Surpler</a></th>
+<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2167">2167 - Engine Failure</a></th>
+<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1044">1044 - Multiples</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1165">1165 - Prime Number</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1182">1182 - Column in Array</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1011">1011 - Sphere</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/3214">3214 - Soda Surpler</a></th>
+<th align="center" width="50px">44</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1165">1165 - Prime Number</a></th>
         </tr>
     </tbody>
 </table>
