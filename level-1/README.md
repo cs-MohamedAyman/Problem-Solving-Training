@@ -243,7 +243,7 @@ The HackerEarth OJ sheets: [phase-1-1](/level-1/hackerearth/phase-1-1), [phase-1
 <th align="center" width="150px">100 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-4">phase-1-4</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>

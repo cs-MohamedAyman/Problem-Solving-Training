@@ -4,10 +4,10 @@
 
 ### Table of Content
 
-- ***Implementation I*** `25 problems`
-- ***Implementation II*** `25 problems`
+- ***Implementation I***   `25 problems`
+- ***Implementation II***  `25 problems`
 - ***Implementation III*** `25 problems`
-- ***Implementation IV*** `25 problems`
+- ***Implementation IV***  `25 problems`
 
 ### HackerEarth - Implementation I `25 problems`
 

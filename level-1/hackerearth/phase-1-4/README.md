@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 
-## [HackerEarth](https://hackerearth.com/) OJ - Phase 1.4 `120 problems` `100 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Phase 1.4 `125 problems` `80 hrs`
 
 ### Table of Content
 

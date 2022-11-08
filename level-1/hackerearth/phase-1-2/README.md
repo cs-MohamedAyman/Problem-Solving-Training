@@ -4,10 +4,10 @@
 
 ### Table of Content
 
-- ***Implementation I*** `25 problems`
-- ***Implementation II*** `25 problems`
+- ***Implementation I***   `25 problems`
+- ***Implementation II***  `25 problems`
 - ***Implementation III*** `25 problems`
-- ***Implementation IV*** `25 problems`
+- ***Implementation IV***  `25 problems`
 
 ### HackerEarth - Implementation I `25 problems`
 
@@ -118,7 +118,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-best-internet-browser-3/">the best internet browser 3</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/simple-addition-2/">simple addition 2</a></th>
         </tr>
     </tbody>
 </table>
@@ -233,10 +233,6 @@
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/highest-number/">highest number</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-psychic-type/">the psychic type</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/simple-addition-2/">simple addition 2</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
