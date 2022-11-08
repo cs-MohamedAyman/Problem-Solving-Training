@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/atcoder.jpg">
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 2.1 `180 problems` `80 hrs`
+## [AtCoder](https://atcoder.jp/) OJ - Phase 2.1 `180 problems` `120 hrs`
 
 ### Table of Content
 
@@ -10,7 +10,6 @@
 - ***2016-2017 Beginner Contests II***     `20 problems`
 - ***2018-2019 Beginner Contests II***     `30 problems`
 - ***2020-2021 Beginner Contests II***     `40 problems`
-
 
 ### AtCoder - 2016-2017 Beginner Contests I `20 problems`
 
