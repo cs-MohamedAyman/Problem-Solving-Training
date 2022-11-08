@@ -119,7 +119,7 @@ The AtCoder OJ sheets: [phase-2-1](/level-2/atcoder/phase-2-1), [phase-2-2](/lev
 
 The Codeforces OJ sheets: [phase-2-1](/level-2/codeforces/phase-2-1), [phase-2-2](/level-2/codeforces/phase-2-2), [phase-2-3](/level-2/codeforces/phase-2-3), [phase-2-4](/level-2/codeforces/phase-2-4), each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](/level-2/codeforces/phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally [phase-2-gym-contests-1](/level-2/codeforces/phase-2-gym-contests-1), [phase-2-gym-contests-2](/level-2/codeforces/phase-2-gym-contests-2) that focus on gym-contests that contains ~100 contests.
+For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](/level-2/codeforces/phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally [phase-2-gym-contests-1](/level-2/codeforces/phase-2-gym-contests-1), [phase-2-gym-contests-2](/level-2/codeforces/phase-2-gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
 <img align="right" width="80" src="/logos/leetcode.jpg">
 <br>

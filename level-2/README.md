@@ -138,7 +138,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-data-structures">data-structures</a></th>
-<th align="center" width="150px">115 problems</th>
+<th align="center" width="150px">110 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/hackerrank/phase-2-algorithms-basics">algorithms-basics</a></th>
 <th align="center" width="150px">125 problems</th>
@@ -156,7 +156,7 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
             <td>Implementation I          </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Advanced I                </td><td align="center">25 problems</td><td>solutions</td>
             <td>Implementation II         </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Advanced II               </td><td align="center">30 problems</td><td>solutions</td>
+        <tr><td>Advanced II               </td><td align="center">25 problems</td><td>solutions</td>
             <td>Implementation III        </td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
@@ -202,7 +202,7 @@ The AtCoder OJ sheets: [phase-2-1](/level-2/atcoder/phase-2-1), [phase-2-2](/lev
 
 The Codeforces OJ sheets: [phase-2-1](/level-2/codeforces/phase-2-1), [phase-2-2](/level-2/codeforces/phase-2-2), [phase-2-3](/level-2/codeforces/phase-2-3), [phase-2-4](/level-2/codeforces/phase-2-4), each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](/level-2/codeforces/phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally [phase-2-gym-contests-1](/level-2/codeforces/phase-2-gym-contests-1), [phase-2-gym-contests-2](/level-2/codeforces/phase-2-gym-contests-2) that focus on gym-contests that contains ~100 contests.
+For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](/level-2/codeforces/phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally [phase-2-gym-contests-1](/level-2/codeforces/phase-2-gym-contests-1), [phase-2-gym-contests-2](/level-2/codeforces/phase-2-gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
 <table>
     <thead>
@@ -211,43 +211,43 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 <th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-2">phase-2-2</a></th>
-<th align="center" width="150px">130 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Data Structure</td><td align="center">10 problems</td><td>solutions</td>
+        <tr><td>Data Structure</td><td align="center">20 problems</td><td>solutions</td>
             <td>Data Structure</td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>String        </td><td align="center">40 problems</td><td>solutions</td>
+        <tr><td>String        </td><td align="center">25 problems</td><td>solutions</td>
             <td>String        </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Mathematics   </td><td align="center">25 problems</td><td>solutions</td>
+        <tr><td>Mathematics   </td><td align="center">35 problems</td><td>solutions</td>
             <td>Mathematics   </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>Greedy        </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Greedy        </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Brute Force   </td><td align="center">15 problems</td><td>solutions</td>
-            <td>Brute Force   </td><td align="center">15 problems</td><td>solutions</td></tr>
+            <td>Greedy        </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td>
+            <td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-3">phase-2-3</a></th>
-<th align="center" width="150px">105 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-4">phase-2-4</a></th>
-<th align="center" width="150px">145 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Data Structure</td><td align="center">30 problems</td><td>solutions</td>
-            <td>Data Structure</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>String        </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Data Structure</td><td align="center">20 problems</td><td>solutions</td>
+            <td>Data Structure</td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align="center">25 problems</td><td>solutions</td>
+            <td>String        </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Mathematics   </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Mathematics   </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Greedy        </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Mathematics   </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Greedy        </td><td align="center">30 problems</td><td>solutions</td>
             <td>Greedy        </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Brute Force   </td><td align="center">15 problems</td><td>solutions</td></tr>
+            <td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -258,20 +258,20 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 <th align="center" width="150px">100 contests</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-educational-contests">phase-2-educational-contests</a></th>
-<th align="center" width="150px">150 contests</th>
+<th align="center" width="150px">125 contests</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I  </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests I       </td><td align="center">20 Contests</td><td>solutions</td>
             <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests II </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests II      </td><td align="center">20 Contests</td><td>solutions</td>
             <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests III</td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests III     </td><td align="center">20 Contests</td><td>solutions</td>
             <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests IV      </td><td align="center">20 Contests</td><td>solutions</td>
             <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div4 Contests    </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div4 Contests         </td><td align="center">20 Contests</td><td>solutions</td>
             <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>

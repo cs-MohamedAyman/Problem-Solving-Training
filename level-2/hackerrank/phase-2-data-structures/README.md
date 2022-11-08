@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ - Data Structures `115 problems` `80 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - Data Structures `110 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Array and Linked List*** `20 problems`
-- ***Stack and Queue*** `10 problems`
+- ***Array and Linked List***                `20 problems`
+- ***Stack and Queue***                      `10 problems`
 - ***Binary Tree and Balanced Binary Tree*** `20 problems`
-- ***Heap & Disjoint Set*** `10 problems`
-- ***Advanced I*** `25 problems`
-- ***Advanced II*** `30 problems`
+- ***Heap & Disjoint Set***                  `10 problems`
+- ***Advanced I***                           `25 problems`
+- ***Advanced II***                          `25 problems`
 
 ### HackerRank - Array and Linked List `20 problems`
 
@@ -226,7 +226,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced II `30 problems`
+### HackerRank - Advanced II `25 problems`
 
 <table>
     <tbody>
