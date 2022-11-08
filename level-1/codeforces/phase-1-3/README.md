@@ -1,16 +1,16 @@
 <img align="right" width="80" src="/logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 1.3 `120 problems` `80 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 1.3 `125 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Basic Operator*** `5 problems`
+- ***Basic Operator*** `10 problems`
 - ***Condition***      `20 problems`
 - ***Loop***           `25 problems`
 - ***String***         `30 problems`
 - ***List / Array***   `40 problems`
 
-### Codeforces - Basic Operator `5 problems`
+### Codeforces - Basic Operator `10 problems`
 
 <table>
     <tbody>
@@ -24,7 +24,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/955/A">Round 471 A</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/460/A">Round 262 A</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/84/A">Round 72 A</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/195/A">Round 123 A</a></th>
         </tr>
     </tbody>
 </table>
@@ -68,10 +72,6 @@
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/483/A">Round 275 A</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/651/A">Round 345 A</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/557/A">Round 311 A</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -126,11 +126,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/861/A">Round 434 A</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/902/A">Round 453 A</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/46/A">Round 43 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/967/A">Round 477 A</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/242/A">Round 149 A</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/38/A">Round 38 A</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/977/A">Round 479 A</a></th>
         </tr>
     </tbody>
 </table>
@@ -198,6 +198,10 @@
         <tr>
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/801/A">Round 409 A</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/877/A">Round 442 A</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/757/A">Round 391 A</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/363/A">Round 211 A</a></th>
         </tr>
     </tbody>
 </table>

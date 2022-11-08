@@ -164,27 +164,27 @@ The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp), [phase
 
 ## [`Codeforces OJ sheets`](/level-1/README.md)
 
-The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2](/level-1/codeforces/phase-1-2), [phase-1-3](/level-1/codeforces/phase-1-3), [phase-1-4](/level-1/codeforces/phase-1-4), each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2](/level-1/codeforces/phase-1-2), [phase-1-3](/level-1/codeforces/phase-1-3), [phase-1-4](/level-1/codeforces/phase-1-4), each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-1">phase-1-1</a></th>
-<th align="center" width="150px">140 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-2">phase-1-2</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align="center">15 problems</td><td>solutions</td>
+        <tr><td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td>
             <td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Condition     </td><td align="center">15 problems</td><td>solutions</td>
-            <td>Condition     </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Loop          </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Loop          </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>String        </td><td align="center">35 problems</td><td>solutions</td>
+        <tr><td>Condition     </td><td align="center">20 problems</td><td>solutions</td>
+            <td>Condition     </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Loop          </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Loop          </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>String        </td><td align="center">30 problems</td><td>solutions</td>
             <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>List / Array  </td><td align="center">40 problems</td><td>solutions</td>
             <td>List / Array  </td><td align="center">40 problems</td><td>solutions</td></tr>
@@ -192,20 +192,20 @@ The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-3">phase-1-3</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-4">phase-1-4</a></th>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Basic Operator</td><td align="center"> 5 problems</td><td>solutions</td></tr>
+        <tr><td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td>
+            <td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Condition     </td><td align="center">20 problems</td><td>solutions</td>
             <td>Condition     </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Loop          </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Loop          </td><td align="center">20 problems</td><td>solutions</td></tr>
+            <td>Loop          </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>String        </td><td align="center">30 problems</td><td>solutions</td>
             <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>List / Array  </td><td align="center">40 problems</td><td>solutions</td>

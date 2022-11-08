@@ -59,7 +59,7 @@ The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp), [phase
 
 ## [`Codeforces OJ sheets`](/level-1/README.md)
 
-The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2](/level-1/codeforces/phase-1-2), [phase-1-3](/level-1/codeforces/phase-1-3), [phase-1-4](/level-1/codeforces/phase-1-4), each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2](/level-1/codeforces/phase-1-2), [phase-1-3](/level-1/codeforces/phase-1-3), [phase-1-4](/level-1/codeforces/phase-1-4), each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>

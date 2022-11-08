@@ -1,16 +1,16 @@
 <img align="right" width="80" src="/logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 1.4 `120 problems` `80 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 1.4 `125 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Basic Operator*** `5 problems`
+- ***Basic Operator*** `10 problems`
 - ***Condition***      `20 problems`
-- ***Loop***           `20 problems`
+- ***Loop***           `25 problems`
 - ***String***         `30 problems`
 - ***List / Array***   `40 problems`
 
-### Codeforces - Basic Operator `5 problems`
+### Codeforces - Basic Operator `10 problems`
 
 <table>
     <tbody>
@@ -24,7 +24,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/73/A">Round 66 A</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/1/A">Round 1 A</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/124/A">Round 92 A</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/476/A">Round 272 A</a></th>
         </tr>
     </tbody>
 </table>
@@ -72,7 +76,7 @@
     </tbody>
 </table>
 
-### Codeforces - Loop `20 problems`
+### Codeforces - Loop `25 problems`
 
 <table>
     <tbody>
@@ -118,7 +122,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/374/A">Round 220 A</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/902/A">Round 453 A</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/967/A">Round 477 A</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/242/A">Round 149 A</a></th>
         </tr>
     </tbody>
 </table>
