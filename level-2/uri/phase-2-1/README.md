@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.1 `160 problems` `100 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.1 `160 problems` `120 hrs`
 
 ### Table of Content
 

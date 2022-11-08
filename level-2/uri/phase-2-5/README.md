@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.5 `125 problems` `80 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.5 `120 problems` `80 hrs`
 
 ### Table of Content
 
@@ -9,7 +9,7 @@
 - ***Data Structures***   `10 problems`
 - ***Mathematics***       `10 problems`
 - ***Graph***             `40 problems`
-- ***Paradigms***         `35 problems`
+- ***Paradigms***         `30 problems`
 - ***Geometry***          `5 problems`
 
 ### URI - Ad-Hoc `15 problems`
@@ -70,6 +70,10 @@
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2824">2824 - Pudim</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2960">2960 - Once Upon a Time...</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1386">1386 - Ambiguous Codes</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1335">1335 - File Retrieval</a></th>
         </tr>
     </tbody>
 </table>
@@ -227,7 +231,7 @@
     </tbody>
 </table>
 
-### URI - Paradigms `35 problems`
+### URI - Paradigms `30 problems`
 
 <table>
     <tbody>
@@ -290,18 +294,6 @@
         <tr>
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1978">1978 - Cameras</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1784">1784 - Birds vs Crows</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1777">1777 - Walk of Fame</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1687">1687 - Unlock the Smartphone</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1412">1412 - Code Lock</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2934">2934 - Noel and His Reindeer</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1892">1892 - Freshman Beats Veteran?</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

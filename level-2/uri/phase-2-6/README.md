@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/uri.jpg">
 
-## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.6 `125 problems` `80 hrs`
+## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.6 `120 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Ad-Hoc***            `15 problems`
-- ***Strings***           `15 problems`
+- ***Strings***           `10 problems`
 - ***Data Structures***   `10 problems`
 - ***Mathematics***       `10 problems`
 - ***Graph***             `40 problems`
-- ***Paradigms***         `25 problems`
+- ***Paradigms***         `30 problems`
 - ***Geometry***          `5 problems`
 
 ### URI - Ad-Hoc `15 problems`
@@ -72,12 +72,8 @@
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2669">2669 - Laboratório de Biotecnologia</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1386">1386 - Ambiguous Codes</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1335">1335 - File Retrieval</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1853">1853 - Daenerys' Game of Trust</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1853">1853 - Daenerys' Game of Trust</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -235,7 +231,7 @@
     </tbody>
 </table>
 
-### URI - Paradigms `25 problems`
+### URI - Paradigms `30 problems`
 
 <table>
     <tbody>
@@ -289,7 +285,15 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2226">2226 - Balloon Factory</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1777">1777 - Walk of Fame</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1687">1687 - Unlock the Smartphone</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1412">1412 - Code Lock</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/2934">2934 - Noel and His Reindeer</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1892">1892 - Freshman Beats Veteran?</a></th>
         </tr>
     </tbody>
 </table>

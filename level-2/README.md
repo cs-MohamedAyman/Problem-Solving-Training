@@ -46,7 +46,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 ## [`URI OJ sheets`](/level-2/README.md)
 
-The URI OJ sheets: [phase-2-1](/level-1/uri/phase-2-1), [phase-2-2](/level-1/uri/phase-2-2), [phase-2-3](/level-1/uri/phase-2-3), [phase-2-4](/level-1/uri/phase-2-4), [phase-2-5](/level-1/uri/phase-2-5), [phase-2-6](/level-1/uri/phase-2-6), each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematics Graph Paradigms Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~160 problems.
+The URI OJ sheets: [phase-2-1](/level-1/uri/phase-2-1), [phase-2-2](/level-1/uri/phase-2-2), [phase-2-3](/level-1/uri/phase-2-3), [phase-2-4](/level-1/uri/phase-2-4), [phase-2-5](/level-1/uri/phase-2-5), [phase-2-6](/level-1/uri/phase-2-6), each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematics Graph Paradigms Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~150 problems.
 
 <table>
     <thead>
@@ -102,10 +102,10 @@ The URI OJ sheets: [phase-2-1](/level-1/uri/phase-2-1), [phase-2-2](/level-1/uri
     </tbody>
         <tr>
 <th align="center" width="400px"><a href="/level-2/uri/phase-2-5">phase-2-5</a></th>
-<th align="center" width="150px">125 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/uri/phase-2-6">phase-2-6</a></th>
-<th align="center" width="150px">125 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -113,15 +113,15 @@ The URI OJ sheets: [phase-2-1](/level-1/uri/phase-2-1), [phase-2-2](/level-1/uri
         <tr><td>Ad-Hoc         </td><td align="center">15 problems</td><td>solutions</td>
             <td>Ad-Hoc         </td><td align="center">15 problems</td><td>solutions</td></tr>
         <tr><td>Strings        </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Strings        </td><td align="center">15 problems</td><td>solutions</td></tr>
+            <td>Strings        </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Data Structures</td><td align="center">10 problems</td><td>solutions</td>
             <td>Data Structures</td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Mathematics    </td><td align="center">10 problems</td><td>solutions</td>
             <td>Mathematics    </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Graph          </td><td align="center">40 problems</td><td>solutions</td>
             <td>Graph          </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Paradigms      </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Paradigms      </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Paradigms      </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Paradigms      </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
             <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
     </tbody>
