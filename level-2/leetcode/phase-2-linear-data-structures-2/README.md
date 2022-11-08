@@ -5,12 +5,12 @@
 ### Table of Content
 
 - ***Array I***             `35 problems`
-- ***Array II***             `40 problems`
-- ***Array III***             `40 problems`
-- ***Array IV***             `40 problems`
+- ***Array II***            `40 problems`
+- ***Array III***           `40 problems`
+- ***Array IV***            `40 problems`
 - ***Linked List***         `30 problems`
-- ***Stack***                 `10 problems`
-- ***Queue and Dequeue***     `25 problems`
+- ***Stack***               `10 problems`
+- ***Queue and Dequeue***   `25 problems`
 
 ### LeetCode - Array I `35 problems`
 

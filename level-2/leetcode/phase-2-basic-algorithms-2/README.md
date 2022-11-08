@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms 2 `200 problems` `120 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms 2 `190 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Binary Search***         `30 problems`
-- ***Greedy I***             `40 problems`
-- ***Greedy II***             `40 problems`
+- ***Binary Search***          `30 problems`
+- ***Greedy I***               `40 problems`
+- ***Greedy II***              `40 problems`
 - ***Greedy III***             `40 problems`
-- ***Bit Manipulation I***     `25 problems`
-- ***Bit Manipulation II*** `25 problems`
+- ***Bit Manipulation I***     `20 problems`
+- ***Bit Manipulation II***    `20 problems`
 
 ### LeetCode - Binary Search `30 problems`
 
@@ -331,7 +331,7 @@
     </tbody>
 </table>
 
-### LeetCode - Bit Manipulation I `25 problems`
+### LeetCode - Bit Manipulation I `20 problems`
 
 <table>
     <tbody>
@@ -390,7 +390,7 @@
     </tbody>
 </table>
 
-### LeetCode - Bit Manipulation II `25 problems`
+### LeetCode - Bit Manipulation II `20 problems`
 
 <table>
     <tbody>

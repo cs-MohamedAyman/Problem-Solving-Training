@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures 1 `170 problems` `100 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures 1 `170 problems` `120 hrs`
 
 ### Table of Content
 
 - ***Recursion***         `30 problems`
-- ***Binary Tree***     `30 problems`
+- ***Binary Tree***       `30 problems`
 - ***Heap Tree***         `30 problems`
-- ***Hash Table I***     `30 problems`
+- ***Hash Table I***      `30 problems`
 - ***Hash Table II***     `30 problems`
-- ***Hash Table III***     `20 problems`
+- ***Hash Table III***    `20 problems`
 
 ### LeetCode - Recursion `30 problems`
 

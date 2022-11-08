@@ -309,7 +309,7 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-1">linear-data-structures-1</a></th>
-<th align="center" width="150px">195 problems</th>
+<th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-2">linear-data-structures-2</a></th>
 <th align="center" width="150px">220 problems</th>
@@ -327,7 +327,7 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
             <td>Array IV         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Stack I          </td><td align="center">25 problems</td><td>solutions</td>
             <td>Linked List      </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Stack II         </td><td align="center">20 problems</td><td>solutions</td>
+        <tr><td>Stack II         </td><td align="center">25 problems</td><td>solutions</td>
             <td>Stack            </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Queue and Dequeue</td><td align="center">20 problems</td><td>solutions</td>
             <td>Queue and Dequeue</td><td align="center">25 problems</td><td>solutions</td></tr>
@@ -362,7 +362,7 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
 <th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-basic-algorithms-2">basic-algorithms-2</a></td>
-<th align="center" width="150px">200 problems</th>
+<th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -376,9 +376,9 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
         <tr><td>Sorting I          </td><td align="center">40 problems</td><td>solutions</td>
             <td>Greedy III         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Sorting II         </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Bit Manipulation I </td><td align="center">25 problems</td><td>solutions</td></tr>
+            <td>Bit Manipulation I </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Greedy             </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Bit Manipulation II</td><td align="center">25 problems</td><td>solutions</td></tr>
+            <td>Bit Manipulation II</td><td align="center">20 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
