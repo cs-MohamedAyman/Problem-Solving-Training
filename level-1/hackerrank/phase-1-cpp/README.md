@@ -1,17 +1,15 @@
 <img align="right" width="80" src="/logos/hackerrank.jpg">
 
-## [HackerRank](https://www.hackerrank.com/) OJ - C/C++ Programming Language `70 problems` `80 hrs`
+## [HackerRank](https://www.hackerrank.com/) OJ - C++ Programming Language `70 problems` `40 hrs`
 
 ### Table of Content
 
-- ***Introduction***                 `15 problems`
-- ***Conditionals and Loops***       `5 problems`
+- ***Introduction***                 `20 problems`
 - ***Arrays and Strings***           `10 problems`
-- ***Functions***                    `5 problems`
-- ***Standard Template Libraries***  `5 problems`
+- ***Functions and Libraries***      `10 problems`
 - ***Structs and Classes***          `30 problems`
 
-### HackerRank - Introduction `15 problems`
+### HackerRank - Introduction `20 problems`
 
 <table>
     <tbody>
@@ -43,24 +41,17 @@
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/arrays-introduction/problem">arrays introduction</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/variable-sized-arrays/problem">variable sized arrays</a></th>
         </tr>
-    </tbody>
-</table>
-
-### HackerRank - Conditionals and Loops `5 problems`
-
-<table>
-    <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem">conditional statements in c</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/for-loop-in-c/problem">for loop in c</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem">conditional statements in c</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/for-loop-in-c/problem">for loop in c</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem">sum of digits of a five digit number</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem">bitwise operators in c</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem">sum of digits of a five digit number</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem">bitwise operators in c</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/printing-pattern-2/problem">printing pattern 2</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/printing-pattern-2/problem">printing pattern 2</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -88,7 +79,7 @@
     </tbody>
 </table>
 
-### HackerRank - Functions `5 problems`
+### HackerRank - Functions and Libraries `10 problems`
 
 <table>
     <tbody>
@@ -104,28 +95,21 @@
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sorting-array-of-strings/problem">sorting array of strings</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/querying-the-document/problem">querying the document</a></th>
         </tr>
-    </tbody>
-</table>
-
-### HackerRank - Standard Template Libraries `5 problems`
-
-<table>
-    <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/vector-sort/problem">vector sort</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/vector-erase/problem">vector erase</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/vector-sort/problem">vector sort</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/vector-erase/problem">vector erase</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/cpp-lower-bound/problem">cpp lower bound</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/cpp-sets/problem">cpp sets</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/cpp-lower-bound/problem">cpp lower bound</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/cpp-sets/problem">cpp sets</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/cpp-maps/problem">cpp maps</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/prettyprint/problem">prettyprint</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/cpp-maps/problem">cpp maps</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/prettyprint/problem">prettyprint</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/deque-stl/problem">deque stl</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/deque-stl/problem">deque stl</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

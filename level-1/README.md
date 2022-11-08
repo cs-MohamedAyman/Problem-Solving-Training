@@ -139,21 +139,17 @@ The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp), [phase
 <th align="center" width="150px">70 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/hackerrank/phase-1-python">python</a></th>
-<th align="center" width="150px">100 problems</th>
+<th align="center" width="150px">95 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Introduction               </td><td align="center">15 problems</td><td>solutions</td>
-            <td>Introduction               </td><td align="center"> 5 problems</td><td>solutions</td></tr>
-        <tr><td>Conditionals and Loops     </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Basic Data Types           </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Introduction               </td><td align="center">20 problems</td><td>solutions</td>
+            <td>Introduction               </td><td align="center">25 problems</td><td>solutions</td></tr>
         <tr><td>Arrays and Strings         </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Collections                </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Functions                  </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Functions                  </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Standard Template Libraries</td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Standard Libraries         </td><td align="center">25 problems</td><td>solutions</td></tr>
+            <td>Collections                </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Functions and Libraries    </td><td align="center">10 problems</td><td>solutions</td>
+            <td>Functions and Libraries    </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>Structs and Classes        </td><td align="center">30 problems</td><td>solutions</td>
             <td>Classes                    </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
