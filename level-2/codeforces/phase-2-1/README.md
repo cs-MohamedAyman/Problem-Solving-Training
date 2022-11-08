@@ -1,16 +1,16 @@
 <img align="right" width="80" src="/logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 2.1 `120 problems` `100 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 2.1 `120 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Data Structure*** `10 problems`
-- ***String***         `40 problems`
-- ***Mathematics***    `25 problems`
+- ***Data Structure*** `20 problems`
+- ***String***         `25 problems`
+- ***Mathematics***    `35 problems`
 - ***Greedy***         `30 problems`
-- ***Brute Force***    `15 problems`
+- ***Brute Force***    `10 problems`
 
-### Codeforces - Data Structure `10 problems`
+### Codeforces - Data Structure `20 problems`
 
 <table>
     <tbody>
@@ -34,10 +34,34 @@
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/686/B">Round 359 B</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/950/B">Round 469 B</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/505/B">Round 286 B</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/525/B">Round 297 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/550/B">Round 306 B</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/799/B">Round 413 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/816/B">Round 419 B</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/907/B">Round 454 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/79/B">Round 71 B</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/8/B">Round 8 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/60/B">Round 56 B</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/940/B">Round 466 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/140/B">Round 100 B</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/33/B">Round 33 B</a></th>
+        </tr>
     </tbody>
 </table>
 
-### Codeforces - String `40 problems`
+### Codeforces - String `25 problems`
 
 <table>
     <tbody>
@@ -89,38 +113,10 @@
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/313/B">Round 186 B</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/389/B">Round 228 B</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/405/B">Round 238 B</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/545/B">Round 303 B</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/712/B">Round 370 B</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/754/B">Round 390 B</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/758/B">Round 392 B</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/116/B">Round 87 B</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/110/B">Round 84 B</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/984/B">Round 483 B</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/988/B">Round 486 B</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/6/B">Round 6 B</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/834/B">Round 426 B</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/90/B">Round 74 B</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/43/B">Round 42 B</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/25/B">Round 25 B</a></th>
-        </tr>
     </tbody>
 </table>
 
-### Codeforces - Mathematics `25 problems`
+### Codeforces - Mathematics `35 problems`
 
 <table>
     <tbody>
@@ -174,7 +170,15 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/842/B">Round 430 B</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/450/B">Round 257 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/20/B">Round 20 B</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/21/B">Round 21 B</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/166/B">Round 113 B</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/340/B">Round 198 B</a></th>
         </tr>
     </tbody>
 </table>
@@ -250,7 +254,7 @@
     </tbody>
 </table>
 
-### Codeforces - Brute Force `15 problems`
+### Codeforces - Brute Force `10 problems`
 
 <table>
     <tbody>
@@ -280,7 +284,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/66/B">Round 61 B</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/922/B">Round 461 B</a></th>
         </tr>
     </tbody>
 </table>
