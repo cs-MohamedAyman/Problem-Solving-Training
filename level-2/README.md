@@ -29,12 +29,13 @@ Problem Solving Training for computer science students.
 
 <img width="100%" src="/level-2/level-2-cover.jpg"></img>
 
-## [`Level 2`](/level-2/README.md)
+## `Level 2`
 
 This level simply consists of 24 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
-## `Prerequisite Knowledge`
-The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***. Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
+The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***. 
+Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 
 ## [`Level Timeline`](/level-2/Timeline.md)
 
@@ -44,7 +45,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 <img align="right" width="80" src="/logos/uri.jpg">
 <br>
 
-## [`URI OJ sheets`](/level-2/README.md)
+## `URI OJ sheets`
 
 The URI OJ sheets: 
 [phase-2-1](/level-2/uri/phase-2-1), 
@@ -137,7 +138,7 @@ each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematic
 <img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
-## [`HackerRank OJ sheets`](/level-2/README.md)
+## `HackerRank OJ sheets`
 
 The HackerRank OJ sheets: 
 [data-structures](/level-2/hackerrank/data-structures), 
@@ -174,7 +175,7 @@ each sheet of them contains linear and non linear data structures problems, and 
 <img align="right" width="80" src="/logos/atcoder.jpg">
 <br>
 
-## [`AtCoder OJ sheets`](/level-2/README.md)
+## `AtCoder OJ sheets`
 
 The AtCoder OJ sheets: 
 [phase-2-1](/level-2/atcoder/phase-2-1), 
@@ -211,7 +212,7 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
 <img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
-## [`Codeforces OJ sheets`](/level-2/README.md)
+## `Codeforces OJ sheets`
 
 The Codeforces OJ sheets: 
 [phase-2-1](/level-2/codeforces/phase-2-1), 
@@ -323,7 +324,7 @@ For the last 4 sheets:
 <img align="right" width="80" src="/logos/leetcode.jpg">
 <br>
 
-## [`LeetCode OJ sheets`](/level-2/README.md)
+## `LeetCode OJ sheets`
 
 The LeetCode OJ sheets: 
 [linear-data-structures-1](/level-2/leetcode/linear-data-structures-1), 
@@ -414,7 +415,7 @@ each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tre
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
-## [`HackerEarth OJ sheets`](/level-2/README.md)
+## `HackerEarth OJ sheets`
 
 The HackerEarth OJ sheets: 
 [linear-data-structures](/level-2/hackerearth/linear-data-structures), 
