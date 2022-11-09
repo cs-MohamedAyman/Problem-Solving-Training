@@ -27,7 +27,7 @@ Problem Solving Training for computer science students.
 
 <img width="100%" src="/level-1/level-1-cover.jpg"></img>
 
-## [`Level 1`](/level-1/README.md)
+## `Level 1`
 
 This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
@@ -43,7 +43,7 @@ Related Training: [Programming Languages and Object Oriented Training](https://g
 <img align="right" width="80" src="/logos/uri.jpg">
 <br>
 
-## [`URI OJ sheets`](/level-1/README.md)
+## `URI OJ sheets`
 
 The URI OJ sheets: 
 [phase-1-1](/level-1/uri/phase-1-1), 
@@ -136,7 +136,7 @@ each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures -
 <img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
-## [`HackerRank OJ sheets`](/level-1/README.md)
+## `HackerRank OJ sheets`
 
 The HackerRank OJ sheets: 
 [cpp](/level-1/hackerrank/cpp), 
@@ -169,7 +169,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
 <img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
-## [`Codeforces OJ sheets`](/level-1/README.md)
+## `Codeforces OJ sheets`
 
 The Codeforces OJ sheets: 
 [phase-1-1](/level-1/codeforces/phase-1-1), 
@@ -228,7 +228,7 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
-## [`HackerEarth OJ sheets`](/level-1/README.md)
+## `HackerEarth OJ sheets`
 
 The HackerEarth OJ sheets: 
 [phase-1-1](/level-1/hackerearth/phase-1-1), 
