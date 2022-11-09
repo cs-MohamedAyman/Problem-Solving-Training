@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/atcoder.jpg">
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 3.3 Grand Contests `55 contests` `60 hrs`
+## [AtCoder](https://atcoder.jp/) OJ - Phase 3.3 Grand Contests `55 contests` `40 hrs`
 
 ### Table of Content
 
