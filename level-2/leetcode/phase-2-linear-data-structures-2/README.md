@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures 2 `220 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures 2 `210 problems` `160 hrs`
 
 ### Table of Content
 
@@ -8,7 +8,7 @@
 - ***Array II***            `40 problems`
 - ***Array III***           `40 problems`
 - ***Array IV***            `40 problems`
-- ***Linked List***         `30 problems`
+- ***Linked List***         `20 problems`
 - ***Stack***               `10 problems`
 - ***Queue and Dequeue***   `25 problems`
 
@@ -349,73 +349,53 @@
     </tbody>
 </table>
 
-### LeetCode - Linked List `30 problems`
+### LeetCode - Linked List `20 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">merge in between linked lists</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">remove duplicates from an unsorted linked list</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">swap nodes in pairs</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-linked-list-in-parts/">split linked list in parts</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/">swapping nodes in a linked list</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/">convert binary search tree to sorted doubly linked list</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/">add two polynomials represented as linked lists</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/">convert sorted list to binary search tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/plus-one-linked-list/">plus one linked list</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">next greater node in linked list</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-phone-directory/">design phone directory</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-list/">sort list</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-components/">linked list components</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/odd-even-linked-list/">odd even linked list</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/partition-list/">partition list</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insertion-sort-list/">insertion sort list</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/">flatten a multilevel doubly linked list</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-numbers-ii/">add two numbers ii</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">copy list with random pointer</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reorder-list/">reorder list</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">swap nodes in pairs</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-linked-list-in-parts/">split linked list in parts</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">remove zero sum consecutive nodes from linked list</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-linked-list-ii/">reverse linked list ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/">add two polynomials represented as linked lists</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/">convert sorted list to binary search tree</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-in-binary-tree/">linked list in binary tree</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-cycle-ii/">linked list cycle ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-phone-directory/">design phone directory</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-list/">sort list</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">remove duplicates from sorted list ii</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">remove nth node from end of list</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/partition-list/">partition list</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insertion-sort-list/">insertion sort list</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-numbers/">add two numbers</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/">insert into a sorted circular linked list</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">copy list with random pointer</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reorder-list/">reorder list</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotate-list/">rotate list</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-linked-list/">design linked list</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">remove zero sum consecutive nodes from linked list</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-linked-list-ii/">reverse linked list ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-in-binary-tree/">linked list in binary tree</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-cycle-ii/">linked list cycle ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">remove duplicates from sorted list ii</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">remove nth node from end of list</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-numbers/">add two numbers</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/">insert into a sorted circular linked list</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotate-list/">rotate list</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-linked-list/">design linked list</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">reverse nodes in k group</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">reverse nodes in k group</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

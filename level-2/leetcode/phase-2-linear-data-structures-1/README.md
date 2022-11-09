@@ -1,13 +1,13 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures 1 `200 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures 1 `210 problems` `160 hrs`
 
 ### Table of Content
 
 - ***Array I***             `40 problems`
 - ***Array II***            `40 problems`
 - ***Array III***           `40 problems`
-- ***Linked List***         `10 problems`
+- ***Linked List***         `20 problems`
 - ***Stack I***             `25 problems`
 - ***Stack II***            `25 problems`
 - ***Queue and Dequeue***   `20 problems`
@@ -281,7 +281,7 @@
     </tbody>
 </table>
 
-### LeetCode - Linked List `10 problems`
+### LeetCode - Linked List `20 problems`
 
 <table>
     <tbody>
@@ -308,6 +308,26 @@
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-linked-list-elements/">remove linked list elements</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">merge in between linked lists</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">remove duplicates from an unsorted linked list</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/">swapping nodes in a linked list</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/">convert binary search tree to sorted doubly linked list</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/plus-one-linked-list/">plus one linked list</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">next greater node in linked list</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-components/">linked list components</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/odd-even-linked-list/">odd even linked list</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/">flatten a multilevel doubly linked list</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-numbers-ii/">add two numbers ii</a></th>
         </tr>
     </tbody>
 </table>

@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.jpg">
 
-## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures 2 `180 problems` `120 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures 2 `170 problems` `120 hrs`
 
 ### Table of Content
 
@@ -8,8 +8,8 @@
 - ***Binary Tree II***     `30 problems`
 - ***Binary Tree III***    `30 problems`
 - ***Heap Tree***          `30 problems`
-- ***Hash Table I***       `30 problems`
-- ***Hash Table II***      `30 problems`
+- ***Hash Table I***       `25 problems`
+- ***Hash Table II***      `25 problems`
 
 ### LeetCode - Binary Tree I `30 problems`
 

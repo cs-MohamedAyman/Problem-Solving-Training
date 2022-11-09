@@ -8,8 +8,8 @@
 - ***Binary Tree***       `30 problems`
 - ***Heap Tree***         `30 problems`
 - ***Hash Table I***      `30 problems`
-- ***Hash Table II***     `30 problems`
-- ***Hash Table III***    `20 problems`
+- ***Hash Table II***     `25 problems`
+- ***Hash Table III***    `25 problems`
 
 ### LeetCode - Recursion `30 problems`
 
@@ -284,18 +284,10 @@
 <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/employee-importance/">employee importance</a></th>
 <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-anagram/">valid anagram</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-difference/">find the difference</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-completing-word/">shortest completing word</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/contains-duplicate/">contains duplicate</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Hash Table II `30 problems`
+### LeetCode - Hash Table II `25 problems`
 
 <table>
     <tbody>
@@ -351,18 +343,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-substrings-that-differ-by-one-character/">count substrings that differ by one character</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/">display table of food orders in a restaurant</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-word-with-all-prefixes/">longest word with all prefixes</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-a-leaderboard/">design a leaderboard</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/">evaluate the bracket pairs of a string</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-features-by-popularity/">sort features by popularity</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Hash Table III `20 problems`
+### LeetCode - Hash Table III `25 problems`
 
 <table>
     <tbody>
@@ -404,7 +388,19 @@
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-boomerangs/">number of boomerangs</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/contains-duplicate/">contains duplicate</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-difference/">find the difference</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-completing-word/">shortest completing word</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-word-with-all-prefixes/">longest word with all prefixes</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-a-leaderboard/">design a leaderboard</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/">evaluate the bracket pairs of a string</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-features-by-popularity/">sort features by popularity</a></th>
         </tr>
     </tbody>
 </table>

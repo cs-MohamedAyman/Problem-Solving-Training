@@ -1,16 +1,16 @@
 <img align="right" width="80" src="/logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Gym Contests 1 `115 contests` `200 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Gym Contests 1 `110 contests` `200 hrs`
 
 ### Table of Content
 
-- ***Codeforces GYM Contests 2***     `15 contests`
+- ***Codeforces GYM Contests 2***     `10 contests`
 - ***Codeforces GYM Contests 3 I***   `25 contests`
 - ***Codeforces GYM Contests 3 II***  `25 contests`
 - ***Codeforces GYM Contests 3 III*** `25 contests`
 - ***Codeforces GYM Contests 3 IV***  `25 contests`
 
-### Codeforces - GYM Contests 2 `15 contests`
+### Codeforces - GYM Contests 2 `10 contests`
 
 - Asu Coding Cup 4: https://codeforces.com/gym/102397
 - II Simulado Ingressantes: https://codeforces.com/gym/101744

@@ -146,18 +146,18 @@ The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays & Linked Lists     </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Warm-up & Recursion       </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Stacks & Queues           </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Sorting                   </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Trees & Balanced Trees    </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Search                    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Heap & Disjoint Set       </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Implementation I          </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Advanced I                </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Implementation II         </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Advanced II               </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Implementation III        </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Arrays & Linked Lists              </td><td align="center">20 problems</td><td>solutions</td>
+            <td>Warm-up & Recursion                </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Stacks & Queues                    </td><td align="center">10 problems</td><td>solutions</td>
+            <td>Sorting                            </td><td align="center">15 problems</td><td>solutions</td></tr>
+        <tr><td>Binary Tree & Balanced Binary Tree </td><td align="center">20 problems</td><td>solutions</td>
+            <td>Search                             </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Heap & Disjoint Set                </td><td align="center">10 problems</td><td>solutions</td>
+            <td>Implementation I                   </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Advanced I                         </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Implementation II                  </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Advanced II                        </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Implementation III                 </td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -255,7 +255,7 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-div3-div4-contests">phase-2-div3-div4-contests</a></th>
-<th align="center" width="150px">100 contests</th>
+<th align="center" width="150px">125 contests</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-educational-contests">phase-2-educational-contests</a></th>
 <th align="center" width="150px">125 contests</th>
@@ -263,21 +263,21 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I       </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td><td>solutions</td>
             <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests II      </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td><td>solutions</td>
             <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests III     </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
             <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests IV      </td><td align="center">25 Contests</td><td>solutions</td>
             <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div4 Contests         </td><td align="center">20 Contests</td><td>solutions</td>
+        <tr><td>Div4 Contests         </td><td align="center">25 Contests</td><td>solutions</td>
             <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-gym-contests-1">phase-2-gym-contests-1</a></th>
-<th align="center" width="150px">115 contests</th>
+<th align="center" width="150px">110 contests</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/phase-2-gym-contests-2">phase-2-gym-contests-2</a></th>
 <th align="center" width="150px">110 contests</th>
@@ -309,10 +309,10 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-1">linear-data-structures-1</a></th>
-<th align="center" width="150px">200 problems</th>
+<th align="center" width="150px">210 problems</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/leetcode/phase-2-linear-data-structures-2">linear-data-structures-2</a></th>
-<th align="center" width="150px">220 problems</th>
+<th align="center" width="150px">210 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -323,10 +323,10 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
             <td>Array II         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Array III        </td><td align="center">40 problems</td><td>solutions</td>
             <td>Array III        </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Linked List      </td><td align="center">10 problems</td><td>solutions</td>
+        <tr><td>Linked List      </td><td align="center">20 problems</td><td>solutions</td>
             <td>Array IV         </td><td align="center">40 problems</td><td>solutions</td></tr>
         <tr><td>Stack I          </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Linked List      </td><td align="center">30 problems</td><td>solutions</td></tr>
+            <td>Linked List      </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Stack II         </td><td align="center">25 problems</td><td>solutions</td>
             <td>Stack            </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Queue and Dequeue</td><td align="center">20 problems</td><td>solutions</td>
@@ -338,7 +338,7 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
 <th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-2/leetcode/phase-2-nonlinear-data-structures-2">nonlinear-data-structures-2</a></td>
-<th align="center" width="150px">180 problems</th>
+<th align="center" width="150px">170 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -351,10 +351,10 @@ The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/pha
             <td>Binary Tree III</td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>Hash Table I   </td><td align="center">30 problems</td><td>solutions</td>
             <td>Heap Tree      </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Hash Table II  </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Hash Table I   </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Hash Table III </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Hash Table II  </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Hash Table II  </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Hash Table I   </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Hash Table III </td><td align="center">25 problems</td><td>solutions</td>
+            <td>Hash Table II  </td><td align="center">25 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
