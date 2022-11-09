@@ -342,7 +342,8 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
 The HackerEarth OJ sheets: 
 [mathematics-strings-1](/level-3/hackerearth/mathematics-strings-1), 
 [mathematics-strings-2](/level-3/hackerearth/mathematics-strings-2), 
-[graph-1](/level-3/hackerearth/graph-1), [graph-2](/level-3/hackerearth/graph-2), 
+[graph-1](/level-3/hackerearth/graph-1), 
+[graph-2](/level-3/hackerearth/graph-2), 
 [dynamic-programming-1](/level-3/hackerearth/dynamic-programming-1), 
 [dynamic-programming-2](/level-3/hackerearth/dynamic-programming-2), 
 [advanced-data-structures-1](/level-3/hackerearth/advanced-data-structures-1), 

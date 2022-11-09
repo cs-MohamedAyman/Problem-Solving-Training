@@ -44,7 +44,14 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [`URI OJ sheets`](/level-1/README.md)
 
-The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri/phase-1-2), [phase-1-3](/level-1/uri/phase-1-3), [phase-1-4](/level-1/uri/phase-1-4), [phase-1-5](/level-1/uri/phase-1-5), [phase-1-6](/level-1/uri/phase-1-6), each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~170 problems.
+The URI OJ sheets: 
+[phase-1-1](/level-1/uri/phase-1-1), 
+[phase-1-2](/level-1/uri/phase-1-2), 
+[phase-1-3](/level-1/uri/phase-1-3), 
+[phase-1-4](/level-1/uri/phase-1-4), 
+[phase-1-5](/level-1/uri/phase-1-5), 
+[phase-1-6](/level-1/uri/phase-1-6), 
+each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~170 problems.
 
 <table>
     <thead>
@@ -130,15 +137,18 @@ The URI OJ sheets: [phase-1-1](/level-1/uri/phase-1-1), [phase-1-2](/level-1/uri
 
 ## [`HackerRank OJ sheets`](/level-1/README.md)
 
-The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp), [phase-1-python](/level-1/hackerrank/phase-1-python), each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~80 problems.
+The HackerRank OJ sheets: 
+[cpp](/level-1/hackerrank/cpp), 
+[python](/level-1/hackerrank/python), 
+each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~80 problems.
 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-1/hackerrank/phase-1-cpp">cpp</a></th>
+<th align="center" width="400px"><a href="/level-1/hackerrank/cpp">cpp</a></th>
 <th align="center" width="150px">70 problems</th>
 <th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-1/hackerrank/phase-1-python">python</a></th>
+<th align="center" width="400px"><a href="/level-1/hackerrank/python">python</a></th>
 <th align="center" width="150px">95 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -160,7 +170,12 @@ The HackerRank OJ sheets: [phase-1-cpp](/level-1/hackerrank/phase-1-cpp), [phase
 
 ## [`Codeforces OJ sheets`](/level-1/README.md)
 
-The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2](/level-1/codeforces/phase-1-2), [phase-1-3](/level-1/codeforces/phase-1-3), [phase-1-4](/level-1/codeforces/phase-1-4), each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
+The Codeforces OJ sheets: 
+[phase-1-1](/level-1/codeforces/phase-1-1), 
+[phase-1-2](/level-1/codeforces/phase-1-2), 
+[phase-1-3](/level-1/codeforces/phase-1-3), 
+[phase-1-4](/level-1/codeforces/phase-1-4), 
+each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <table>
     <thead>
@@ -214,7 +229,12 @@ The Codeforces OJ sheets: [phase-1-1](/level-1/codeforces/phase-1-1), [phase-1-2
 
 ## [`HackerEarth OJ sheets`](/level-1/README.md)
 
-The HackerEarth OJ sheets: [phase-1-1](/level-1/hackerearth/phase-1-1), [phase-1-2](/level-1/hackerearth/phase-1-2), [phase-1-3](/level-1/hackerearth/phase-1-3), [phase-1-4](/level-1/hackerearth/phase-1-4), each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
+The HackerEarth OJ sheets: 
+[phase-1-1](/level-1/hackerearth/phase-1-1), 
+[phase-1-2](/level-1/hackerearth/phase-1-2), 
+[phase-1-3](/level-1/hackerearth/phase-1-3), 
+[phase-1-4](/level-1/hackerearth/phase-1-4), 
+each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
 <table>
     <thead>
