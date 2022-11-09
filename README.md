@@ -116,21 +116,34 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 ## [`URI OJ sheets`](/level-2/README.md)
 
-The URI OJ sheets: [phase-2-1](/level-1/uri/phase-2-1), [phase-2-2](/level-1/uri/phase-2-2), [phase-2-3](/level-1/uri/phase-2-3), [phase-2-4](/level-1/uri/phase-2-4), [phase-2-5](/level-1/uri/phase-2-5), [phase-2-6](/level-1/uri/phase-2-6), each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematics Graph Paradigms Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~150 problems.
+The URI OJ sheets: 
+[phase-2-1](/level-1/uri/phase-2-1), 
+[phase-2-2](/level-1/uri/phase-2-2), 
+[phase-2-3](/level-1/uri/phase-2-3), 
+[phase-2-4](/level-1/uri/phase-2-4), 
+[phase-2-5](/level-1/uri/phase-2-5), 
+[phase-2-6](/level-1/uri/phase-2-6), 
+each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematics Graph Paradigms Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~150 problems.
 
 <img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
 ## [`HackerRank OJ sheets`](/level-2/README.md)
 
-The HackerRank OJ sheets: [phase-2-data-structures](/level-2/hackerrank/phase-2-data-structures), [phase-2-algorithms-basics](/level-2/hackerrank/phase-2-algorithms-basics), each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+The HackerRank OJ sheets: 
+[data-structures](/level-2/hackerrank/data-structures), 
+[algorithms-basics](/level-2/hackerrank/algorithms-basics), 
+each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
 <img align="right" width="80" src="/logos/atcoder.jpg">
 <br>
 
 ## [`AtCoder OJ sheets`](/level-2/README.md)
 
-The AtCoder OJ sheets: [phase-2-1](/level-2/atcoder/phase-2-1), [phase-2-2](/level-2/atcoder/phase-2-2), These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
+The AtCoder OJ sheets: 
+[phase-2-1](/level-2/atcoder/phase-2-1), 
+[phase-2-2](/level-2/atcoder/phase-2-2), 
+These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
 
 <img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
@@ -138,8 +151,18 @@ The AtCoder OJ sheets: [phase-2-1](/level-2/atcoder/phase-2-1), [phase-2-2](/lev
 ## [`Codeforces OJ sheets`](/level-2/README.md)
 
 The Codeforces OJ sheets: [phase-2-1](/level-2/codeforces/phase-2-1), [phase-2-2](/level-2/codeforces/phase-2-2), [phase-2-3](/level-2/codeforces/phase-2-3), [phase-2-4](/level-2/codeforces/phase-2-4), each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+The Codeforces OJ sheets: 
+[phase-2-1](/level-2/codeforces/phase-2-1), 
+[phase-2-2](/level-2/codeforces/phase-2-2), 
+[phase-2-3](/level-2/codeforces/phase-2-3), 
+[phase-2-4](/level-2/codeforces/phase-2-4), 
+each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~100 contests, and [phase-2-educational-contests](/level-2/codeforces/phase-2-educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally [phase-2-gym-contests-1](/level-2/codeforces/phase-2-gym-contests-1), [phase-2-gym-contests-2](/level-2/codeforces/phase-2-gym-contests-2) that focus on gym-contests that contains ~120 contests.
+For the last 4 sheets: 
+[div3-div4-contests](/level-2/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~100 contests, and 
+[educational-contests](/level-2/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally 
+[gym-contests-1](/level-2/codeforces/gym-contests-1), 
+[gym-contests-2](/level-2/codeforces/gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
 <img align="right" width="80" src="/logos/leetcode.jpg">
 <br>
@@ -147,13 +170,26 @@ For the last 4 sheets [phase-2-div3-div4-contests](/level-2/codeforces/phase-2-d
 ## [`LeetCode OJ sheets`](/level-2/README.md)
 
 The LeetCode OJ sheets: [phase-2-linear-data-structures-1](/level-2/leetcode/phase-2-linear-data-structures-1), [phase-2-linear-data-structures-2](/level-2/leetcode/phase-2-linear-data-structures-2), [phase-2-non-linear-data-structures-1](/level-2/leetcode/phase-2-non-linear-data-structures-1), [phase-2-non-linear-data-structures-2](/level-2/leetcode/phase-2-non-linear-data-structures-2), [phase-2-basic-algorithms-1](/level-2/leetcode/phase-2-basic-algorithms-1), [phase-2-basic-algorithms-2](/level-2/leetcode/phase-2-basic-algorithms-2), each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
+The LeetCode OJ sheets: 
+[linear-data-structures-1](/level-2/leetcode/linear-data-structures-1), 
+[linear-data-structures-2](/level-2/leetcode/linear-data-structures-2), 
+[non-linear-data-structures-1](/level-2/leetcode/non-linear-data-structures-1), 
+[non-linear-data-structures-2](/level-2/leetcode/non-linear-data-structures-2), 
+[basic-algorithms-1](/level-2/leetcode/basic-algorithms-1), 
+[basic-algorithms-2](/level-2/leetcode/basic-algorithms-2), 
+each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-2/README.md)
 
-The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth/phase-2-linear-data-structures), [phase-2-non-linear-data-structures](/level-2/hackerearth/phase-2-non-linear-data-structures), [phase-2-algorithms-searching](/level-2/hackerearth/phase-2-algorithms-searching), [phase-2-algorithms-sorting](/level-2/hackerearth/phase-2-algorithms-sorting), each sheet of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
+The HackerEarth OJ sheets: 
+[linear-data-structures](/level-2/hackerearth/linear-data-structures), 
+[non-linear-data-structures](/level-2/hackerearth/non-linear-data-structures), 
+[algorithms-searching](/level-2/hackerearth/algorithms-searching), 
+[algorithms-sorting](/level-2/hackerearth/algorithms-sorting), 
+each sheet of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
 <br>
 
