@@ -405,7 +405,7 @@ The HackerEarth OJ sheets: [phase-2-linear-data-structures](/level-2/hackerearth
             <td>Binary Tree             </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Arrays 1D II            </td><td align="center">25 problems</td><td>solutions</td>
             <td>Binary Search Tree      </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Arrays Multi-dimensional</td><td align="center">40 problems</td><td>solutions</td>
+        <tr><td>Arrays Multi-dimensional</td><td align="center">35 problems</td><td>solutions</td>
             <td>Heaps / Priority Queues </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Stacks                  </td><td align="center">25 problems</td><td>solutions</td>
             <td>Hash Tables I           </td><td align="center">25 problems</td><td>solutions</td></tr>
