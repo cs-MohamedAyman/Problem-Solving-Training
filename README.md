@@ -179,7 +179,7 @@ The AtCoder OJ sheets:
 [regular-contests-1](/level-3/atcoder/regular-contests-1), 
 [regular-contests-2](/level-3/atcoder/regular-contests-2), 
 [grand-contests-1](/level-3/atcoder/grand-contests-1), 
-[grand-contests-2](/level-4/atcoder/grand-contests-2), 
+[grand-contests-2](/level-3/atcoder/grand-contests-2), 
 These sheets contain (Regular + Grand) contests (medium contests) and each sheet contains ~60 problems.
 
 <img align="right" width="80" src="/logos/codeforces.jpg">
