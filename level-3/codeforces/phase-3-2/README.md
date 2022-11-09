@@ -1,13 +1,13 @@
 <img align="right" width="80" src="/logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 3.2 `120 problems` `80 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Phase 3.2 `125 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Divide and Conquer***      `10 problems`
-- ***Graph***                    `15 problems`
-- ***String***                     `15 problems`
-- ***Data Structure***             `20 problems`
+- ***Graph***                   `15 problems`
+- ***String***                  `15 problems`
+- ***Data Structure***          `20 problems`
 - ***Math and Number Theory***  `30 problems`
 - ***Greedy and Brute Force***  `25 problems`
 - ***Dynamic Programming***     `10 problems`

@@ -153,10 +153,10 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-1">phase-3-1</a></td>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-2">phase-3-2</a></td>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -179,7 +179,7 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     <thead>
         <tr>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-3">phase-3-3</a></td>
-<th align="center" width="150px">120 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-4">phase-3-4</a></td>
 <th align="center" width="150px">125 problems</th>
@@ -188,7 +188,7 @@ For the last 4 sheets [phase-3-gym-contests-1](/level-3/codeforces/phase-3-gym-c
     </thead>
     <tbody>
         <tr><td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Divide and Conquer    </td><td align="center">15 problems</td><td>solutions</td></tr>
+            <td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Graph                 </td><td align="center">15 problems</td><td>solutions</td>
             <td>Graph                 </td><td align="center">15 problems</td><td>solutions</td></tr>
         <tr><td>String                </td><td align="center">15 problems</td><td>solutions</td>

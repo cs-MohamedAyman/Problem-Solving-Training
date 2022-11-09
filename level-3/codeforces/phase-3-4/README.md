@@ -4,7 +4,7 @@
 
 ### Table of Content
 
-- ***Divide and Conquer***      `15 problems`
+- ***Divide and Conquer***      `10 problems`
 - ***Graph***                   `15 problems`
 - ***String***                  `15 problems`
 - ***Data Structure***          `20 problems`
