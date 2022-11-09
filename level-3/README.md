@@ -261,7 +261,7 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search">breadth-first-search-depth-first-search</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search">(breadth/depth)-first-search</a></td>
 <th align="center" width="150px">160 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-graph-advanced-data-structures">graph-advanced-data-structures</a></td>
