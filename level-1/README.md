@@ -32,7 +32,7 @@ Problem Solving Training for computer science students.
 This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
-The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***. 
+The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 
 ## [`Level Timeline`](/level-1/Timeline.md)
@@ -45,13 +45,13 @@ Related Training: [Programming Languages and Object Oriented Training](https://g
 
 ## `URI OJ sheets`
 
-The URI OJ sheets: 
-[phase-1-1](/level-1/uri/phase-1-1), 
-[phase-1-2](/level-1/uri/phase-1-2), 
-[phase-1-3](/level-1/uri/phase-1-3), 
-[phase-1-4](/level-1/uri/phase-1-4), 
-[phase-1-5](/level-1/uri/phase-1-5), 
-[phase-1-6](/level-1/uri/phase-1-6), 
+The URI OJ sheets:
+[phase-1-1](/level-1/uri/phase-1-1),
+[phase-1-2](/level-1/uri/phase-1-2),
+[phase-1-3](/level-1/uri/phase-1-3),
+[phase-1-4](/level-1/uri/phase-1-4),
+[phase-1-5](/level-1/uri/phase-1-5),
+[phase-1-6](/level-1/uri/phase-1-6),
 each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~170 problems.
 
 <table>
@@ -138,9 +138,9 @@ each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures -
 
 ## `HackerRank OJ sheets`
 
-The HackerRank OJ sheets: 
-[cpp](/level-1/hackerrank/cpp), 
-[python](/level-1/hackerrank/python), 
+The HackerRank OJ sheets:
+[cpp](/level-1/hackerrank/cpp),
+[python](/level-1/hackerrank/python),
 each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~80 problems.
 
 <table>
@@ -171,11 +171,11 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
 
 ## `Codeforces OJ sheets`
 
-The Codeforces OJ sheets: 
-[phase-1-1](/level-1/codeforces/phase-1-1), 
-[phase-1-2](/level-1/codeforces/phase-1-2), 
-[phase-1-3](/level-1/codeforces/phase-1-3), 
-[phase-1-4](/level-1/codeforces/phase-1-4), 
+The Codeforces OJ sheets:
+[phase-1-1](/level-1/codeforces/phase-1-1),
+[phase-1-2](/level-1/codeforces/phase-1-2),
+[phase-1-3](/level-1/codeforces/phase-1-3),
+[phase-1-4](/level-1/codeforces/phase-1-4),
 each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <table>
@@ -230,11 +230,11 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
 
 ## `HackerEarth OJ sheets`
 
-The HackerEarth OJ sheets: 
-[phase-1-1](/level-1/hackerearth/phase-1-1), 
-[phase-1-2](/level-1/hackerearth/phase-1-2), 
-[phase-1-3](/level-1/hackerearth/phase-1-3), 
-[phase-1-4](/level-1/hackerearth/phase-1-4), 
+The HackerEarth OJ sheets:
+[phase-1-1](/level-1/hackerearth/phase-1-1),
+[phase-1-2](/level-1/hackerearth/phase-1-2),
+[phase-1-3](/level-1/hackerearth/phase-1-3),
+[phase-1-4](/level-1/hackerearth/phase-1-4),
 each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
 <table>

@@ -262,7 +262,7 @@
         <tr>
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/509/B">Round 289 B</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/570/B">Round 316 B</a></th>
-        </tr>    
+        </tr>
     </tbody>
 </table>
 
