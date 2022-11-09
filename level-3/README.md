@@ -261,10 +261,10 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search">phase-3-breadth-first-search-depth-first-search</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-breadth-first-search-depth-first-search">breadth-first-search-depth-first-search</a></td>
 <th align="center" width="150px">160 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-graph-advanced-data-structures">phase-3-graph-advanced-data-structures</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-graph-advanced-data-structures">graph-advanced-data-structures</a></td>
 <th align="center" width="150px">190 problems</th>
 <th align="center" width="50px"></th>
         </tr>
@@ -285,10 +285,10 @@ The LeetCode OJ sheets: [phase-3-breadth-first-search-depth-first-search](/level
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-mathematics-strings">phase-3-mathematics-strings</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-mathematics-strings">mathematics-strings</a></td>
 <th align="center" width="150px">210 problems</th>
 <th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-dynamic-programming">phase-3-dynamic-programming</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/phase-3-dynamic-programming">dynamic-programming</a></td>
 <th align="center" width="150px">200 problems</th>
 <th align="center" width="50px"></th>
         </tr>
