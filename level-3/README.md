@@ -348,16 +348,16 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Representation       </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Depth First Search         </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search       </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Shortest Path I            </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search I       </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Shortest Path II           </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search II      </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Spanning Tree              </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search III     </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Minimum Cost & Maximum Flow</td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Graph Representation   </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Depth First Search     </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search   </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Shortest Path I        </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search I   </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Shortest Path II       </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search II  </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Spanning Tree          </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Depth First Search III </td><td align="center">20 problems</td><td>solutions</td>
+            <td>Min Cost & Max Flow    </td><td align="center">30 problems</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -392,13 +392,13 @@ The HackerEarth OJ sheets: [phase-3-mathematics-strings-1](/level-3/hackerearth/
         </tr>
     </thead>
     <tbody>
-        <tr><td>Disjoint Sets  </td><td align="center">30 problems</td><td>solutions</td>
+        <tr><td>Disjoint Sets             </td><td align="center">30 problems</td><td>solutions</td>
             <td>Segment Tree              </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Trie           </td><td align="center">20 problems</td><td>solutions</td>
+        <tr><td>Trie                      </td><td align="center">20 problems</td><td>solutions</td>
             <td>Binary Indexed Tree I     </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Segment Tree I </td><td align="center">35 problems</td><td>solutions</td>
+        <tr><td>Segment Tree I            </td><td align="center">35 problems</td><td>solutions</td>
             <td>Binary Indexed Tree II    </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Segment Tree II</td><td align="center">35 problems</td><td>solutions</td>
+        <tr><td>Segment Tree II           </td><td align="center">35 problems</td><td>solutions</td>
             <td>Suffix Tree & Suffix Array</td><td align="center">20 problems</td><td>solutions</td></tr>
     </tbody>
 </table>

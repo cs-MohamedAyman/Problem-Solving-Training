@@ -4,11 +4,11 @@
 
 ### Table of Content
 
-- ***Depth First Search***                             `40 problems`
-- ***Shortest Path I***                                `25 problems`
-- ***Shortest Path II***                               `20 problems`
-- ***Minimum Spanning Tree & Biconnected Components*** `35 problems`
-- ***Minimum Cost & Maximum Flow & Min-Cut***          `30 problems`
+- ***Depth First Search***    `40 problems`
+- ***Shortest Path I***       `25 problems`
+- ***Shortest Path II***      `20 problems`
+- ***Spanning Tree***         `35 problems`
+- ***Min Cost & Max Flow***   `30 problems`
 
 ### HackerEarth - Depth First Search `40 problems`
 
@@ -203,7 +203,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Minimum Spanning Tree & Biconnected Components `40 problems`
+### HackerEarth - Spanning Tree `40 problems`
 
 <table>
     <tbody>
@@ -286,7 +286,7 @@
     </tbody>
 </table>
 
-### HackerRank - Minimum Cost & Maximum Flow & Min-Cut `30 problems`
+### HackerRank - Min Cost & Max Flow `30 problems`
 
 <table>
     <tbody>
