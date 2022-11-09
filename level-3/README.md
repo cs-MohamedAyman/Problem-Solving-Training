@@ -28,12 +28,13 @@ Problem Solving Training for computer science students.
 
 <img width="100%" src="/level-3/level-3-cover.jpg"></img>
 
-## [`Level 3`](/level-3/README.md)
+## `Level 3`
 
 This level simply consists of 24 sheets, 4 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
-## `Prerequisite Knowledge`
-The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***. Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
+The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***. 
+Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
 
 ## [`Level Timeline`](/level-3/Timeline.md)
 
@@ -43,7 +44,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 <img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
-## [`HackerRank OJ sheets`](/level-3/README.md)
+## `HackerRank OJ sheets`
 
 The HackerRank OJ sheets: 
 [mathematics-1](/level-3/hackerrank/mathematics-1), 
@@ -102,7 +103,7 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
 <img align="right" width="80" src="/logos/atcoder.jpg">
 <br>
 
-## [`AtCoder OJ sheets`](/level-3/README.md)
+## `AtCoder OJ sheets`
 
 The AtCoder OJ sheets: 
 [regular-contests-1](/level-3/atcoder/regular-contests-1), 
@@ -153,7 +154,7 @@ These sheets contain (Regular + Grand) contests (medium contests) and each sheet
 <img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
-## [`Codeforces OJ sheets`](/level-3/README.md)
+## `Codeforces OJ sheets`
 
 The Codeforces OJ sheets: 
 [phase-3-1](/level-3/codeforces/phase-3-1), 
@@ -274,7 +275,7 @@ that focus on gym-contests that contains ~125 contests.
 <img align="right" width="80" src="/logos/leetcode.jpg">
 <br>
 
-## [`LeetCode OJ sheets`](/level-3/README.md)
+## `LeetCode OJ sheets`
 
 The LeetCode OJ sheets: 
 [breadth-first-search-depth-first-search](/level-3/leetcode/breadth-first-search-depth-first-search), 
@@ -337,7 +338,7 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
 <img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
-## [`HackerEarth OJ sheets`](/level-3/README.md)
+## `HackerEarth OJ sheets`
 
 The HackerEarth OJ sheets: 
 [mathematics-strings-1](/level-3/hackerearth/mathematics-strings-1), 
