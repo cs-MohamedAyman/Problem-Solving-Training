@@ -142,15 +142,15 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102979">2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="Almost Algorithmic Contest: https://codeforces.com/gym/103261">2019-2020 Winter Petrozavodsk Camp, Day 8</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103261">2019-2020 Winter Petrozavodsk Camp, Day 8</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="XIX Open Cup Onsite: https://codeforces.com/gym/103652">2019 Summer Petrozavodsk Camp, Day 8</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="Korean Contest: https://codeforces.com/gym/102984">2020-2021 Summer Petrozavodsk Camp, Day 6</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103652">2019 Summer Petrozavodsk Camp, Day 8</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102984">2020-2021 Summer Petrozavodsk Camp, Day 6</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod): https://codeforces.com/gym/103260">2020-2021 Winter Petrozavodsk Camp, Day 5</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="300iq Contest 2 (XX Open Cup, Grand Prix of Kazan): https://codeforces.com/gym/102331">2019 Summer Petrozavodsk Camp, Day 2</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103260">2020-2021 Winter Petrozavodsk Camp, Day 5</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102331">2019 Summer Petrozavodsk Camp, Day 2</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103098">2020-2021 Winter Petrozavodsk Camp, UPC contest</a></th>
