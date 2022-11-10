@@ -158,30 +158,30 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102354">2018-2019 Summer Petrozavodsk Camp, Oleksandr Kulkov Contest 2</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100110">2012 Petr Mitrichev Contest 10</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100110">2012 10</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102576">2020 Petrozavodsk Winter Camp, Jagiellonian U Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101385">2014-2015 Summer Petrozavodsk Camp, Petr Mitrichev Contest 12</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101385">2014-2015 Summer Petrozavodsk Camp, 12</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101383">2011-2012 Summer Petrozavodsk Camp, Petr Mitrichev Contest 9</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101382">2010-2011 Winter Petrozavodsk Camp, Petr Mitrichev Contest 8</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101383">2011-2012 Summer Petrozavodsk Camp, 9</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101382">2010-2011 Winter Petrozavodsk Camp, 8</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101380">2010-2011 Summer Petrozavodsk Camp, Petr Mitrichev Contest 7</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101371">2009-2010 Winter Petrozavodsk Camp, Petr Mitrichev Contest 6</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101380">2010-2011 Summer Petrozavodsk Camp, 7</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101371">2009-2010 Winter Petrozavodsk Camp, 6</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101370">2009-2010 Summer Petrozavodsk Camp, Petr Mitrichev Contest 5</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101368">2008-2009 Winter Petrozavodsk Camp, Petr Mitrichev Contest 4</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101370">2009-2010 Summer Petrozavodsk Camp, 5</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101368">2008-2009 Winter Petrozavodsk Camp, 4</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101367">2007-2008 Summer Petrozavodsk Camp, Petr Mitrichev Contest 3</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101366">2006-2007 Winter Petrozavodsk Camp, Petr Mitrichev Contest 2</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101367">2007-2008 Summer Petrozavodsk Camp, 3</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101366">2006-2007 Winter Petrozavodsk Camp, 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101365">2006-2007 Summer Petrozavodsk Camp, Petr Mitrichev Contest 1</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101365">2006-2007 Summer Petrozavodsk Camp, 1</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101097">2011-2012 Summer Petrozavodsk Camp, Warsaw U Contest</a></th>
         </tr>
         <tr>
