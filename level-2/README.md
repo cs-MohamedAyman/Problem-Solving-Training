@@ -300,7 +300,7 @@ For the last 4 sheets:
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/gym-contests-1">gym-contests-1</a></th>
-<th align="center" width="150px">110 contests</th>
+<th align="center" width="150px">120 contests</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/gym-contests-2">gym-contests-2</a></th>
 <th align="center" width="150px">110 contests</th>
