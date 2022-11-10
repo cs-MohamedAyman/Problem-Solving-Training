@@ -28,14 +28,14 @@
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103637">2019-2020 BSUIR Open Programming Championship. Semifinal</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102135">2017-2018 BSUIR Open Programming Contest. Semifinal</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102135">2017-2018 BSUIR Open. Semifinal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102134">2016-2017 BSUIR Open Programming Contest. Semifinal</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102133">2016-2017 BSUIR Open Programming Contest. Final</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102134">2016-2017 BSUIR Open. Semifinal</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102133">2016-2017 BSUIR Open. Final</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101192">2015-2016 BSUIR Open Programming Contest. Semifinal</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101192">2015-2016 BSUIR Open. Semifinal</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101191">2014-2015 BSUIR Open Programming Championship</a></th>
         </tr>
         <tr>
@@ -44,11 +44,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100066">2011-2012 internation open olympiad KPI-Open 2012, round 2</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103185">2020-2021 ICPC Latin American Regional Programming Contest</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103185">2020-2021 ICPC Latin American Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102428">2019-2020 ICPC Latin American Regional Programming Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101889">2017-2018 ICPC Latin American Regional Programming Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102428">2019-2020 ICPC Latin American Regional</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101889">2017-2018 ICPC Latin American Regional</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102253">2017 Chinese Multi-University Training, BeihangU Contest</a></th>
@@ -56,22 +56,22 @@
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102114">2018 Chinese Multi-University Training, BeihangU Contest</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102801">14th Chinese Northeast Collegiate Programming Contest</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102801">14th Chinese Northeast Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102220">13th Chinese Northeast Collegiate Programming Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102220">13th Chinese Northeast Collegiate</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102881">ECPC 2019 Kickoff</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101856">Egyptian Collegiate Programming Contest - original tests edition</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101840">Egyptian Collegiate Programming Contest</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101856">Egyptian Collegiate - original tests edition</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101840">Egyptian Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101992">Egyptian Collegiate Programming Contest</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100155">Arab Collegiate Programming Contest</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101992">Egyptian Collegiate</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100155">Arab Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101991">Arab Collegiate Programming Contest</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101991">Arab Collegiate</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
@@ -86,11 +86,11 @@
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101806">2018 KAIST RUN Spring Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103433">2018-2019 Russia Team Open, High School Programming Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102443">2019-2020 Russia Team Open, High School Programming Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103433">2018-2019 Russia Team Open, High School</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102443">2019-2020 Russia Team Open, High School</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102893">2020-2021 Russia Team Open, High School Programming Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102893">2020-2021 Russia Team Open, High School</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100297">2012-2013 international open olympiad KPI-Open 2013, round 2</a></th>
         </tr>
         <tr>
@@ -110,27 +110,27 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102760">2020 KAIST 10th ICPC Mock Contest (XXI Open Cup. Grand Prix of Korea)</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102700">2020 ICPC Universidad Nacional de Colombia Programming Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102700">2020 ICPC Universidad Nacional de Colombia</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102900">2020 ICPC Shanghai Site</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102861">2020-2021 ICPC Brazil Subregional Programming Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102346">2019-2020 ICPC Brazil Subregional Programming Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102861">2020-2021 ICPC Brazil Subregional</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102346">2019-2020 ICPC Brazil Subregional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101908">2018-2019 ICPC Brazil Subregional Programming Contest</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102307">2019 ICPC Universidad Nacional de Colombia Programming Contest</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101908">2018-2019 ICPC Brazil Subregional</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102307">2019 ICPC Universidad Nacional de Colombia</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102006">2018 ICPC Syrian Collegiate Programming Contest</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101873">2017 German Collegiate Programming Contest</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102006">2018 ICPC Syrian Collegiate</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101873">2017 German Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100753">2015 German Collegiate Programming Contest</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102021">2018 German Collegiate Programming Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100753">2015 German Collegiate</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102021">2018 German Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100274">2011 German Collegiate Programming Contest</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100274">2011 German Collegiate</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
@@ -142,7 +142,7 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101617">2017-2018 ICPC Southeast Regional Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102788">2017-2018 ICPC Central Quarter Final of Northeastern European Regional Collegiate Programming Contest</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102788">2017-2018 ICPC Central Quarter Final of Northeastern European Regional Collegiate</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101597">2017 ICPC-Swiss-Subregional</a></th>
@@ -170,10 +170,10 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100184">2013 ICPC Ukraine, Round 1</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100182">2009 ICPC Southeast USA Regional Programming Contest</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100182">2009 ICPC Southeast USA Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101608">2017 ACM Jordanian Collegiate Programming Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101608">2017 ACM Jordanian Collegiate</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102536">2020 UP ACM Algolympics Final Round</a></th>
         </tr>
         <tr>
@@ -182,10 +182,10 @@
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100923">2015 ACM National Contest Romania - Round 1</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102770">17th Zhejiang Provincial Collegiate Programming Contest</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102770">17th Zhejiang Provincial Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102803">15th Heilongjiang Provincial Collegiate Programming Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102803">15th Heilongjiang Provincial Collegiate</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
@@ -216,23 +216,23 @@
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100032">2012 ICL Сup</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102891">2020 NHSPC (Taiwan National High School Programming Contest) Mock Contest - Day 2</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102891">2020 NHSPC (Taiwan National High School) Mock Contest - Day 2</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101234">2016-2017 National Taiwan University World Final Team Selection Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100800">2015 United Kingdom and Ireland Programming Contest</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100463">2011 Michigan Invitational Programming Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100800">2015 United Kingdom and Ireland</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100463">2011 Michigan Invitational</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100425">2014 VIII SFU Open Programming Contest. Team Final.</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102870">2020-2021 Orz Panda Cup Programming Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100425">2014 VIII SFU Open. Team Final.</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102870">2020-2021 Orz Panda Cup</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102860">2020-2021 Saint-Petersburg Open High School Programming Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102396">2019-2020 Saint-Petersburg Open High School Programming Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102860">2020-2021 Saint-Petersburg Open High School</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102396">2019-2020 Saint-Petersburg Open High School</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102821">2019 Sichuan Province Programming Contest</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102821">2019 Sichuan Province</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102896">Northern Eurasia Finals Online 2020</a></th>
         </tr>
         <tr>

@@ -20,7 +20,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100819">2015-2016 ACM-ICPC Pacific Northwest Regional Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102267">2019 University of Jordan Collegiate Programming Contest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102267">2019 University of Jordan Collegiate</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102254">IME++ Starters Try-outs 2019</a></th>
@@ -28,7 +28,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102953">CodeRams Algorithm Contest #2</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102911">2021 Ateneo de Manila Senior High School Dagitab Programming Contest (Mirror)</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102911">2021 Ateneo de Manila Senior High School Dagitab (Mirror)</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102894">Municipal stage of the Russian Olympiad in Informatics (ROI), Smolensk</a></th>
@@ -46,19 +46,19 @@
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101521">La Salle-PuiChingProgramming Challenge 2016</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101343">2017 JUST Programming Contest 2.0</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101343">2017 JUST 2.0</a></th>
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100687">2015 PSUT Coding Marathon</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100376">2014 Winter Programming School, Kharkiv, day 4. Junior league</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102365">UBC Programming Contest 2019 (UBCPC 2019)</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102365">UBC 2019 (UBCPC 2019)</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102348">Southern and Volga Russia Qualifier 2019-2020</a></th>
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101917">Semana i 2018</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101778">2018 JUST Programming Contest 1.0</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101778">2018 JUST 1.0</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100989">2016 PSUT Coding Marathon</a></th>
         </tr>
         <tr>
@@ -129,7 +129,7 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101790">2018 Southern Russia Open Championship -XII SFU Olympiad</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101606">2017 United Kingdom and Ireland Programming Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101606">2017 United Kingdom and Ireland</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101061">Higher Institute for Applied Sciences and Technology CPC 2016</a></th>
         </tr>
         <tr>
@@ -219,56 +219,56 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101473">2013-2014 ACM-ICPC Brazil Subregional Programming Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101466">2017 ACM-ICPC, Universidad Nacional de Colombia Programming Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101473">2013-2014 ACM-ICPC Brazil Subregional</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101466">2017 ACM-ICPC, Universidad Nacional de Colombia</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100283">2013 ACM-ICPC ECPC (ECPC 2013)</a></th>
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101653">2014-2015 ACM-ICPC Pacific Northwest Regional Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100502">2014 Nordic Collegiate Programming Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100500">2014 Syrian Collegiate Programming Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100502">2014 Nordic Collegiate</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100500">2014 Syrian Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102470">2009-2010 ACM ICPC Southwestern European Regional Programming Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102470">2009-2010 ACM ICPC Southwestern European Regional</a></th>
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100482">2013 KTU ACM ICPC Qualification Round</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101962">UFBA Practice Session for Brazilian ICPC Regionals -2018</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100947">2015 AlBaath Collegiate Programming Contest</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100947">2015 AlBaath Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100935">2015 Tishreen Collegiate Programming Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100935">2015 Tishreen Collegiate</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102219">2019 ICPC Malaysia National</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100952">2015 HIAST Collegiate Programming Contest</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102215">2019, XII Samara Regional Intercollegiate Programming Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100952">2015 HIAST Collegiate</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102215">2019, XII Samara Regional Intercollegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101755">2018, XI Samara Regional Intercollegiate Programming Contest</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101341">2017, X Samara Regional Intercollegiate Programming Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101755">2018, XI Samara Regional Intercollegiate</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101341">2017, X Samara Regional Intercollegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100971">2016, IX Samara Regional Intercollegiate Programming Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100812">2015, Samara SAU ACM ICPC Quarterfinal Qualification Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100971">2016, IX Samara Regional Intercollegiate</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100812">2015, Samara SAU ACM ICPC Quarterfinal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100694">2015, VIII Samara Regional Intercollegiate Programming Contest</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100460">2014, VII Samara Regional Intercollegiate Programming Contest</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100694">2015, VIII Samara Regional Intercollegiate</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100460">2014, VII Samara Regional Intercollegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100488">2014, Samara SAU ACM ICPC Quarterfinal Qualification Contest</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100187">2013, VI Samara Regional Intercollegiate Programming Contest</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100488">2014, Samara SAU ACM ICPC Quarterfinal</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100187">2013, VI Samara Regional Intercollegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100247">2013, Samara SAU ACM ICPC Quarterfinal Qualification Contest</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100090">2012, Samara SAU ACM ICPC Quarterfinal Qualification Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100247">2013, Samara SAU ACM ICPC Quarterfinal</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100090">2012, Samara SAU ACM ICPC Quarterfinal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100030">2012, V Samara Regional Intercollegiate Programming Contest</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101149">2016, Samara University ACM ICPC Quarterfinal Qualification Contest</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100030">2012, V Samara Regional Intercollegiate</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101149">2016, Samara University ACM ICPC Quarterfinal</a></th>
         </tr>
     </tbody>
 </table>

@@ -119,26 +119,26 @@
 - 2012-2013 ICPC NEERC, Western Subregional Contest: https://codeforces.com/gym/100113
 - 2012-2013 ICPC NEERC, Central Subregional Contest: https://codeforces.com/gym/100114
 - 2016-2017 ICPC NEERC, Central Subregional Contest: https://codeforces.com/gym/101243
-- 2010-2011 ICPC Southwestern European Regional Programming Contest (SWERC 2010): https://codeforces.com/gym/101564
-- 2011-2012 ICPC Southwestern European Regional Programming Contest (SWERC 2011): https://codeforces.com/gym/101561
+- 2010-2011 ICPC Southwestern European Regional (SWERC 2010): https://codeforces.com/gym/101564
+- 2011-2012 ICPC Southwestern European Regional (SWERC 2011): https://codeforces.com/gym/101561
 - 2012-2013 ICPC Southwestern Europe Regional Contest (SWERC 12): https://codeforces.com/gym/100438
 - 2013-2014 ICPC Southwestern Europe Regional Contest (SWERC 13): https://codeforces.com/gym/100443
-- 2016-2017 ICPC Southwestern European Regional Programming Contest (SWERC 2016): https://codeforces.com/gym/101174
-- 2018-2019 ICPC Southwestern European Regional Programming Contest (SWERC 2018): https://codeforces.com/gym/102465
-- 2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20): https://codeforces.com/gym/102501
+- 2016-2017 ICPC Southwestern European Regional (SWERC 2016): https://codeforces.com/gym/101174
+- 2018-2019 ICPC Southwestern European Regional (SWERC 2018): https://codeforces.com/gym/102465
+- 2019-2020 ICPC Southwestern European Regional (SWERC 2019-20): https://codeforces.com/gym/102501
 
 ### Codeforces -  GYM Contests 4 V `25 contests`
 
-- 2007 Nordic Collegiate Programming Contest (NCPC 2007): https://codeforces.com/gym/100240
-- 2012 Nordic Collegiate Programming Contest (NCPC 2012): https://codeforces.com/gym/100112
-- 2009-2010 ICPC Nordic Collegiate Programming Contest (NCPC 2009): https://codeforces.com/gym/101557
-- 2010-2011 ICPC Nordic Collegiate Programming Contest (NCPC 2010): https://codeforces.com/gym/101556
-- 2011-2012 ICPC Nordic Collegiate Programming Contest (NCPC 2011): https://codeforces.com/gym/101555
-- 2013-2014 ICPC Nordic Collegiate Programming Contest (NCPC 2013): https://codeforces.com/gym/101554
-- 2015-2016 ICPC Nordic Collegiate Programming Contest (NCPC 2015): https://codeforces.com/gym/100781
-- 2016-2017 ICPC Nordic Collegiate Programming Contest (NCPC 2016): https://codeforces.com/gym/101550
-- 2017-2018 ICPC Nordic Collegiate Programming Contest (NCPC 2017): https://codeforces.com/gym/101572
-- 2018-2019 ICPC Nordic Collegiate Programming Contest (NCPC 2018): https://codeforces.com/gym/101933
+- 2007 Nordic Collegiate (NCPC 2007): https://codeforces.com/gym/100240
+- 2012 Nordic Collegiate (NCPC 2012): https://codeforces.com/gym/100112
+- 2009-2010 ICPC Nordic Collegiate (NCPC 2009): https://codeforces.com/gym/101557
+- 2010-2011 ICPC Nordic Collegiate (NCPC 2010): https://codeforces.com/gym/101556
+- 2011-2012 ICPC Nordic Collegiate (NCPC 2011): https://codeforces.com/gym/101555
+- 2013-2014 ICPC Nordic Collegiate (NCPC 2013): https://codeforces.com/gym/101554
+- 2015-2016 ICPC Nordic Collegiate (NCPC 2015): https://codeforces.com/gym/100781
+- 2016-2017 ICPC Nordic Collegiate (NCPC 2016): https://codeforces.com/gym/101550
+- 2017-2018 ICPC Nordic Collegiate (NCPC 2017): https://codeforces.com/gym/101572
+- 2018-2019 ICPC Nordic Collegiate (NCPC 2018): https://codeforces.com/gym/101933
 - 2010 USP Try-outs: https://codeforces.com/gym/101055
 - 2011 USP Try-outs: https://codeforces.com/gym/101081
 - 2013 USP Try-outs: https://codeforces.com/gym/101726

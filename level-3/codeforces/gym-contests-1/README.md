@@ -74,51 +74,51 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103102">2020-2021 ICPC Southeastern European Regional Programming Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102392">2019-2020 ICPC Southeastern European Regional Programming Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103102">2020-2021 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102392">2019-2020 ICPC Southeastern European Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101964">2018-2019 ICPC Southeastern European Regional Programming Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101669">2017-2018 ICPC Southeastern European Regional Programming Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101964">2018-2019 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101669">2017-2018 ICPC Southeastern European Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101472">2012-2013 ICPC Southeastern European Regional Programming Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101470">2014-2015 ICPC Southeastern European Regional Programming Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101472">2012-2013 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101470">2014-2015 ICPC Southeastern European Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101468">2006-2007 ICPC Southeastern European Regional Programming Contest</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101467">2005-2006 ICPC Southeastern European Regional Programming Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101468">2006-2007 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101467">2005-2006 ICPC Southeastern European Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101464">2010-2011 ICPC Southeastern European Regional Programming Contest</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101463">2009-2010 ICPC Southeastern European Regional Programming Contest</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101464">2010-2011 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101463">2009-2010 ICPC Southeastern European Regional</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101462">2008-2009 ICPC Southeastern European Regional Programming Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101461">2004-2005 ICPC Southeastern European Regional Programming Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101462">2008-2009 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101461">2004-2005 ICPC Southeastern European Regional</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101194">2016-2017 ICPC CHINA-Final</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102222">2018-2019 ICPC China Multi-Provincial Collegiate Programming Contest</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102222">2018-2019 ICPC China Multi-Provincial Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102823">2018 China Collegiate Programming Contest Guilin Site</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102055">2018 China Collegiate Programming Contest Final</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102823">2018 China Collegiate Guilin Site</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102055">2018 China Collegiate Final</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102361">2019 China Collegiate Programming Contest Qinhuangdao Onsite</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102431">2019 China Collegiate Programming Contest Final</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102361">2019 China Collegiate Qinhuangdao Onsite</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102431">2019 China Collegiate Final</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102394">2019 China Collegiate Programming Contest Harbin Site</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102832">2020 China Collegiate Programming Contest Changchun Onsite</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102394">2019 China Collegiate Harbin Site</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102832">2020 China Collegiate Changchun Onsite</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102822">2020 China Collegiate Programming Contest Mianyang Site</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102798">2020 China Collegiate Programming Contest Weihai Site</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102822">2020 China Collegiate Mianyang Site</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102798">2020 China Collegiate Weihai Site</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102769">2020 China Collegiate Programming Contest Qinhuangdao Site</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102769">2020 China Collegiate Qinhuangdao Site</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>

@@ -16,7 +16,7 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102004">2011-2012 ICPC Asia Fukuoka Regional Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101549">2012 ICPC Asia Hatyai Regional Programming Contest</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101549">2012 ICPC Asia Hatyai Regional</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102014">2013-2014 ICPC Asia Aizu Regional Contest</a></th>
@@ -63,11 +63,11 @@
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103466">2019 ICPC Asia Nanjing Regional Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103202">2020 ICPC Asia Shenyang Regional Programming Contest</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103202">2020 ICPC Asia Shenyang Regional</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103119">2020 ICPC Asia Macau Regional Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102835">2020 ICPC Asia Taipei-Hsinchu Site Programming Contest</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102835">2020 ICPC Asia Taipei-Hsinchu Site</a></th>
 <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102920">2020-2021 ICPC Asia Seoul Regional Contest</a></th>
         </tr>
     </tbody>
@@ -78,27 +78,27 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102007">2018 Benelux Algorithm Programming Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101666">2017 Benelux Algorithm Programming Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102007">2018 Benelux Algorithm</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101666">2017 Benelux Algorithm</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101490">2016 Benelux Algorithm Programming Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101512">2014 Benelux Algorithm Programming Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101490">2016 Benelux Algorithm</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101512">2014 Benelux Algorithm</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100526">2014 Benelux Algorithm Programming Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100625">2013 Benelux Algorithm Programming Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100526">2014 Benelux Algorithm</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100625">2013 Benelux Algorithm</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101519">2011 Benelux Algorithm Programming Contest</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101078">2010 Benelux Algorithm Programming Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101519">2011 Benelux Algorithm</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101078">2010 Benelux Algorithm</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101518">2009 Benelux Algorithm Programming Contest</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101516">2008 Benelux Algorithm Programming Contest</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101518">2009 Benelux Algorithm</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101516">2008 Benelux Algorithm</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100506">2007 Benelux Algorithm Programming Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100506">2007 Benelux Algorithm</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100941">2008-2009 Summer Petrozavodsk Camp, Petrozavodsk SU Wx Contest</a></th>
         </tr>
         <tr>
@@ -292,11 +292,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102423">2019 North American Southeast Regional</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101002">2016 North American Invitational Programming Contest</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101002">2016 North American Invitational</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100703">(XVI) Volga Region Open Team Student Programming Contest</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100186">(XIV) Volga Region Open Team Student Programming Contest</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100703">(XVI) Volga Region Open Team Student</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100186">(XIV) Volga Region Open Team Student</a></th>
         </tr>
     </tbody>
 </table>
