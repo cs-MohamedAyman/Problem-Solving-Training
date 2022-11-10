@@ -25,7 +25,7 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="/level-1/level-1-cover.jpg"></img>
+<img width="100%" src="/logos/level-1-cover.jpg"></img>
 
 ## `Level 1`
 
@@ -37,7 +37,7 @@ Related Training: [Programming Languages and Object Oriented Training](https://g
 
 ## [`Level Timeline`](/level-1/Timeline.md)
 
-<img width="100%" src="/level-1/level-1-timeline.jpg"></img>
+<img width="100%" src="/logos/level-1-timeline.jpg"></img>
 <br><br>
 
 <img align="right" width="80" src="/logos/uri.jpg">

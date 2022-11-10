@@ -26,7 +26,7 @@ Problem Solving Training for computer science students.
   * [Level 4](#level-4)
 
 <br>
-<img width="100%" src="/level-1/level-1-cover.jpg"></img>
+<img width="100%" src="/logos/level-1-cover.jpg"></img>
 
 ## [`Level 1`](/level-1/README.md)
 
@@ -38,7 +38,7 @@ Related Training: [Programming Languages and Object Oriented Training](https://g
 
 ## [`Level Timeline`](/level-1/Timeline.md)
 
-<img width="100%" src="/level-1/level-1-timeline.jpg"></img>
+<img width="100%" src="/logos/level-1-timeline.jpg"></img>
 <br><br>
 
 <img align="right" width="80" src="/logos/uri.jpg">
@@ -98,7 +98,7 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
 
 <br>
 
-<img width="100%" src="/level-2/level-2-cover.jpg"></img>
+<img width="100%" src="/logos/level-2-cover.jpg"></img>
 
 ## [`Level 2`](/level-2/README.md)
 
@@ -110,7 +110,7 @@ Related Training: [Data Structures and Algorithms Training](https://github.com/c
 
 ## [`Level Timeline`](/level-2/Timeline.md)
 
-<img width="100%" src="/level-2/level-2-timeline.jpg"></img>
+<img width="100%" src="/logos/level-2-timeline.jpg"></img>
 <br><br>
 
 <img align="right" width="80" src="/logos/uri.jpg">
@@ -200,7 +200,7 @@ each sheet of them contains linear and non-linear data structures problems, plus
 
 <br>
 
-<img width="100%" src="/level-3/level-3-cover.jpg"></img>
+<img width="100%" src="/logos/level-3-cover.jpg"></img>
 
 ## [`Level 3`](/level-3/README.md)
 
@@ -212,7 +212,7 @@ Related Training: [Advanced Data Structures and Algorithms Training](https://git
 
 ## [`Level Timeline`](/level-3/Timeline.md)
 
-<img width="100%" src="/level-3/level-3-timeline.jpg"></img>
+<img width="100%" src="/logos/level-3-timeline.jpg"></img>
 <br><br>
 
 <img align="right" width="80" src="/logos/hackerrank.jpg">
@@ -295,7 +295,7 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
 
 <br>
 
-<img width="100%" src="/level-4/level-4-cover.jpg"></img>
+<img width="100%" src="/logos/level-4-cover.jpg"></img>
 
 ## [`Level 4`](/level-4/README.md)
 

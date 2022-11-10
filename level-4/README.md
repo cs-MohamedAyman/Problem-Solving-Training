@@ -27,6 +27,6 @@ Problem Solving Training for computer science students.
      * [SPOJ Online Judge Sheets](#spoj-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="/level-4/level-4-cover.jpg"></img>
+<img width="100%" src="/logos/level-4-cover.jpg"></img>
 
 ## [`Level 4`](/level-4/README.md)

@@ -26,7 +26,7 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="/level-3/level-3-cover.jpg"></img>
+<img width="100%" src="/logos/level-3-cover.jpg"></img>
 
 ## `Level 3`
 
@@ -38,7 +38,7 @@ Related Training: [Advanced Data Structures and Algorithms Training](https://git
 
 ## [`Level Timeline`](/level-3/Timeline.md)
 
-<img width="100%" src="/level-3/level-3-timeline.jpg"></img>
+<img width="100%" src="/logos/level-3-timeline.jpg"></img>
 <br><br>
 
 <img align="right" width="80" src="/logos/hackerrank.jpg">
