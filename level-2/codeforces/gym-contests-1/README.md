@@ -237,15 +237,15 @@
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102535">2020 UP ACM Algolympics Elimination Round</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101972">ACM ICPC, Arabella Collegiate Programming Contest (2018)</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101972">ACM ICPC, Arabella Collegiate Programming Contest 2018</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101810">ACM ICPC, Amman Collegiate Programming Contest (2018)</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101808">ACM ICPC, Damascus University Collegiate Programming Contest(2018)</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101810">ACM ICPC, Amman Collegiate Programming Contest 2018</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101808">ACM ICPC, Damascus University Collegiate Programming Contest 2018</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101350">2017 ACM Arabella Collegiate Programming Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101147">2016-2017 ACM-ICPC, Egyptian Collegiate Programming Contest (ECPC 16)</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101147">2016-2017 ACM-ICPC, Egyptian Collegiate Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101128">2015-2016 ACM-ICPC Southwestern Europe Regional Contest</a></th>
@@ -264,7 +264,7 @@
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100495">2014 KTU ACM ICPC Qualification Round</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101915">ACM ICPC, Tishreen Collegiate Programming Contest (2017)</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101915">ACM ICPC, Tishreen Collegiate Programming Contest 2017</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101845">2018 ACM-ICPC, Universidad Nacional de Colombia Programming Contest</a></th>
         </tr>
         <tr>
