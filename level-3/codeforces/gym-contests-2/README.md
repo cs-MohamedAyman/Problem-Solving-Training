@@ -196,7 +196,7 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101320">2016-2017 Moscow Open Olympiad in Informatics, second day</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101320">2016-2017 Moscow Open Olympiad in Informatics, 2nd day</a></th>
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101319">2016-2017 Moscow Open Olympiad in Informatics, day 1</a></th>
         </tr>
         <tr>
