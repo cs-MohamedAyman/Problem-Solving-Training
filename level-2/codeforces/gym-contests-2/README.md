@@ -20,7 +20,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100819">2015-2016 ACM-ICPC Pacific Northwest Regional Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102267">The 2019 University of Jordan Collegiate Programming Contest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102267">2019 University of Jordan Collegiate Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102254">IME++ Starters Try-outs 2019</a></th>
@@ -129,7 +129,7 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101790">2018 Southern Russia Open Championship -XII SFU Olympiad</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101606">2017 United Kingdom and Ireland Programming Contest (UKIEPC 2017)</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101606">2017 United Kingdom and Ireland Programming Contest</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101061">Higher Institute for Applied Sciences and Technology CPC 2016</a></th>
         </tr>
         <tr>
@@ -223,12 +223,12 @@
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101466">2017 ACM-ICPC, Universidad Nacional de Colombia Programming Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="2013 ACM-ICPC ECPC (ECPC 2013): https://codeforces.com/gym/100283">2013-2014 CT S01E10</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101653">2014-2015 ACM-ICPC Pacific Northwest Regional Contest (Div. 2)</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100283">2013 ACM-ICPC ECPC (ECPC 2013)</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101653">2014-2015 ACM-ICPC Pacific Northwest Regional Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100502">2014 Nordic Collegiate Programming Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100500">2014 Syrian Collegiate Programming Contest (SCPC 14)</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100500">2014 Syrian Collegiate Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102470">2009-2010 ACM ICPC Southwestern European Regional Programming Contest</a></th>
