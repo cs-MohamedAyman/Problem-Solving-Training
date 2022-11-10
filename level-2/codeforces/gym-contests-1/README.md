@@ -225,15 +225,15 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101431">2017 Spring Waterloo ACM Local Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101291">2016-2017 ACM-ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101291">2016-2017 ACM-ICPC Pacific Northwest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101652">2017-2018 ACM-ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101652">2017-2018 ACM-ICPC Pacific Northwest</a></th>
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101498">2017 ACM Amman Collegiate</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100676">2015 ACM Arabella Collegiate</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101982">2018-2019 ACM-ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101982">2018-2019 ACM-ICPC Pacific Northwest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102535">2020 UP ACM Algolympics Elimination Round</a></th>
@@ -248,7 +248,7 @@
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101147">2016-2017 ACM-ICPC, Egyptian Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101128">2015-2016 ACM-ICPC Southwestern Europe Regional Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101128">2015-2016 ACM-ICPC Southwestern Europe</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101102">2016 ACM Amman Collegiate</a></th>
         </tr>
         <tr>
@@ -256,11 +256,11 @@
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100796">2015-2016 ACM ICPC Baltic Selection Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100783">2014-2015 ACM-ICPC Southwestern Europe Regional Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100783">2014-2015 ACM-ICPC Southwestern Europe</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100712">2015 ACM Amman Collegiate</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100651">2004-2005 ACM-ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100651">2004-2005 ACM-ICPC East Central North America</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100495">2014 KTU ACM ICPC Qualification Round</a></th>
         </tr>
         <tr>
@@ -268,15 +268,15 @@
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101845">2018 ACM-ICPC, Universidad Nacional de Colombia</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100623">2008-2009 ACM-ICPC, NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100610">2010-2011 ACM-ICPC, NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100623">2008-2009 ACM-ICPC, NEERC, Northern</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100610">2010-2011 ACM-ICPC, NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101911">2018-2019 ACM-ICPC, NEERC, Southern Subregional Contest, Qualification Stage</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101931">Qualifying stage of the Quarter-finals of the Central Sub-region NEERC, ACM-ICPC 2018-2019</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101911">2018-2019 ACM-ICPC, NEERC, Southern, Qualification Stage</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101931">2018-2019 ACM-ICPC, NEERC, Qualifying stage Quarter-finals</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102386">Qualifying round of the Ural quarterfinals of the World Programming Championship 2019</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102386">2019 Qualifying round Ural quarterfinals</a></th>
 <th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
