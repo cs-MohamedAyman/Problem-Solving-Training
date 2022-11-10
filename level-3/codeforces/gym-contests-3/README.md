@@ -158,7 +158,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102354">2018-2019 Summer Petrozavodsk Camp, Oleksandr Kulkov Contest 2</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100110">2012 10</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100110">2012 Petr Mitrichev Contest 10</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102576">2020 Petrozavodsk Winter Camp, Jagiellonian U Contest</a></th>
