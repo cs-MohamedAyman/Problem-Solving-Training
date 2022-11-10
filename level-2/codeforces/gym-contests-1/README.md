@@ -40,7 +40,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101306">Litseyo quvchilaruchun</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101020">2015 Syrian Private Universities Collegiate Programming Contest</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101020">2015 Syrian Universities Collegiate Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100985">II USP Freshmen Contest</a></th>
@@ -76,7 +76,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101401">2017 PSUT Coding Marathon</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101353">2017 Bangladesh National High School Programming Contest, NHSPC 2017</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101353">2017 Bangladesh National High School Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100009">2011-2012 Waterloo Local Contest, 19 June, 2011</a></th>
@@ -95,7 +95,7 @@
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101059">Procon 2016</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100571">Hello 2015 (Div.2)</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100571">Hello 2015</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100004">Local Contest</a></th>
         </tr>
         <tr>
@@ -154,7 +154,7 @@
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100514">Crypto Cup 1.0</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103117">The 2021 Sichuan Provincial Collegiate Programming Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103117">2021 Sichuan Collegiate Programming Contest</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102966">2020-2021 ICPC - Grand Prix of Mexico - Repechage</a></th>
         </tr>
     </tbody>
@@ -186,11 +186,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102944">UMPT 2020-2021 Team Tryout Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102889">The 15-th Beihang University Collegiate Programming Contest (BCPC 2020) - Final</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102889">15-th Beihang University Collegiate Programming Contest Final</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102888">The 15-th Beihang University Collegiate Programming Contest (BCPC 2020) - Preliminary</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102878">The 15-th BIT Campus Programming Contest - Onsite Round</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102888">15-th Beihang University Collegiate Programming Contest Preliminary</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102878">15-th BIT Campus Programming Contest - Onsite Round</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102766">Codedigger Training Contest - String</a></th>
@@ -198,7 +198,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102569">2020, XIII Samara Regional Intercollegiate Programming Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102800">The 14th Jilin Provincial Collegiate Programming Contest</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102800">14th Jilin Collegiate Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102791">Southern and Volga Russia Qualifier 2020-2021</a></th>
@@ -225,15 +225,15 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101431">2017 Spring Waterloo ACM Local Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101291">2016-2017 ACM-ICPC Pacific Northwest Regional Contest (Div. 2)</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101291">2016-2017 ACM-ICPC Pacific Northwest Regional Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101652">2017-2018 ACM-ICPC Pacific Northwest Regional Contest (Div. 2)</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101652">2017-2018 ACM-ICPC Pacific Northwest Regional Contest</a></th>
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101498">2017 ACM Amman Collegiate Programming Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100676">2015 ACM Arabella Collegiate Programming Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101982">2018-2019 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101982">2018-2019 ACM-ICPC Pacific Northwest Regional Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102535">2020 UP ACM Algolympics Elimination Round</a></th>
@@ -248,7 +248,7 @@
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101147">2016-2017 ACM-ICPC, Egyptian Collegiate Programming Contest (ECPC 16)</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101128">2015-2016 ACM-ICPC Southwestern Europe Regional Contest (SWERC 15)</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101128">2015-2016 ACM-ICPC Southwestern Europe Regional Contest</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101102">2016 ACM Amman Collegiate Programming Contest</a></th>
         </tr>
         <tr>
@@ -256,11 +256,11 @@
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100796">2015-2016 ACM ICPC Baltic Selection Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100783">2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14)</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100783">2014-2015 ACM-ICPC Southwestern Europe Regional Contest</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100712">2015 ACM Amman Collegiate Programming Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100651">2004-2005 ACM-ICPC East Central North America Regional Contest (ECNA 2004)</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100651">2004-2005 ACM-ICPC East Central North America Regional Contest</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100495">2014 KTU ACM ICPC Qualification Round</a></th>
         </tr>
         <tr>
