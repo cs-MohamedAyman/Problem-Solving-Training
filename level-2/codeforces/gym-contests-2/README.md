@@ -51,7 +51,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100376">2014 Winter Programming School, Kharkiv, day 4. Junior league</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102365">UBC 2019 (UBCPC 2019)</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102365">UBC 2019 (UB2019)</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102348">Southern and Volga Russia Qualifier 2019-2020</a></th>
@@ -130,7 +130,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101606">2017 United Kingdom and Ireland</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101061">Higher Institute for Applied Sciences and Technology CPC 2016</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101061">Higher Institute for Applied Sciences and Technology 2016</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100942">ICL 2016 (GP of Tatarstan)</a></th>
