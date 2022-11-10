@@ -15,39 +15,39 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103049">2020-2021 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102500">2019-2020 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103049">2020-2021 Northwestern European</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102500">2019-2020 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102483">2018-2019 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101623">2017-2018 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102483">2018-2019 Northwestern European</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101623">2017-2018 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101170">2016-2017 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101485">2015-2016 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101170">2016-2017 Northwestern European</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101485">2015-2016 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101482">2014-2015 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100405">2013-2014 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101482">2014-2015 Northwestern European</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100405">2013-2014 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101398">2012-2013 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100729">2011-2012 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101398">2012-2013 Northwestern European</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100729">2011-2012 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101404">2010-2011 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100726">2009-2010 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101404">2010-2011 Northwestern European</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100726">2009-2010 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101408">2008-2009 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100723">2007-2008 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101408">2008-2009 Northwestern European</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100723">2007-2008 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100722">2006-2007 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100721">2005-2006 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100722">2006-2007 Northwestern European</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100721">2005-2006 Northwestern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100248">2002-2003 Northwestern European Regional Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100248">2002-2003 Northwestern European</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103196">2020-2021 Russian Contest</a></th>
         </tr>
         <tr>
@@ -74,28 +74,28 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103102">2020-2021 ICPC Southeastern European Regional</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102392">2019-2020 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103102">2020-2021 ICPC Southeastern European</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102392">2019-2020 ICPC Southeastern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101964">2018-2019 ICPC Southeastern European Regional</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101669">2017-2018 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101964">2018-2019 ICPC Southeastern European</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101669">2017-2018 ICPC Southeastern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101472">2012-2013 ICPC Southeastern European Regional</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101470">2014-2015 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101472">2012-2013 ICPC Southeastern European</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101470">2014-2015 ICPC Southeastern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101468">2006-2007 ICPC Southeastern European Regional</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101467">2005-2006 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101468">2006-2007 ICPC Southeastern European</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101467">2005-2006 ICPC Southeastern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101464">2010-2011 ICPC Southeastern European Regional</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101463">2009-2010 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101464">2010-2011 ICPC Southeastern European</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101463">2009-2010 ICPC Southeastern European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101462">2008-2009 ICPC Southeastern European Regional</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101461">2004-2005 ICPC Southeastern European Regional</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101462">2008-2009 ICPC Southeastern European</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101461">2004-2005 ICPC Southeastern European</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101194">2016-2017 ICPC CHINA-Final</a></th>
@@ -129,51 +129,51 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100227">2000 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100228">2003 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100227">2000 ICPC East Central North America</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100228">2003 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100190">2011 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100648">2006-2007 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100190">2011 ICPC East Central North America</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100648">2006-2007 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100647">2007-2008 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100646">2008-2009 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100647">2007-2008 ICPC East Central North America</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100646">2008-2009 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100645">2009-2010 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100644">2010-2011 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100645">2009-2010 ICPC East Central North America</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100644">2010-2011 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100643">2011-2012 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100642">2012-2013 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100643">2011-2012 ICPC East Central North America</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100642">2012-2013 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100291">2013-2014 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100641">2014-2015 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100291">2013-2014 ICPC East Central North America</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100641">2014-2015 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100825">2015-2016 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101196">2016-2017 ICPC East Central North America Regional Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100825">2015-2016 ICPC East Central North America</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101196">2016-2017 ICPC East Central North America</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101673">2017-2018 ICPC East Central North America Regional Contest</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102433">2019-2020 ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101673">2017-2018 ICPC East Central North America</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102433">2019-2020 ICPC Pacific Northwest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100827">2014-2015 ICPC Pacific Northwest Regional Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100820">2015-2016 ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100827">2014-2015 ICPC Pacific Northwest</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100820">2015-2016 ICPC Pacific Northwest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101201">2016-2017 ICPC Pacific Northwest Regional Contest</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101615">2017-2018 ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101201">2016-2017 ICPC Pacific Northwest</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101615">2017-2018 ICPC Pacific Northwest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101657">2011-2012 ICPC Pacific Northwest Regional Contest</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101656">2012-2013 ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101657">2011-2012 ICPC Pacific Northwest</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101656">2012-2013 ICPC Pacific Northwest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101655">2013-2014 ICPC Pacific Northwest Regional Contest</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101655">2013-2014 ICPC Pacific Northwest</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
@@ -184,35 +184,35 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100725">2003-2004 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101651">2003-2004 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100725">2003-2004 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101651">2003-2004 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101648">2004-2005 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101649">2005-2006 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101648">2004-2005 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101649">2005-2006 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101650">2006-2007 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100078">2007–2008 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101650">2006-2007 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100078">2007–2008 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100622">2009-2010 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100609">2011-2012 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100622">2009-2010 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100609">2011-2012 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100095">2011-2012 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100125">2012-2013 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100095">2011-2012 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100125">2012-2013 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100269">2013-2014 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100531">2014-2015 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100269">2013-2014 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100531">2014-2015 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100801">2015-2016 ICPC NEERC, Northern Subregional Contest</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101142">2016-2017 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100801">2015-2016 ICPC NEERC, Northern</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101142">2016-2017 ICPC NEERC, Northern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101612">2017-2018 ICPC NEERC, Northern Subregional Contest</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101612">2017-2018 ICPC NEERC, Northern</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100385">2014 Winter Programming School, Kharkiv, day 9 (V. Nespirtny). High league</a></th>
         </tr>
         <tr>
@@ -260,15 +260,15 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100993">2016 Russian Code Cup, 1st qualification round</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101415">2007-2008 ICPC Asia Tokyo Regional Contest</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101415">2007-2008 ICPC Asia Tokyo</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101414">2009-2010 ICPC Asia Tokyo Regional Contest</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101413">2010-2011 ICPC Asia Tokyo Regional Contest</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101414">2009-2010 ICPC Asia Tokyo</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101413">2010-2011 ICPC Asia Tokyo</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101412">2012-2013 ICPC Asia Tokyo Regional Contest</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100803">2014-2015 ICPC Asia Tokyo Regional Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101412">2012-2013 ICPC Asia Tokyo</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100803">2014-2015 ICPC Asia Tokyo</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100436">2014 Yandex.Algorithm - Warmup Round</a></th>
