@@ -15,16 +15,16 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102785">ICPC Central Russia Regional Contest</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102780">ICPC Central Russia Regional Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102785">ICPC Central Russia</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102780">ICPC Central Russia</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101177">2016-2017 ICPC South Pacific Regional Contest</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102503">2020 National Olympiad in Informatics - Philippines Online Eliminations</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101177">2016-2017 ICPC South Pacific</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102503">2020 National Olympiad in Informatics</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102687">2020 National Olympiad in Informatics - Philippines Online Finals, Day 1</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102688">2020 National Olympiad in Informatics - Philippines Online Finals, Day 2</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102687">2020 National Olympiad in Informatics, Day 1</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102688">2020 National Olympiad in Informatics, Day 2</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103637">2019-2020 BSUIR Open Programming Championship. Semifinal</a></th>
@@ -141,31 +141,31 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101617">2017-2018 ICPC Southeast Regional Contest</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101617">2017-2018 ICPC Southeast</a></th>
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102788">2017-2018 ICPC Central Quarter Final of Northeastern European Regional Collegiate</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101597">2017 ICPC-Swiss-Subregional</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101620">2017-2018 ICPC Central Europe Regional Contest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101620">2017-2018 ICPC Central Europe</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101173">2016-2017 ICPC Central Europe Regional Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100543">2014-2015 ICPC Central Europe Regional Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101173">2016-2017 ICPC Central Europe</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100543">2014-2015 ICPC Central Europe</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100624">2012-2013 ICPC Central Europe Regional Contest</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101481">2011-2012 ICPC Central Europe Regional Contest</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100624">2012-2013 ICPC Central Europe</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101481">2011-2012 ICPC Central Europe</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101487">2010-2011 ICPC Central Europe Regional Contest</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101487">2010-2011 ICPC Central Europe</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100541">2014 ICPC Vietnam National Second Round</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100499">2014 ICPC Vietnam National First Round</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100299">2013-2014 ICPC Central European Regional Contest</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100299">2013-2014 ICPC Central European</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100268">2013-2014 ICPC Rocky Mountain Regional Contest</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100268">2013-2014 ICPC Rocky Mountain</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100263">2013-2014 ICPC University of Cambridge, Selection Contest</a></th>
         </tr>
         <tr>
@@ -201,7 +201,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100957">2016 Olympiad of MISiS, Final Round</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="Onsite round: https://codeforces.com/gym/101241">2013-2014 Wide-Siberian Olympiad</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101241">2013-2014 Wide-Siberian Olympiad</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101096">2016 International Olympiad of Metropolises, day 1</a></th>
@@ -283,12 +283,12 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100551">Dynamic connectivity contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100231">2013-2014 selected problems from 2002 Central European (CEPC 2002) + 2010 Southeast USA Region</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100231">2013-2014 selected problems from 2002 Central European + 2010 Southeast USA Region</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100236">2013-2014 2013 Kashan Contest + Some Problems of 2009 Google Code Jam World Finals (GCJ WF 2009)</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100185">2013 KTH Challenge</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100015">2011-2012 Stanford Local Contest, 8 October, 2011</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100015">2011-2012 Stanford Local Contest</a></th>
         </tr>
     </tbody>
 </table>
