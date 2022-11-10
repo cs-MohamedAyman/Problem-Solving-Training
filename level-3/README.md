@@ -232,7 +232,7 @@ that focus on gym-contests that contains ~125 contests.
 <th align="center" width="150px">130 contests</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/codeforces/gym-contests-2">gym-contests-2</a></th>
-<th align="center" width="150px">125 contests</th>
+<th align="center" width="150px">130 contests</th>
 <th align="center" width="50px"></th>
         </tr>
     </thead>
@@ -242,11 +242,11 @@ that focus on gym-contests that contains ~125 contests.
         <tr><td>GYM Contests 4 II </td><td align="center">25 Contests</td><td>solutions</td>
             <td>GYM Contests 4 II </td><td align="center">25 Contests</td><td>solutions</td></tr>
         <tr><td>GYM Contests 4 III</td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 III</td><td align="center">25 Contests</td><td>solutions</td></tr>
+            <td>GYM Contests 4 III</td><td align="center">30 Contests</td><td>solutions</td></tr>
         <tr><td>GYM Contests 4 IV </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
+            <td>GYM Contests 4 IV </td><td align="center">30 Contests</td><td>solutions</td></tr>
         <tr><td>GYM Contests 4 V  </td><td align="center">30 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+            <td>GYM Contests 4 V  </td><td align="center">20 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
