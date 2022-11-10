@@ -48,22 +48,22 @@
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100248">2002-2003 Northwestern European Regional Contest</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103196">2020-2021 Открытая олимпиада школьников по программированию, заочный этап</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103196">2020-2021 Russian Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103195">2020-2021 Открытая олимпиада школьников по программированию, заключительный этап, тур 2</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103194">2020-2021 Открытая олимпиада школьников по программированию, заключительный этап, тур 1</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103195">2020-2021 Russian Contest, тур 2</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103194">2020-2021 Russian Contest, тур 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="Финал: https://codeforces.com/gym/100981">2016 Технокубок</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102399">2019 Московская командная олимпиада школьников, лига A</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100981">2016 Russian Contest</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102399">2019 Russian Contest A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101967">2018-2019 Всероссийская командная олимпиада школьников по программированию, интернет-тур + отборы регионов (ВКОШП 18, интернет-тур)</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100245">2013-2014 Цикл интернет-олимпиад. Вторая командная олимпиада, усложненный уровень (6 октября 2013 года)</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101967">2018-2019 Russian Contest</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100245">2013-2014 Russian Contest</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100178">2012-2013 Всеукраинская олимпиада по информатике, финальный этап</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100178">2012-2013 Russian Contest</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
