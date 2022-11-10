@@ -28,7 +28,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102953">CodeRams Algorithm Contest #2</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102911">2021 Ateneo de Manila Senior High School Dagitab (Mirror)</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102911">2021 Ateneo de Manila Senior High School Dagitab</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102894">Municipal stage of the Russian Olympiad in Informatics (ROI), Smolensk</a></th>
@@ -193,22 +193,22 @@
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101009">2016, MIET Personal Olympiad</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100083">2012-2013 Training SPbU B # 2 Depth Search</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100083">2012-2013 Training SPbU B2 Depth Search</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100093">2012-2013 SPbSU Training B # 5 Segment requests, segment tree</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100119">2012-2013 Training SPbU B # 12 Binary search, ternary search</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100093">2012-2013 SPbSU Training B5 Segment requests, segment tree</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100119">2012-2013 Training SPbU B12 Binary search, ternary search</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100135">2012-2013 Training SPbU C # 5. Dynamic programming</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100091">2012-2013 SPbU Training B # 4 Least Common Ancestor (LCA)</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100135">2012-2013 Training SPbU C5. Dynamic programming</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100091">2012-2013 SPbU Training B4 Least Common Ancestor (LCA)</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100230">2013-2014 Training SPbU B # 2 Finding the shortest path</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100238">2013-2014 Training SPbSU B # 5 Minimum spanning tree</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100230">2013-2014 Training SPbU B2 Finding the shortest path</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100238">2013-2014 Training SPbSU B5 Minimum spanning tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100246">2013-2014 Training SPbU B # 6 Fenwick tree</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100246">2013-2014 Training SPbU B6 Fenwick tree</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
