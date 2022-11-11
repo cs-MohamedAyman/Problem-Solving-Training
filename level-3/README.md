@@ -277,7 +277,7 @@ that focus on gym-contests that contains ~125 contests.
 ## `LeetCode OJ sheets`
 
 The LeetCode OJ sheets:
-[breadth-first-search-depth-first-search](/level-3/leetcode/breadth-first-search-depth-first-search),
+[tree-graph-traversal](/level-3/leetcode/tree-graph-traversal),
 [graph-advanced-data-structures](/level-3/leetcode/graph-advanced-data-structures),
 [mathematics-strings](/level-3/leetcode/mathematics-strings),
 [dynamic-programming](/level-3/leetcode/dynamic-programming),
@@ -286,7 +286,7 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/breadth-first-search-depth-first-search">(breadth/depth)-first-search</a></td>
+            <td align="center" width="400px"><a href="/level-3/leetcode/tree-graph-traversal">tree-graph-traversal</a></td>
 <th align="center" width="150px">160 problems</th>
 <th align="center" width="50px"></th>
             <td align="center" width="400px"><a href="/level-3/leetcode/graph-advanced-data-structures">graph-advanced-data-structures</a></td>

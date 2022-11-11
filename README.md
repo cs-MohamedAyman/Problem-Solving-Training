@@ -247,7 +247,7 @@ that focus on gym-contests that contains ~125 contests.
 ## [`LeetCode OJ sheets`](/level-3/README.md#leetcode-oj-sheets)
 
 The LeetCode OJ sheets:
-[breadth-first-search-depth-first-search](/level-3/leetcode/breadth-first-search-depth-first-search),
+[tree-graph-traversal](/level-3/leetcode/tree-graph-traversal),
 [graph-advanced-data-structures](/level-3/leetcode/graph-advanced-data-structures),
 [mathematics-strings](/level-3/leetcode/mathematics-strings),
 [dynamic-programming](/level-3/leetcode/dynamic-programming),
