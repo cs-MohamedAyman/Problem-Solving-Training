@@ -1,14 +1,14 @@
 <img align="right" width="80" src="/logos/atcoder.jpg">
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 3.4 Grand Contests `55 contests` `40 hrs`
+## [AtCoder](https://atcoder.jp/) OJ - Grand Contests 1 `55 contests` `120 hrs`
 
 ### Table of Content
 
-- ***2016-2017 Grand Contests***     `20 problems`
-- ***2018-2019 Grand Contests***     `20 problems`
-- ***2020-2021 Grand Contests***     `15 problems`
+- ***2016-2017 Grand Contests***     `20 contests`
+- ***2018-2019 Grand Contests***     `20 contests`
+- ***2020-2021 Grand Contests***     `15 contests`
 
-### AtCoder - 2020-2021 Grand Contests `20 problems`
+### AtCoder - 2020-2021 Grand Contests `20 contests`
 
 <table>
     <tbody>
@@ -55,7 +55,7 @@
     </tbody>
 </table>
 
-### AtCoder - 2018-2019 Grand Contests `20 problems`
+### AtCoder - 2018-2019 Grand Contests `20 contests`
 
 <table>
     <tbody>
@@ -102,7 +102,7 @@
     </tbody>
 </table>
 
-### AtCoder - 2016-2017 Grand Contests `15 problems`
+### AtCoder - 2016-2017 Grand Contests `15 contests`
 
 <table>
     <tbody>

@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/atcoder.jpg">
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 3.1 Regular-Contests `70 problems` `40 hrs`
+## [AtCoder](https://atcoder.jp/) OJ - Regular Contests 1 `70 problems` `40 hrs`
 
 ### Table of Content
 
