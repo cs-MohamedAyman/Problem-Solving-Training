@@ -278,7 +278,7 @@ For the last 4 sheets:
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/div3-div4-contests">div3-div4-contests</a></th>
-<th align="center" width="150px">125 contests</th>
+<th align="center" width="150px">85 contests</th>
 <th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-2/codeforces/educational-contests">educational-contests</a></th>
 <th align="center" width="150px">125 contests</th>
@@ -292,9 +292,9 @@ For the last 4 sheets:
             <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
         <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
             <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align="center">25 Contests</td><td>solutions</td>
+        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td><td>solutions</td>
             <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div4 Contests         </td><td align="center">25 Contests</td><td>solutions</td>
+        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td><td>solutions</td>
             <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>

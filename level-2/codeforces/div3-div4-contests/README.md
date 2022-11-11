@@ -1,14 +1,14 @@
 <img align="right" width="80" src="/logos/codeforces.jpg">
 
-## [Codeforces](https://codeforces.com/) OJ - Div3 + Div4 Contests `125 contests` `200 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Div3 + Div4 Contests `85 contests` `200 hrs`
 
 ### Table of Content
 
 - ***Codeforces Div3 Contests I***   `25 contests`
 - ***Codeforces Div3 Contests II***  `25 contests`
 - ***Codeforces Div3 Contests III*** `25 contests`
-- ***Codeforces Div3 Contests IV***  `25 contests`
-- ***Codeforces Div4 Contests***     `25 contests`
+- ***Codeforces Div3 Contests IV***  `5 contests`
+- ***Codeforces Div4 Contests***     `5 contests`
 
 ### Codeforces -  Div3 Contests I `25 contests`
 
@@ -175,7 +175,7 @@
     </tbody>
 </table>
 
-### Codeforces -  Div3 Contests IV `25 contests`
+### Codeforces -  Div3 Contests IV `5 contests`
 
 <table>
     <tbody>
@@ -195,7 +195,7 @@
 </table>
 
 
-### Codeforces -  Div4 Contests `25 contests`
+### Codeforces -  Div4 Contests `5 contests`
 
 <table>
     <tbody>
