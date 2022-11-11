@@ -45,7 +45,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-3"> phase-2-3</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/nonlinear-data-structures-1"> nonlinear-data-structures-1</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/non-linear-data-structures-1"> nonlinear-data-structures-1</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-11-12.jpg"></img></td>
@@ -63,7 +63,7 @@
 <td align="left">URI<a href="/level-2/uri/phase-2-4"> phase-2-4</a></td>
         </tr>
         <tr>
-<td align="left">LeetCode<a href="/level-2/leetcode/nonlinear-data-structures-2"> nonlinear-data-structures-2</a></td>
+<td align="left">LeetCode<a href="/level-2/leetcode/non-linear-data-structures-2"> nonlinear-data-structures-2</a></td>
         </tr>
         <tr>
 <td align="left" width="35%" rowspan=2><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-15-16.jpg"></img></td>
