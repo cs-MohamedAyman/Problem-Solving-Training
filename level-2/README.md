@@ -36,8 +36,6 @@ This level simply consists of 24 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 
-Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
-
 ## [`Level Timeline`](/level-2/Timeline.md)
 
 <img width="100%" src="/logos/level-2-timeline.jpg"></img>

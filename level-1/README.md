@@ -34,8 +34,6 @@ This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
-Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
-
 ## [`Level Timeline`](/level-1/Timeline.md)
 
 <img width="100%" src="/logos/level-1-timeline.jpg"></img>

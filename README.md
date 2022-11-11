@@ -35,8 +35,6 @@ This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
-Related Training: [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
-
 ## [`Level Timeline`](/level-1/Timeline.md)
 
 <img width="100%" src="/logos/level-1-timeline.jpg"></img>
@@ -100,8 +98,6 @@ This level simply consists of 24 sheets, 6 sheets on URI Online Judge, 2 sheets 
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
-
-Related Training: [Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 
 ## [`Level Timeline`](/level-2/Timeline.md)
 
@@ -196,8 +192,6 @@ This level simply consists of 24 sheets, 4 sheets on HackerRank Online Judge, 4 
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
-
-Related Training: [Advanced Data Structures and Algorithms Training](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
 
 ## [`Level Timeline`](/level-3/Timeline.md)
 
