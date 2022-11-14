@@ -50,7 +50,7 @@
         <tr>
 <td align="left" width="35%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-11-12.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-2/hackerearth/linear-data-structures"><img src="/logos/hackerearth.jpg"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/hackerearth/non-linear-data-structure"><img src="/logos/hackerearth.jpg"></img></a></td>
+<td width="10%" rowspan=2><a href="/level-2/hackerearth/non-linear-data-structures"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td align="left">HackerEarth<a href="/level-2/hackerearth/linear-data-structures"> linear-data-structures</a></td>
         </tr>
         <tr>
