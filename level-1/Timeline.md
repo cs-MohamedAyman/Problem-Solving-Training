@@ -14,7 +14,7 @@
         <tr>
 <td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-03-04.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/phase-1-1"><img src="/logos/codeforces.jpg"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-1/hackerearth/phase-1-"><img src="/logos/hackerearth.jpg"></img></a></td>
+<td width="10%" rowspan=2><a href="/level-1/hackerearth/phase-1-1"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td align="left">Codeforces<a href="/level-1/codeforces/phase-1-1"> phase-1-1</a></td>
         </tr>
         <tr>
