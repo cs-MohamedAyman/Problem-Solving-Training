@@ -1,19 +1,19 @@
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
-<img width="80" src="/logos/codeforces.jpg"></img>
-<img width="80" src="/logos/leetcode.jpg"></img>
-<img width="80" src="/logos/atcoder.jpg"></img>
-<img width="80" src="/logos/uva.jpg"></img>
-<img width="80" src="/logos/topcoder.jpg"></img>
-<img width="80" src="/logos/spoj.jpg"></img>
-<img width="80" src="/logos/hackerearth.jpg"></img>
-<img width="80" src="/logos/hackerrank.jpg"></img>
-<img width="80" src="/logos/uri.jpg"></img>
+<a href="/level-1/README.md"><img width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/leetcode.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/atcoder.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/uva.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/topcoder.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/spoj.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/hackerearth.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/hackerrank.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/uri.jpg"></img></a>
 <br><br><br><br>
 
 <br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
+<a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
 
 ## Table of Contents
   * [Level 1](#level-1)
@@ -25,7 +25,7 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="/logos/level-1-cover.jpg"></img>
+<a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.jpg"></img></a>
 
 ## `Level 1`
 
@@ -36,10 +36,10 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [`Level Timeline`](/level-1/Timeline.md)
 
-<img width="100%" src="/logos/level-1-timeline.jpg"></img>
+<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.jpg"></img></a>
 <br><br>
 
-<img align="right" width="80" src="/logos/uri.jpg">
+<a href="/level-1/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg">
 <br>
 
 ## `URI OJ sheets`
@@ -132,7 +132,7 @@ each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures -
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/hackerrank.jpg">
+<a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
 ## `HackerRank OJ sheets`
@@ -165,7 +165,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/codeforces.jpg">
+<a href="/level-1/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
 ## `Codeforces OJ sheets`
@@ -224,7 +224,7 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/hackerearth.jpg">
+<a href="/level-1/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
 ## `HackerEarth OJ sheets`
