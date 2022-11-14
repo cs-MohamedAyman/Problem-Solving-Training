@@ -1,19 +1,19 @@
 # Problem Solving Training - Level 2
 Problem Solving Training for computer science students.
 
-<img width="80" src="/logos/codeforces.jpg"></img>
-<img width="80" src="/logos/leetcode.jpg"></img>
-<img width="80" src="/logos/atcoder.jpg"></img>
-<img width="80" src="/logos/uva.jpg"></img>
-<img width="80" src="/logos/topcoder.jpg"></img>
-<img width="80" src="/logos/spoj.jpg"></img>
-<img width="80" src="/logos/hackerearth.jpg"></img>
-<img width="80" src="/logos/hackerrank.jpg"></img>
-<img width="80" src="/logos/uri.jpg"></img>
+<a href="/level-2/README.md"><img width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/leetcode.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/atcoder.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/uva.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/topcoder.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/spoj.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/hackerearth.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/hackerrank.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/uri.jpg"></img></a>
 <br><br><br><br>
 
 <br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
+<a href="/level-2/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
 
 ## Table of Contents
   * [Level 2](#level-2)
@@ -27,7 +27,7 @@ Problem Solving Training for computer science students.
      * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
      * [Notes](#notes)
 
-<img width="100%" src="/logos/level-2-cover.jpg"></img>
+<a href="/level-2/README.md"><img width="100%" src="/logos/level-2-cover.jpg"></img></a>
 
 ## `Level 2`
 
@@ -38,10 +38,10 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 ## [`Level Timeline`](/level-2/Timeline.md)
 
-<img width="100%" src="/logos/level-2-timeline.jpg"></img>
+<a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.jpg"></img></a>
 <br><br>
 
-<img align="right" width="80" src="/logos/uri.jpg">
+<a href="/level-2/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg">
 <br>
 
 ## `URI OJ sheets`
@@ -134,7 +134,7 @@ each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematic
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/hackerrank.jpg">
+<a href="/level-2/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg">
 <br>
 
 ## `HackerRank OJ sheets`
@@ -171,7 +171,7 @@ each sheet of them contains linear and non linear data structures problems, and 
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/atcoder.jpg">
+<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg">
 <br>
 
 ## `AtCoder OJ sheets`
@@ -208,7 +208,7 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/codeforces.jpg">
+<a href="/level-2/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg">
 <br>
 
 ## `Codeforces OJ sheets`
@@ -320,7 +320,7 @@ For the last 4 sheets:
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/leetcode.jpg">
+<a href="/level-2/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg">
 <br>
 
 ## `LeetCode OJ sheets`
@@ -411,7 +411,7 @@ each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tre
     </tbody>
 </table>
 
-<img align="right" width="80" src="/logos/hackerearth.jpg">
+<a href="/level-2/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg">
 <br>
 
 ## `HackerEarth OJ sheets`
