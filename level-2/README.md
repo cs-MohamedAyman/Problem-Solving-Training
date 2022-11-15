@@ -10,6 +10,8 @@ Problem Solving Training for computer science students.
 <a href="/level-2/README.md"><img width="80" src="/logos/hackerearth.jpg"></img></a>
 <a href="/level-2/README.md"><img width="80" src="/logos/hackerrank.jpg"></img></a>
 <a href="/level-2/README.md"><img width="80" src="/logos/uri.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/googlekickstart.jpg"></img></a>
+<a href="/level-2/README.md"><img width="80" src="/logos/googlecodejam.jpg"></img></a>
 <br><br><br><br>
 
 <br>
