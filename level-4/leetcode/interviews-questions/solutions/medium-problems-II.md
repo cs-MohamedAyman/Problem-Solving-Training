@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/leetcode.jpg">
+<img align="right" width="80" src="/logos/leetcode.jpg"></img>
 
 ## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems II
 
