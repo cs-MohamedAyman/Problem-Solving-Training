@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/leetcode.jpg">
+<img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
 ## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures 1 `210 problems` `160 hrs`
 
