@@ -24,7 +24,7 @@ Problem Solving Training for computer science students.
      * [Level Timeline](#level-timeline)
      * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
      * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-     * [Google Competitions Sheets](#leetcode-oj-sheets)
+     * [Google Competitions Sheets](#google-competitions-sheets)
      * [UVA Online Judge Sheets](#uva-oj-sheets)
      * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
      * [SPOJ Online Judge Sheets](#spoj-oj-sheets)
