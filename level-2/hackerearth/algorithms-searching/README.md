@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerearth.jpg">
+<img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
 
 ## [HackerEarth](https://hackerearth.com/) OJ - Algorithms Searching `120 problems` `80 hrs`
 
