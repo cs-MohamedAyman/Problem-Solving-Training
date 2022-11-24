@@ -16,7 +16,7 @@ Problem Solving Training for computer science students.
 <br><br><br><br>
 
 <br>
-<a href="/level-3/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
+<a href="/level-3/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg"></img></a>
 
 ## Table of Contents
   * [Level 3](#level-3)
@@ -43,7 +43,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 <a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.jpg"></img></a>
 <br><br>
 
-<a href="/level-3/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg">
+<a href="/level-3/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
 <br>
 
 ## `HackerRank OJ sheets`
@@ -102,7 +102,7 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg">
+<a href="/level-3/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
 <br>
 
 ## `AtCoder OJ sheets`
@@ -153,7 +153,7 @@ These sheets contain (Regular + Grand) contests (medium contests) and each sheet
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg">
+<a href="/level-3/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
 <br>
 
 ## `Codeforces OJ sheets`
@@ -274,7 +274,7 @@ that focus on gym-contests that contains ~125 contests.
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg">
+<a href="/level-3/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 <br>
 
 ## `LeetCode OJ sheets`
@@ -337,7 +337,7 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg">
+<a href="/level-3/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
 <br>
 
 ## `HackerEarth OJ sheets`

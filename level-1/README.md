@@ -16,7 +16,7 @@ Problem Solving Training for computer science students.
 <br><br><br><br>
 
 <br>
-<a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
+<a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg"></img></a>
 
 ## Table of Contents
   * [Level 1](#level-1)
@@ -42,7 +42,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 <a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.jpg"></img></a>
 <br><br>
 
-<a href="/level-1/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg">
+<a href="/level-1/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg"></img></a>
 <br>
 
 ## `URI OJ sheets`
@@ -135,7 +135,7 @@ each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures -
     </tbody>
 </table>
 
-<a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg">
+<a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
 <br>
 
 ## `HackerRank OJ sheets`
@@ -168,7 +168,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
     </tbody>
 </table>
 
-<a href="/level-1/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg">
+<a href="/level-1/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
 <br>
 
 ## `Codeforces OJ sheets`
@@ -227,7 +227,7 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
     </tbody>
 </table>
 
-<a href="/level-1/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg">
+<a href="/level-1/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
 <br>
 
 ## `HackerEarth OJ sheets`
