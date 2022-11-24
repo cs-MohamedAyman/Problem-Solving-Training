@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
+<img align="right" width="80" src="/logos/hackerrank.jpg"></img>
 
 ## [HackerRank](https://www.hackerrank.com/) OJ - Graph Algorithms `135 problems` `80 hrs`
 

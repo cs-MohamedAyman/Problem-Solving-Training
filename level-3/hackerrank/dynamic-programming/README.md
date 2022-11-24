@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
+<img align="right" width="80" src="/logos/hackerrank.jpg"></img>
 
 ## [HackerRank](https://www.hackerrank.com/) OJ - Dynamic Programming `140 problems` `80 hrs`
 

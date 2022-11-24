@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
+<img align="right" width="80" src="/logos/leetcode.jpg"></img>
 
 ## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures 2 `170 problems` `160 hrs`
 

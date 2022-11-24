@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
+<img align="right" width="80" src="/logos/atcoder.jpg"></img>
 
 ## [AtCoder](https://atcoder.jp/) OJ - Regular Contests 2 `70 problems` `40 hrs`
 

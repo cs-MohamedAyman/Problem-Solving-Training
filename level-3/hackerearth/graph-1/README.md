@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
+<img align="right" width="80" src="/logos/hackerearth.jpg"></img>
 
 ## [HackerEarth](https://hackerearth.com/) OJ - Graph Algorithms 1 `150 problems` `120 hrs`
 
