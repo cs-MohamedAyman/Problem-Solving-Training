@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/uri.jpg">
+<img align="right" width="80" src="/logos/uri.jpg"></img></a>
 
 ## [URI](https://www.beecrowd.com.br/judge/en/categories/) OJ - Phase 2.4 `160 problems` `120 hrs`
 
