@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/atcoder.jpg">
+<img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
 
 ## [AtCoder](https://atcoder.jp/) OJ - Grand Contests 2 `55 contests` `120 hrs`
 
