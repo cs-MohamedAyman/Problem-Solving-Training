@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/googlekickstart.jpg">
+<img align="right" width="80" src="/logos/googlekickstart.jpg"></img>
 
 ## [Google KickStart](https://codingcompetitions.withgoogle.com/kickstart/) - Phase 4 Google KickStart `300 problems` `160 hrs`
 
