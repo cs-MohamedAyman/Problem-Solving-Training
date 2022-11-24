@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/atcoder.jpg">
+<img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
 
 ## [AtCoder](https://atcoder.jp/) OJ - Phase 2.2 `180 problems` `120 hrs`
 
