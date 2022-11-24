@@ -26,10 +26,49 @@ Problem Solving Training for computer science students.
      * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
      * [Google Competitions Sheets](#google-competitions-sheets)
      * [UVA Online Judge Sheets](#uva-oj-sheets)
-     * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
-     * [SPOJ Online Judge Sheets](#spoj-oj-sheets)
      * [Notes](#notes)
 
 <a href="/level-4/README.md"><img width="100%" src="/logos/level-4-cover.jpg"></img></a>
 
 ## [`Level 4`](/level-4/README.md)
+
+coming soon ...
+
+## `Prerequisite Knowledge`
+
+coming soon ...
+
+## [`Level Timeline`](/level-4/Timeline.md)
+
+coming soon ...
+
+<a href="/level-4/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
+<br>
+
+## [`Codeforces OJ sheets`](/level-4/README.md#codeforces-oj-sheets)
+
+coming soon ...
+
+<a href="/level-4/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
+<br>
+
+## [`LeetCode OJ sheets`](/level-4/README.md#leetcode-oj-sheets)
+
+coming soon ...
+
+<a href="/level-4/README.md#google-competitions-sheets"><img align="right" width="80" src="/logos/googlekickstart.jpg"></img></a>
+<a href="/level-4/README.md#google-competitions-sheets"><img align="right" width="80" src="/logos/googlecodejam.jpg"></img></a>
+<br>
+
+## [`Google Competitions sheets`](/level-4/README.md#google-competitions-sheets)
+
+coming soon ...
+
+<a href="/level-4/README.md#uva-oj-sheets"><img align="right" width="80" src="/logos/uva.jpg"></img></a>
+<br>
+
+## [`UVA OJ sheets`](/level-4/README.md#uva-oj-sheets)
+
+coming soon ...
+
+<br>
