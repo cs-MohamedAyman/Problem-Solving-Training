@@ -20,13 +20,13 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Level 1](#level-1)
-     * [Prerequisite Knowledge](#prerequisite-knowledge)
-     * [Level Timeline](#level-timeline)
-     * [URI Online Judge Sheets](#uri-oj-sheets)
-     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-     * [Notes](#notes)
+    * [Prerequisite Knowledge](#prerequisite-knowledge)
+    * [Level Timeline](#level-timeline)
+    * [URI Online Judge Sheets](#uri-oj-sheets)
+    * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+    * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+    * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+    * [Notes](#notes)
 
 <a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.jpg"></img></a>
 
