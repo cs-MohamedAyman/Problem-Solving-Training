@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerrank.jpg">
+<img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
 
 ## [HackerRank](https://www.hackerrank.com/) OJ - Mathematical Algorithms 2 `125 problems` `80 hrs`
 
