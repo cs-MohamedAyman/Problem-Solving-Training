@@ -20,13 +20,13 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Level 4](#level-4)
-     * [Prerequisite Knowledge](#prerequisite-knowledge)
-     * [Level Timeline](#level-timeline)
-     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-     * [Google Competitions Sheets](#google-competitions-sheets)
-     * [UVA Online Judge Sheets](#uva-oj-sheets)
-     * [Notes](#notes)
+    * [Prerequisite Knowledge](#prerequisite-knowledge)
+    * [Level Timeline](#level-timeline)
+    * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+    * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
+    * [Google Competitions Sheets](#google-competitions-sheets)
+    * [UVA Online Judge Sheets](#uva-oj-sheets)
+    * [Notes](#notes)
 
 <a href="/level-4/README.md"><img width="100%" src="/logos/level-4-cover.jpg"></img></a>
 
