@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerearth.jpg"></img>
 
-## [HackerEarth](https://hackerearth.com/) OJ - Graph Algorithms 1 `150 problems` `120 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Graph Algorithms 1 `150 problems` `80 hrs`
 
 ### Table of Content
 
