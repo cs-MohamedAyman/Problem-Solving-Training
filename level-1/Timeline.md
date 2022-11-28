@@ -1,5 +1,7 @@
 # Problem Solving Training - Level 1 Timeline
 
+<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.jpg"></img></a>
+
 <table>
     <tbody>
         <tr>
