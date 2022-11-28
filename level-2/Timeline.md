@@ -95,7 +95,7 @@
 <td width="10%" rowspan=2><a href="/level-2/uri/phase-2-5"><img src="/logos/uri.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-2/leetcode/basic-algorithms-1"><img src="/logos/leetcode.jpg"></img></a></td>
 <td align="left">URI<a href="/level-2/uri/phase-2-5"> phase-2-5</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
 <td align="left">LeetCode<a href="/level-2/leetcode/basic-algorithms-1"> basic-algorithms-1</a></td>
