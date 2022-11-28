@@ -3,7 +3,7 @@
 <table>
     <tbody>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-01-02.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/hackerrank/python"><img src="/logos/hackerrank.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/hackerrank/cpp"><img src="/logos/hackerrank.jpg"></img></a></td>
 <td align="left">HackerRank<a href="/level-1/hackerrank/python"> python</a></td>
@@ -14,7 +14,7 @@
 <td align="center" width="10%">40 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-03-04.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/phase-1-1"><img src="/logos/codeforces.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/phase-1-2"><img src="/logos/codeforces.jpg"></img></a></td>
 <td align="left">Codeforces<a href="/level-1/codeforces/phase-1-1"> phase-1-1</a></td>
@@ -25,7 +25,7 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-05-06.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/3-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/uri/phase-1-1"><img src="/logos/uri.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/uri/phase-1-2"><img src="/logos/uri.jpg"></img></a></td>
 <td align="left">URI<a href="/level-1/uri/phase-1-1"> phase-1-1</a></td>
@@ -36,7 +36,7 @@
 <td align="center" width="10%">120 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-07-08.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/hackerearth/phase-1-1"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/hackerearth/phase-1-2"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td align="left">HackerEarth<a href="/level-1/hackerearth/phase-1-1"> phase-1-1</a></td>
@@ -47,7 +47,7 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-09-10.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/4-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/uri/phase-1-3"><img src="/logos/uri.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/uri/phase-1-4"><img src="/logos/uri.jpg"></img></a></td>
 <td align="left">URI<a href="/level-1/uri/phase-1-3"> phase-1-3</a></td>
@@ -58,7 +58,7 @@
 <td align="center" width="10%">120 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-11-12.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/phase-1-3"><img src="/logos/codeforces.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/phase-1-4"><img src="/logos/codeforces.jpg"></img></a></td>
 <td align="left">Codeforces<a href="/level-1/codeforces/phase-1-3"> phase-1-3</a></td>
@@ -69,7 +69,7 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-13-14.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/3-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/uri/phase-1-5"><img src="/logos/uri.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/uri/phase-1-6"><img src="/logos/uri.jpg"></img></a></td>
 <td align="left">URI<a href="/level-1/uri/phase-1-5"> phase-1-5</a></td>
@@ -80,7 +80,7 @@
 <td align="center" width="10%">120 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="35%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/week-15-16.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/hackerearth/phase-1-3"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/hackerearth/phase-1-4"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td align="left">HackerEarth<a href="/level-1/hackerearth/phase-1-3"> phase-1-3</a></td>
