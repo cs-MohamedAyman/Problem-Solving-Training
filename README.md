@@ -30,12 +30,12 @@ Problem Solving Training for computer science students.
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
   * [Level 2](#level-2)
     * [Prerequisite Knowledge](#prerequisite-knowledge-1)
     * [Level Timeline](#level-timeline-1)
     * [URI Online Judge Sheets](#uri-oj-sheets-1)
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-1)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-1)
     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets-1)
@@ -119,6 +119,16 @@ The HackerEarth OJ sheets:
 [phase-1-4](/level-1/hackerearth/phase-1-4),
 each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
+<a href="/level-1/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
+<br>
+
+## [`AtCoder OJ sheets`](/level-1/README.md#atcoder-oj-sheets)
+
+The AtCoder OJ sheets:
+[phase-1-1](/level-1/atcoder/phase-1-1),
+[phase-1-2](/level-1/atcoder/phase-1-2),
+These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
+
 <br>
 
 <a href="/level-2/README.md"><img width="100%" src="/logos/level-2-cover.jpg"></img></a>
@@ -158,16 +168,6 @@ The HackerRank OJ sheets:
 [data-structures](/level-2/hackerrank/data-structures),
 [algorithms-basics](/level-2/hackerrank/algorithms-basics),
 each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
-
-<a href="/level-2/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
-<br>
-
-## [`AtCoder OJ sheets`](/level-2/README.md#atcoder-oj-sheets)
-
-The AtCoder OJ sheets:
-[phase-2-1](/level-2/atcoder/phase-2-1),
-[phase-2-2](/level-2/atcoder/phase-2-2),
-These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
 
 <a href="/level-2/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
 <br>
