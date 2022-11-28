@@ -102,15 +102,15 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/3-weeks.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/atcoder/grand-contests-1"><img src="/logos/atcoder.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/atcoder/grand-contests-2"><img src="/logos/atcoder.jpg"></img></a></td>
 <td align="left">AtCoder<a href="/level-3/atcoder/grand-contests-1"> grand-contests-1</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
 <td align="left">AtCoder<a href="/level-3/atcoder/grand-contests-2"> grand-contests-2</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/4-weeks.jpg"></img></a></td>
