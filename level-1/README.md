@@ -33,7 +33,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 1`
 
-This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
+This level simply consists of 20 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -181,6 +181,10 @@ The Codeforces OJ sheets:
 [phase-1-4](/level-1/codeforces/phase-1-4),
 each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
+For the last 2 sheets:
+[div3-div4-contests](/level-1/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
+[educational-contests](/level-1/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
+
 <table>
     <thead>
         <tr>
@@ -225,6 +229,31 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
             <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
         <tr><td>List / Array  </td><td align="center">40 problems</td><td>solutions</td>
             <td>List / Array  </td><td align="center">40 problems</td><td>solutions</td></tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-1/codeforces/div3-div4-contests">div3-div4-contests</a></th>
+<th align="center" width="150px">85 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-1/codeforces/educational-contests">educational-contests</a></th>
+<th align="center" width="150px">125 contests</th>
+<th align="center" width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td><td>solutions</td>
+            <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td><td>solutions</td>
+            <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 

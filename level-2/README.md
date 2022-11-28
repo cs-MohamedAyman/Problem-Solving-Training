@@ -185,9 +185,7 @@ The Codeforces OJ sheets:
 [phase-2-4](/level-2/codeforces/phase-2-4),
 each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-For the last 4 sheets:
-[div3-div4-contests](/level-2/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
-[educational-contests](/level-2/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally
+For the last 2 sheets:
 [gym-contests-1](/level-2/codeforces/gym-contests-1),
 [gym-contests-2](/level-2/codeforces/gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
@@ -239,28 +237,6 @@ For the last 4 sheets:
 </table>
 
 <table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-2/codeforces/div3-div4-contests">div3-div4-contests</a></th>
-<th align="center" width="150px">85 contests</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-2/codeforces/educational-contests">educational-contests</a></th>
-<th align="center" width="150px">125 contests</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td><td>solutions</td>
-            <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td><td>solutions</td>
-            <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-    </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/gym-contests-1">gym-contests-1</a></th>
