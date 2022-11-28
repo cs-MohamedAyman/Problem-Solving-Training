@@ -58,15 +58,15 @@
 <td align="center" width="10%">160 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/3-weeks.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/hackerearth/graph-1"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/hackerearth/graph-2"><img src="/logos/hackerearth.jpg"></img></a></td>
 <td align="left">HackerEarth<a href="/level-3/hackerearth/graph-1"> graph-1</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
 <td align="left">HackerEarth<a href="/level-3/hackerearth/graph-2"> graph-2</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
