@@ -26,13 +26,14 @@ Problem Solving Training for computer science students.
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Notes](#notes)
 
 <a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.jpg"></img></a>
 
 ## `Level 1`
 
-This level simply consists of 16 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, and the last 4 sheets on HackerEarth Online Judge.
+This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -279,6 +280,43 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
             <td>Recursion       </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
             <td>Operators       </td><td align="center">35 problems</td><td>solutions</td></tr>
+    </tbody>
+</table>
+
+<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
+<br>
+
+## `AtCoder OJ sheets`
+
+The AtCoder OJ sheets:
+[phase-1-1](/level-1/atcoder/phase-1-1),
+[phase-1-2](/level-1/atcoder/phase-1-2),
+These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
+
+<table>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-1">phase-1-1</a></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-2">phase-1-2</a></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td>
+            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td>
+            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td>
+            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td>
+            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td>
+            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td>
+            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
