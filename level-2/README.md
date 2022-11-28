@@ -24,7 +24,6 @@ Problem Solving Training for computer science students.
     * [Level Timeline](#level-timeline)
     * [URI Online Judge Sheets](#uri-oj-sheets)
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
@@ -171,43 +170,6 @@ each sheet of them contains linear and non linear data structures problems, and 
             <td>Implementation II                  </td><td align="center">20 problems</td><td>solutions</td></tr>
         <tr><td>Advanced II                        </td><td align="center">25 problems</td><td>solutions</td>
             <td>Implementation III                 </td><td align="center">25 problems</td><td>solutions</td></tr>
-    </tbody>
-</table>
-
-<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
-<br>
-
-## `AtCoder OJ sheets`
-
-The AtCoder OJ sheets:
-[phase-2-1](/level-2/atcoder/phase-2-1),
-[phase-2-2](/level-2/atcoder/phase-2-2),
-These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
-
-<table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-1">phase-2-1</a></th>
-<th align="center" width="150px">180 problems</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-2">phase-2-2</a></th>
-<th align="center" width="150px">180 problems</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
