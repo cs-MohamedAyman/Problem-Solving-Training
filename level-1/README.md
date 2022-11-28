@@ -6,13 +6,10 @@ Problem Solving Training for computer science students.
 <a href="/level-1/README.md"><img width="80" src="/logos/atcoder.jpg"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/uva.jpg"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/topcoder.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/spoj.jpg"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/hackerearth.jpg"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/hackerrank.jpg"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/uri.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/googlekickstart.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/googlecodejam.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/metahackercup.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/googlecompetitions.jpg"></img></a>
 <br><br><br><br>
 
 <br>
@@ -351,7 +348,7 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
 
 ## `Notes`
 
-* If the student has a target to compete in the programming competitions like ***ICPC or Google CodeJam or Google KickStart or Meta Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets***, ***Spoj sheets***, ***UVa sheets***, and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***URI sheets***, and ***LeetCode sheets***.
+* If the student has a target to compete in the programming competitions like ***ICPC or Google CodeJam or Google KickStart or Meta Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets***, ***UVa sheets***, and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***URI sheets***, and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems.
 
 <br>
