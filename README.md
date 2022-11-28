@@ -61,7 +61,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 1`](/level-1/README.md)
 
-This level simply consists of 18 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
+This level simply consists of 20 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -106,6 +106,10 @@ The Codeforces OJ sheets:
 [phase-1-3](/level-1/codeforces/phase-1-3),
 [phase-1-4](/level-1/codeforces/phase-1-4),
 each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
+
+For the last 2 sheets:
+[div3-div4-contests](/level-1/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
+[educational-contests](/level-1/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
 
 <a href="/level-1/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
 <br>
@@ -181,9 +185,7 @@ The Codeforces OJ sheets:
 [phase-2-4](/level-2/codeforces/phase-2-4),
 each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-For the last 4 sheets:
-[div3-div4-contests](/level-2/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
-[educational-contests](/level-2/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests. Finally
+For the last 2 sheets:
 [gym-contests-1](/level-2/codeforces/gym-contests-1),
 [gym-contests-2](/level-2/codeforces/gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
