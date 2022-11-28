@@ -102,15 +102,15 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/4-weeks.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-1/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/6-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/div3-div4-contests"><img src="/logos/codeforces.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-1/codeforces/educational-contests"><img src="/logos/codeforces.jpg"></img></a></td>
 <td align="left">Codeforces<a href="/level-1/codeforces/div3-div4-contests"> div3-div4-contests</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">240 Hrs</td>
         </tr>
         <tr>
 <td align="left">Codeforces<a href="/level-1/codeforces/educational-contests"> educational-contests</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="center" width="10%">240 Hrs</td>
         </tr>
     </tbody>
 </table>
