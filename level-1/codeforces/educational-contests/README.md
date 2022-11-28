@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/codeforces.jpg"></img>
 
-## [Codeforces](https://codeforces.com/) OJ - Educational Contests `125 contests` `250 hrs`
+## [Codeforces](https://codeforces.com/) OJ - Educational Contests `125 contests` `240 hrs`
 
 ### Table of Content
 
