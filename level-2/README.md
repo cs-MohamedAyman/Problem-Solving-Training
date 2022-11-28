@@ -33,7 +33,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 2`
 
-This level simply consists of 24 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
+This level simply consists of 22 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
