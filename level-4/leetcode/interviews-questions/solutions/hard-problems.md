@@ -1,8 +1,8 @@
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
-## LeetCode OJ - Interviews Questions - Hard Problems Solutions
+# LeetCode OJ - Interviews Questions - Hard Problems Solutions
 
-### first missing positive:
+## first missing positive:
 Problem Link: https://leetcode.com/problems/first-missing-positive
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -61,7 +61,7 @@ public:
 
 </details>
 
-### sudoku solver:
+## sudoku solver:
 Problem Link: https://leetcode.com/problems/sudoku-solver
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -155,7 +155,7 @@ public:
 
 </details>
 
-### n queens:
+## n queens:
 Problem Link: https://leetcode.com/problems/n-queens
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -237,7 +237,7 @@ public:
 
 </details>
 
-### reverse nodes in k group:
+## reverse nodes in k group:
 Problem Link: https://leetcode.com/problems/reverse-nodes-in-k-group
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -323,7 +323,7 @@ public:
 
 </details>
 
-### merge k sorted lists:
+## merge k sorted lists:
 Problem Link: https://leetcode.com/problems/merge-k-sorted-lists
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -395,7 +395,7 @@ public:
 
 </details>
 
-### smallest range covering elements from k lists:
+## smallest range covering elements from k lists:
 Problem Link: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -465,7 +465,7 @@ public:
 
 </details>
 
-### employee free time:
+## employee free time:
 Problem Link: https://leetcode.com/problems/employee-free-time
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -487,7 +487,7 @@ Problem Link: https://leetcode.com/problems/employee-free-time
 
 </details>
 
-### count of range sum:
+## count of range sum:
 Problem Link: https://leetcode.com/problems/count-of-range-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -554,7 +554,7 @@ public:
 
 </details>
 
-### sliding window maximum:
+## sliding window maximum:
 Problem Link: https://leetcode.com/problems/sliding-window-maximum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -606,7 +606,7 @@ public:
 
 </details>
 
-### minimum number of k consecutive bit flips:
+## minimum number of k consecutive bit flips:
 Problem Link: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -660,7 +660,7 @@ public:
 
 </details>
 
-### count unique characters of all substrings of a given string:
+## count unique characters of all substrings of a given string:
 Problem Link: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -711,7 +711,7 @@ public:
 
 </details>
 
-### minimum window substring:
+## minimum window substring:
 Problem Link: https://leetcode.com/problems/minimum-window-substring
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -776,7 +776,7 @@ public:
 
 </details>
 
-### substring with concatenation of all words:
+## substring with concatenation of all words:
 Problem Link: https://leetcode.com/problems/substring-with-concatenation-of-all-words
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -855,7 +855,7 @@ public:
 
 </details>
 
-### rearrange string k distance apart:
+## rearrange string k distance apart:
 Problem Link: https://leetcode.com/problems/rearrange-string-k-distance-apart
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -877,7 +877,7 @@ Problem Link: https://leetcode.com/problems/rearrange-string-k-distance-apart
 
 </details>
 
-### course schedule iii:
+## course schedule iii:
 Problem Link: https://leetcode.com/problems/course-schedule-iii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -929,7 +929,7 @@ public:
 
 </details>
 
-### maximum frequency stack:
+## maximum frequency stack:
 Problem Link: https://leetcode.com/problems/maximum-frequency-stack
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -992,7 +992,7 @@ public:
 
 </details>
 
-### alien dictionary:
+## alien dictionary:
 Problem Link: https://leetcode.com/problems/alien-dictionary
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1014,7 +1014,7 @@ Problem Link: https://leetcode.com/problems/alien-dictionary
 
 </details>
 
-### binary tree maximum path sum:
+## binary tree maximum path sum:
 Problem Link: https://leetcode.com/problems/binary-tree-maximum-path-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1066,7 +1066,7 @@ public:
 
 </details>
 
-### serialize and deserialize binary tree:
+## serialize and deserialize binary tree:
 Problem Link: https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1157,7 +1157,7 @@ public:
 
 </details>
 
-### word search ii:
+## word search ii:
 Problem Link: https://leetcode.com/problems/word-search-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1318,7 +1318,7 @@ public:
 
 </details>
 
-### find median from data stream:
+## find median from data stream:
 Problem Link: https://leetcode.com/problems/find-median-from-data-stream
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1401,7 +1401,7 @@ public:
 
 </details>
 
-### sliding window median:
+## sliding window median:
 Problem Link: https://leetcode.com/problems/sliding-window-median/submissions
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1467,7 +1467,7 @@ public:
 
 </details>
 
-### trapping rain water:
+## trapping rain water:
 Problem Link: https://leetcode.com/problems/trapping-rain-water
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1527,7 +1527,7 @@ public:
 
 </details>
 
-### concatenated words:
+## concatenated words:
 Problem Link: https://leetcode.com/problems/concatenated-words
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1588,7 +1588,7 @@ public:
 
 </details>
 
-### prefix and suffix search:
+## prefix and suffix search:
 Problem Link: https://leetcode.com/problems/prefix-and-suffix-search
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1705,7 +1705,7 @@ public:
 
 </details>
 
-### palindrome pairs:
+## palindrome pairs:
 Problem Link: https://leetcode.com/problems/palindrome-pairs
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1792,7 +1792,7 @@ public:
 
 </details>
 
-### design search autocomplete system:
+## design search autocomplete system:
 Problem Link: https://leetcode.com/problems/design-search-autocomplete-system
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1814,7 +1814,7 @@ Problem Link: https://leetcode.com/problems/design-search-autocomplete-system
 
 </details>
 
-### word squares:
+## word squares:
 Problem Link: https://leetcode.com/problems/word-squares
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1836,7 +1836,7 @@ Problem Link: https://leetcode.com/problems/word-squares
 
 </details>
 
-### sort items by groups respecting dependencies:
+## sort items by groups respecting dependencies:
 Problem Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1858,7 +1858,7 @@ Problem Link: https://leetcode.com/problems/sort-items-by-groups-respecting-depe
 
 </details>
 
-### median of two sorted arrays:
+## median of two sorted arrays:
 Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays
 
 <a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
