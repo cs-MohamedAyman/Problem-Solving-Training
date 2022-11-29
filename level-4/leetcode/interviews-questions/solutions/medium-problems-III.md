@@ -1,6 +1,6 @@
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
-# LeetCode OJ - Phase 4 Interviews Questions - Medium Problems III
+# LeetCode OJ - Interviews Questions - Medium Problems III
 
 ## permutation in string:
 Problem Link: https://leetcode.com/problems/permutation-in-string
