@@ -1,11 +1,14 @@
 <img align="right" width="80" src="/logos/leetcode.jpg"></img>
 
-## LeetCode OJ - Phase 4 Interviews Questions - Hard Problems
+## LeetCode OJ - Interviews Questions - Hard Problems Solutions
 
 ### first missing positive:
 Problem Link: https://leetcode.com/problems/first-missing-positive
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
@@ -24,7 +27,12 @@ class Solution:
                 return i+1
         return len(nums)+1
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -51,10 +59,15 @@ public:
 };
 ```
 
+</details>
+
 ### sudoku solver:
 Problem Link: https://leetcode.com/problems/sudoku-solver
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def solveSudoku(self, grid: List[List[str]]) -> None:
@@ -91,7 +104,12 @@ class Solution:
         cpy_grid = [[i for i in j] for j in grid]
         solve_grid(0, 0)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     bool check_valid_value(vector<vector<char>> &grid, int i, int j, int v) {
@@ -135,10 +153,15 @@ public:
 };
 ```
 
+</details>
+
 ### n queens:
 Problem Link: https://leetcode.com/problems/n-queens
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
@@ -168,7 +191,12 @@ class Solution:
         backtrack(0)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     set<int> col;
@@ -207,10 +235,15 @@ public:
 };
 ```
 
+</details>
+
 ### reverse nodes in k group:
 Problem Link: https://leetcode.com/problems/reverse-nodes-in-k-group
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
@@ -243,7 +276,12 @@ class Solution:
                 last_head = curr_tail
         return res.next
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
      ListNode* reverseList(ListNode *head, ListNode *tail) {
@@ -283,10 +321,15 @@ public:
 };
 ```
 
+</details>
+
 ### merge k sorted lists:
 Problem Link: https://leetcode.com/problems/merge-k-sorted-lists
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
@@ -313,7 +356,12 @@ class Solution:
             lists[0] = mergeTwoLists(lists[0], lists[i])
         return lists[0]
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     ListNode* mergeTwoLists(ListNode *list1, ListNode *list2) {
@@ -345,10 +393,15 @@ public:
 };
 ```
 
+</details>
+
 ### smallest range covering elements from k lists:
 Problem Link: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 import queue
 
@@ -369,7 +422,12 @@ class Solution:
                 res[0], res[1] = t, max_end
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     struct Item {
@@ -405,22 +463,37 @@ public:
 };
 ```
 
+</details>
+
 ### employee free time:
 Problem Link: https://leetcode.com/problems/employee-free-time
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
 
+</details>
+
 ### count of range sum:
 Problem Link: https://leetcode.com/problems/count-of-range-sum
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def countRangeSum(self, nums: List[int], lower: int, upper: int) -> int:
@@ -444,7 +517,12 @@ class Solution:
             cumulative_sum[i+1] = cumulative_sum[i] + nums[i]
         return merge_sort(0, len(cumulative_sum))
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int merge_sort(int l, int r, vector<long> &cumulative_sum, int lower, int upper) {
@@ -474,10 +552,15 @@ public:
 };
 ```
 
+</details>
+
 ### sliding window maximum:
 Problem Link: https://leetcode.com/problems/sliding-window-maximum
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
@@ -494,7 +577,12 @@ class Solution:
                 q.popleft()
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -516,10 +604,15 @@ public:
 };
 ```
 
+</details>
+
 ### minimum number of k consecutive bit flips:
 Problem Link: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def minKBitFlips(self, nums: List[int], k: int) -> int:
@@ -537,7 +630,12 @@ class Solution:
             res += 1
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -560,10 +658,15 @@ public:
 };
 ```
 
+</details>
+
 ### count unique characters of all substrings of a given string:
 Problem Link: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def uniqueLetterString(self, s: str) -> int:
@@ -578,7 +681,12 @@ class Solution:
             res += (len(s)-j) * (j-k)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -601,10 +709,15 @@ public:
 };
 ```
 
+</details>
+
 ### minimum window substring:
 Problem Link: https://leetcode.com/problems/minimum-window-substring
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
@@ -627,7 +740,12 @@ class Solution:
                 j += 1
         return s[res_i:res_j+1] if res_len != 2e5 else ""
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -656,10 +774,15 @@ public:
 };
 ```
 
+</details>
+
 ### substring with concatenation of all words:
 Problem Link: https://leetcode.com/problems/substring-with-concatenation-of-all-words
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
@@ -688,7 +811,12 @@ class Solution:
                 res.append(i)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -725,22 +853,37 @@ public:
 };
 ```
 
+</details>
+
 ### rearrange string k distance apart:
 Problem Link: https://leetcode.com/problems/rearrange-string-k-distance-apart
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
 
+</details>
+
 ### course schedule iii:
 Problem Link: https://leetcode.com/problems/course-schedule-iii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 import queue
 
@@ -756,7 +899,12 @@ class Solution:
                 now += max_heap.get()
         return max_heap.qsize()
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -779,10 +927,15 @@ public:
 };
 ```
 
+</details>
+
 ### maximum frequency stack:
 Problem Link: https://leetcode.com/problems/maximum-frequency-stack
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class FreqStack:
     def __init__(self):
@@ -806,7 +959,12 @@ class FreqStack:
             self.max_freq -= 1
         return x
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class FreqStack {
     map<int, int> cnt;
@@ -832,22 +990,37 @@ public:
 };
 ```
 
+</details>
+
 ### alien dictionary:
 Problem Link: https://leetcode.com/problems/alien-dictionary
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
 
+</details>
+
 ### binary tree maximum path sum:
 Problem Link: https://leetcode.com/problems/binary-tree-maximum-path-sum
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
@@ -864,7 +1037,12 @@ class Solution:
         dfs(root)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int res;
@@ -886,10 +1064,15 @@ public:
 };
 ```
 
+</details>
+
 ### serialize and deserialize binary tree:
 Problem Link: https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Codec:
     def serialize(self, root):
@@ -921,7 +1104,12 @@ class Codec:
         i = 0
         return dfs()
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Codec {
     vector<string> vals;
@@ -967,10 +1155,15 @@ public:
 };
 ```
 
+</details>
+
 ### word search ii:
 Problem Link: https://leetcode.com/problems/word-search-ii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Trie:
     class TrieNode:
@@ -1033,7 +1226,12 @@ class Solution:
                 dfs(r, c, t.root, "")
         return list(res)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class TrieNode {
 public:
@@ -1118,10 +1316,15 @@ public:
 };
 ```
 
+</details>
+
 ### find median from data stream:
 Problem Link: https://leetcode.com/problems/find-median-from-data-stream
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 import queue
 
@@ -1153,7 +1356,12 @@ class MedianFinder:
         else:
             return (l+r)/2
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class MedianFinder {
     priority_queue<int> max_heap;
@@ -1191,10 +1399,15 @@ public:
 };
 ```
 
+</details>
+
 ### sliding window median:
 Problem Link: https://leetcode.com/problems/sliding-window-median/submissions
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def medianSlidingWindow(self, nums: List[int], k: int) -> List[float]:
@@ -1217,7 +1430,12 @@ class Solution:
             window.remove(nums[i-k+1])
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int binary_search(vector<int> arr, int x) {
@@ -1247,10 +1465,15 @@ public:
 };
 ```
 
+</details>
+
 ### trapping rain water:
 Problem Link: https://leetcode.com/problems/trapping-rain-water
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def trap(self, height: List[int]) -> int:
@@ -1270,7 +1493,12 @@ class Solution:
                 res += r_max - height[r]
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1297,10 +1525,15 @@ public:
 };
 ```
 
+</details>
+
 ### concatenated words:
 Problem Link: https://leetcode.com/problems/concatenated-words
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findAllConcatenatedWordsInADict(self, words: List[str]) -> List[str]:
@@ -1320,7 +1553,12 @@ class Solution:
                     break
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1348,10 +1586,15 @@ public:
 };
 ```
 
+</details>
+
 ### prefix and suffix search:
 Problem Link: https://leetcode.com/problems/prefix-and-suffix-search
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Trie(object):
     class TrieNode:
@@ -1403,7 +1646,12 @@ class WordFilter:
                 return pref_idx[i]
         return -1
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Trie {
     class TrieNode {
@@ -1455,10 +1703,15 @@ public:
 };
 ```
 
+</details>
+
 ### palindrome pairs:
 Problem Link: https://leetcode.com/problems/palindrome-pairs
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def palindromePairs(self, words: List[str]) -> List[List[int]]:
@@ -1489,7 +1742,12 @@ class Solution:
                     res.append((idx[pref], i))
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     bool is_palindrome(string &s, int i, int j) {
@@ -1532,46 +1790,81 @@ public:
 };
 ```
 
+</details>
+
 ### design search autocomplete system:
 Problem Link: https://leetcode.com/problems/design-search-autocomplete-system
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
+
+</details>
 
 ### word squares:
 Problem Link: https://leetcode.com/problems/word-squares
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
+
+</details>
 
 ### sort items by groups respecting dependencies:
 Problem Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
 
+</details>
+
 ### median of two sorted arrays:
 Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
@@ -1595,7 +1888,12 @@ class Solution:
         return (findKth(nums1, nums2, (n+m+1) // 2) +
                 findKth(nums1, nums2, (n+m+2) // 2)) / 2.0
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/hard-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1624,3 +1922,5 @@ public:
     }
 };
 ```
+
+</details>
