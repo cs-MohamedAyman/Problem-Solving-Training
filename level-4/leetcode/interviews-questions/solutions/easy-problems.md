@@ -1,6 +1,6 @@
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
-# LeetCode OJ - Interviews Questions - Easy Problems Solutions
+# LeetCode OJ - Interviews Questions - Easy Problems
 
 ## contains duplicate:
 Problem Link: https://leetcode.com/problems/contains-duplicate
