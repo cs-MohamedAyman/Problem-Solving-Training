@@ -1,11 +1,14 @@
-<img align="right" width="80" src="/logos/leetcode.jpg"></img>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
-## LeetCode OJ - Phase 4 Interviews Questions - Medium Problems I
+## LeetCode OJ - Interviews Questions - Medium Problems I Solutions
 
 ### product of array except self:
 Problem Link: https://leetcode.com/problems/product-of-array-except-self
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
@@ -18,7 +21,12 @@ class Solution:
             prod *= nums[i]
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -36,10 +44,15 @@ public:
 };
 ```
 
+</details>
+
 ### find the duplicate number:
 Problem Link: https://leetcode.com/problems/find-the-duplicate-number
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
@@ -57,7 +70,12 @@ class Solution:
             p2 = nums[p2]
         return p1
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -81,10 +99,15 @@ public:
 };
 ```
 
+</details>
+
 ### find all duplicates in an array:
 Problem Link: https://leetcode.com/problems/find-all-duplicates-in-an-array
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
@@ -96,7 +119,12 @@ class Solution:
                 res.append(abs(nums[i]))
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -113,10 +141,15 @@ public:
 };
 ```
 
+</details>
+
 ### set matrix zeroes:
 Problem Link: https://leetcode.com/problems/set-matrix-zeroes
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
@@ -132,7 +165,12 @@ class Solution:
                 if zero_rows[i] or zero_cols[j]:
                     matrix[i][j] = 0
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -156,10 +194,15 @@ public:
 };
 ```
 
+</details>
+
 ### spiral matrix:
 Problem Link: https://leetcode.com/problems/spiral-matrix
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
@@ -181,7 +224,12 @@ class Solution:
                     curr_dir = (curr_dir + 1) % 4
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -210,10 +258,15 @@ public:
 };
 ```
 
+</details>
+
 ### rotate image:
 Problem Link: https://leetcode.com/problems/rotate-image
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
@@ -226,7 +279,12 @@ class Solution:
                 matrix[n-i-1][n-j-1] = matrix[j][n-i-1]
                 matrix[j][n-i-1]     = k
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -245,10 +303,15 @@ public:
 };
 ```
 
+</details>
+
 ### word search:
 Problem Link: https://leetcode.com/problems/word-search
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
@@ -274,7 +337,12 @@ class Solution:
                     return True
         return False
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int n, m;
@@ -312,10 +380,15 @@ public:
 ```
 `TODO` RUN-TIME ERROR
 
+</details>
+
 ### longest consecutive sequence:
 Problem Link: https://leetcode.com/problems/longest-consecutive-sequence
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
@@ -330,7 +403,12 @@ class Solution:
             longest_len = max(longest_len, curr_len)
         return longest_len
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -350,10 +428,15 @@ public:
 };
 ```
 
+</details>
+
 ### letter case permutation:
 Problem Link: https://leetcode.com/problems/letter-case-permutation
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
@@ -368,7 +451,12 @@ class Solution:
         generate_permutation(0, '')
         return list(res)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     set<string> res;
@@ -390,10 +478,15 @@ public:
 };
 ```
 
+</details>
+
 ### subsets:
 Problem Link: https://leetcode.com/problems/subsets
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
@@ -407,7 +500,12 @@ class Solution:
             res.append(curr_list)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -426,10 +524,15 @@ public:
 };
 ```
 
+</details>
+
 ### subsets ii:
 Problem Link: https://leetcode.com/problems/subsets-ii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
@@ -443,7 +546,12 @@ class Solution:
             res.add(tuple(sorted(curr_list)))
         return list(res)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -464,10 +572,15 @@ public:
 };
 ```
 
+</details>
+
 ### permutations:
 Problem Link: https://leetcode.com/problems/permutations
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
@@ -485,7 +598,12 @@ class Solution:
 
         return generate_permutation(nums)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<vector<int>> generate_permutation(vector<int> arr) {
@@ -516,10 +634,15 @@ public:
 };
 ```
 
+</details>
+
 ### permutations ii:
 Problem Link: https://leetcode.com/problems/permutations-ii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
@@ -538,7 +661,12 @@ class Solution:
         res = list(set(tuple(i) for i in generate_permutation(nums)))
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<vector<int>> generate_permutation(vector<int> arr) {
@@ -573,10 +701,15 @@ public:
 };
 ```
 
+</details>
+
 ### combinations:
 Problem Link: https://leetcode.com/problems/combinations
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
@@ -593,7 +726,12 @@ class Solution:
         generate_combinations(1, [])
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<vector<int>> res;
@@ -617,10 +755,15 @@ public:
 };
 ```
 
+</details>
+
 ### combination sum:
 Problem Link: https://leetcode.com/problems/combination-sum
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
@@ -639,7 +782,12 @@ class Solution:
         generate_combinations(0, [], 0)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<vector<int>> res;
@@ -665,10 +813,15 @@ public:
 };
 ```
 
+</details>
+
 ### combination sum ii:
 Problem Link: https://leetcode.com/problems/combination-sum-ii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
@@ -692,7 +845,12 @@ class Solution:
         generate_combinations(0, [], 0)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     set<vector<int>> res;
@@ -724,10 +882,15 @@ public:
 };
 ```
 
+</details>
+
 ### combination sum iii:
 Problem Link: https://leetcode.com/problems/combination-sum-iii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
@@ -746,7 +909,12 @@ class Solution:
         generate_combinations(1, [], 0)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<vector<int>> res;
@@ -773,10 +941,15 @@ public:
 };
 ```
 
+</details>
+
 ### generate parentheses:
 Problem Link: https://leetcode.com/problems/generate-parentheses
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
@@ -793,7 +966,12 @@ class Solution:
         generate(0, 0, '')
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<string> res;
@@ -816,10 +994,15 @@ public:
 };
 ```
 
+</details>
+
 ### target sum:
 Problem Link: https://leetcode.com/problems/target-sum
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
@@ -836,7 +1019,12 @@ class Solution:
         memo = [[-1 for i in range(N*2)] for j in range(23)]
         return dp(0, 0)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     static const int N = 2e4+3;
@@ -859,10 +1047,15 @@ public:
 };
 ```
 
+</details>
+
 ### palindrome partitioning:
 Problem Link: https://leetcode.com/problems/palindrome-partitioning
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
@@ -884,7 +1077,12 @@ class Solution:
         dfs(0)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<vector<string>> res;
@@ -916,10 +1114,15 @@ public:
 };
 ```
 
+</details>
+
 ### letter combinations of a phone number:
 Problem Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
@@ -937,7 +1140,12 @@ class Solution:
             generate_letters(0, '')
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     vector<string> res;
@@ -961,22 +1169,37 @@ public:
 };
 ```
 
+</details>
+
 ### generalized abbreviation:
 Problem Link: https://leetcode.com/problems/generalized-abbreviation
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 
 ```
 
+</details>
+
 ### house robber:
 Problem Link: https://leetcode.com/problems/house-robber
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def rob(self, nums: List[int]) -> int:
@@ -987,7 +1210,12 @@ class Solution:
             res2 = temp
         return res2
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1003,10 +1231,15 @@ public:
 };
 ```
 
+</details>
+
 ### house robber ii:
 Problem Link: https://leetcode.com/problems/house-robber-ii
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def rob(self, nums: List[int]) -> int:
@@ -1022,7 +1255,12 @@ class Solution:
             return nums[0]
         return max(rob_subarray(nums[1:]), rob_subarray(nums[:-1]))
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int rob_subarray(vector<int> nums) {
@@ -1044,10 +1282,15 @@ public:
 };
 ```
 
+</details>
+
 ### coin change:
 Problem Link: https://leetcode.com/problems/coin-change
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
@@ -1061,7 +1304,12 @@ class Solution:
             dp[amount] = -1
         return dp[amount]
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1081,10 +1329,15 @@ public:
 };
 ```
 
+</details>
+
 ### maximum product subarray:
 Problem Link: https://leetcode.com/problems/maximum-product-subarray
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
@@ -1097,7 +1350,12 @@ class Solution:
             res = max(res, curr_min, curr_max)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1116,10 +1374,15 @@ public:
 };
 ```
 
+</details>
+
 ### longest increasing subsequence:
 Problem Link: https://leetcode.com/problems/longest-increasing-subsequence
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
@@ -1130,7 +1393,12 @@ class Solution:
                     res[i] = max(res[i], res[j]+1)
         return max(res)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1147,10 +1415,15 @@ public:
 };
 ```
 
+</details>
+
 ### longest palindromic substring:
 Problem Link: https://leetcode.com/problems/longest-palindromic-substring
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def longestPalindrome(self, s: str) -> str:
@@ -1171,7 +1444,12 @@ class Solution:
         res2 = get_longest(1)
         return res1 if len(res1) > len(res2) else res2
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     string get_longest(bool size_type, string &s) {
@@ -1200,10 +1478,15 @@ public:
 };
 ```
 
+</details>
+
 ### word break:
 Problem Link: https://leetcode.com/problems/word-break
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
@@ -1215,7 +1498,12 @@ class Solution:
                     dp[i] = dp[i+len(w)]
         return dp[0]
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1233,10 +1521,15 @@ public:
 };
 ```
 
+</details>
+
 ### combination sum iv:
 Problem Link: https://leetcode.com/problems/combination-sum-iv
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def combinationSum4(self, nums: List[int], target: int) -> int:
@@ -1248,7 +1541,12 @@ class Solution:
                 dp[i+N] += dp[i-j+N]
         return dp[target+N]
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     static const int N = int(1e3+1);
@@ -1267,10 +1565,15 @@ public:
 ```
 `TODO` RUN-TIME ERROR
 
+</details>
+
 ### decode ways:
 Problem Link: https://leetcode.com/problems/decode-ways
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def numDecodings(self, s: str) -> int:
@@ -1289,7 +1592,12 @@ class Solution:
         memo[len(s)] = 1
         return dp(0)
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int memo[101];
@@ -1314,10 +1622,15 @@ public:
 };
 ```
 
+</details>
+
 ### unique paths:
 Problem Link: https://leetcode.com/problems/unique-paths
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
@@ -1329,7 +1642,12 @@ class Solution:
                 memo[i][j] = memo[i][j+1] + memo[i+1][j]
         return memo[0][0]
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1347,10 +1665,15 @@ public:
 };
 ```
 
+</details>
+
 ### Jump Game:
 Problem Link: https://leetcode.com/problems/jump-game
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
@@ -1360,7 +1683,12 @@ class Solution:
                 res = i
         return res == 0
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
@@ -1375,10 +1703,15 @@ public:
 };
 ```
 
+</details>
+
 ### palindromic substrings:
 Problem Link: https://leetcode.com/problems/palindromic-substrings
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def countSubstrings(self, s: str) -> int:
@@ -1396,7 +1729,12 @@ class Solution:
             res += count_pali(s, i, i+1)
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
     int count_pali(string s, int l, int r) {
@@ -1420,10 +1758,15 @@ public:
 };
 ```
 
+</details>
+
 ### number of longest increasing subsequence:
 Problem Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
-#### - Python Solution
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
 ```python
 class Solution:
     def findNumberOfLIS(self, nums: List[int]) -> int:
@@ -1446,7 +1789,12 @@ class Solution:
             dp[i] = [max_len, max_cnt]
         return res
 ```
-#### - CPP Solution
+
+</details>
+<a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
 ```cpp
 class Solution {
 public:
