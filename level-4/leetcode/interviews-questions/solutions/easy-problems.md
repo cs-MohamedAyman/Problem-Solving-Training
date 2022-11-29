@@ -1,8 +1,8 @@
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
-## LeetCode OJ - Interviews Questions - Easy Problems Solutions
+# LeetCode OJ - Interviews Questions - Easy Problems Solutions
 
-### contains duplicate:
+## contains duplicate:
 Problem Link: https://leetcode.com/problems/contains-duplicate
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -32,7 +32,7 @@ public:
 
 </details>
 
-### missing number:
+## missing number:
 Problem Link: https://leetcode.com/problems/missing-number
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -63,7 +63,7 @@ public:
 
 </details>
 
-### find all numbers disappeared in an array:
+## find all numbers disappeared in an array:
 Problem Link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -103,7 +103,7 @@ public:
 
 </details>
 
-### single number:
+## single number:
 Problem Link: https://leetcode.com/problems/single-number
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -145,7 +145,7 @@ public:
 
 </details>
 
-### climbing stairs:
+## climbing stairs:
 Problem Link: https://leetcode.com/problems/climbing-stairs
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -182,7 +182,7 @@ public:
 
 </details>
 
-### best time to buy and sell stock:
+## best time to buy and sell stock:
 Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -229,7 +229,7 @@ public:
 
 </details>
 
-### maximum subarray:
+## maximum subarray:
 Problem Link: https://leetcode.com/problems/maximum-subarray
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -271,7 +271,7 @@ public:
 
 </details>
 
-### range sum query immutable:
+## range sum query immutable:
 Problem Link: https://leetcode.com/problems/range-sum-query-immutable
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -313,7 +313,7 @@ public:
 
 </details>
 
-### counting bits:
+## counting bits:
 Problem Link: https://leetcode.com/problems/counting-bits
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -360,7 +360,7 @@ public:
 
 </details>
 
-### linked list cycle:
+## linked list cycle:
 Problem Link: https://leetcode.com/problems/linked-list-cycle
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -404,7 +404,7 @@ public:
 
 </details>
 
-### middle of the linked list:
+## middle of the linked list:
 Problem Link: https://leetcode.com/problems/middle-of-the-linked-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -444,7 +444,7 @@ public:
 
 </details>
 
-### palindrome linked list:
+## palindrome linked list:
 Problem Link: https://leetcode.com/problems/palindrome-linked-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -501,7 +501,7 @@ public:
 
 </details>
 
-### remove linked list elements:
+## remove linked list elements:
 Problem Link: https://leetcode.com/problems/remove-linked-list-elements
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -557,7 +557,7 @@ public:
 
 </details>
 
-### remove duplicates from sorted list:
+## remove duplicates from sorted list:
 Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -604,7 +604,7 @@ public:
 
 </details>
 
-### reverse linked list:
+## reverse linked list:
 Problem Link: https://leetcode.com/problems/reverse-linked-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -656,7 +656,7 @@ public:
 
 </details>
 
-### merge two sorted lists:
+## merge two sorted lists:
 Problem Link: https://leetcode.com/problems/merge-two-sorted-lists
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -714,7 +714,7 @@ public:
 
 </details>
 
-### meeting rooms:
+## meeting rooms:
 Problem Link: https://leetcode.com/problems/meeting-rooms
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -736,7 +736,7 @@ Problem Link: https://leetcode.com/problems/meeting-rooms
 
 </details>
 
-### binary search:
+## binary search:
 Problem Link: https://leetcode.com/problems/binary-search
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -784,7 +784,7 @@ public:
 
 </details>
 
-### find smallest letter greater than target:
+## find smallest letter greater than target:
 Problem Link: https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -828,7 +828,7 @@ public:
 
 </details>
 
-### peak index in a mountain array:
+## peak index in a mountain array:
 Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -872,7 +872,7 @@ public:
 
 </details>
 
-### average of levels in binary tree:
+## average of levels in binary tree:
 Problem Link: https://leetcode.com/problems/average-of-levels-in-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -933,7 +933,7 @@ public:
 
 </details>
 
-### minimum depth of binary tree:
+## minimum depth of binary tree:
 Problem Link: https://leetcode.com/problems/minimum-depth-of-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -980,7 +980,7 @@ public:
 
 </details>
 
-### same tree:
+## same tree:
 Problem Link: https://leetcode.com/problems/same-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1027,7 +1027,7 @@ public:
 
 </details>
 
-### path sum:
+## path sum:
 Problem Link: https://leetcode.com/problems/path-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1082,7 +1082,7 @@ public:
 
 </details>
 
-### maximum depth of binary tree:
+## maximum depth of binary tree:
 Problem Link: https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1121,7 +1121,7 @@ public:
 
 </details>
 
-### diameter of binary tree:
+## diameter of binary tree:
 Problem Link: https://leetcode.com/problems/diameter-of-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1172,7 +1172,7 @@ public:
 
 </details>
 
-### merge two binary trees:
+## merge two binary trees:
 Problem Link: https://leetcode.com/problems/merge-two-binary-trees
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1227,7 +1227,7 @@ public:
 
 </details>
 
-### lowest common ancestor of a binary search tree:
+## lowest common ancestor of a binary search tree:
 Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1278,7 +1278,7 @@ public:
 
 </details>
 
-### subtree of another tree:
+## subtree of another tree:
 Problem Link: https://leetcode.com/problems/subtree-of-another-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1339,7 +1339,7 @@ public:
 
 </details>
 
-### invert binary tree:
+## invert binary tree:
 Problem Link: https://leetcode.com/problems/invert-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1386,7 +1386,7 @@ public:
 
 </details>
 
-### two sum:
+## two sum:
 Problem Link: https://leetcode.com/problems/two-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1438,7 +1438,7 @@ public:
 
 </details>
 
-### squares of a sorted array:
+## squares of a sorted array:
 Problem Link: https://leetcode.com/problems/squares-of-a-sorted-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1471,7 +1471,7 @@ public:
 
 </details>
 
-### backspace string compare:
+## backspace string compare:
 Problem Link: https://leetcode.com/problems/backspace-string-compare
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1555,7 +1555,7 @@ public:
 
 </details>
 
-### index pairs of a string:
+## index pairs of a string:
 Problem Link: https://leetcode.com/problems/index-pairs-of-a-string
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1577,7 +1577,7 @@ Problem Link: https://leetcode.com/problems/index-pairs-of-a-string
 
 </details>
 
-### majority element:
+## majority element:
 Problem Link: https://leetcode.com/problems/majority-element
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1619,7 +1619,7 @@ public:
 
 </details>
 
-### convert 1d array into 2d array:
+## convert 1d array into 2d array:
 Problem Link: https://leetcode.com/problems/convert-1d-array-into-2d-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
