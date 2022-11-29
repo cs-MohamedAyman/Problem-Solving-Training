@@ -16,7 +16,7 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/3-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/codeforces/phase-3-1"><img src="/logos/codeforces.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/codeforces/phase-3-2"><img src="/logos/codeforces.jpg"></img></a></td>
 <td align="left">Codeforces<a href="/level-3/codeforces/phase-3-1"> phase-3-1</a></td>
@@ -82,7 +82,7 @@
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.jpg"></img></a></td>
+<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/3-weeks.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/codeforces/phase-3-3"><img src="/logos/codeforces.jpg"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-3/codeforces/phase-3-4"><img src="/logos/codeforces.jpg"></img></a></td>
 <td align="left">Codeforces<a href="/level-3/codeforces/phase-3-3"> phase-3-3</a></td>
