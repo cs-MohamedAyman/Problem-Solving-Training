@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.jpg"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Phase 4 Interviews Questions `170 problems` `80 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Interviews Questions `170 problems` `80 hrs`
 
 ### Table of Content
 
