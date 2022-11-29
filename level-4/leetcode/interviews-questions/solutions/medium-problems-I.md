@@ -1,6 +1,6 @@
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
 
-# LeetCode OJ - Interviews Questions - Medium Problems I Solutions
+# LeetCode OJ - Interviews Questions - Medium Problems I
 
 ## product of array except self:
 Problem Link: https://leetcode.com/problems/product-of-array-except-self
