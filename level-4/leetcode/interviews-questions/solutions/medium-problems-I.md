@@ -2,7 +2,7 @@
 
 # LeetCode OJ - Interviews Questions - Medium Problems I
 
-## product of array except self:
+## product of array except self
 Problem Link: https://leetcode.com/problems/product-of-array-except-self
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -46,7 +46,7 @@ public:
 
 </details>
 
-## find the duplicate number:
+## find the duplicate number
 Problem Link: https://leetcode.com/problems/find-the-duplicate-number
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -101,7 +101,7 @@ public:
 
 </details>
 
-## find all duplicates in an array:
+## find all duplicates in an array
 Problem Link: https://leetcode.com/problems/find-all-duplicates-in-an-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -143,7 +143,7 @@ public:
 
 </details>
 
-## set matrix zeroes:
+## set matrix zeroes
 Problem Link: https://leetcode.com/problems/set-matrix-zeroes
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -196,7 +196,7 @@ public:
 
 </details>
 
-## spiral matrix:
+## spiral matrix
 Problem Link: https://leetcode.com/problems/spiral-matrix
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -260,7 +260,7 @@ public:
 
 </details>
 
-## rotate image:
+## rotate image
 Problem Link: https://leetcode.com/problems/rotate-image
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -305,7 +305,7 @@ public:
 
 </details>
 
-## word search:
+## word search
 Problem Link: https://leetcode.com/problems/word-search
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -382,7 +382,7 @@ public:
 
 </details>
 
-## longest consecutive sequence:
+## longest consecutive sequence
 Problem Link: https://leetcode.com/problems/longest-consecutive-sequence
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -430,7 +430,7 @@ public:
 
 </details>
 
-## letter case permutation:
+## letter case permutation
 Problem Link: https://leetcode.com/problems/letter-case-permutation
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -480,7 +480,7 @@ public:
 
 </details>
 
-## subsets:
+## subsets
 Problem Link: https://leetcode.com/problems/subsets
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -526,7 +526,7 @@ public:
 
 </details>
 
-## subsets ii:
+## subsets ii
 Problem Link: https://leetcode.com/problems/subsets-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -574,7 +574,7 @@ public:
 
 </details>
 
-## permutations:
+## permutations
 Problem Link: https://leetcode.com/problems/permutations
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -636,7 +636,7 @@ public:
 
 </details>
 
-## permutations ii:
+## permutations ii
 Problem Link: https://leetcode.com/problems/permutations-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -703,7 +703,7 @@ public:
 
 </details>
 
-## combinations:
+## combinations
 Problem Link: https://leetcode.com/problems/combinations
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -757,7 +757,7 @@ public:
 
 </details>
 
-## combination sum:
+## combination sum
 Problem Link: https://leetcode.com/problems/combination-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -815,7 +815,7 @@ public:
 
 </details>
 
-## combination sum ii:
+## combination sum ii
 Problem Link: https://leetcode.com/problems/combination-sum-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -884,7 +884,7 @@ public:
 
 </details>
 
-## combination sum iii:
+## combination sum iii
 Problem Link: https://leetcode.com/problems/combination-sum-iii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -943,7 +943,7 @@ public:
 
 </details>
 
-## generate parentheses:
+## generate parentheses
 Problem Link: https://leetcode.com/problems/generate-parentheses
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -996,7 +996,7 @@ public:
 
 </details>
 
-## target sum:
+## target sum
 Problem Link: https://leetcode.com/problems/target-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1049,7 +1049,7 @@ public:
 
 </details>
 
-## palindrome partitioning:
+## palindrome partitioning
 Problem Link: https://leetcode.com/problems/palindrome-partitioning
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1116,7 +1116,7 @@ public:
 
 </details>
 
-## letter combinations of a phone number:
+## letter combinations of a phone number
 Problem Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1171,7 +1171,7 @@ public:
 
 </details>
 
-## generalized abbreviation:
+## generalized abbreviation
 Problem Link: https://leetcode.com/problems/generalized-abbreviation
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1193,7 +1193,7 @@ Problem Link: https://leetcode.com/problems/generalized-abbreviation
 
 </details>
 
-## house robber:
+## house robber
 Problem Link: https://leetcode.com/problems/house-robber
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1233,7 +1233,7 @@ public:
 
 </details>
 
-## house robber ii:
+## house robber ii
 Problem Link: https://leetcode.com/problems/house-robber-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1284,7 +1284,7 @@ public:
 
 </details>
 
-## coin change:
+## coin change
 Problem Link: https://leetcode.com/problems/coin-change
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1331,7 +1331,7 @@ public:
 
 </details>
 
-## maximum product subarray:
+## maximum product subarray
 Problem Link: https://leetcode.com/problems/maximum-product-subarray
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1376,7 +1376,7 @@ public:
 
 </details>
 
-## longest increasing subsequence:
+## longest increasing subsequence
 Problem Link: https://leetcode.com/problems/longest-increasing-subsequence
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1417,7 +1417,7 @@ public:
 
 </details>
 
-## longest palindromic substring:
+## longest palindromic substring
 Problem Link: https://leetcode.com/problems/longest-palindromic-substring
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1480,7 +1480,7 @@ public:
 
 </details>
 
-## word break:
+## word break
 Problem Link: https://leetcode.com/problems/word-break
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1523,7 +1523,7 @@ public:
 
 </details>
 
-## combination sum iv:
+## combination sum iv
 Problem Link: https://leetcode.com/problems/combination-sum-iv
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1567,7 +1567,7 @@ public:
 
 </details>
 
-## decode ways:
+## decode ways
 Problem Link: https://leetcode.com/problems/decode-ways
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1624,7 +1624,7 @@ public:
 
 </details>
 
-## unique paths:
+## unique paths
 Problem Link: https://leetcode.com/problems/unique-paths
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1667,7 +1667,7 @@ public:
 
 </details>
 
-## Jump Game:
+## Jump Game
 Problem Link: https://leetcode.com/problems/jump-game
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1705,7 +1705,7 @@ public:
 
 </details>
 
-## palindromic substrings:
+## palindromic substrings
 Problem Link: https://leetcode.com/problems/palindromic-substrings
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1760,7 +1760,7 @@ public:
 
 </details>
 
-## number of longest increasing subsequence:
+## number of longest increasing subsequence
 Problem Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>

@@ -2,7 +2,7 @@
 
 # LeetCode OJ - Interviews Questions - Medium Problems II
 
-## partition equal subset sum:
+## partition equal subset sum
 Problem Link: https://leetcode.com/problems/partition-equal-subset-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -54,7 +54,7 @@ public:
 
 </details>
 
-## partition to k equal sum subsets:
+## partition to k equal sum subsets
 Problem Link: https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -132,7 +132,7 @@ public:
 
 </details>
 
-## best time to buy and sell stock with cooldown:
+## best time to buy and sell stock with cooldown
 Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -188,7 +188,7 @@ public:
 
 </details>
 
-## linked list cycle ii:
+## linked list cycle ii
 Problem Link: https://leetcode.com/problems/linked-list-cycle-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -252,7 +252,7 @@ public:
 
 </details>
 
-## add two numbers:
+## add two numbers
 Problem Link: https://leetcode.com/problems/add-two-numbers
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -302,7 +302,7 @@ public:
 
 </details>
 
-## remove nth node from end of list:
+## remove nth node from end of list
 Problem Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -353,7 +353,7 @@ public:
 
 </details>
 
-## sort list:
+## sort list
 Problem Link: https://leetcode.com/problems/sort-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -458,7 +458,7 @@ public:
 
 </details>
 
-## reorder list:
+## reorder list
 Problem Link: https://leetcode.com/problems/reorder-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -573,7 +573,7 @@ public:
 
 </details>
 
-## clone graph:
+## clone graph
 Problem Link: https://leetcode.com/problems/clone-graph
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -623,7 +623,7 @@ public:
 
 </details>
 
-## pacific atlantic water flow:
+## pacific atlantic water flow
 Problem Link: https://leetcode.com/problems/pacific-atlantic-water-flow
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -698,7 +698,7 @@ public:
 
 </details>
 
-## number of islands:
+## number of islands
 Problem Link: https://leetcode.com/problems/number-of-islands
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -766,7 +766,7 @@ public:
 
 </details>
 
-## graph valid tree:
+## graph valid tree
 Problem Link: https://leetcode.com/problems/graph-valid-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -788,7 +788,7 @@ Problem Link: https://leetcode.com/problems/graph-valid-tree
 
 </details>
 
-## number of connected components in an undirected graph:
+## number of connected components in an undirected graph
 Problem Link: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -810,7 +810,7 @@ Problem Link: https://leetcode.com/problems/number-of-connected-components-in-an
 
 </details>
 
-## reverse linked list ii:
+## reverse linked list ii
 Problem Link: https://leetcode.com/problems/reverse-linked-list-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -867,7 +867,7 @@ public:
 
 </details>
 
-## rotate list:
+## rotate list
 Problem Link: https://leetcode.com/problems/rotate-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -951,7 +951,7 @@ public:
 
 </details>
 
-## swap nodes in pairs:
+## swap nodes in pairs
 Problem Link: https://leetcode.com/problems/swap-nodes-in-pairs
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1001,7 +1001,7 @@ public:
 
 </details>
 
-## odd even linked list:
+## odd even linked list
 Problem Link: https://leetcode.com/problems/odd-even-linked-list
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1053,7 +1053,7 @@ public:
 
 </details>
 
-## kth smallest element in a sorted matrix:
+## kth smallest element in a sorted matrix
 Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1133,7 +1133,7 @@ public:
 
 </details>
 
-## find k pairs with smallest sums:
+## find k pairs with smallest sums
 Problem Link: https://leetcode.com/problems/find-k-pairs-with-smallest-sums
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1205,7 +1205,7 @@ public:
 
 </details>
 
-## merge intervals:
+## merge intervals
 Problem Link: https://leetcode.com/problems/merge-intervals
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1251,7 +1251,7 @@ public:
 
 </details>
 
-## Interval List Intersections:
+## Interval List Intersections
 Problem Link: https://leetcode.com/problems/interval-list-intersections
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1305,7 +1305,7 @@ public:
 
 </details>
 
-## non overlapping intervals:
+## non overlapping intervals
 Problem Link: https://leetcode.com/problems/non-overlapping-intervals
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1354,7 +1354,7 @@ public:
 
 </details>
 
-## meeting rooms ii:
+## meeting rooms ii
 Problem Link: https://leetcode.com/problems/meeting-rooms-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1376,7 +1376,7 @@ Problem Link: https://leetcode.com/problems/meeting-rooms-ii
 
 </details>
 
-## task scheduler:
+## task scheduler
 Problem Link: https://leetcode.com/problems/task-scheduler
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1425,7 +1425,7 @@ public:
 
 </details>
 
-## minimum number of arrows to burst balloons:
+## minimum number of arrows to burst balloons
 Problem Link: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1474,7 +1474,7 @@ public:
 
 </details>
 
-## insert interval:
+## insert interval
 Problem Link: https://leetcode.com/problems/insert-interval
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1532,7 +1532,7 @@ public:
 
 </details>
 
-## find minimum in rotated sorted array:
+## find minimum in rotated sorted array
 Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1576,7 +1576,7 @@ public:
 
 </details>
 
-## find peak element:
+## find peak element
 Problem Link: https://leetcode.com/problems/find-peak-element
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1620,7 +1620,7 @@ public:
 
 </details>
 
-## search in rotated sorted array:
+## search in rotated sorted array
 Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1682,7 +1682,7 @@ public:
 
 </details>
 
-## search in rotated sorted array ii:
+## search in rotated sorted array ii
 Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1748,7 +1748,7 @@ public:
 
 </details>
 
-## search a 2d matrix:
+## search a 2d matrix
 Problem Link: https://leetcode.com/problems/search-a-2d-matrix
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1800,7 +1800,7 @@ public:
 
 </details>
 
-## search a 2d matrix ii:
+## search a 2d matrix ii
 Problem Link: https://leetcode.com/problems/search-a-2d-matrix-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1848,7 +1848,7 @@ public:
 
 </details>
 
-## find k closest elements:
+## find k closest elements
 Problem Link: https://leetcode.com/problems/find-k-closest-elements
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1893,7 +1893,7 @@ public:
 
 </details>
 
-## minimum size subarray sum:
+## minimum size subarray sum
 Problem Link: https://leetcode.com/problems/minimum-size-subarray-sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1938,7 +1938,7 @@ public:
 
 </details>
 
-## fruit into baskets:
+## fruit into baskets
 Problem Link: https://leetcode.com/problems/fruit-into-baskets
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>

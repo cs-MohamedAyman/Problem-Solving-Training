@@ -2,7 +2,7 @@
 
 # LeetCode OJ - Interviews Questions - Medium Problems III
 
-## permutation in string:
+## permutation in string
 Problem Link: https://leetcode.com/problems/permutation-in-string
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -84,7 +84,7 @@ public:
 
 </details>
 
-## longest repeating character replacement:
+## longest repeating character replacement
 Problem Link: https://leetcode.com/problems/longest-repeating-character-replacement
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -133,7 +133,7 @@ public:
 
 </details>
 
-## longest substring without repeating characters:
+## longest substring without repeating characters
 Problem Link: https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -180,7 +180,7 @@ public:
 
 </details>
 
-## kth smallest element in a bst:
+## kth smallest element in a bst
 Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-bst
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -234,7 +234,7 @@ public:
 
 </details>
 
-## k closest points to origin:
+## k closest points to origin
 Problem Link: https://leetcode.com/problems/k-closest-points-to-origin
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -287,7 +287,7 @@ public:
 
 </details>
 
-## top k frequent elements:
+## top k frequent elements
 Problem Link: https://leetcode.com/problems/top-k-frequent-elements
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -340,7 +340,7 @@ public:
 
 </details>
 
-## sort characters by frequency:
+## sort characters by frequency
 Problem Link: https://leetcode.com/problems/sort-characters-by-frequency
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -393,7 +393,7 @@ public:
 
 </details>
 
-## kth largest element in an array:
+## kth largest element in an array
 Problem Link: https://leetcode.com/problems/kth-largest-element-in-an-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -463,7 +463,7 @@ public:
 
 </details>
 
-## reorganize string:
+## reorganize string
 Problem Link: https://leetcode.com/problems/reorganize-string
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -537,7 +537,7 @@ public:
 
 </details>
 
-## course schedule:
+## course schedule
 Problem Link: https://leetcode.com/problems/course-schedule
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -608,7 +608,7 @@ public:
 
 </details>
 
-## course schedule ii:
+## course schedule ii
 Problem Link: https://leetcode.com/problems/course-schedule-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -684,7 +684,7 @@ public:
 
 </details>
 
-## minimum height trees:
+## minimum height trees
 Problem Link: https://leetcode.com/problems/minimum-height-trees
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -767,7 +767,7 @@ public:
 
 </details>
 
-## sequence reconstruction:
+## sequence reconstruction
 Problem Link: https://leetcode.com/problems/sequence-reconstruction
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -789,7 +789,7 @@ Problem Link: https://leetcode.com/problems/sequence-reconstruction
 
 </details>
 
-## binary tree level order traversal ii:
+## binary tree level order traversal ii
 Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -853,7 +853,7 @@ public:
 
 </details>
 
-## binary tree level order traversal:
+## binary tree level order traversal
 Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -915,7 +915,7 @@ public:
 
 </details>
 
-## binary tree zigzag level order traversal:
+## binary tree zigzag level order traversal
 Problem Link: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -986,7 +986,7 @@ public:
 
 </details>
 
-## populating next right pointers in each node:
+## populating next right pointers in each node
 Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1052,7 +1052,7 @@ public:
 
 </details>
 
-## populating next right pointers in each node ii:
+## populating next right pointers in each node ii
 Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1114,7 +1114,7 @@ public:
 
 </details>
 
-## binary tree right side view:
+## binary tree right side view
 Problem Link: https://leetcode.com/problems/binary-tree-right-side-view
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1176,7 +1176,7 @@ public:
 
 </details>
 
-## all nodes distance k in binary tree:
+## all nodes distance k in binary tree
 Problem Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1265,7 +1265,7 @@ public:
 
 </details>
 
-## path sum ii:
+## path sum ii
 Problem Link: https://leetcode.com/problems/path-sum-ii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1334,7 +1334,7 @@ public:
 
 </details>
 
-## path sum iii:
+## path sum iii
 Problem Link: https://leetcode.com/problems/path-sum-iii
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1394,7 +1394,7 @@ public:
 
 </details>
 
-## lowest common ancestor of a binary tree:
+## lowest common ancestor of a binary tree
 Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1449,7 +1449,7 @@ public:
 
 </details>
 
-## maximum binary tree:
+## maximum binary tree
 Problem Link: https://leetcode.com/problems/maximum-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1500,7 +1500,7 @@ public:
 
 </details>
 
-## maximum width of binary tree:
+## maximum width of binary tree
 Problem Link: https://leetcode.com/problems/maximum-width-of-binary-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1560,7 +1560,7 @@ public:
 
 </details>
 
-## construct binary tree from preorder and inorder traversal:
+## construct binary tree from preorder and inorder traversal
 Problem Link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1615,7 +1615,7 @@ public:
 
 </details>
 
-## validate binary search tree:
+## validate binary search tree
 Problem Link: https://leetcode.com/problems/validate-binary-search-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1658,7 +1658,7 @@ public:
 
 </details>
 
-## implement trie prefix tree:
+## implement trie prefix tree
 Problem Link: https://leetcode.com/problems/implement-trie-prefix-tree
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1759,7 +1759,7 @@ public:
 
 </details>
 
-## 3Sum:
+## 3Sum
 Problem Link: https://leetcode.com/problems/3sum
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1821,7 +1821,7 @@ public:
 
 </details>
 
-## 3sum closest:
+## 3sum closest
 Problem Link: https://leetcode.com/problems/3sum-closest
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1884,7 +1884,7 @@ public:
 
 </details>
 
-## subarray product less than k:
+## subarray product less than k
 Problem Link: https://leetcode.com/problems/subarray-product-less-than-k
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1929,7 +1929,7 @@ public:
 
 </details>
 
-## sort colors:
+## sort colors
 Problem Link: https://leetcode.com/problems/sort-colors
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -1998,7 +1998,7 @@ public:
 
 </details>
 
-## container with most water:
+## container with most water
 Problem Link: https://leetcode.com/problems/container-with-most-water
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -2051,7 +2051,7 @@ public:
 
 </details>
 
-## longest word in dictionary:
+## longest word in dictionary
 Problem Link: https://leetcode.com/problems/longest-word-in-dictionary
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
@@ -2188,7 +2188,7 @@ public:
 
 </details>
 
-## maximum xor of two numbers in an array:
+## maximum xor of two numbers in an array
 Problem Link: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array
 
 <a href="/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
