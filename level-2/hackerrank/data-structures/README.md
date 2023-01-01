@@ -11,7 +11,7 @@
 - ***Advanced I***                           `25 problems`
 - ***Advanced II***                          `25 problems`
 
-### HackerRank - Array and Linked List `20 problems`
+### HackerRank - Array and Linked List `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md)
 
 <table>
     <tbody>
@@ -62,7 +62,7 @@
     </tbody>
 </table>
 
-### HackerRank - Stack and Queue `10 problems`
+### HackerRank - Stack and Queue `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/stacks-queues.md)
 
 <table>
     <tbody>
@@ -93,7 +93,7 @@
     </tbody>
 </table>
 
-### HackerRank - Binary Tree and Balanced Binary Tree `20 problems`
+### HackerRank - Binary Tree and Balanced Binary Tree `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md)
 
 <table>
     <tbody>
@@ -140,7 +140,7 @@
     </tbody>
 </table>
 
-### HackerRank - Heap & Disjoint Set `10 problems`
+### HackerRank - Heap & Disjoint Set `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md)
 
 <table>
     <tbody>
@@ -167,7 +167,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced I `25 problems`
+### HackerRank - Advanced I `25 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/advanced-I.md)
 
 <table>
     <tbody>
@@ -226,7 +226,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced II `25 problems`
+### HackerRank - Advanced II `25 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/advanced-II.md)
 
 <table>
     <tbody>
