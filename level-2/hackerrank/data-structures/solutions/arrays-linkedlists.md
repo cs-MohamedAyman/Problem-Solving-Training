@@ -366,15 +366,19 @@ SinglyLinkedListNode* deleteNode(SinglyLinkedListNode *llist, int position) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Print in Reverse
+Problem Link: https://hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def reversePrint(llist):
+    if llist == None:
+        return
+    reversePrint(llist.next)
+    print(llist.data)
 ```
 
 </details>
@@ -383,20 +387,36 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+void reversePrint(SinglyLinkedListNode *llist) {
+    if (llist == NULL)
+        return;
+    reversePrint(llist->next);
+    cout << llist->data << '\n';
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Reverse a linked list
+Problem Link: https://hackerrank.com/challenges/reverse-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def reverse(llist):
+    if llist == None:
+        return llist
+    prev_node = None
+    curr_node = llist
+    next_node = None
+    while curr_node:
+        next_node = curr_node.next
+        curr_node.next = prev_node
+        prev_node = curr_node
+        curr_node = next_node
+    return prev_node
 ```
 
 </details>
@@ -405,20 +425,39 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+SinglyLinkedListNode* reverse(SinglyLinkedListNode *llist) {
+    if (llist == NULL)
+        return llist;
+    SinglyLinkedListNode *prev_node = NULL;
+    SinglyLinkedListNode *curr_node = llist;
+    SinglyLinkedListNode *next_node = NULL;
+    while (curr_node) {
+        next_node = curr_node->next;
+        curr_node->next = prev_node;
+        prev_node = curr_node;
+        curr_node = next_node;
+    }
+    return prev_node;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Compare two linked lists
+Problem Link: https://hackerrank.com/challenges/compare-two-linked-lists/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def compare_lists(llist1, llist2):
+    curr1 = llist1
+    curr2 = llist2
+    while curr1 and curr2 and curr1.data == curr2.data:
+        curr1 = curr1.next
+        curr2 = curr2.next
+    return curr1 == curr2
 ```
 
 </details>
@@ -427,20 +466,50 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+bool compare_lists(SinglyLinkedListNode *llist1, SinglyLinkedListNode *llist2) {
+    SinglyLinkedListNode *curr1 = llist1;
+    SinglyLinkedListNode *curr2 = llist2;
+    while (curr1 and curr2 and curr1->data == curr2->data) {
+        curr1 = curr1->next;
+        curr2 = curr2->next;
+    }
+    return curr1 == curr2;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Merge two sorted linked lists
+Problem Link: https://hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def mergeLists(llist1, llist2):
+    curr1 = llist1
+    curr2 = llist2
+    head = SinglyLinkedListNode(0)
+    curr = head
+    while curr1 and curr2:
+        if curr1.data < curr2.data:
+            curr.next = curr1
+            curr = curr.next
+            curr1 = curr1.next
+        else:
+            curr.next = curr2
+            curr = curr.next
+            curr2 = curr2.next
+    while curr1:
+        curr.next = curr1
+        curr = curr.next
+        curr1 = curr1.next
+    while curr2:
+        curr.next = curr2
+        curr = curr.next
+        curr2 = curr2.next
+    return head.next
 ```
 
 </details>
@@ -449,20 +518,59 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+SinglyLinkedListNode* mergeLists(SinglyLinkedListNode *llist1, SinglyLinkedListNode *llist2) {
+    SinglyLinkedListNode *curr1 = llist1;
+    SinglyLinkedListNode *curr2 = llist2;
+    SinglyLinkedListNode *head = new SinglyLinkedListNode(0);
+    SinglyLinkedListNode *curr = head;
+    while (curr1 and curr2) {
+        if (curr1->data < curr2->data) {
+            curr->next = curr1;
+            curr = curr->next;
+            curr1 = curr1->next;
+        }
+        else {
+            curr->next = curr2;
+            curr = curr->next;
+            curr2 = curr2->next;
+        }
+    }
+    while (curr1) {
+        curr->next = curr1;
+        curr = curr->next;
+        curr1 = curr1->next;
+    }
+    while (curr2) {
+        curr->next = curr2;
+        curr = curr->next;
+        curr2 = curr2->next;
+    }
+    return head->next;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Get Node Value
+Problem Link: https://hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def getNode(llist, positionFromTail):
+    n = 0
+    curr = llist
+    while curr:
+        curr = curr.next
+        n += 1
+    n -= positionFromTail + 1
+    curr = llist
+    while n:
+        curr = curr.next
+        n -= 1
+    return curr.data
 ```
 
 </details>
@@ -471,20 +579,43 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int getNode(SinglyLinkedListNode *llist, int positionFromTail) {
+    int n = 0;
+    SinglyLinkedListNode *curr = llist;
+    while (curr){
+        curr = curr->next;
+        n ++;
+    }
+    n -= positionFromTail + 1;
+    curr = llist;
+    while (n){
+        curr = curr->next;
+        n --;
+    }
+    return curr->data;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Delete duplicate-value nodes from a sorted linked list
+Problem Link: https://hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def removeDuplicates(llist):
+    curr = llist
+    while curr.next:
+        if curr.data == curr.next.data:
+            deleted_node = curr.next
+            curr.next = curr.next.next
+            del deleted_node
+        else:
+            curr = curr.next
+    return llist
 ```
 
 </details>
@@ -493,20 +624,54 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+SinglyLinkedListNode* removeDuplicates(SinglyLinkedListNode *llist) {
+    SinglyLinkedListNode *curr = llist;
+    while (curr->next) {
+        if (curr->data == curr->next->data) {
+            SinglyLinkedListNode *deleted_node = curr->next;
+            curr->next = curr->next->next;
+            delete(deleted_node);
+        }
+        else {
+            curr = curr->next;
+        }
+    }
+    return llist;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Find Merge Point of Two Lists
+Problem Link: https://hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def findMergeNode(head1, head2):
+    curr1 = head1
+    curr2 = head2
+    len1, len2 = 0, 0
+    while curr1:
+        curr1 = curr1.next
+        len1 += 1
+    while curr2:
+        curr2 = curr2.next
+        len2 +=1
+    while len1 > len2:
+        head1 = head1.next
+        len1 -= 1
+    while len2 > len1:
+        head2 = head2.next
+        len2 -= 1
+    curr1 = head1
+    curr2 = head2
+    while curr1 and curr2 and curr1 != curr2:
+        curr1 = curr1.next
+        curr2 = curr2.next
+    return (curr1.data if curr1 else curr2.data if curr2 else -1)
 ```
 
 </details>
@@ -515,7 +680,34 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int findMergeNode(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2) {
+    SinglyLinkedListNode *curr1 = head1;
+    SinglyLinkedListNode *curr2 = head2;
+    int len1 = 0, len2 = 0;
+    while (curr1) {
+        curr1 = curr1->next;
+        len1 ++;
+    }
+    while (curr2) {
+        curr2 = curr2->next;
+        len2 ++;
+    }
+    while (len1 > len2) {
+        head1 = head1->next;
+        len1 --;
+    }
+    while (len2 > len1) {
+        head2 = head2->next;
+        len2 --;
+    }
+    curr1 = head1;
+    curr2 = head2;
+    while (curr1 and curr2 and curr1 != curr2) {
+        curr1 = curr1->next;
+        curr2 = curr2->next;
+    }
+    return (curr1? curr1->data : curr2? curr2->data : -1);
+}
 ```
 
 </details>
