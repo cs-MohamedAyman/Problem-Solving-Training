@@ -41,7 +41,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/merge-two-sorted-linked-lists/problem">merge two sorted linked lists</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">get the value of the node at a specific position from the tail</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">get the value of node at a specific position from the tail</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">delete duplicate value nodes from a sorted linked list</a></th>
