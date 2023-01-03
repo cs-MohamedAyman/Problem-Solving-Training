@@ -37,14 +37,14 @@ Problem Link: https://hackerrank.com/challenges/2d-array/problem
 
 ```python
 def hourglassSum(arr):
-    filter_arr = [[1,1,1], [0,1,0], [1,1,1]]
+    filter = [[1,1,1], [0,1,0], [1,1,1]]
     res = -int(2e9)
     for i in range(4):
         for j in range(4):
             curr_sum = 0
             for k in range(3):
                 for w in range(3):
-                    curr_sum += arr[i+k][j+w] * filter_arr[k][w]
+                    curr_sum += arr[i+k][j+w] * filter[k][w]
             res = max(res, curr_sum)
     return res
 ```
@@ -56,14 +56,14 @@ def hourglassSum(arr):
 
 ```cpp
 int hourglassSum(vector<vector<int>> arr) {
-    vector<vector<int>> filter_arr = {{1,1,1}, {0,1,0}, {1,1,1}};
+    vector<vector<int>> filter = {{1,1,1}, {0,1,0}, {1,1,1}};
     int res = -int(2e9);
     for (int i=0; i<4; i++) {
         for (int j=0; j<4; j++) {
             int curr_sum = 0;
             for (int k=0; k<3; k++)
                 for (int w=0; w<3; w++)
-                    curr_sum += arr[i+k][j+w] * filter_arr[k][w];
+                    curr_sum += arr[i+k][j+w] * filter[k][w];
             res = max(res, curr_sum);
         }
     }
@@ -106,8 +106,8 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
     vector<int> res;
     vector<vector<int>> arr(n);
     int last_ans = 0;
-    for (auto query : queries) {
-        int t = query[0], x = query[1], y = query[2];
+    for (auto it : queries) {
+        int t=it[0], x=it[1], y=it[2];
         if (t == 1) {
             int idx = (x^last_ans) % n;
             arr[idx].push_back(y);
@@ -666,12 +666,12 @@ def findMergeNode(head1, head2):
     while len2 > len1:
         head2 = head2.next
         len2 -= 1
-    curr1 = head1
-    curr2 = head2
+    curr1, curr2 = head1, head2
     while curr1 and curr2 and curr1 != curr2:
         curr1 = curr1.next
         curr2 = curr2.next
-    return (curr1.data if curr1 else curr2.data if curr2 else -1)
+    return (curr1.data if curr1 else 
+	        curr2.data if curr2 else -1)
 ```
 
 </details>
@@ -700,13 +700,13 @@ int findMergeNode(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2) {
         head2 = head2->next;
         len2 --;
     }
-    curr1 = head1;
-    curr2 = head2;
+    curr1 = head1, curr2 = head2;
     while (curr1 and curr2 and curr1 != curr2) {
         curr1 = curr1->next;
         curr2 = curr2->next;
     }
-    return (curr1? curr1->data : curr2? curr2->data : -1);
+    return (curr1? curr1->data : 
+	        curr2? curr2->data : -1);
 }
 ```
 
