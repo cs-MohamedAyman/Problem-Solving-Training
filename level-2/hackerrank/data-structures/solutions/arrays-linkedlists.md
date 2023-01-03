@@ -931,14 +931,14 @@ def arrayManipulation(n, queries):
 
 ```cpp
 long arrayManipulation(int n, vector<vector<int>> queries) {
-    vector<int> arr(n+1, 0);
+    vector<long> arr(n+1, 0);
     for (auto it : queries) {
         int a=it[0], b=it[1], k=it[2];
         arr[a-1] += k;
         arr[b] -= k;
     }
-    int res = 0, curr = 0;
-    for (int i : arr) {
+    long res = 0, curr = 0;
+    for (long i : arr) {
         curr += i;
         res = max(res, curr);
     }
