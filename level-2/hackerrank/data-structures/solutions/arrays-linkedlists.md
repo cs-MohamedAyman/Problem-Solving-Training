@@ -712,15 +712,33 @@ int findMergeNode(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Inserting a Node Into a Sorted Doubly Linked List
+Problem Link: https://hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def sortedInsert(llist, data):
+    new_node = DoublyLinkedListNode(data)
+    if not llist:
+        llist = new_node
+        return llist
+    if data < llist.data:
+        new_node.next = llist
+        llist.prev = new_node
+        llist = new_node
+        return llist
+    curr = llist
+    while curr.next and curr.next.data < data:
+        curr = curr.next
+    new_node.next = curr.next
+    if curr.next:
+        curr.next.prev = new_node
+    curr.next = new_node
+    new_node.prev = curr
+    return llist
 ```
 
 </details>
@@ -729,20 +747,54 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode *llist, int data) {
+    DoublyLinkedListNode *new_node = new DoublyLinkedListNode(data);
+    if (not llist) {
+        llist = new_node;
+        return llist;
+    }
+    if (data < llist->data) {
+        new_node->next = llist;
+        llist->prev = new_node;
+        llist = new_node;
+        return llist;
+    }
+    DoublyLinkedListNode *curr = llist;
+    while (curr->next and curr->next->data < data)
+        curr = curr->next;
+    new_node->next = curr->next;
+    if (curr->next)
+        curr->next->prev = new_node;
+    curr->next = new_node;
+    new_node->prev = curr;
+    return llist;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Reverse a doubly linked list
+Problem Link: https://hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def reverse(llist):
+    if llist == None:
+        return llist
+    prev_node = None
+    curr_node = llist
+    next_node = None
+    while curr_node:
+        next_node = curr_node.next
+        curr_node.next = prev_node
+        if prev_node:
+            prev_node.prev = curr_node
+        prev_node = curr_node
+        curr_node = next_node
+    return prev_node
 ```
 
 </details>
@@ -751,20 +803,45 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+DoublyLinkedListNode* reverse(DoublyLinkedListNode *llist) {
+    if (llist == NULL)
+        return llist;
+    DoublyLinkedListNode *prev_node = NULL;
+    DoublyLinkedListNode *curr_node = llist;
+    DoublyLinkedListNode *next_node = NULL;
+    while (curr_node) {
+        next_node = curr_node->next;
+        curr_node->next = prev_node;
+        if (prev_node)
+            prev_node->prev = curr_node;
+        prev_node = curr_node;
+        curr_node = next_node;
+    }
+    return prev_node;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Cycle Detection
+Problem Link: https://hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def has_cycle(head):
+    if head == None:
+        return 0
+    ptr1 = head
+    ptr2 = head
+    while ptr2 and ptr2.next:
+        ptr1 = ptr1.next
+        ptr2 = ptr2.next.next
+        if id(ptr1) == id(ptr2):
+            return 1
+    return 0
 ```
 
 </details>
@@ -773,20 +850,39 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+bool has_cycle(SinglyLinkedListNode *head) {
+    if (head == NULL)
+        return 0;
+    SinglyLinkedListNode *ptr1 = head;
+    SinglyLinkedListNode *ptr2 = head;
+    while (ptr2 and ptr2->next) {
+        ptr1 = ptr1->next;
+        ptr2 = ptr2->next->next;
+        if (ptr1 == ptr2)
+            return 1;
+    }
+    return 0;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Sparse Arrays
+Problem Link: https://hackerrank.com/challenges/sparse-arrays/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def matchingStrings(stringList, queries):
+    cnt = {}
+    for s in stringList:
+        cnt[s] = cnt.get(s, 0) + 1
+    res = []
+    for s in queries:
+        res.append(cnt.get(s, 0))
+    return res
 ```
 
 </details>
@@ -795,20 +891,37 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+vector<int> matchingStrings(vector<string> stringList, vector<string> queries) {
+    map<string, int> cnt;
+    for (string s : stringList)
+        cnt[s] ++;
+    vector<int> res;
+    for (string s : queries)
+        res.push_back(cnt[s]);
+    return res;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Array Manipulation
+Problem Link: https://hackerrank.com/challenges/crush/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def arrayManipulation(n, queries):
+    arr = [0] * (n+1)
+    for a, b, k in queries:
+        arr[a-1] += k
+        arr[b] -= k
+    res, curr = 0, 0
+    for i in arr:
+        curr += i
+        res = max(res, curr)
+    return res
 ```
 
 </details>
@@ -817,206 +930,20 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+long arrayManipulation(int n, vector<vector<int>> queries) {
+    vector<int> arr(n+1, 0);
+    for (auto it : queries) {
+        int a=it[0], b=it[1], k=it[2];
+        arr[a-1] += k;
+        arr[b] -= k;
+    }
+    int res = 0, curr = 0;
+    for (int i : arr) {
+        curr += i;
+        res = max(res, curr);
+    }
+    return res;
+}
 ```
 
 </details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
