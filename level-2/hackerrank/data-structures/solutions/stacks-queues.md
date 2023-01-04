@@ -94,7 +94,20 @@ Problem Link: https://www.hackerrank.com/challenges/queue-using-two-stacks/probl
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def QueueTwoStacks(queries):
+    out_stk, in_stk = [], []
+    for query in queries:
+        val = list(map(int, query.split()))
+        if val[0] == 1:
+            in_stk.append(val[1])
+        elif val[0] == 2:
+            if not out_stk:
+                while in_stk:
+                    out_stk.append(in_stk[-1])
+                    in_stk.pop()
+            out_stk.pop()
+        else:
+            print(out_stk[-1] if out_stk else in_stk[0])
 ```
 
 </details>
@@ -103,20 +116,51 @@ Problem Link: https://www.hackerrank.com/challenges/queue-using-two-stacks/probl
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+void QueueTwoStacks(vector<vector<int>> queries) {
+    vector<int> out_stk, in_stk;
+    for (auto val : queries) {
+        if (val[0] == 1)
+            in_stk.push_back(val[1]);
+        else if (val[0] == 2) {
+            if (out_stk.empty()) {
+                while (not in_stk.empty()) {
+                    out_stk.push_back(in_stk.back());
+                    in_stk.pop_back();
+                }
+            }
+            out_stk.pop_back();
+        }
+        else {
+            cout << (not out_stk.empty()? out_stk.back() : in_stk.front()) << '\n';
+        }
+    }
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Balanced Brackets
+Problem Link: https://www.hackerrank.com/challenges/balanced-brackets/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def isBalanced(s):
+    if len(s) % 2:
+        return "NO"
+    open_brackets = "([{"
+    stk = []
+    match = {'(': ')', '[': ']', '{': '}'};
+    for i in s:
+        if i in open_brackets:
+            stk.append(i)
+        else:
+            if not stk or i != match[stk[-1]]:
+                return "NO"
+            stk.pop()
+    return "YES" if not stk else "NO"
 ```
 
 </details>
@@ -125,7 +169,24 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+string isBalanced(string s) {
+    if (size(s) % 2)
+        return "NO";
+    string open_brackets = "([{";
+    stack<char> stk;
+    map<char, char> match = {{'(', ')'}, {'[', ']'}, {'{', '}'}};
+    for (char i : s) {
+        if (open_brackets.find(i) != string::npos) {
+            stk.push(i);
+        }
+        else {
+            if (stk.empty() or i != match[stk.top()])
+                return "NO";
+            stk.pop();
+        }
+    }
+    return stk.empty()? "YES": "NO";
+}
 ```
 
 </details>
