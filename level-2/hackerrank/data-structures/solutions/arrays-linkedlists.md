@@ -670,8 +670,8 @@ def findMergeNode(head1, head2):
     while curr1 and curr2 and curr1 != curr2:
         curr1 = curr1.next
         curr2 = curr2.next
-    return (curr1.data if curr1 else 
-	        curr2.data if curr2 else -1)
+    return (curr1.data if curr1 else
+            curr2.data if curr2 else -1)
 ```
 
 </details>
@@ -705,8 +705,8 @@ int findMergeNode(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2) {
         curr1 = curr1->next;
         curr2 = curr2->next;
     }
-    return (curr1? curr1->data : 
-	        curr2? curr2->data : -1);
+    return (curr1? curr1->data :
+            curr2? curr2->data : -1);
 }
 ```
 

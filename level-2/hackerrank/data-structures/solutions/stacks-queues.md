@@ -3,7 +3,7 @@
 # HackerRank OJ - Data Structures - Stacks & Queues
 
 ## Equal Stacks
-Problem Link: https://www.hackerrank.com/challenges/equal-stacks/problem
+Problem Link: https://hackerrank.com/challenges/equal-stacks/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
@@ -87,7 +87,7 @@ int equalStacks(vector<int> h1, vector<int> h2, vector<int> h3) {
 </details>
 
 ## Queue using Two Stacks
-Problem Link: https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+Problem Link: https://hackerrank.com/challenges/queue-using-two-stacks/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
@@ -140,7 +140,7 @@ void QueueTwoStacks(vector<vector<int>> queries) {
 </details>
 
 ## Balanced Brackets
-Problem Link: https://www.hackerrank.com/challenges/balanced-brackets/problem
+Problem Link: https://hackerrank.com/challenges/balanced-brackets/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
@@ -191,15 +191,40 @@ string isBalanced(string s) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Castle on the Grid
+Problem Link: https://hackerrank.com/challenges/castle-on-the-grid/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
+def minimumMoves(grid, startX, startY, goalX, goalY):
+    def isOpen(grid, x, y):
+        return 0 <= x < len(grid) and 0 <= y < len(grid) and grid[x][y] == '.'
 
+    if startX == goalX and startY == goalY:
+        return 0
+    n = len(grid)
+    moves = [[-1 for _ in range(n)] for _ in range(n)]
+    moves[startX][startY] = 0
+    q = [(startX, startY)]
+    dx = [0, 0, 1, -1]
+    dy = [1, -1, 0, 0]
+    while q:
+        head = q[0]
+        q.pop(0)
+        for i in range(4):
+            nextX, nextY = head[0], head[1]
+            while isOpen(grid, nextX + dx[i], nextY + dy[i]):
+                nextX += dx[i]
+                nextY += dy[i]
+                if nextX == goalX and nextY == goalY:
+                    return moves[head[0]][head[1]] + 1
+                if moves[nextX][nextY] == -1:
+                    moves[nextX][nextY] = moves[head[0]][head[1]] + 1
+                    q.append((nextX, nextY))
+    return 0
 ```
 
 </details>
@@ -208,20 +233,66 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+bool isOpen(vector<string> grid, int x, int y) {
+    return 0 <= x and x < size(grid) and 0 <= y and y < size(grid) and grid[x][y] == '.';
+}
 
+int minimumMoves(vector<string> grid, int startX, int startY, int goalX, int goalY) {
+    if (startX == goalX and startY == goalY)
+        return 0;
+    int n = size(grid);
+    vector<vector<int>> moves(n, vector<int>(n, -1));
+    moves[startX][startY] = 0;
+    vector<pair<int, int>> q = {{startX, startY}};
+    int dx[4] = {0, 0, 1, -1};
+    int dy[4] = {1, -1, 0, 0};
+    while (size(q) > 0) {
+        auto head = q.front();
+        q.erase(q.begin());
+        for (int i=0; i<4; i++) {
+            int nextX = head.first, nextY = head.second;
+            while (isOpen(grid, nextX + dx[i], nextY + dy[i])) {
+                nextX += dx[i];
+                nextY += dy[i];
+                if (nextX == goalX and nextY == goalY)
+                    return moves[head.first][head.second] + 1;
+                if (moves[nextX][nextY] == -1) {
+                    moves[nextX][nextY] = moves[head.first][head.second] + 1;
+                    q.push_back({nextX, nextY});
+                }
+            }
+        }
+    }
+    return 0;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Down to Zero II
+Problem Link: https://hackerrank.com/challenges/down-to-zero-ii/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
+N = int(2e6)+3
+seive = [0] * N
 
+def constract_seive():
+    seive[0], seive[1] = 0, 1
+    for i in range(1, N):
+        if seive[i] == 0 or seive[i] > seive[i-1] + 1:
+            seive[i] = seive[i-1] + 1
+        j = 0
+        while j < i * i and j + i < N:
+            if seive[j + i] == 0 or seive[j + i] > seive[i] + 1:
+                seive[j + i] = seive[i] + 1
+            j += i
+
+def downToZero(n):
+    return seive[n]
 ```
 
 </details>
@@ -230,7 +301,27 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+const int N = 2e6+3;
+int seive[N];
 
+void constract_seive() {
+    seive[0] = 0, seive[1] = 1;
+    for (long long i=1; i<N; i++) {
+        if (seive[i] == 0 or seive[i] > seive[i-1] + 1)
+            seive[i] = seive[i-1] + 1;
+        long long j = 0;
+        while (j < i * i and j + i < N) {
+            if (seive[j + i] == 0 or seive[j + i] > seive[i] + 1) {
+                seive[j + i] = seive[i] + 1;
+            }
+            j += i;
+        }
+    }
+}
+
+int downToZero(int n) {
+    return seive[n];
+}
 ```
 
 </details>
