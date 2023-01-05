@@ -130,9 +130,8 @@ void QueueTwoStacks(vector<vector<int>> queries) {
             }
             out_stk.pop_back();
         }
-        else {
+        else
             cout << (not out_stk.empty()? out_stk.back() : in_stk.front()) << '\n';
-        }
     }
 }
 ```
@@ -176,9 +175,8 @@ string isBalanced(string s) {
     stack<char> stk;
     map<char, char> match = {{'(', ')'}, {'[', ']'}, {'{', '}'}};
     for (char i : s) {
-        if (open_brackets.find(i) != string::npos) {
+        if (open_brackets.find(i) != string::npos)
             stk.push(i);
-        }
         else {
             if (stk.empty() or i != match[stk.top()])
                 return "NO";
@@ -311,9 +309,8 @@ void constract_seive() {
             seive[i] = seive[i-1] + 1;
         long long j = 0;
         while (j < i * i and j + i < N) {
-            if (seive[j + i] == 0 or seive[j + i] > seive[i] + 1) {
+            if (seive[j + i] == 0 or seive[j + i] > seive[i] + 1)
                 seive[j + i] = seive[i] + 1;
-            }
             j += i;
         }
     }
