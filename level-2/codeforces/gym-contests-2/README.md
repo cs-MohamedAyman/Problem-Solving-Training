@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/codeforces.jpg"></img>
+<img align="right" width="80" src="/logos/codeforces.png"></img>
 
 ## [Codeforces](https://codeforces.com/) OJ - Gym Contests 2 `110 contests` `250 hrs`
 

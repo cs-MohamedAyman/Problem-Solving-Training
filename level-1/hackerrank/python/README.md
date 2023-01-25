@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerrank.jpg"></img>
+<img align="right" width="80" src="/logos/hackerrank.png"></img>
 
 ## [HackerRank](https://hackerrank.com/) OJ - Python Programming Language `95 problems` `40 hrs`
 

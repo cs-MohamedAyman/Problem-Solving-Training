@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/leetcode.jpg"></img>
+<img align="right" width="80" src="/logos/leetcode.png"></img>
 
 ## [LeetCode](https://leetcode.com/) OJ - Tree & Graph Traversal `160 problems` `160 hrs`
 

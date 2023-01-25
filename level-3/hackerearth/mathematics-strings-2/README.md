@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/hackerearth.jpg"></img>
+<img align="right" width="80" src="/logos/hackerearth.png"></img>
 
 ## [HackerEarth](https://hackerearth.com/) OJ - Mathematical & String Algorithms 2 `120 problems` `80 hrs`
 

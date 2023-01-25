@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/googlecodejam.jpg"></img>
+<img align="right" width="80" src="/logos/googlecodejam.png"></img>
 
 ## [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam/) - Phase 4 Google CodeJam `150 problems` `80 hrs`
 

@@ -1,23 +1,23 @@
-<a href="/README.md"><img align="right" width="200" src="/logos/problem-solving-training.jpg"></img></a>
+<a href="/README.md"><img align="right" width="200" src="/logos/problem-solving-training.png"></img></a>
 
 # Problem Solving Training
 Problem Solving Training for computer science students.
 
 <br><br><br>
 
-<a href="/README.md"><img width="80" src="/logos/codeforces.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/leetcode.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/atcoder.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/uva.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/topcoder.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/hackerearth.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/hackerrank.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/uri.jpg"></img></a>
-<a href="/README.md"><img width="80" src="/logos/googlecompetitions.jpg"></img></a>
+<a href="/README.md"><img width="80" src="/logos/codeforces.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/leetcode.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/atcoder.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/uva.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/uri.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
 <br>
-<a href="/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg"></img></a>
+<a href="/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
   * [Level 1](#level-1)
@@ -54,7 +54,7 @@ Problem Solving Training for computer science students.
   * [Notes](#notes)
 
 <br>
-<a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.jpg"></img></a>
+<a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.png"></img></a>
 
 ## [`Level 1`](/level-1/README.md)
 
@@ -65,10 +65,10 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [`Level Timeline`](/level-1/Timeline.md)
 
-<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.jpg"></img></a>
+<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
 <br><br>
 
-<a href="/level-1/README.md#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg"></img></a>
+<a href="/level-1/README.md#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.png"></img></a>
 <br>
 
 ## [`URI OJ sheets`](/level-1/README.md#uri-oj-sheets)
@@ -82,7 +82,7 @@ The URI OJ sheets:
 [phase-1-6](/level-1/uri/phase-1-6),
 each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~175 problems.
 
-<a href="/level-1/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
+<a href="/level-1/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
 
 ## [`HackerRank OJ sheets`](/level-1/README.md#hackerrank-oj-sheets)
@@ -92,7 +92,7 @@ The HackerRank OJ sheets:
 [python](/level-1/hackerrank/python),
 each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~80 problems.
 
-<a href="/level-1/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-1/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
 ## [`Codeforces OJ sheets`](/level-1/README.md#codeforces-oj-sheets)
@@ -108,7 +108,7 @@ For the last 2 sheets:
 [div3-div4-contests](/level-1/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [educational-contests](/level-1/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
 
-<a href="/level-1/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
+<a href="/level-1/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-1/README.md#hackerearth-oj-sheets)
@@ -120,7 +120,7 @@ The HackerEarth OJ sheets:
 [phase-1-4](/level-1/hackerearth/phase-1-4),
 each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
-<a href="/level-1/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
+<a href="/level-1/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
 ## [`AtCoder OJ sheets`](/level-1/README.md#atcoder-oj-sheets)
@@ -132,7 +132,7 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
 
 <br>
 
-<a href="/level-2/README.md"><img width="100%" src="/logos/level-2-cover.jpg"></img></a>
+<a href="/level-2/README.md"><img width="100%" src="/logos/level-2-cover.png"></img></a>
 
 ## [`Level 2`](/level-2/README.md)
 
@@ -143,10 +143,10 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 ## [`Level Timeline`](/level-2/Timeline.md)
 
-<a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.jpg"></img></a>
+<a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a>
 <br><br>
 
-<a href="/level-2/README.md#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg"></img></a>
+<a href="/level-2/README.md#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.png"></img></a>
 <br>
 
 ## [`URI OJ sheets`](/level-2/README.md#uri-oj-sheets)
@@ -160,7 +160,7 @@ The URI OJ sheets:
 [phase-2-6](/level-2/uri/phase-2-6),
 each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematics Graph Paradigms Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~150 problems.
 
-<a href="/level-2/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
+<a href="/level-2/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
 
 ## [`HackerRank OJ sheets`](/level-2/README.md#hackerrank-oj-sheets)
@@ -170,7 +170,7 @@ The HackerRank OJ sheets:
 [algorithms-basics](/level-2/hackerrank/algorithms-basics),
 each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-<a href="/level-2/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-2/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
 ## [`Codeforces OJ sheets`](/level-2/README.md#codeforces-oj-sheets)
@@ -186,7 +186,7 @@ For the last 2 sheets:
 [gym-contests-1](/level-2/codeforces/gym-contests-1),
 [gym-contests-2](/level-2/codeforces/gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
-<a href="/level-2/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
+<a href="/level-2/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 <br>
 
 ## [`LeetCode OJ sheets`](/level-2/README.md#leetcode-oj-sheets)
@@ -200,7 +200,7 @@ The LeetCode OJ sheets:
 [basic-algorithms-2](/level-2/leetcode/basic-algorithms-2),
 each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
-<a href="/level-2/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
+<a href="/level-2/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-2/README.md#hackerearth-oj-sheets)
@@ -214,7 +214,7 @@ each sheet of them contains linear and non-linear data structures problems, plus
 
 <br>
 
-<a href="/level-3/README.md"><img width="100%" src="/logos/level-3-cover.jpg"></img></a>
+<a href="/level-3/README.md"><img width="100%" src="/logos/level-3-cover.png"></img></a>
 
 ## [`Level 3`](/level-3/README.md)
 
@@ -225,10 +225,10 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 
 ## [`Level Timeline`](/level-3/Timeline.md)
 
-<a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.jpg"></img></a>
+<a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a>
 <br><br>
 
-<a href="/level-3/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
+<a href="/level-3/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
 
 ## [`HackerRank OJ sheets`](/level-3/README.md#hackerrank-oj-sheets)
@@ -240,7 +240,7 @@ The HackerRank OJ sheets:
 [dynamic-programming](/level-3/hackerrank/dynamic-programming),
 each sheet of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~130 problems.
 
-<a href="/level-3/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
+<a href="/level-3/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
 ## [`AtCoder OJ sheets`](/level-3/README.md#atcoder-oj-sheets)
@@ -252,7 +252,7 @@ The AtCoder OJ sheets:
 [grand-contests-2](/level-3/atcoder/grand-contests-2),
 These sheets contain (Regular + Grand) contests (medium contests) and each sheet contains ~60 problems.
 
-<a href="/level-3/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-3/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
 ## [`Codeforces OJ sheets`](/level-3/README.md#codeforces-oj-sheets)
@@ -271,7 +271,7 @@ For the last 4 sheets:
 [gym-contests-4](/level-3/codeforces/gym-contests-4)
 that focus on gym-contests that contains ~125 contests.
 
-<a href="/level-3/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
+<a href="/level-3/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 <br>
 
 ## [`LeetCode OJ sheets`](/level-3/README.md#leetcode-oj-sheets)
@@ -283,7 +283,7 @@ The LeetCode OJ sheets:
 [dynamic-programming](/level-3/leetcode/dynamic-programming),
 These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
-<a href="/level-3/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
+<a href="/level-3/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
 ## [`HackerEarth OJ sheets`](/level-3/README.md#hackerearth-oj-sheets)
@@ -301,7 +301,7 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
 
 <br>
 
-<a href="/level-4/README.md"><img width="100%" src="/logos/level-4-cover.jpg"></img></a>
+<a href="/level-4/README.md"><img width="100%" src="/logos/level-4-cover.png"></img></a>
 
 ## [`Level 4`](/level-4/README.md)
 
@@ -315,28 +315,28 @@ coming soon ...
 
 coming soon ...
 
-<a href="/level-4/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-4/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
 ## [`Codeforces OJ sheets`](/level-4/README.md#codeforces-oj-sheets)
 
 coming soon ...
 
-<a href="/level-4/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.jpg"></img></a>
+<a href="/level-4/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 <br>
 
 ## [`LeetCode OJ sheets`](/level-4/README.md#leetcode-oj-sheets)
 
 coming soon ...
 
-<a href="/level-4/README.md#google-competitions-sheets"><img align="right" width="80" src="/logos/googlecompetitions.jpg"></img></a>
+<a href="/level-4/README.md#google-competitions-sheets"><img align="right" width="80" src="/logos/googlecompetitions.png"></img></a>
 <br>
 
 ## [`Google Competitions sheets`](/level-4/README.md#google-competitions-sheets)
 
 coming soon ...
 
-<a href="/level-4/README.md#uva-oj-sheets"><img align="right" width="80" src="/logos/uva.jpg"></img></a>
+<a href="/level-4/README.md#uva-oj-sheets"><img align="right" width="80" src="/logos/uva.png"></img></a>
 <br>
 
 ## [`UVA OJ sheets`](/level-4/README.md#uva-oj-sheets)

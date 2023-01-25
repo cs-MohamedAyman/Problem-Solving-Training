@@ -1,19 +1,19 @@
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
-<a href="/level-1/README.md"><img width="80" src="/logos/codeforces.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/leetcode.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/atcoder.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/uva.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/topcoder.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/hackerearth.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/hackerrank.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/uri.jpg"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/googlecompetitions.jpg"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/codeforces.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/atcoder.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/uva.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/uri.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
 <br>
-<a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg"></img></a>
+<a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
   * [Level 1](#level-1)
@@ -26,7 +26,7 @@ Problem Solving Training for computer science students.
     * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Notes](#notes)
 
-<a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.jpg"></img></a>
+<a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.png"></img></a>
 
 ## `Level 1`
 
@@ -37,10 +37,10 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [`Level Timeline`](/level-1/Timeline.md)
 
-<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.jpg"></img></a>
+<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
 <br><br>
 
-<a href="/level-1/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.jpg"></img></a>
+<a href="/level-1/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.png"></img></a>
 <br>
 
 ## `URI OJ sheets`
@@ -133,7 +133,7 @@ each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures -
     </tbody>
 </table>
 
-<a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.jpg"></img></a>
+<a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
 
 ## `HackerRank OJ sheets`
@@ -166,7 +166,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
     </tbody>
 </table>
 
-<a href="/level-1/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.jpg"></img></a>
+<a href="/level-1/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
 ## `Codeforces OJ sheets`
@@ -254,7 +254,7 @@ For the last 2 sheets:
     </tbody>
 </table>
 
-<a href="/level-1/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.jpg"></img></a>
+<a href="/level-1/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
 ## `HackerEarth OJ sheets`
@@ -309,7 +309,7 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
     </tbody>
 </table>
 
-<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.jpg"></img></a>
+<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
 ## `AtCoder OJ sheets`

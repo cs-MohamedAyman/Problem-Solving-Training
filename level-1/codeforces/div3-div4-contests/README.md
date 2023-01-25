@@ -1,4 +1,4 @@
-<img align="right" width="80" src="/logos/codeforces.jpg"></img>
+<img align="right" width="80" src="/logos/codeforces.png"></img>
 
 ## [Codeforces](https://codeforces.com/) OJ - Div3 + Div4 Contests `85 contests` `240 hrs`
 
