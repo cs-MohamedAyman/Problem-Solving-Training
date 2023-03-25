@@ -314,6 +314,27 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
         <tr><td>String III              </td><td align="center">25 problems</td><td>solutions</td>
             <td>Dynamic Programming VI  </td><td align="center">30 problems</td><td>solutions</td></tr>
     </tbody>
+        <tr>
+            <td align="center" width="400px"><a href="/level-3/leetcode/interviews-questions">interviews-questions</a></td>
+<th align="center" width="150px">170 problems</th>
+<th align="center" width="50px"></th>
+            <td align="center" width="400px"><a href="/level-3/leetcode/liked-questions">liked-questions</a></td>
+<th align="center" width="150px">170 problems</th>
+<th align="center" width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Easy Problems       </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Easy Problems       </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Medium Problems I   </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Medium Problems I   </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Medium Problems II  </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Medium Problems II  </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Medium Problems III </td><td align="center">35 problems</td><td>solutions</td>
+            <td>Medium Problems III </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Hard Problems       </td><td align="center">30 problems</td><td>solutions</td>
+            <td>Hard Problems       </td><td align="center">30 problems</td><td>solutions</td></tr>
+    </tbody>
 </table>
 
 <a href="/level-3/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
