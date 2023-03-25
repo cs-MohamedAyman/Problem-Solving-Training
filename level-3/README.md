@@ -8,7 +8,7 @@ Problem Solving Training for computer science students.
 <a href="/level-3/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
 <a href="/level-3/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
 <a href="/level-3/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/uri.png"></img></a>
+<a href="/level-3/README.md"><img width="80" src="/logos/kattis.png"></img></a>
 <a href="/level-3/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
@@ -30,7 +30,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 3`
 
-This level simply consists of 24 sheets, 4 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 28 sheets, 4 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 2 sheets on AtCoder Online Judge, 6 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
@@ -105,37 +105,17 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
 ## `AtCoder OJ sheets`
 
 The AtCoder OJ sheets:
-[regular-contests-1](/level-3/atcoder/regular-contests-1),
-[regular-contests-2](/level-3/atcoder/regular-contests-2),
-[grand-contests-1](/level-3/atcoder/grand-contests-1),
-[grand-contests-2](/level-3/atcoder/grand-contests-2),
-These sheets contain (Regular + Grand) contests (medium contests) and each sheet contains ~60 problems.
+[phase-3-1](/level-3/atcoder/phase-3-1),
+[phase-3-2](/level-3/atcoder/phase-3-2),
+These sheets contain grand contests (hard contests) and each sheet contains ~60 problems.
 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-3/atcoder/regular-contests-1">regular-contests-1</a></th>
-<th align="center" width="150px">70 problems</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-3/atcoder/regular-contests-2">regular-contests-2</a></th>
-<th align="center" width="150px">70 problems</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>2016-2017 Regular Contests</td><td align="center">30 problems</td><td>solutions</td>
-            <td>2016-2017 Regular Contests</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Regular Contests</td><td align="center">15 problems</td><td>solutions</td>
-            <td>2018-2019 Regular Contests</td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Regular Contests</td><td align="center">25 problems</td><td>solutions</td>
-            <td>2020-2021 Regular Contests</td><td align="center">25 problems</td><td>solutions</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-3/atcoder/grand-contests-1">grand-contests-1</a></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/grand-contests-1">phase-3-1</a></th>
 <th align="center" width="150px">55 contests</th>
 <th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-3/atcoder/grand-contests-2">grand-contests-2</a></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/grand-contests-2">phase-3-2</a></th>
 <th align="center" width="150px">55 contests</th>
 <th align="center" width="50px"></th>
         </tr>

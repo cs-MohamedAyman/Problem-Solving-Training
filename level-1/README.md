@@ -8,7 +8,7 @@ Problem Solving Training for computer science students.
 <a href="/level-1/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/uri.png"></img></a>
+<a href="/level-1/README.md"><img width="80" src="/logos/kattis.png"></img></a>
 <a href="/level-1/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
@@ -19,18 +19,17 @@ Problem Solving Training for computer science students.
   * [Level 1](#level-1)
     * [Prerequisite Knowledge](#prerequisite-knowledge)
     * [Level Timeline](#level-timeline)
-    * [URI Online Judge Sheets](#uri-oj-sheets)
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Notes](#notes)
 
 <a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.png"></img></a>
 
 ## `Level 1`
 
-This level simply consists of 20 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
+This level simply consists of 14 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 2 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -39,99 +38,6 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 <a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
 <br><br>
-
-<a href="/level-1/README.md/#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.png"></img></a>
-<br>
-
-## `URI OJ sheets`
-
-The URI OJ sheets:
-[phase-1-1](/level-1/uri/phase-1-1),
-[phase-1-2](/level-1/uri/phase-1-2),
-[phase-1-3](/level-1/uri/phase-1-3),
-[phase-1-4](/level-1/uri/phase-1-4),
-[phase-1-5](/level-1/uri/phase-1-5),
-[phase-1-6](/level-1/uri/phase-1-6),
-each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~170 problems.
-
-<table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-1/uri/phase-1-1">phase-1-1</a></th>
-<th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-1/uri/phase-1-2">phase-1-2</a></th>
-<th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Beginner       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Strings        </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Strings        </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Data Structures</td><td align="center">15 problems</td><td>solutions</td>
-            <td>Data Structures</td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
-    </tbody>
-        <tr>
-<th align="center" width="400px"><a href="/level-1/uri/phase-1-3">phase-1-3</a></th>
-<th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-1/uri/phase-1-4">phase-1-4</a></th>
-<th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Beginner       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Strings        </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Strings        </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Data Structures</td><td align="center">15 problems</td><td>solutions</td>
-            <td>Data Structures</td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
-    </tbody>
-        <tr>
-<th align="center" width="400px"><a href="/level-1/uri/phase-1-5">phase-1-5</a></th>
-<th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-1/uri/phase-1-6">phase-1-6</a></th>
-<th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Beginner       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Beginner       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Ad-Hoc I       </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Ad-Hoc II      </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Strings        </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Strings        </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Data Structures</td><td align="center">15 problems</td><td>solutions</td>
-            <td>Data Structures</td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Mathematics    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td>
-            <td>Geometry       </td><td align="center"> 5 problems</td><td>solutions</td></tr>
-    </tbody>
-</table>
 
 <a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
@@ -163,6 +69,43 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
             <td>Functions and Libraries    </td><td align="center">35 problems</td><td>solutions</td></tr>
         <tr><td>Structs and Classes        </td><td align="center">30 problems</td><td>solutions</td>
             <td>Classes                    </td><td align="center">10 problems</td><td>solutions</td></tr>
+    </tbody>
+</table>
+
+<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
+<br>
+
+## `AtCoder OJ sheets`
+
+The AtCoder OJ sheets:
+[phase-1-1](/level-1/atcoder/phase-1-1),
+[phase-1-2](/level-1/atcoder/phase-1-2),
+These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
+
+<table>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-1">phase-1-1</a></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-2">phase-1-2</a></th>
+<th align="center" width="150px">180 problems</th>
+<th align="center" width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td>
+            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td>
+            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td>
+            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td>
+            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td>
+            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td>
+            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 
@@ -306,43 +249,6 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
             <td>Recursion       </td><td align="center">10 problems</td><td>solutions</td></tr>
         <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
             <td>Operators       </td><td align="center">35 problems</td><td>solutions</td></tr>
-    </tbody>
-</table>
-
-<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
-<br>
-
-## `AtCoder OJ sheets`
-
-The AtCoder OJ sheets:
-[phase-1-1](/level-1/atcoder/phase-1-1),
-[phase-1-2](/level-1/atcoder/phase-1-2),
-These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
-
-<table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-1">phase-1-1</a></th>
-<th align="center" width="150px">180 problems</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-2">phase-1-2</a></th>
-<th align="center" width="150px">180 problems</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
 

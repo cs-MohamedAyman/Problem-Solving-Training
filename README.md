@@ -12,7 +12,7 @@ Problem Solving Training for computer science students.
 <a href="/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
 <a href="/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
 <a href="/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
-<a href="/README.md"><img width="80" src="/logos/uri.png"></img></a>
+<a href="/README.md"><img width="80" src="/logos/kattis.png"></img></a>
 <a href="/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
@@ -23,16 +23,15 @@ Problem Solving Training for computer science students.
   * [Level 1](#level-1)
     * [Prerequisite Knowledge](#prerequisite-knowledge)
     * [Level Timeline](#level-timeline)
-    * [URI Online Judge Sheets](#uri-oj-sheets)
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
   * [Level 2](#level-2)
     * [Prerequisite Knowledge](#prerequisite-knowledge-1)
     * [Level Timeline](#level-timeline-1)
-    * [URI Online Judge Sheets](#uri-oj-sheets-1)
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-1)
+    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets-1)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-1)
     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets-1)
@@ -40,7 +39,7 @@ Problem Solving Training for computer science students.
     * [Prerequisite Knowledge](#prerequisite-knowledge-2)
     * [Level Timeline](#level-timeline-2)
     * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets-2)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets-1)
+    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets-2)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-2)
     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets-1)
     * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets-2)
@@ -48,9 +47,9 @@ Problem Solving Training for computer science students.
     * [Prerequisite Knowledge](#prerequisite-knowledge-3)
     * [Level Timeline](#level-timeline-3)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets-3)
-    * [LeetCode Online Judge Sheets](#leetcode-oj-sheets-2)
     * [Google Competitions Sheets](#google-competitions-sheets)
     * [UVA Online Judge Sheets](#uva-oj-sheets)
+    * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
   * [Notes](#notes)
 
 <br>
@@ -58,7 +57,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 1`](/level-1/README.md)
 
-This level simply consists of 20 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, and the last 2 sheets on AtCoder Online Judge.
+This level simply consists of 14 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 2 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -67,20 +66,6 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 <a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
 <br><br>
-
-<a href="/level-1/README.md#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.png"></img></a>
-<br>
-
-## [`URI OJ sheets`](/level-1/README.md#uri-oj-sheets)
-
-The URI OJ sheets:
-[phase-1-1](/level-1/uri/phase-1-1),
-[phase-1-2](/level-1/uri/phase-1-2),
-[phase-1-3](/level-1/uri/phase-1-3),
-[phase-1-4](/level-1/uri/phase-1-4),
-[phase-1-5](/level-1/uri/phase-1-5),
-[phase-1-6](/level-1/uri/phase-1-6),
-each sheet of them divided into (Beginner - Ad Hoc - Strings - Data Structures - Mathematics - Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~175 problems.
 
 <a href="/level-1/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
@@ -108,6 +93,16 @@ For the last 2 sheets:
 [div3-div4-contests](/level-1/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [educational-contests](/level-1/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
 
+<a href="/level-1/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
+<br>
+
+## [`AtCoder OJ sheets`](/level-1/README.md#atcoder-oj-sheets)
+
+The AtCoder OJ sheets:
+[phase-1-1](/level-1/atcoder/phase-1-1),
+[phase-1-2](/level-1/atcoder/phase-1-2),
+These sheets contain beginner contests (easy contests) and each sheet contains ~180 problems.
+
 <a href="/level-1/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
@@ -120,23 +115,13 @@ The HackerEarth OJ sheets:
 [phase-1-4](/level-1/hackerearth/phase-1-4),
 each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
-<a href="/level-1/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
-<br>
-
-## [`AtCoder OJ sheets`](/level-1/README.md#atcoder-oj-sheets)
-
-The AtCoder OJ sheets:
-[phase-1-1](/level-1/atcoder/phase-1-1),
-[phase-1-2](/level-1/atcoder/phase-1-2),
-These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
-
 <br>
 
 <a href="/level-2/README.md"><img width="100%" src="/logos/level-2-cover.png"></img></a>
 
 ## [`Level 2`](/level-2/README.md)
 
-This level simply consists of 22 sheets, 6 sheets on URI Online Judge, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, and the last 4 sheets on HackerEarth Online Judge.
+This level simply consists of 20 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
@@ -145,20 +130,6 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 <a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a>
 <br><br>
-
-<a href="/level-2/README.md#uri-oj-sheets"><img align="right" width="80" src="/logos/uri.png"></img></a>
-<br>
-
-## [`URI OJ sheets`](/level-2/README.md#uri-oj-sheets)
-
-The URI OJ sheets:
-[phase-2-1](/level-2/uri/phase-2-1),
-[phase-2-2](/level-2/uri/phase-2-2),
-[phase-2-3](/level-2/uri/phase-2-3),
-[phase-2-4](/level-2/uri/phase-2-4),
-[phase-2-5](/level-2/uri/phase-2-5),
-[phase-2-6](/level-2/uri/phase-2-6),
-each sheet of them divided into (Ad Hoc - Strings - Data Structures - Mathematics Graph Paradigms Geometry). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~150 problems.
 
 <a href="/level-2/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
@@ -169,6 +140,16 @@ The HackerRank OJ sheets:
 [data-structures](/level-2/hackerrank/data-structures),
 [algorithms-basics](/level-2/hackerrank/algorithms-basics),
 each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+
+<a href="/level-2/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
+<br>
+
+## [`AtCoder OJ sheets`](/level-2/README.md#atcoder-oj-sheets)
+
+The AtCoder OJ sheets:
+[phase-2-1](/level-2/atcoder/phase-2-1),
+[phase-2-2](/level-2/atcoder/phase-2-2),
+These sheets contain regular contests (medium contests) and each sheet contains ~60 problems.
 
 <a href="/level-2/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
@@ -218,7 +199,7 @@ each sheet of them contains linear and non-linear data structures problems, plus
 
 ## [`Level 3`](/level-3/README.md)
 
-This level simply consists of 24 sheets, 4 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on AtCoder Online Judge, 4 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 28 sheets, 4 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 2 sheets on AtCoder Online Judge, 6 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
@@ -246,11 +227,9 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
 ## [`AtCoder OJ sheets`](/level-3/README.md#atcoder-oj-sheets)
 
 The AtCoder OJ sheets:
-[regular-contests-1](/level-3/atcoder/regular-contests-1),
-[regular-contests-2](/level-3/atcoder/regular-contests-2),
-[grand-contests-1](/level-3/atcoder/grand-contests-1),
-[grand-contests-2](/level-3/atcoder/grand-contests-2),
-These sheets contain (Regular + Grand) contests (medium contests) and each sheet contains ~60 problems.
+[phase-3-1](/level-3/atcoder/phase-3-1),
+[phase-3-2](/level-3/atcoder/phase-3-2),
+These sheets contain grand contests (hard contests) and each sheet contains ~60 problems.
 
 <a href="/level-3/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
@@ -281,6 +260,8 @@ The LeetCode OJ sheets:
 [graph-advanced-data-structures](/level-3/leetcode/graph-advanced-data-structures),
 [mathematics-strings](/level-3/leetcode/mathematics-strings),
 [dynamic-programming](/level-3/leetcode/dynamic-programming),
+[interviews-questions](/level-3/leetcode/interviews-questions),
+[liked-questions](/level-3/leetcode/liked-questions),
 These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <a href="/level-3/README.md#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
@@ -322,10 +303,10 @@ coming soon ...
 
 coming soon ...
 
-<a href="/level-4/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-4/README.md#topcoder-oj-sheets"><img align="right" width="80" src="/logos/topcoder.png"></img></a>
 <br>
 
-## [`LeetCode OJ sheets`](/level-4/README.md#leetcode-oj-sheets)
+## [`TopCoder OJ sheets`](/level-4/README.md#topcoder-oj-sheets)
 
 coming soon ...
 
