@@ -112,10 +112,10 @@ These sheets contain grand contests (hard contests) and each sheet contains ~60 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-3/atcoder/grand-contests-1">phase-3-1</a></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/phase-3-1">phase-3-1</a></th>
 <th align="center" width="150px">55 contests</th>
 <th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-3/atcoder/grand-contests-2">phase-3-2</a></th>
+<th align="center" width="400px"><a href="/level-3/atcoder/phase-3-2">phase-3-2</a></th>
 <th align="center" width="150px">55 contests</th>
 <th align="center" width="50px"></th>
         </tr>
