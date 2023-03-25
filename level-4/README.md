@@ -8,7 +8,7 @@ Problem Solving Training for computer science students.
 <a href="/level-4/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
 <a href="/level-4/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
 <a href="/level-4/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
-<a href="/level-4/README.md"><img width="80" src="/logos/uri.png"></img></a>
+<a href="/level-4/README.md"><img width="80" src="/logos/kattis.png"></img></a>
 <a href="/level-4/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
@@ -20,7 +20,7 @@ Problem Solving Training for computer science students.
     * [Prerequisite Knowledge](#prerequisite-knowledge)
     * [Level Timeline](#level-timeline)
     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-    * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
+    * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
     * [Google Competitions Sheets](#google-competitions-sheets)
     * [UVA Online Judge Sheets](#uva-oj-sheets)
     * [Notes](#notes)
@@ -46,10 +46,10 @@ coming soon ...
 
 coming soon ...
 
-<a href="/level-4/README.md#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-4/README.md#topcoder-oj-sheets"><img align="right" width="80" src="/logos/topcoder.png"></img></a>
 <br>
 
-## [`LeetCode OJ sheets`](/level-4/README.md#leetcode-oj-sheets)
+## [`TopCoder OJ sheets`](/level-4/README.md#topcoder-oj-sheets)
 
 coming soon ...
 
