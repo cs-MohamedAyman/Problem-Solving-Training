@@ -1,20 +1,9 @@
 # Problem Solving Training - Level 2 Timeline
 
-<a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a>
+<!-- <a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a> -->
 
 <table>
     <tbody>
-        <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/uri/phase-2-1"><img src="/logos/uri.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/uri/phase-2-2"><img src="/logos/uri.png"></img></a></td>
-<td align="left">URI<a href="/level-2/uri/phase-2-1"> phase-2-1</a></td>
-<td align="center" width="10%">120 Hrs</td>
-        </tr>
-        <tr>
-<td align="left">URI<a href="/level-2/uri/phase-2-2"> phase-2-2</a></td>
-<td align="center" width="10%">120 Hrs</td>
-        </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
 <td width="10%" rowspan=2><a href="/level-2/codeforces/phase-2-1"><img src="/logos/codeforces.png"></img></a></td>
@@ -50,14 +39,14 @@
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/uri/phase-2-3"><img src="/logos/uri.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/uri/phase-2-4"><img src="/logos/uri.png"></img></a></td>
-<td align="left">URI<a href="/level-2/uri/phase-2-3"> phase-2-3</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td width="10%" rowspan=2><a href="/level-2/atcoder/regular-contests-1"><img src="/logos/atcoder.png"></img></a></td>
+<td width="10%" rowspan=2><a href="/level-2/atcoder/regular-contests-2"><img src="/logos/atcoder.png"></img></a></td>
+<td align="left">AtCoder<a href="/level-2/atcoder/phase-2-1"> phase-2-1</a></td>
+<td align="center" width="10%">40 Hrs</td>
         </tr>
         <tr>
-<td align="left">URI<a href="/level-2/uri/phase-2-4"> phase-2-4</a></td>
-<td align="center" width="10%">120 Hrs</td>
+<td align="left">AtCoder<a href="/level-2/atcoder/phase-2-2"> phase-2-2</a></td>
+<td align="center" width="10%">40 Hrs</td>
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
@@ -80,17 +69,6 @@
         <tr>
 <td align="left">LeetCode<a href="/level-2/leetcode/non-linear-data-structures-2"> non-linear-data-structures-2</a></td>
 <td align="center" width="10%">160 Hrs</td>
-        </tr>
-        <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/uri/phase-2-5"><img src="/logos/uri.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-2/uri/phase-2-6"><img src="/logos/uri.png"></img></a></td>
-<td align="left">URI<a href="/level-2/uri/phase-2-5"> phase-2-5</a></td>
-<td align="center" width="10%">80 Hrs</td>
-        </tr>
-        <tr>
-<td align="left">URI<a href="/level-2/uri/phase-2-6"> phase-2-6</a></td>
-<td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-2/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/4-weeks.png"></img></a></td>

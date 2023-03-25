@@ -1,6 +1,6 @@
 # Problem Solving Training - Level 3 Timeline
 
-<a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a>
+<!-- <a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a> -->
 
 <table>
     <tbody>
@@ -36,17 +36,6 @@
         <tr>
 <td align="left">HackerEarth<a href="/level-3/hackerearth/mathematics-strings-2"> mathematics-2</a></td>
 <td align="center" width="10%">80 Hrs</td>
-        </tr>
-        <tr>
-<td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-3/atcoder/regular-contests-1"><img src="/logos/atcoder.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-3/atcoder/regular-contests-2"><img src="/logos/atcoder.png"></img></a></td>
-<td align="left">AtCoder<a href="/level-3/atcoder/regular-contests-1"> regular-contests-1</a></td>
-<td align="center" width="10%">40 Hrs</td>
-        </tr>
-        <tr>
-<td align="left">AtCoder<a href="/level-3/atcoder/regular-contests-2"> regular-contests-2</a></td>
-<td align="center" width="10%">40 Hrs</td>
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/4-weeks.png"></img></a></td>
@@ -105,13 +94,13 @@
         </tr>
         <tr>
 <td align="left" width="20%" rowspan=2><a href="/level-3/Timeline.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/timeline/2-weeks.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-3/atcoder/grand-contests-1"><img src="/logos/atcoder.png"></img></a></td>
-<td width="10%" rowspan=2><a href="/level-3/atcoder/grand-contests-2"><img src="/logos/atcoder.png"></img></a></td>
-<td align="left">AtCoder<a href="/level-3/atcoder/grand-contests-1"> grand-contests-1</a></td>
+<td width="10%" rowspan=2><a href="/level-3/atcoder/regular-contests-1"><img src="/logos/atcoder.png"></img></a></td>
+<td width="10%" rowspan=2><a href="/level-3/atcoder/regular-contests-2"><img src="/logos/atcoder.png"></img></a></td>
+<td align="left">AtCoder<a href="/level-3/atcoder/phase-3-1"> phase-2-1</a></td>
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
-<td align="left">AtCoder<a href="/level-3/atcoder/grand-contests-2"> grand-contests-2</a></td>
+<td align="left">AtCoder<a href="/level-2/atcoder/phase-3-2"> phase-2-2</a></td>
 <td align="center" width="10%">80 Hrs</td>
         </tr>
         <tr>
