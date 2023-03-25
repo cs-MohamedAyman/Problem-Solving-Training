@@ -64,7 +64,7 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 
 ## [`Level Timeline`](/level-1/Timeline.md)
 
-<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
+<!-- <a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a> -->
 <br><br>
 
 <a href="/level-1/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
@@ -128,7 +128,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 
 ## [`Level Timeline`](/level-2/Timeline.md)
 
-<a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a>
+<!-- <a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a> -->
 <br><br>
 
 <a href="/level-2/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
@@ -206,7 +206,7 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 
 ## [`Level Timeline`](/level-3/Timeline.md)
 
-<a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a>
+<!-- <a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a> -->
 <br><br>
 
 <a href="/level-3/README.md#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
