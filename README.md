@@ -57,7 +57,7 @@ Problem Solving Training for computer science students.
 
 ## [`Level 1`](/level-1/README.md)
 
-This level simply consists of 14 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 2 sheets on AtCoder Online Judge.
+This level simply consists of 12 sheets, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 2 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -89,10 +89,6 @@ The Codeforces OJ sheets:
 [phase-1-4](/level-1/codeforces/phase-1-4),
 each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
-For the last 2 sheets:
-[div3-div4-contests](/level-1/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
-[educational-contests](/level-1/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
-
 <a href="/level-1/README.md#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
@@ -121,7 +117,7 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
 
 ## [`Level 2`](/level-2/README.md)
 
-This level simply consists of 20 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
+This level simply consists of 22 sheets, 2 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
@@ -163,7 +159,9 @@ The Codeforces OJ sheets:
 [phase-2-4](/level-2/codeforces/phase-2-4),
 each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
-For the last 2 sheets:
+For the last 4 sheets:
+[div3-div4-contests](/level-2/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
+[educational-contests](/level-2/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
 [gym-contests-1](/level-2/codeforces/gym-contests-1),
 [gym-contests-2](/level-2/codeforces/gym-contests-2) that focus on gym-contests that contains ~120 contests.
 
