@@ -9,15 +9,15 @@
 <td align="center" width="50%">Programming Competitions</td>
         </tr>
         <tr>
-<td align="center" width="50%"><a href="/level-1/Timeline.md"><img src="/logos/type1.png" width="33%"></img></a></td>
-<td align="center" width="50%"><a href="/level-1/Timeline.md"><img src="/logos/type2.png" width="33%"></img></a></td>
+<td align="center" width="50%"><a href="/level-1/Timeline.md"><img src="/logos/type1.gif" width="66%"></img></a></td>
+<td align="center" width="50%"><a href="/level-1/Timeline.md"><img src="/logos/type2.gif" width="66%"></img></a></td>
         </tr>
     </tbody>
 </table>
 <table>
     <tbody>
         <tr>
-<td align="left" width="17%"><a href="/level-1/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-1/Timeline.md"><img src="/logos/1-week.png"></img></a></td>
 <td              width="8%"><a href="/level-1/hackerrank/python"><img src="/logos/hackerrank.png"></img></a></td>
 <td align="left" width="25%">HackerRank<a href="/level-1/hackerrank/python"> python</a></td>
 <td align="left" width="17%"><a href="/level-1/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
@@ -26,7 +26,7 @@
 <td align="left" width="25%">AtCoder<a href="/level-1/atcoder/phase-1-1"> phase-1-1</a></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-1/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-1/Timeline.md"><img src="/logos/1-week.png"></img></a></td>
 <td              width="8%"><a href="/level-1/hackerrank/cpp"><img src="/logos/hackerrank.png"></img></a></td>
 <td align="left" width="15%">HackerRank<a href="/level-1/hackerrank/cpp"> cpp</a></td>
 <td align="left" width="17%"><a href="/level-1/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
