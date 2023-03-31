@@ -8,7 +8,7 @@
 <td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/hackerrank/data-structures"><img src="/logos/hackerrank.png"></img></a></td>
 <td align="left" width="25%">HackerRank<a href="/level-2/hackerrank/data-structures"> data-structures</a></td>
-<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/1-week.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/atcoder/phase-2-1"><img src="/logos/atcoder.png"></img></a></td>
 <td align="left" width="25%">AtCoder<a href="/level-2/atcoder/phase-2-1"> phase-2-1</a></td>
         </tr>
@@ -16,7 +16,7 @@
 <td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/hackerrank/algorithms-basics"><img src="/logos/hackerrank.png"></img></a></td>
 <td align="left" width="25%">HackerRank<a href="/level-2/hackerrank/algorithms-basics"> algorithms-basics</a></td>
-<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/1-week.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/atcoder/phase-2-2"><img src="/logos/atcoder.png"></img></a></td>
 <td align="left" width="25%">AtCoder<a href="/level-2/atcoder/phase-2-2"> phase-2-2</a></td>
         </tr>

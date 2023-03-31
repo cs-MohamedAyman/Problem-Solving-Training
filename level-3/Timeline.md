@@ -37,7 +37,7 @@
 <td align="left" width="25%">Codeforces<a href="/level-3/codeforces/phase-3-2"> phase-3-2</a></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-3/leetcode/tree-graph-traversal"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">Leetcode<a href="/level-3/leetcode/tree-graph-traversal"> tree-graph-traversal</a></td>
 <td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
@@ -45,7 +45,7 @@
 <td align="left" width="25%">Codeforces<a href="/level-3/codeforces/phase-3-3"> phase-3-3</a></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-3/leetcode/graph-advanced-data-structures"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">Leetcode<a href="/level-3/leetcode/graph-advanced-data-structures"> graph-advanced-data-structures</a></td>
 <td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
@@ -53,7 +53,7 @@
 <td align="left" width="25%">Codeforces<a href="/level-3/codeforces/phase-3-4"> phase-3-4</a></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-3/leetcode/mathematics-strings"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">Leetcode<a href="/level-3/leetcode/mathematics-strings"> mathematics-strings</a></td>
 <td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
@@ -61,7 +61,7 @@
 <td align="left" width="25%">Codeforces<a href="/level-3/codeforces/div3-div4-contests"> div3-and-div4-contests</a></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-3/leetcode/dynamic-programming"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">Leetcode<a href="/level-3/leetcode/dynamic-programming"> dynamic-programming</a></td>
 <td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
@@ -69,7 +69,7 @@
 <td align="left" width="25%">Codeforces<a href="/level-3/codeforces/educational-contests"> educational-contests</a></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-3/leetcode/interviews-questions"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">Leetcode<a href="/level-3/leetcode/interviews-questions"> interviews-questions</a></td>
 <td></td>
@@ -77,7 +77,7 @@
 <td></td>
         </tr>
         <tr>
-<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-3/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-3/leetcode/liked-questions"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">Leetcode<a href="/level-3/leetcode/liked-questions"> liked-questions</a></td>
 <td></td>
