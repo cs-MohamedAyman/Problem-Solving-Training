@@ -116,6 +116,8 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
 
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
 
+<br>
+
 <a href="/level-2/README.md"><img width="100%" src="/logos/level-2-cover.png"></img></a>
 
 ## [`Level 2`](/level-2/README.md)
@@ -199,6 +201,8 @@ each sheet of them contains linear and non-linear data structures problems, plus
 ## `Notes`
 
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
+
+<br>
 
 <a href="/level-3/README.md"><img width="100%" src="/logos/level-3-cover.png"></img></a>
 
@@ -293,6 +297,8 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
 
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
 
+<br>
+
 <a href="/level-4/README.md"><img width="100%" src="/logos/level-4-cover.png"></img></a>
 
 ## [`Level 4`](/level-4/README.md)
@@ -340,3 +346,5 @@ coming soon ...
 ## `Notes`
 
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
+
+<br>
