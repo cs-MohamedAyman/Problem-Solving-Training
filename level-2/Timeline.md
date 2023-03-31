@@ -1,19 +1,7 @@
 # Problem Solving Training - Level 2 Timeline
 
-<!-- <a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a> -->
+<a href="/level-2/Timeline.md"><img width="100%" src="/logos/level-2-timeline.png"></img></a>
 
-<table>
-    <tbody>
-        <tr>
-<td align="center" width="50%">Interviews Preparation</td>
-<td align="center" width="50%">Programming Competitions</td>
-        </tr>
-        <tr>
-<td align="center" width="50%"><a href="/level-2/Timeline.md"><img src="/logos/type1.gif" width="66%"></img></a></td>
-<td align="center" width="50%"><a href="/level-2/Timeline.md"><img src="/logos/type2.gif" width="66%"></img></a></td>
-        </tr>
-    </tbody>
-</table>
 <table>
     <tbody>
         <tr>
@@ -68,7 +56,7 @@
 <td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/leetcode/basic-algorithms-1"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">LeetCode<a href="/level-2/leetcode/basic-algorithms-1"> basic-algorithms-1</a></td>
-<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/3-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/codeforces/div3-div4-contests"><img src="/logos/codeforces.png"></img></a></td>
 <td align="left" width="25%">Codeforces<a href="/level-2/codeforces/div3-div4-contests"> div3-and-div4-contests</a></td>
         </tr>
@@ -76,7 +64,7 @@
 <td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/4-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/leetcode/basic-algorithms-2"><img src="/logos/leetcode.png"></img></a></td>
 <td align="left" width="25%">LeetCode<a href="/level-2/leetcode/basic-algorithms-2"> basic-algorithms-2</a></td>
-<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/3-weeks.png"></img></a></td>
+<td align="left" width="17%"><a href="/level-2/Timeline.md"><img src="/logos/2-weeks.png"></img></a></td>
 <td              width="8%"><a href="/level-2/codeforces/educational-contests"><img src="/logos/codeforces.png"></img></a></td>
 <td align="left" width="25%">Codeforces<a href="/level-2/codeforces/educational-contests"> educational-contests</a></td>
         </tr>

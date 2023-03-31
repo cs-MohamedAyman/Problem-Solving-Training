@@ -1,19 +1,7 @@
 # Problem Solving Training - Level 1 Timeline
 
-<!-- <a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a> -->
+<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
 
-<table>
-    <tbody>
-        <tr>
-<td align="center" width="50%">Interviews Preparation</td>
-<td align="center" width="50%">Programming Competitions</td>
-        </tr>
-        <tr>
-<td align="center" width="50%"><a href="/level-1/Timeline.md"><img src="/logos/type1.gif" width="66%"></img></a></td>
-<td align="center" width="50%"><a href="/level-1/Timeline.md"><img src="/logos/type2.gif" width="66%"></img></a></td>
-        </tr>
-    </tbody>
-</table>
 <table>
     <tbody>
         <tr>

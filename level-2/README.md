@@ -30,7 +30,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 2`
 
-This level simply consists of 22 sheets, 2 sheets on HackerRank Online Judge, 8 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
+This level simply consists of 20 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Data-Structures-and-Algorithms-Training/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
@@ -46,8 +46,8 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 ## `HackerRank OJ sheets`
 
 The HackerRank OJ sheets:
-[data-structures](/level-2/hackerrank/data-structures),
-[algorithms-basics](/level-2/hackerrank/algorithms-basics),
+[[data-structures](/level-2/hackerrank/data-structures)],
+[[algorithms-basics](/level-2/hackerrank/algorithms-basics)],
 each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
 <table>
@@ -83,8 +83,8 @@ each sheet of them contains linear and non linear data structures problems, and 
 ## `AtCoder OJ sheets`
 
 The AtCoder OJ sheets:
-[phase-2-1](/level-2/atcoder/phase-2-1),
-[phase-2-2](/level-2/atcoder/phase-2-2),
+[[phase-2-1](/level-2/atcoder/phase-2-1)],
+[[phase-2-2](/level-2/atcoder/phase-2-2)],
 These sheets contain regular contests (medium contests) and each sheet contains ~60 problems.
 
 <table>
@@ -114,42 +114,18 @@ These sheets contain regular contests (medium contests) and each sheet contains 
 ## `Codeforces OJ sheets`
 
 The Codeforces OJ sheets:
-[phase-2-1](/level-2/codeforces/phase-2-1),
-[phase-2-2](/level-2/codeforces/phase-2-2),
-[phase-2-3](/level-2/codeforces/phase-2-3),
-[phase-2-4](/level-2/codeforces/phase-2-4),
+[[phase-2-1](/level-2/codeforces/phase-2-1)],
+[[phase-2-2](/level-2/codeforces/phase-2-2)],
+[[phase-2-3](/level-2/codeforces/phase-2-3)],
+[[phase-2-4](/level-2/codeforces/phase-2-4)],
 each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+[[div3-div4-contests](/level-2/codeforces/div3-div4-contests)] that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
+[[educational-contests](/level-2/codeforces/educational-contests)], that focus on educational-contests (medium contests) and contains ~125 contests.
 
-For the last 4 sheets:
-[div3-div4-contests](/level-2/codeforces/div3-div4-contests) that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
-[educational-contests](/level-2/codeforces/educational-contests), that focus on educational-contests (medium contests) and contains ~125 contests.
-[gym-contests-1](/level-2/codeforces/gym-contests-1),
-[gym-contests-2](/level-2/codeforces/gym-contests-2) that focus on gym-contests that contains ~120 contests.
+For the last 2 optional sheets:
+[[gym-contests-1](/level-2/codeforces/gym-contests-1)],
+[[gym-contests-2](/level-2/codeforces/gym-contests-2)] that focus on gym-contests that contains ~120 contests.
 
-<table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-2/codeforces/div3-div4-contests">div3-div4-contests</a></th>
-<th align="center" width="150px">85 contests</th>
-<th align="center" width="50px"></th>
-<th align="center" width="400px"><a href="/level-2/codeforces/educational-contests">educational-contests</a></th>
-<th align="center" width="150px">125 contests</th>
-<th align="center" width="50px"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td><td>solutions</td>
-            <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td><td>solutions</td>
-            <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-    </tbody>
-</table>
 <table>
     <thead>
         <tr>
@@ -196,6 +172,30 @@ For the last 4 sheets:
             <td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
 </table>
+<table>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-2/codeforces/div3-div4-contests">div3-div4-contests</a></th>
+<th align="center" width="150px">85 contests</th>
+<th align="center" width="50px"></th>
+<th align="center" width="400px"><a href="/level-2/codeforces/educational-contests">educational-contests</a></th>
+<th align="center" width="150px">125 contests</th>
+<th align="center" width="50px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td><td>solutions</td>
+            <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td><td>solutions</td>
+            <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+    </tbody>
+</table>
 
 <table>
     <thead>
@@ -228,12 +228,12 @@ For the last 4 sheets:
 ## `LeetCode OJ sheets`
 
 The LeetCode OJ sheets:
-[linear-data-structures-1](/level-2/leetcode/linear-data-structures-1),
-[linear-data-structures-2](/level-2/leetcode/linear-data-structures-2),
-[non-linear-data-structures-1](/level-2/leetcode/non-linear-data-structures-1),
-[non-linear-data-structures-2](/level-2/leetcode/non-linear-data-structures-2),
-[basic-algorithms-1](/level-2/leetcode/basic-algorithms-1),
-[basic-algorithms-2](/level-2/leetcode/basic-algorithms-2),
+[[linear-data-structures-1](/level-2/leetcode/linear-data-structures-1)],
+[[linear-data-structures-2](/level-2/leetcode/linear-data-structures-2)],
+[[non-linear-data-structures-1](/level-2/leetcode/non-linear-data-structures-1)],
+[[non-linear-data-structures-2](/level-2/leetcode/non-linear-data-structures-2)],
+[[basic-algorithms-1](/level-2/leetcode/basic-algorithms-1)],
+[[basic-algorithms-2](/level-2/leetcode/basic-algorithms-2)],
 each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <table>
@@ -319,10 +319,10 @@ each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tre
 ## `HackerEarth OJ sheets`
 
 The HackerEarth OJ sheets:
-[linear-data-structures](/level-2/hackerearth/linear-data-structures),
-[non-linear-data-structures](/level-2/hackerearth/non-linear-data-structures),
-[algorithms-searching](/level-2/hackerearth/algorithms-searching),
-[algorithms-sorting](/level-2/hackerearth/algorithms-sorting),
+[[linear-data-structures](/level-2/hackerearth/linear-data-structures)],
+[[non-linear-data-structures](/level-2/hackerearth/non-linear-data-structures)],
+[[algorithms-searching](/level-2/hackerearth/algorithms-searching)],
+[[algorithms-sorting](/level-2/hackerearth/algorithms-sorting)],
 each sheet of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
 <table>
@@ -374,7 +374,6 @@ each sheet of them contains linear and non-linear data structures problems, plus
 
 ## `Notes`
 
-* If the student has a target to compete in the programming competitions like ***ICPC or Google CodeJam or Google KickStart or Meta Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets***, ***UVa sheets***, and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***URI sheets***, and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
 
 <br>

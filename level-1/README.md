@@ -45,8 +45,8 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 ## `HackerRank OJ sheets`
 
 The HackerRank OJ sheets:
-[cpp](/level-1/hackerrank/cpp),
-[python](/level-1/hackerrank/python),
+[[cpp](/level-1/hackerrank/cpp)],
+[[python](/level-1/hackerrank/python)],
 each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~80 problems.
 
 <table>
@@ -78,8 +78,8 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
 ## `AtCoder OJ sheets`
 
 The AtCoder OJ sheets:
-[phase-1-1](/level-1/atcoder/phase-1-1),
-[phase-1-2](/level-1/atcoder/phase-1-2),
+[[phase-1-1](/level-1/atcoder/phase-1-1)],
+[[phase-1-2](/level-1/atcoder/phase-1-2)],
 These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
 
 <table>
@@ -115,10 +115,10 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
 ## `Codeforces OJ sheets`
 
 The Codeforces OJ sheets:
-[phase-1-1](/level-1/codeforces/phase-1-1),
-[phase-1-2](/level-1/codeforces/phase-1-2),
-[phase-1-3](/level-1/codeforces/phase-1-3),
-[phase-1-4](/level-1/codeforces/phase-1-4),
+[[phase-1-1](/level-1/codeforces/phase-1-1)],
+[[phase-1-2](/level-1/codeforces/phase-1-2)],
+[[phase-1-3](/level-1/codeforces/phase-1-3)],
+[[phase-1-4](/level-1/codeforces/phase-1-4)],
 each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <table>
@@ -174,10 +174,10 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
 ## `HackerEarth OJ sheets`
 
 The HackerEarth OJ sheets:
-[phase-1-1](/level-1/hackerearth/phase-1-1),
-[phase-1-2](/level-1/hackerearth/phase-1-2),
-[phase-1-3](/level-1/hackerearth/phase-1-3),
-[phase-1-4](/level-1/hackerearth/phase-1-4),
+[[phase-1-1](/level-1/hackerearth/phase-1-1)],
+[[phase-1-2](/level-1/hackerearth/phase-1-2)],
+[[phase-1-3](/level-1/hackerearth/phase-1-3)],
+[[phase-1-4](/level-1/hackerearth/phase-1-4)],
 each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
 <table>
@@ -225,7 +225,6 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
 
 ## `Notes`
 
-* If the student has a target to compete in the programming competitions like ***ICPC or Google CodeJam or Google KickStart or Meta Hackercup or TopCoder Open TCO***, so it's recommended to start with ***Codeforces sheets***, ***TopCoder sheets***, ***UVa sheets***, and ***AtCoder sheets***, but if (s)he has a target to practice on ***a specific topic or preparing for an interview***, so it's recommended to start with ***HackerEarth sheets***, ***HackerRank sheets***, ***URI sheets***, and ***LeetCode sheets***.
 * On each one of these sheets has an excel sheet to record your effort and enhance your progress, The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
 
 <br>
