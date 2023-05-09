@@ -204,8 +204,6 @@ that focus on gym-contests that contains ~125 contests.
         <tr><td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td>
             <td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
-</table>
-<table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/codeforces/div3-div4-contests">div3-div4-contests</a></th>

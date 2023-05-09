@@ -171,8 +171,6 @@ For the last 2 optional sheets:
         <tr><td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td>
             <td>Brute Force   </td><td align="center">10 problems</td><td>solutions</td></tr>
     </tbody>
-</table>
-<table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/div3-div4-contests">div3-div4-contests</a></th>
