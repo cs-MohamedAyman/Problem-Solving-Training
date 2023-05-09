@@ -10,7 +10,7 @@
 - ***Medium Problems III*** `35 problems`
 - ***Hard Problems***        `30 problems`
 
-### LeetCode - Easy Problems `35 problems` [`Solutions`](/level-4/leetcode/interviews-questions/solutions/easy-problems.md)
+### LeetCode - Easy Problems `35 problems` [`Solutions`](/level-3/leetcode/interviews-questions/solutions/easy-problems.md)
 
 <table>
     <tbody>
@@ -89,7 +89,7 @@
     </tbody>
 </table>
 
-### LeetCode - Medium Problems I `35 problems` [`Solutions`](/level-4/leetcode/interviews-questions/solutions/medium-problems-I.md)
+### LeetCode - Medium Problems I `35 problems` [`Solutions`](/level-3/leetcode/interviews-questions/solutions/medium-problems-I.md)
 
 <table>
     <tbody>
@@ -168,7 +168,7 @@
     </tbody>
 </table>
 
-### LeetCode - Medium Problems II `35 problems` [`Solutions`](/level-4/leetcode/interviews-questions/solutions/medium-problems-II.md)
+### LeetCode - Medium Problems II `35 problems` [`Solutions`](/level-3/leetcode/interviews-questions/solutions/medium-problems-II.md)
 
 <table>
     <tbody>
@@ -247,7 +247,7 @@
     </tbody>
 </table>
 
-### LeetCode - Medium Problems III `35 problems` [`Solutions`](/level-4/leetcode/interviews-questions/solutions/medium-problems-III.md)
+### LeetCode - Medium Problems III `35 problems` [`Solutions`](/level-3/leetcode/interviews-questions/solutions/medium-problems-III.md)
 
 <table>
     <tbody>
@@ -326,7 +326,7 @@
     </tbody>
 </table>
 
-### LeetCode - Hard Problems `30 problems` [`Solutions`](/level-4/leetcode/interviews-questions/solutions/hard-problems.md)
+### LeetCode - Hard Problems `30 problems` [`Solutions`](/level-3/leetcode/interviews-questions/solutions/hard-problems.md)
 
 <table>
     <tbody>
