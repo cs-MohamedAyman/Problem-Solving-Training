@@ -1,37 +1,27 @@
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
 
-<a href="/level-1/README.md"><img width="80" src="/logos/codeforces.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/leetcode.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/atcoder.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/uva.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/kattis.png"></img></a>
-<a href="/level-1/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
 <br>
 <a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
-  * [Level 1](#level-1)
-    * [Prerequisite Knowledge](#prerequisite-knowledge)
-    * [Level Timeline](#level-timeline)
-    * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
-    * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-    * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-    * [Notes](#notes)
+  * [Prerequisite Knowledge](#prerequisite-knowledge)
+  * [Level Timeline](#level-timeline)
+  * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+  * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
+  * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+  * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+  * [Notes](#notes)
 
-<a href="/level-1/README.md"><img width="100%" src="/logos/level-1-cover.png"></img></a>
+<a href="/level-1/README.md"><img width="100%" src="/logos/level-1.png"></img></a>
 
 ## `Level 1`
 
 This level simply consists of 12 sheets, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 2 sheets on AtCoder Online Judge.
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Programming-Languages-and-Object-Oriented-Training/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Programming-Languages-and-Object-Oriented/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
 ## [`Level Timeline`](/level-1/Timeline.md)

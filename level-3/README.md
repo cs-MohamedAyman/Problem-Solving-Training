@@ -1,38 +1,28 @@
 # Problem Solving Training - Level 3
 Problem Solving Training for computer science students.
 
-<a href="/level-3/README.md"><img width="80" src="/logos/codeforces.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/leetcode.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/atcoder.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/uva.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/topcoder.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/hackerearth.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/hackerrank.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/kattis.png"></img></a>
-<a href="/level-3/README.md"><img width="80" src="/logos/googlecompetitions.png"></img></a>
 <br><br><br><br>
 
 <br>
 <a href="/level-3/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
-  * [Level 3](#level-3)
-    * [Prerequisite Knowledge](#prerequisite-knowledge)
-    * [Level Timeline](#level-timeline)
-    * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-    * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
-    * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-    * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-    * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
-    * [Notes](#notes)
+  * [Prerequisite Knowledge](#prerequisite-knowledge)
+  * [Level Timeline](#level-timeline)
+  * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+  * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
+  * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+  * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
+  * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+  * [Notes](#notes)
 
-<a href="/level-3/README.md"><img width="100%" src="/logos/level-3-cover.png"></img></a>
+<a href="/level-3/README.md"><img width="100%" src="/logos/level-3.png"></img></a>
 
 ## `Level 3`
 
 This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 2 sheets on AtCoder Online Judge, 6 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Advanced-Data-Structures-and-Algorithms-Training/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Advanced-Data-Structures-and-Algorithms/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 
 ## [`Level Timeline`](/level-3/Timeline.md)
