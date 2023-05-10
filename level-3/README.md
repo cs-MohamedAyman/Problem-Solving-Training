@@ -16,7 +16,8 @@ Problem Solving Training for computer science students.
   * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
   * [Notes](#notes)
 
-<a href="/level-3/README.md"><img width="100%" src="/logos/level-3.png"></img></a>
+<br><br><br><br>
+<a href="/level-3/README.md"><img align="right" width="160" src="/logos/level-3.png"></img></a>
 
 ## `Level 3`
 

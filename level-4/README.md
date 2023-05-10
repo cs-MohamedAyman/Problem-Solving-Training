@@ -15,7 +15,8 @@ Problem Solving Training for computer science students.
   * [UVA Online Judge Sheets](#uva-oj-sheets)
   * [Notes](#notes)
 
-<a href="/level-4/README.md"><img width="100%" src="/logos/level-4.png"></img></a>
+<br><br><br><br>
+<a href="/level-4/README.md"><img align="right" width="160" src="/logos/level-4.png"></img></a>
 
 ## [`Level 4`](/level-4/README.md)
 
