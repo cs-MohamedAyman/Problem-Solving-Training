@@ -16,7 +16,7 @@ Problem Solving Training for computer science students.
   * [Notes](#notes)
 
 <br><br><br><br>
-<a href="/level-4/README.md"><img align="right" width="160" src="/logos/level-4.png"></img></a>
+<a href="/level-4/README.md"><img align="right" width="120" src="/logos/level-4.png"></img></a>
 
 ## [`Level 4`](/level-4/README.md)
 

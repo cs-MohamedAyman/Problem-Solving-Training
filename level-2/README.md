@@ -17,7 +17,7 @@ Problem Solving Training for computer science students.
   * [Notes](#notes)
 
 <br><br><br><br>
-<a href="/level-2/README.md"><img align="right" width="160" src="/logos/level-2.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="120" src="/logos/level-2.png"></img></a>
 
 ## `Level 2`
 
