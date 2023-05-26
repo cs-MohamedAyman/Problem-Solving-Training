@@ -4,13 +4,13 @@
 
 ### Table of Content
 
-- ***Codeforces GYM Contests 4 I***   `30 contests`
-- ***Codeforces GYM Contests 4 II***  `25 contests`
-- ***Codeforces GYM Contests 4 III*** `25 contests`
-- ***Codeforces GYM Contests 4 IV***  `25 contests`
-- ***Codeforces GYM Contests 4 V***   `25 contests`
+- ***Codeforces GYM Contests **** I***   `30 contests`
+- ***Codeforces GYM Contests **** II***  `25 contests`
+- ***Codeforces GYM Contests **** III*** `25 contests`
+- ***Codeforces GYM Contests **** IV***  `25 contests`
+- ***Codeforces GYM Contests **** V***   `25 contests`
 
-### Codeforces -  GYM Contests 4 I `30 contests`
+### Codeforces -  GYM Contests **** I `30 contests`
 
 <table>
     <tbody>
@@ -77,7 +77,7 @@
     </tbody>
 </table>
 
-### Codeforces -  GYM Contests 4 II `25 contests`
+### Codeforces -  GYM Contests **** II `25 contests`
 
 <table>
     <tbody>
@@ -136,7 +136,7 @@
     </tbody>
 </table>
 
-### Codeforces -  GYM Contests 4 III `25 contests`
+### Codeforces -  GYM Contests **** III `25 contests`
 
 <table>
     <tbody>
@@ -191,7 +191,7 @@
     </tbody>
 </table>
 
-### Codeforces -  GYM Contests 4 IV `25 contests`
+### Codeforces -  GYM Contests **** IV `25 contests`
 
 <table>
     <tbody>
@@ -242,7 +242,7 @@
     </tbody>
 </table>
 
-### Codeforces -  GYM Contests 4 V `25 contests`
+### Codeforces -  GYM Contests **** V `25 contests`
 
 <table>
     <tbody>

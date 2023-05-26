@@ -200,16 +200,16 @@ For the last 2 optional sheets:
         </tr>
     </thead>
     <tbody>
-        <tr><td>GYM Contests 2    </td><td align="center">15 Contests</td><td>solutions</td>
-            <td>GYM Contests 2    </td><td align="center">10 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 I  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 II </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 III</td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 3 IV </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 3 IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **    </td><td align="center">15 Contests</td><td>solutions</td>
+            <td>GYM Contests **    </td><td align="center">10 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests *** I  </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests *** I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests *** II </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests *** II </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests *** III</td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests *** III</td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests *** IV </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests *** IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 

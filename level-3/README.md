@@ -233,16 +233,16 @@ that focus on gym-contests that contains ~125 contests.
         </tr>
     </thead>
     <tbody>
-        <tr><td>GYM Contests 4 I  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 II </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 III</td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 III</td><td align="center">30 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 IV </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 IV </td><td align="center">30 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 V  </td><td align="center">30 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 V  </td><td align="center">20 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** I  </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** III</td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** III</td><td align="center">30 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** IV </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** IV </td><td align="center">30 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** V  </td><td align="center">30 Contests</td><td>solutions</td>
+            <td>GYM Contests **** V  </td><td align="center">20 Contests</td><td>solutions</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -255,16 +255,16 @@ that focus on gym-contests that contains ~125 contests.
         </tr>
     </thead>
     <tbody>
-        <tr><td>GYM Contests 4 I  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 I  </td><td align="center">30 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 II </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 III</td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 IV </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests 4 V  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests 4 V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** I  </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** I  </td><td align="center">30 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** III</td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** III</td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** IV </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** V  </td><td align="center">25 Contests</td><td>solutions</td>
+            <td>GYM Contests **** V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
     </tbody>
 </table>
 
