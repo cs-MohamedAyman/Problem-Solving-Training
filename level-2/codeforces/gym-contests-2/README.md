@@ -4,11 +4,11 @@
 
 ### Table of Content
 
-- ***Codeforces GYM Contests ** ***     `10 contests`
-- ***Codeforces GYM Contests *** I***   `25 contests`
-- ***Codeforces GYM Contests *** II***  `25 contests`
-- ***Codeforces GYM Contests *** III*** `25 contests`
-- ***Codeforces GYM Contests *** IV***  `25 contests`
+- Codeforces GYM Contests **      `10 contests`
+- Codeforces GYM Contests *** I   `25 contests`
+- Codeforces GYM Contests *** II  `25 contests`
+- Codeforces GYM Contests *** III `25 contests`
+- Codeforces GYM Contests *** IV  `25 contests`
 
 ### Codeforces - GYM Contests ** `10 contests`
 
