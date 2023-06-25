@@ -21,7 +21,3 @@ Problem Solving Training for computer science students.
 ## [`Level 3`](/level-3/README.md)
 
 <a href="/level-3/README.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a>
-
-<a href="/level-4/README.md"><img align="right" width="120" src="/logos/level-4.png"></img></a>
-
-## [`Level 4`](/level-4/README.md)
