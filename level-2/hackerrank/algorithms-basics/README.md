@@ -647,42 +647,36 @@
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href=""></a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/equality-in-a-array/problem">equality in a array</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">16</th>
+<th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/acm-icpc-team/problem">acm icpc team</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">17</th>
+<th align="center">16</th>
 <th align="left"><a href="https://hackerrank.com/challenges/taum-and-bday/problem">taum and bday</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">18</th>
+<th align="center">17</th>
 <th align="left"><a href="https://hackerrank.com/challenges/bigger-is-greater/problem">bigger is greater</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">19</th>
+<th align="center">18</th>
 <th align="left"><a href="https://hackerrank.com/challenges/minimum-distances/problem">minimum distances</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">20</th>
+<th align="center">19</th>
 <th align="left"><a href="https://hackerrank.com/challenges/halloween-sale/problem">halloween sale</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Implementation-II.md">Solution</a></th>
