@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures - Implementation II
+# HackerRank OJ - Data Structures <br> Implementation II `20 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
