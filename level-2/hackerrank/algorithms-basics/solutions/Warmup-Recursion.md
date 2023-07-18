@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures - Warmup & Recursion
+# HackerRank OJ - Data Structures <br> Warmup & Recursion `20 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
