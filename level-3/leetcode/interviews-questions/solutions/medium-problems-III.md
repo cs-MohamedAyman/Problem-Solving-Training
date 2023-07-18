@@ -708,7 +708,7 @@ class Solution:
             if degree[i] == 1:
                 q.append(i)
         res = []
-        while len(q):
+        while q:
             res.clear()
             queue_len = len(q)
             for i in range(queue_len):
@@ -803,7 +803,7 @@ class Solution:
             return []
         q = [root]
         res = []
-        while len(q):
+        while q:
             level = []
             curr_len = len(q)
             for i in range(curr_len):
@@ -867,7 +867,7 @@ class Solution:
             return []
         q = [root]
         res = []
-        while len(q):
+        while q:
             level = []
             curr_len = len(q)
             for i in range(curr_len):
@@ -930,7 +930,7 @@ class Solution:
         q = [root]
         res = []
         is_reverse = 0
-        while len(q):
+        while q:
             level = []
             curr_len = len(q)
             for i in range(curr_len):
@@ -999,7 +999,7 @@ class Solution:
         if not root:
             return root
         q = [root]
-        while len(q):
+        while q:
             level = []
             curr_len = len(q)
             prev = None
@@ -1065,7 +1065,7 @@ class Solution:
         if not root:
             return root
         q = [root]
-        while len(q):
+        while q:
             level = []
             curr_len = len(q)
             for i in range(curr_len):
@@ -1128,7 +1128,7 @@ class Solution:
             return []
         q = [root]
         res = []
-        while len(q):
+        while q:
             level = []
             curr_len = len(q)
             for i in range(curr_len):
@@ -1188,7 +1188,7 @@ class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         def bfs():
             q = [(-1, root)]
-            while len(q):
+            while q:
                 curr_len = len(q)
                 for i in range(curr_len):
                     p, u = q.pop(0)
@@ -1512,7 +1512,7 @@ class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         q = [(root, 0)]
         res = 0
-        while len(q):
+        while q:
             curr_len = len(q)
             prt_width = q[0][1]
             last_width = -1

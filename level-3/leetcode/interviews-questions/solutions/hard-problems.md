@@ -564,17 +564,17 @@ Problem Link: https://leetcode.com/problems/sliding-window-maximum
 ```python
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        q = deque()
+        dq = deque()
         res = []
         for i in range(len(nums)):
-            while q and nums[i] > q[-1][0]:
-                q.pop()
-            q.append((nums[i], i))
+            while dq and nums[i] > dq[-1][0]:
+                dq.pop()
+            dq.append((nums[i], i))
             if i < k-1:
                 continue
-            res.append(q[0][0])
-            if i - q[0][1] + 1 == k:
-                q.popleft()
+            res.append(dq[0][0])
+            if i - dq[0][1] + 1 == k:
+                dq.popleft()
         return res
 ```
 
@@ -587,17 +587,17 @@ class Solution:
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int> &nums, int k) {
-        deque<pair<int, int>> q;
+        deque<pair<int, int>> dq;
         vector<int> res;
         for (int i=0; i<size(nums); i++) {
-            while (size(q) and nums[i] > q.back().first)
-                q.pop_back();
-            q.push_back({nums[i], i});
+            while (size(dq) and nums[i] > dq.back().first)
+                dq.pop_back();
+            dq.push_back({nums[i], i});
             if (i < k-1)
                 continue;
-            res.push_back(q[0].first);
-            if (i - q.front().second + 1 == k)
-                q.pop_front();
+            res.push_back(dq[0].first);
+            if (i - dq.front().second + 1 == k)
+                dq.pop_front();
         }
         return res;
     }
@@ -835,7 +835,7 @@ public:
             sub.clear();
             if (cnt.find(s.substr(i, n)) == cnt.end())
                 continue;
-            for (int j=0 ; j<size(words); j++){
+            for (int j=0 ; j<size(words); j++) {
                 string next_word = s.substr(i+j*n, n);
                 if (cnt.find(next_word) != cnt.end())
                     sub[next_word] ++;

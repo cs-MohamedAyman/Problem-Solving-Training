@@ -582,13 +582,13 @@ def getNode(llist, positionFromTail):
 int getNode(SinglyLinkedListNode *llist, int positionFromTail) {
     int n = 0;
     SinglyLinkedListNode *curr = llist;
-    while (curr){
+    while (curr) {
         curr = curr->next;
         n ++;
     }
     n -= positionFromTail + 1;
     curr = llist;
-    while (n){
+    while (n) {
         curr = curr->next;
         n --;
     }
