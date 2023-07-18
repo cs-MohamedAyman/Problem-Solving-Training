@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures - Arrays & Linked Lists
+# HackerRank OJ - Data Structures <br> Arrays & Linked Lists `20 problems`
 
 ## Arrays - DS
 Problem Link: https://hackerrank.com/challenges/arrays-ds/problem
