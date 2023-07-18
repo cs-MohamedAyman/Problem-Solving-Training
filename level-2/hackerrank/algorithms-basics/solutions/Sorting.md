@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures - Sorting
+# HackerRank OJ - Data Structures <br> Sorting `15 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
