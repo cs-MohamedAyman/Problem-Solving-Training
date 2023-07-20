@@ -467,8 +467,255 @@ Problem Link: https://www.hackerrank.com/challenges/swap-nodes-algo/problem
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Is This a Binary Search Tree?
+Problem Link: https://www.hackerrank.com/challenges/is-binary-search-tree/problem
+
+<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
+```python
+def checkBst(curr, min, max):
+    if curr == None:
+        return True
+
+    return min < curr.data and curr.data < max and \
+           checkBst(curr.left,  min, curr.data) and \
+           checkBst(curr.right, curr.data, max)
+
+def check_binary_search_tree_(root):
+    return checkBst(root, -2e9, 2e9)
+```
+
+</details>
+<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
+```cpp
+bool checkBst(Node* curr, int min, int max) {
+    if (curr == NULL)
+        return true;
+
+    return min < curr->data and curr->data < max and
+           checkBst(curr->left,  min, curr->data) and 
+           checkBst(curr->right, curr->data, max);
+}
+bool checkBST(Node* root) {
+    return checkBst(root, -2e9, 2e9);
+}
+```
+
+</details>
+
+## Self Balancing Tree
+Problem Link: https://www.hackerrank.com/challenges/self-balancing-tree/problem
+
+<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
+```python
+class node:
+    def __init__(self, val=0):
+        self.val = val
+        self.left = None
+        self.right = None
+        self.ht = 1
+
+def get_height(x):
+    if x == None:
+        return 0
+    return x.ht
+
+def get_balance(x):
+    if x == None:
+        return 0
+    return get_height(x.left) - get_height(x.right)
+
+def rightRotate(y):
+    x = y.left
+    T2 = x.right
+
+    x.right = y
+    y.left = T2
+
+    y.ht = max(get_height(y.left), get_height(y.right)) + 1
+    x.ht = max(get_height(x.left), get_height(x.right)) + 1
+
+    return x
+
+def leftRotate(x):
+    y = x.right
+    T2 = y.left
+
+    y.left = x
+    x.right = T2
+
+    x.ht = max(get_height(x.left), get_height(x.right)) + 1
+    y.ht = max(get_height(y.left), get_height(y.right)) + 1
+
+    return y
+
+def insert(curr, val):
+    if curr == None:
+        return node(val)
+    if val < curr.val:
+        curr.left = insert(curr.left, val)
+    elif val > curr.val:
+        curr.right = insert(curr.right, val)
+    curr.ht = 1 + max(get_height(curr.left), get_height(curr.right))
+
+    balance = get_balance(curr)
+
+    if balance > 1:
+        if val < curr.left.val:
+            return rightRotate(curr)
+        else:
+            curr.left = leftRotate(curr.left)
+            return rightRotate(curr)
+
+    if balance < -1:
+        if val > curr.right.val:
+            return leftRotate(curr)
+        else:
+            curr.right = rightRotate(curr.right)
+            return leftRotate(curr)
+
+    return curr
+
+def inorder(curr):
+    if curr:
+        inorder(curr.left)
+        bf = get_balance(curr)
+        print("{}(BF={})".format(curr.val, bf), end=" ")
+        inorder(curr.right)
+
+def preorder(curr):
+    if curr:
+        bf = get_balance(curr)
+        print("{}(BF={})".format(curr.val, bf), end=" ")
+        preorder(curr.left)
+        preorder(curr.right)
+
+def postorder(curr):
+    if curr:
+        postorder(curr.left)
+        postorder(curr.right)
+        bf = get_balance(curr)
+        print("{}(BF={})".format(curr.val, bf), end=" ")
+```
+
+</details>
+<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
+```cpp
+struct node {
+    int val, ht;
+    node *left, *right;
+    
+    node(int val=0) {
+        this->val = val;
+        this->left = NULL;
+        this->right = NULL;
+        this->ht = 1;
+    }
+};
+int get_height(node* x) {
+    if (x == NULL)
+        return 0;
+    return x->ht;
+}
+int get_balance(node* x) {
+    if (x == NULL)
+        return 0;
+    return get_height(x->left) - get_height(x->right);
+}
+node* rightRotate(node* y) {
+    node* x = y->left;
+    node* T2 = x->right;
+
+    x->right = y;
+    y->left = T2;
+
+    y->ht = max(get_height(y->left), get_height(y->right)) + 1;
+    x->ht = max(get_height(x->left), get_height(x->right)) + 1;
+
+    return x;
+}
+node* leftRotate(node* x) {
+    node *y = x->right;
+    node *T2 = y->left;
+
+    y->left = x;
+    x->right = T2;
+
+    x->ht = max(get_height(x->left), get_height(x->right)) + 1;
+    y->ht = max(get_height(y->left), get_height(y->right)) + 1;
+
+    return y;
+}
+node* insert(node* curr, int val) {
+    if (curr == NULL)
+        return new node(val);
+    if (val < curr->val)
+        curr->left = insert(curr->left, val);
+    else if (val > curr->val)
+        curr->right = insert(curr->right, val);
+    curr->ht = 1 + max(get_height(curr->left), get_height(curr->right));
+
+    int balance = get_balance(curr);
+    
+    if (balance > 1) {
+        if (val < curr->left->val)
+            return rightRotate(curr);
+        else {
+            curr->left = leftRotate(curr->left);
+            return rightRotate(curr);
+        }
+    }
+    if (balance < -1) {
+        if (val > curr->right->val)
+            return leftRotate(curr);
+        else {
+            curr->right = rightRotate(curr->right);
+            return leftRotate(curr);
+        }
+    }
+    return curr;
+}
+void inorder(node* curr) {
+    if (curr) {
+        inorder(curr->left);
+        int bf = get_balance(curr);
+        printf("%d(BF=%d) ", curr->val, bf);
+        inorder(curr->right);
+    }
+}
+void preorder(node* curr) {
+    if (curr) {
+        int bf = get_balance(curr);
+        printf("%d(BF=%d) ", curr->val, bf);
+        preorder(curr->left);
+        preorder(curr->right);
+    }
+}
+void postorder(node* curr) {
+    if (curr) {
+        postorder(curr->left);
+        postorder(curr->right);
+        int bf = get_balance(curr);
+        printf("%d(BF=%d) ", curr->val, bf);
+    }
+}
+```
+
+</details>
+
+## Square-Ten Tree
+Problem Link: https://www.hackerrank.com/challenges/square-ten-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -489,8 +736,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Balanced Forest
+Problem Link: https://www.hackerrank.com/challenges/balanced-forest/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -511,8 +758,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Jenny's Subtrees
+Problem Link: https://www.hackerrank.com/challenges/jenny-subtrees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -533,52 +780,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
+## Array and simple queries
+Problem Link: https://www.hackerrank.com/challenges/array-and-simple-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
