@@ -802,8 +802,8 @@ Problem Link: https://www.hackerrank.com/challenges/array-and-simple-queries/pro
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Median Updates
+Problem Link: https://www.hackerrank.com/challenges/median/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -824,8 +824,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Kitty's Calculations on a Tree
+Problem Link: https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -846,8 +846,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Array Pairs
+Problem Link: https://www.hackerrank.com/challenges/array-pairs/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -867,246 +867,3 @@ Problem Link: ProblemLink
 ```
 
 </details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
