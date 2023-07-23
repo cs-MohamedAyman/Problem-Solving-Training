@@ -438,9 +438,7 @@ class Solution {
     };
 public:
     vector<int> smallestRange(vector<vector<int>> &nums) {
-        auto comp = [](const Item &x, const Item &y) {
-            return x.t > y.t;
-        };
+        auto comp = [](const Item &x, const Item &y) { return x.t > y.t; };
         priority_queue<Item, vector<Item>, decltype(comp)> min_heap(comp);
         int max_end = -2e5;
         for (int i=0; i<size(nums); i++) {
@@ -909,9 +907,8 @@ class Solution:
 class Solution {
 public:
     int scheduleCourse(vector<vector<int>> &courses) {
-        sort(courses.begin(), courses.end(), [](const vector<int> &x, const vector<int> &y) {
-                                                return x[1] < y[1];}
-            );
+        auto comp = [](const vector<int> &x, const vector<int> &y) { return x[1] < y[1]; };
+        sort(courses.begin(), courses.end(), comp);
         priority_queue<int> max_heap;
         int now = 0;
         for (auto it : courses) {
@@ -1341,7 +1338,7 @@ class MedianFinder:
             self.max_heap.put(-num)
         self.cnt += 1
         l = -1e9 if not self.max_heap.qsize() else -self.max_heap.queue[0]
-        r =  1e9 if not self.min_heap.qsize() else self.min_heap.queue[0]
+        r =  1e9 if not self.min_heap.qsize() else  self.min_heap.queue[0]
         if l > r:
             self.max_heap.get()
             self.max_heap.put(-r)
@@ -1350,7 +1347,7 @@ class MedianFinder:
 
     def findMedian(self) -> float:
         l = 0 if not self.max_heap.qsize() else -self.max_heap.queue[0]
-        r = 0 if not self.min_heap.qsize() else self.min_heap.queue[0]
+        r = 0 if not self.min_heap.qsize() else  self.min_heap.queue[0]
         if self.cnt % 2:
             return l
         else:

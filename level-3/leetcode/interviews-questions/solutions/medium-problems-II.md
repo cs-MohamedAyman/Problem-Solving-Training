@@ -1178,9 +1178,7 @@ class Solution {
     };
 public:
     vector<vector<int>> kSmallestPairs(vector<int> &nums1, vector<int> &nums2, int k) {
-        auto comp = [](const Item &x, const Item &y) {
-            return x.t > y.t;
-        };
+        auto comp = [](const Item &x, const Item &y) { return x.t > y.t; };
         priority_queue<Item, vector<Item>, decltype(comp)> min_heap(comp);
         int n = size(nums1), m = size(nums2);
         for (int i=0; i<min(n, k); i++) {

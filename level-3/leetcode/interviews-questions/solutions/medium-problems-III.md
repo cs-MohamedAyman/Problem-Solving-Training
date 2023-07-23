@@ -266,9 +266,7 @@ class Solution:
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>> &points, int k) {
-        auto comp = [](const pair<int, int> &x, const pair<int, int> &y) {
-            return x.first > y.first;
-        };
+        auto comp = [](const pair<int, int> &x, const pair<int, int> &y) { return x.first > y.first; };
         priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(comp)> min_heap(comp);
         for (int i=0; i<size(points); i++) {
             int dist = points[i][0] * points[i][0] + points[i][1] * points[i][1];
@@ -508,10 +506,8 @@ public:
         map<char, int> cnt;
         for (char i : s)
             cnt[i] ++;
-        auto max_val = max_element(cnt.begin(), cnt.end(),
-                                  [] (const pair<char,int> &a, const pair<char,int> &b) {
-                                      return a.second < b.second;
-                                  });
+        auto comp = [](const pair<char,int> &a, const pair<char,int> &b) { return a.second < b.second; };
+        auto max_val = max_element(cnt.begin(), cnt.end(), comp);
         if (max_val->second > (size(s)+1) / 2)
             return "";
         priority_queue<pair<int, char>> max_heap;

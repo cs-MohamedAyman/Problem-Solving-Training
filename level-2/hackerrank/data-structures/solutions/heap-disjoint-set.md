@@ -47,7 +47,7 @@ def cookies(k, A):
         b = min_heap.get()
         min_heap.put(a + 2 * b)
         res += 1
-    if min_heap.get() >= k:
+    if min_heap.queue[0] >= k:
         return res
     else:
         return -1
@@ -60,9 +60,7 @@ def cookies(k, A):
 
 ```cpp
 int cookies(int k, vector<int> A) {
-    auto comp = [](const int &x, const int &y) {
-        return x > y;
-    };
+    auto comp = [](const int &x, const int &y) { return x > y; };
     priority_queue<int, vector<int>, decltype(comp)> min_heap(comp);
     for (int i : A)
         min_heap.push(i);
@@ -480,7 +478,38 @@ Problem Link: https://www.hackerrank.com/challenges/find-the-running-median/prob
     <summary><h5>Python Solution</h5></summary>
 
 ```python
+import queue
 
+def runningMedian(a):
+    res = []
+    median = a[0]
+    min_heap = queue.PriorityQueue()
+    max_heap = queue.PriorityQueue()
+    max_heap.put(-median)
+    res.append(median)
+    
+    for i in range(1, len(a)):
+        if a[i] >= median:
+            min_heap.put(a[i])
+        else:
+            max_heap.put(-a[i])
+    
+        if min_heap.qsize() - max_heap.qsize() > 1:
+            max_heap.put(-min_heap.get())
+        elif max_heap.qsize() - min_heap.qsize() > 1:
+            min_heap.put(-max_heap.get())
+    
+        if max_heap.qsize() == min_heap.qsize():
+            x = min_heap.queue[0]
+            y = -max_heap.queue[0]
+            median = (x + y) / 2
+        else:
+            if min_heap.qsize() > max_heap.qsize():
+                median = min_heap.queue[0]
+            else:
+                median = -max_heap.queue[0]
+        res.append(median)
+    return res
 ```
 
 </details>
