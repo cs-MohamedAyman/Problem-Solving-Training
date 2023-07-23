@@ -3,7 +3,7 @@
 # HackerRank OJ - Data Structures <br> Binary Tree & Balanced Binary Tree `20 problems`
 
 ## Tree: Preorder Traversal
-Problem Link: https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
+Problem Link: https://hackerrank.com/challenges/tree-preorder-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -51,7 +51,7 @@ void preOrder(Node* root) {
 </details>
 
 ## Tree: Postorder Traversal
-Problem Link: https://www.hackerrank.com/challenges/tree-postorder-traversal/problem
+Problem Link: https://hackerrank.com/challenges/tree-postorder-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -101,7 +101,7 @@ void postOrder(Node* root) {
 </details>
 
 ## Tree: Inorder Traversal
-Problem Link: https://www.hackerrank.com/challenges/tree-inorder-traversal/problem
+Problem Link: https://hackerrank.com/challenges/tree-inorder-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -153,7 +153,7 @@ void inOrder(Node* root) {
 </details>
 
 ## Tree: Height of a Binary Tree
-Problem Link: https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
+Problem Link: https://hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -213,7 +213,7 @@ int height(Node *root) {
 </details>
 
 ## Tree : Top View
-Problem Link: https://www.hackerrank.com/challenges/tree-top-view/problem
+Problem Link: https://hackerrank.com/challenges/tree-top-view/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -235,7 +235,7 @@ Problem Link: https://www.hackerrank.com/challenges/tree-top-view/problem
 </details>
 
 ## Tree: Level Order Traversal
-Problem Link: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
+Problem Link: https://hackerrank.com/challenges/tree-level-order-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -283,7 +283,7 @@ void levelOrder(Node* root) {
 </details>
 
 ## Binary Search Tree : Insertion
-Problem Link: https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem
+Problem Link: https://hackerrank.com/challenges/binary-search-tree-insertion/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -350,7 +350,7 @@ Node* insert(Node *root, int data) {
 </details>
 
 ## Binary Search Tree : Lowest Common Ancestor
-Problem Link: https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
+Problem Link: https://hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -377,7 +377,7 @@ def lca(root, v1, v2):
 
 ```cpp
 Node* lca(Node* root, int v1,int v2) {
-    if (root == NULL) 
+    if (root == NULL)
         return NULL;
     if (v1 > v2) {
         int temp = v2;
@@ -385,9 +385,9 @@ Node* lca(Node* root, int v1,int v2) {
         v1 = temp;
     }
     while (root->data < v1 or root->data > v2) {
-        if (root->data < v1) 
+        if (root->data < v1)
             root = root->right;
-        else if (root->data > v2) 
+        else if (root->data > v2)
             root = root->left;
     }
     return root;
@@ -397,7 +397,7 @@ Node* lca(Node* root, int v1,int v2) {
 </details>
 
 ## Tree: Huffman Decoding
-Problem Link: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem
+Problem Link: https://hackerrank.com/challenges/tree-huffman-decoding/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -444,7 +444,7 @@ void decode_huff(node* root, string s) {
 </details>
 
 ## Swap Nodes [Algo]
-Problem Link: https://www.hackerrank.com/challenges/swap-nodes-algo/problem
+Problem Link: https://hackerrank.com/challenges/swap-nodes-algo/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -466,7 +466,7 @@ Problem Link: https://www.hackerrank.com/challenges/swap-nodes-algo/problem
 </details>
 
 ## Is This a Binary Search Tree?
-Problem Link: https://www.hackerrank.com/challenges/is-binary-search-tree/problem
+Problem Link: https://hackerrank.com/challenges/is-binary-search-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -496,7 +496,7 @@ bool checkBst(Node* curr, int min, int max) {
         return true;
 
     return min < curr->data and curr->data < max and
-           checkBst(curr->left,  min, curr->data) and 
+           checkBst(curr->left,  min, curr->data) and
            checkBst(curr->right, curr->data, max);
 }
 bool checkBST(Node* root) {
@@ -507,7 +507,7 @@ bool checkBST(Node* root) {
 </details>
 
 ## Self Balancing Tree
-Problem Link: https://www.hackerrank.com/challenges/self-balancing-tree/problem
+Problem Link: https://hackerrank.com/challenges/self-balancing-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -613,7 +613,7 @@ def postorder(curr):
 struct node {
     int val, ht;
     node *left, *right;
-    
+
     node(int val=0) {
         this->val = val;
         this->left = NULL;
@@ -665,7 +665,7 @@ node* insert(node* curr, int val) {
     curr->ht = 1 + max(get_height(curr->left), get_height(curr->right));
 
     int balance = get_balance(curr);
-    
+
     if (balance > 1) {
         if (val < curr->left->val)
             return rightRotate(curr);
@@ -713,7 +713,7 @@ void postorder(node* curr) {
 </details>
 
 ## Square-Ten Tree
-Problem Link: https://www.hackerrank.com/challenges/square-ten-tree/problem
+Problem Link: https://hackerrank.com/challenges/square-ten-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -735,7 +735,7 @@ Problem Link: https://www.hackerrank.com/challenges/square-ten-tree/problem
 </details>
 
 ## Balanced Forest
-Problem Link: https://www.hackerrank.com/challenges/balanced-forest/problem
+Problem Link: https://hackerrank.com/challenges/balanced-forest/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -757,7 +757,7 @@ Problem Link: https://www.hackerrank.com/challenges/balanced-forest/problem
 </details>
 
 ## Jenny's Subtrees
-Problem Link: https://www.hackerrank.com/challenges/jenny-subtrees/problem
+Problem Link: https://hackerrank.com/challenges/jenny-subtrees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -779,7 +779,7 @@ Problem Link: https://www.hackerrank.com/challenges/jenny-subtrees/problem
 </details>
 
 ## Array and simple queries
-Problem Link: https://www.hackerrank.com/challenges/array-and-simple-queries/problem
+Problem Link: https://hackerrank.com/challenges/array-and-simple-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -801,7 +801,7 @@ Problem Link: https://www.hackerrank.com/challenges/array-and-simple-queries/pro
 </details>
 
 ## Median Updates
-Problem Link: https://www.hackerrank.com/challenges/median/problem
+Problem Link: https://hackerrank.com/challenges/median/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -823,7 +823,7 @@ Problem Link: https://www.hackerrank.com/challenges/median/problem
 </details>
 
 ## Kitty's Calculations on a Tree
-Problem Link: https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem
+Problem Link: https://hackerrank.com/challenges/kittys-calculations-on-a-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -845,7 +845,7 @@ Problem Link: https://www.hackerrank.com/challenges/kittys-calculations-on-a-tre
 </details>
 
 ## Array Pairs
-Problem Link: https://www.hackerrank.com/challenges/array-pairs/problem
+Problem Link: https://hackerrank.com/challenges/array-pairs/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

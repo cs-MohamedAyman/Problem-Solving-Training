@@ -324,7 +324,7 @@ int downToZero(int n) {
 </details>
 
 ## Largest Rectangle
-Problem Link: https://www.hackerrank.com/challenges/largest-rectangle/problem
+Problem Link: https://hackerrank.com/challenges/largest-rectangle/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -389,7 +389,7 @@ long largestRectangle(vector<int> h) {
 </details>
 
 ## Simple Text Editor
-Problem Link: https://www.hackerrank.com/challenges/simple-text-editor/problem
+Problem Link: https://hackerrank.com/challenges/simple-text-editor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -463,7 +463,7 @@ int main() {
         if (x == 1) {
             string cmd;
             cin >> cmd;
-            t.append(cmd);            
+            t.append(cmd);
         }
         else if (x == 2) {
             int cmd;
@@ -487,7 +487,7 @@ int main() {
 </details>
 
 ## Waiter
-Problem Link: https://www.hackerrank.com/challenges/waiter/problem
+Problem Link: https://hackerrank.com/challenges/waiter/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -552,14 +552,14 @@ vector<int> constract_seive() {
     return primes;
 }
 vector<int> waiter(vector<int> nums, int q) {
-    vector<int> res, strA, strB;   
+    vector<int> res, strA, strB;
     vector<int> primes = constract_seive();
     for (int i = 0; i < q; i++) {
         while (!nums.empty()) {
             if (nums.back() % primes[i] == 0)
                 strB.push_back(nums.back());
             else
-                strA.push_back(nums.back());    
+                strA.push_back(nums.back());
             nums.pop_back();
         }
         nums = strA;
@@ -580,7 +580,7 @@ vector<int> waiter(vector<int> nums, int q) {
 </details>
 
 ## Truck Tour
-Problem Link: https://www.hackerrank.com/challenges/truck-tour/problem
+Problem Link: https://hackerrank.com/challenges/truck-tour/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -622,7 +622,7 @@ int truckTour(vector<vector<int>> pumps) {
 </details>
 
 ## Queries with Fixed Length
-Problem Link: https://www.hackerrank.com/challenges/queries-with-fixed-length/problem
+Problem Link: https://hackerrank.com/challenges/queries-with-fixed-length/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -677,7 +677,7 @@ vector<int> solve(vector<int> arr, vector<int> queries) {
 </details>
 
 ## Poisonous Plants
-Problem Link: https://www.hackerrank.com/challenges/poisonous-plants/problem
+Problem Link: https://hackerrank.com/challenges/poisonous-plants/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -719,7 +719,7 @@ int poisonousPlants(vector<int> p) {
 </details>
 
 ## AND xor OR
-Problem Link: https://www.hackerrank.com/challenges/and-xor-or/problem
+Problem Link: https://hackerrank.com/challenges/and-xor-or/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

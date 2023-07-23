@@ -3,7 +3,7 @@
 # HackerRank OJ - Data Structures <br> Heap & Disjoint Set `10 problems`
 
 ## QHEAP1
-Problem Link: https://www.hackerrank.com/challenges/qheap1/problem
+Problem Link: https://hackerrank.com/challenges/qheap1/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -25,7 +25,7 @@ Problem Link: https://www.hackerrank.com/challenges/qheap1/problem
 </details>
 
 ## Jesse and Cookies
-Problem Link: https://www.hackerrank.com/challenges/jesse-and-cookies/problem
+Problem Link: https://hackerrank.com/challenges/jesse-and-cookies/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -87,7 +87,7 @@ int cookies(int k, vector<int> A) {
 </details>
 
 ## Components in a graph
-Problem Link: https://www.hackerrank.com/challenges/components-in-graph/problem
+Problem Link: https://hackerrank.com/challenges/components-in-graph/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -227,7 +227,7 @@ vector<int> componentsInGraph(vector<vector<int>> gb) {
 </details>
 
 ## Contacts
-Problem Link: https://www.hackerrank.com/challenges/contacts/problem
+Problem Link: https://hackerrank.com/challenges/contacts/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -343,7 +343,7 @@ vector<int> contacts(vector<vector<string>> queries) {
 </details>
 
 ## Merging Communities
-Problem Link: https://www.hackerrank.com/challenges/merging-communities/problem
+Problem Link: https://hackerrank.com/challenges/merging-communities/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -449,7 +449,7 @@ public:
 </details>
 
 ## Kundu and Tree
-Problem Link: https://www.hackerrank.com/challenges/kundu-and-tree/problem
+Problem Link: https://hackerrank.com/challenges/kundu-and-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -471,7 +471,7 @@ Problem Link: https://www.hackerrank.com/challenges/kundu-and-tree/problem
 </details>
 
 ## Find the Running Median
-Problem Link: https://www.hackerrank.com/challenges/find-the-running-median/problem
+Problem Link: https://hackerrank.com/challenges/find-the-running-median/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -487,18 +487,18 @@ def runningMedian(a):
     max_heap = queue.PriorityQueue()
     max_heap.put(-median)
     res.append(median)
-    
+
     for i in range(1, len(a)):
         if a[i] >= median:
             min_heap.put(a[i])
         else:
             max_heap.put(-a[i])
-    
+
         if min_heap.qsize() - max_heap.qsize() > 1:
             max_heap.put(-min_heap.get())
         elif max_heap.qsize() - min_heap.qsize() > 1:
             min_heap.put(-max_heap.get())
-    
+
         if max_heap.qsize() == min_heap.qsize():
             x = min_heap.queue[0]
             y = -max_heap.queue[0]
@@ -526,13 +526,13 @@ vector<double> runningMedian(vector<int> a) {
     priority_queue<int> max_heap;
     max_heap.push(median);
     res.push_back(median);
-    
+
     for (int i=1; i<size(a); i++) {
         if (a[i] >= median)
             min_heap.push(a[i]);
         else
             max_heap.push(a[i]);
-        
+
         if (int(size(min_heap)) - int(size(max_heap)) > 1) {
             max_heap.push(min_heap.top());
             min_heap.pop();
@@ -562,7 +562,7 @@ vector<double> runningMedian(vector<int> a) {
 </details>
 
 ## Minimum Average Waiting Time
-Problem Link: https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem
+Problem Link: https://hackerrank.com/challenges/minimum-average-waiting-time/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -584,7 +584,7 @@ Problem Link: https://www.hackerrank.com/challenges/minimum-average-waiting-time
 </details>
 
 ## Super Maximum Cost Queries
-Problem Link: https://www.hackerrank.com/challenges/maximum-cost-queries/problem
+Problem Link: https://hackerrank.com/challenges/maximum-cost-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -606,7 +606,7 @@ Problem Link: https://www.hackerrank.com/challenges/maximum-cost-queries/problem
 </details>
 
 ## No Prefix Set
-Problem Link: https://www.hackerrank.com/challenges/no-prefix-set/problem
+Problem Link: https://hackerrank.com/challenges/no-prefix-set/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
