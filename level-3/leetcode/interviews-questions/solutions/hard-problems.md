@@ -1596,7 +1596,7 @@ Problem Link: https://leetcode.com/problems/prefix-and-suffix-search
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-class Trie(object):
+class Trie:
     class TrieNode:
         def __init__(self):
             self.child = [None] * 26
