@@ -290,26 +290,26 @@ Problem Link: https://www.hackerrank.com/challenges/binary-search-tree-insertion
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-    def insert(self, val):
-        if self.root == None:
-            self.root = Node(val)
+def insert(self, val):
+    if self.root == None:
+        self.root = Node(val)
+        return
+    curr = self.root
+    while True:
+        if val < curr.info:
+            if curr.left:
+                curr = curr.left
+            else:
+                curr.left = Node(val)
+                break
+        elif val > curr.info:
+            if curr.right:
+                curr = curr.right
+            else:
+                curr.right = Node(val)
+                break
         else:
-            curr = self.root
-            while True:
-                if val < curr.info:
-                    if curr.left:
-                        curr = curr.left
-                    else:
-                        curr.left = Node(val)
-                        break
-                elif val > curr.info:
-                    if curr.right:
-                        curr = curr.right
-                    else:
-                        curr.right = Node(val)
-                        break
-                else:
-                    break
+            break
 ```
 
 </details>
@@ -318,35 +318,33 @@ Problem Link: https://www.hackerrank.com/challenges/binary-search-tree-insertion
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    Node* insert(Node *root, int data) {
-        if (root == NULL) {
-            return new Node(data);
-        } 
-        else {
-            Node *curr = root;
-            while (true) {
-                if (data < curr->data) {
-                    if (curr->left)
-                        curr = curr->left;
-                    else {
-                        curr->left = new Node(data);
-                        break;
-                    }
-                }
-                else if (data > curr->data) {
-                    if (curr->right)
-                        curr = curr->right;
-                    else {
-                        curr->right = new Node(data);
-                        break;
-                    }
-                }
-                else
-                    break;
+Node* insert(Node *root, int data) {
+    if (root == NULL)
+        return new Node(data);
+
+    Node *curr = root;
+    while (true) {
+        if (data < curr->data) {
+            if (curr->left)
+                curr = curr->left;
+            else {
+                curr->left = new Node(data);
+                break;
             }
         }
-        return root;
+        else if (data > curr->data) {
+            if (curr->right)
+                curr = curr->right;
+            else {
+                curr->right = new Node(data);
+                break;
+            }
+        }
+        else
+            break;
     }
+    return root;
+}
 ```
 
 </details>
