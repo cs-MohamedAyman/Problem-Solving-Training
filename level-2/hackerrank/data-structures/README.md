@@ -25,127 +25,127 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/arrays-ds/problem">arrays ds</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/arrays-ds/problem">Arrays - DS</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/2d-array/problem">2d array</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/2d-array/problem">2D Array - DS</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/dynamic-array/problem">dynamic array</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/dynamic-array/problem">Dynamic Array</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/array-left-rotation/problem">array left rotation</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem">print the elements of a linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem">Print the Elements of a Linked List</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem">insert a node at the tail of a linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem">Insert a Node at the Tail of a Linked List</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem">insert a node at the head of a linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem">Insert a node at the head of a linked list</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem">insert a node at a specific position in a linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem">Insert a node at a specific position in a linked list</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem">delete a node from a linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem">Delete a Node</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem">print the elements of a linked list in reverse</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem">Print in Reverse</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/reverse-a-linked-list/problem">reverse a linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/reverse-a-linked-list/problem">Reverse a linked list</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/compare-two-linked-lists/problem">compare two linked lists</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/compare-two-linked-lists/problem">Compare two linked lists</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/merge-two-sorted-linked-lists/problem">merge two sorted linked lists</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/merge-two-sorted-linked-lists/problem">Merge two sorted linked lists</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">get the value of node at a specific position from the tail</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">Get Node Value</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">delete duplicate value nodes from a sorted linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">Delete duplicate-value nodes from a sorted linked list</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem">find the merge point of two joined linked lists</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem">Find Merge Point of Two Lists</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem">insert a node into a sorted doubly linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem">Inserting a Node Into a Sorted Doubly Linked List</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">reverse a doubly linked list</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse a doubly linked list</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">detect whether a linked list contains a cycle</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">Cycle Detection</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">20</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sparse-arrays/problem">sparse arrays</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sparse-arrays/problem">Sparse Arrays</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">21</th>
-<th align="left"><a href="https://hackerrank.com/challenges/crush/problem">crush</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/crush/problem">Array Manipulation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md">Solution</a></th>
         </tr>
