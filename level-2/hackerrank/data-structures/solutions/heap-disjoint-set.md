@@ -105,7 +105,7 @@ class disjoint_set:
         self.items = dict()
 
     def make_set(self, data):
-        if not data in self.items:
+        if data not in self.items:
             self.items[data] = self.Node(data)
 
     def find_set(self, data):
@@ -362,7 +362,7 @@ class disjoint_set:
         self.items = dict()
 
     def make_set(self, data):
-        if not data in self.items:
+        if data not in self.items:
             self.items[data] = self.Node(data)
 
     def find_set(self, data):
