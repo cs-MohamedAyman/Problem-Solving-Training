@@ -253,115 +253,115 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-preorder-traversal/problem">tree preorder traversal</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-preorder-traversal/problem">Tree: Preorder Traversal</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-postorder-traversal/problem">tree postorder traversal</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-postorder-traversal/problem">Tree: Postorder Traversal</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-inorder-traversal/problem">tree inorder traversal</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-inorder-traversal/problem">Tree: Inorder Traversal</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-height-of-a-binary-tree/problem">tree height of a binary tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-height-of-a-binary-tree/problem">Tree: Height of a Binary Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-top-view/problem">tree top view</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-top-view/problem">Tree : Top View</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-level-order-traversal/problem">tree level order traversal</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-level-order-traversal/problem">Tree: Level Order Traversal</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/binary-search-tree-insertion/problem">binary search tree insertion</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/binary-search-tree-insertion/problem">Binary Search Tree : Insertion</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem">binary search tree lowest common ancestor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem">Binary Search Tree : Lowest Common Ancestor</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tree-huffman-decoding/problem">tree huffman decoding</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tree-huffman-decoding/problem">Tree: Huffman Decoding</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/swap-nodes-algo/problem">swap nodes algo</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/swap-nodes-algo/problem">Swap Nodes [Algo]</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/is-binary-search-tree/problem">is binary search tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/is-binary-search-tree/problem">Is This a Binary Search Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/self-balancing-tree/problem">self balancing tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/self-balancing-tree/problem">Self Balancing Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/square-ten-tree/problem">square ten tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/square-ten-tree/problem">Square-Ten Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/balanced-forest/problem">balanced forest</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/balanced-forest/problem">Balanced Forest</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jenny-subtrees/problem">jenny subtrees</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/jenny-subtrees/problem">Jenny's Subtrees</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/array-and-simple-queries/problem">array and simple queries</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/array-and-simple-queries/problem">Array and simple queries</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/median/problem">median</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/median/problem">Median Updates</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/kittys-calculations-on-a-tree/problem">kittys calculations on a tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/kittys-calculations-on-a-tree/problem">Kitty's Calculations on a Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/array-pairs/problem">array pairs</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/array-pairs/problem">Array Pairs</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md">Solution</a></th>
         </tr>
