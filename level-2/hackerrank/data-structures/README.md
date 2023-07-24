@@ -166,73 +166,73 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/equal-stacks/problem">equal stacks</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/equal-stacks/problem">Equal Stacks</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/queue-using-two-stacks/problem">queue using two stacks</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/queue-using-two-stacks/problem">Queue using Two Stacks</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/balanced-brackets/problem">balanced-brackets</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/balanced-brackets/problem">Balanced Brackets</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/castle-on-the-grid/problem">castle-on-the-grid</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/castle-on-the-grid/problem">Castle on the Grid</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/down-to-zero-ii/problem">down-to-zero-ii</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/down-to-zero-ii/problem">Down to Zero II</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/largest-rectangle/problem">largest-rectangle</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/largest-rectangle/problem">Largest Rectangle</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/simple-text-editor/problem">simple-text-editor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/simple-text-editor/problem">Simple Text Editor</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/waiter/problem">waiter</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/waiter/problem">Waiter</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/truck-tour/problem">truck-tour</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/truck-tour/problem">Truck Tour</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/queries-with-fixed-length/problem">queries-with-fixed-length</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/queries-with-fixed-length/problem">Queries with Fixed Length</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/poisonous-plants/problem">poisonous plants</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/poisonous-plants/problem">Poisonous Plants</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/and-xor-or/problem">and-xor-or</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/and-xor-or/problem">AND xor OR</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md">Solution</a></th>
         </tr>
