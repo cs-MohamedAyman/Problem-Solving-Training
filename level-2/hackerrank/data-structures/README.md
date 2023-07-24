@@ -382,61 +382,61 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/qheap1/problem">qheap1</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/qheap1/problem">QHEAP1</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jesse-and-cookies/problem">jesse and cookies</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/jesse-and-cookies/problem">Jesse and Cookies</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/components-in-graph/problem">components in graph</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/components-in-graph/problem">Components in a graph</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/contacts/problem">contacts</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/contacts/problem">Contacts</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/merging-communities/problem">merging communities</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/merging-communities/problem">Merging Communities</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/kundu-and-tree/problem">kundu and tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/kundu-and-tree/problem">Kundu and Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-the-running-median/problem">find the running median</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-the-running-median/problem">Find the Running Median</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/minimum-average-waiting-time/problem">minimum average waiting time</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/minimum-average-waiting-time/problem">Minimum Average Waiting Time</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/maximum-cost-queries/problem">maximum cost queries</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/maximum-cost-queries/problem">Super Maximum Cost Queries</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/no-prefix-set/problem">no prefix set</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/no-prefix-set/problem">No Prefix Set</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
         </tr>
