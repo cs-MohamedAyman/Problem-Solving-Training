@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures <br> Search `25 problems`
+# HackerRank OJ - Data Structures <br> Search `20 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
