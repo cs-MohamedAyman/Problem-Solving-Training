@@ -684,7 +684,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced III `15 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/advanced-III.md)
+### HackerRank - Advanced III `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/advanced-III.md)
 
 <table>
     <head>
