@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-II.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures <br> Advanced II `25 problems`
+# HackerRank OJ - Data Structures <br> Advanced II `15 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
