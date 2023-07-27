@@ -47,21 +47,19 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
         <tr>
 <th align="center" width="400px"><a href="/level-1/hackerrank/cpp">cpp</a></th>
 <th align="center" width="150px">70 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/hackerrank/python">python</a></th>
 <th align="center" width="150px">95 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Introduction               </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Introduction               </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Arrays and Strings         </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Collections                </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Functions and Libraries    </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Functions and Libraries    </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Structs and Classes        </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Classes                    </td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Introduction               </td><td align="center">20 problems</td>
+            <td>Introduction               </td><td align="center">25 problems</td></tr>
+        <tr><td>Arrays and Strings         </td><td align="center">10 problems</td>
+            <td>Collections                </td><td align="center">25 problems</td></tr>
+        <tr><td>Functions and Libraries    </td><td align="center">10 problems</td>
+            <td>Functions and Libraries    </td><td align="center">35 problems</td></tr>
+        <tr><td>Structs and Classes        </td><td align="center">30 problems</td>
+            <td>Classes                    </td><td align="center">10 problems</td></tr>
     </tbody>
 </table>
 
@@ -80,25 +78,23 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
         <tr>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-1">phase-1-1</a></th>
 <th align="center" width="150px">180 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-2">phase-1-2</a></th>
 <th align="center" width="150px">180 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td>
-            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td>
-            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td>
-            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td>
+            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td></tr>
+        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td>
+            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td></tr>
+        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td>
+            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td></tr>
+        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td>
+            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td></tr>
+        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td>
+            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td></tr>
+        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td>
+            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td></tr>
     </tbody>
 </table>
 
@@ -119,45 +115,41 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
         <tr>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-1">phase-1-1</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-2">phase-1-2</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td>
-            <td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Condition     </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Condition     </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Loop          </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Loop          </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>String        </td><td align="center">30 problems</td><td>solutions</td>
-            <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>List / Array  </td><td align="center">40 problems</td><td>solutions</td>
-            <td>List / Array  </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>Basic Operator</td><td align="center">10 problems</td>
+            <td>Basic Operator</td><td align="center">10 problems</td></tr>
+        <tr><td>Condition     </td><td align="center">20 problems</td>
+            <td>Condition     </td><td align="center">20 problems</td></tr>
+        <tr><td>Loop          </td><td align="center">25 problems</td>
+            <td>Loop          </td><td align="center">25 problems</td></tr>
+        <tr><td>String        </td><td align="center">30 problems</td>
+            <td>String        </td><td align="center">30 problems</td></tr>
+        <tr><td>List / Array  </td><td align="center">40 problems</td>
+            <td>List / Array  </td><td align="center">40 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-3">phase-1-3</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/codeforces/phase-1-4">phase-1-4</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td>
-            <td>Basic Operator</td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Condition     </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Condition     </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Loop          </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Loop          </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>String        </td><td align="center">30 problems</td><td>solutions</td>
-            <td>String        </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>List / Array  </td><td align="center">40 problems</td><td>solutions</td>
-            <td>List / Array  </td><td align="center">40 problems</td><td>solutions</td></tr>
+        <tr><td>Basic Operator</td><td align="center">10 problems</td>
+            <td>Basic Operator</td><td align="center">10 problems</td></tr>
+        <tr><td>Condition     </td><td align="center">20 problems</td>
+            <td>Condition     </td><td align="center">20 problems</td></tr>
+        <tr><td>Loop          </td><td align="center">25 problems</td>
+            <td>Loop          </td><td align="center">25 problems</td></tr>
+        <tr><td>String        </td><td align="center">30 problems</td>
+            <td>String        </td><td align="center">30 problems</td></tr>
+        <tr><td>List / Array  </td><td align="center">40 problems</td>
+            <td>List / Array  </td><td align="center">40 problems</td></tr>
     </tbody>
 </table>
 
@@ -178,41 +170,37 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
         <tr>
 <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-1">phase-1-1</a></th>
 <th align="center" width="150px">100 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-2">phase-1-2</a></th>
 <th align="center" width="150px">100 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Implementation</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Implementation</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Implementation</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Implementation</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Implementation</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Implementation</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Implementation</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Implementation</td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation</td><td align="center">25 problems</td>
+            <td>Implementation</td><td align="center">25 problems</td></tr>
+        <tr><td>Implementation</td><td align="center">25 problems</td>
+            <td>Implementation</td><td align="center">25 problems</td></tr>
+        <tr><td>Implementation</td><td align="center">25 problems</td>
+            <td>Implementation</td><td align="center">25 problems</td></tr>
+        <tr><td>Implementation</td><td align="center">25 problems</td>
+            <td>Implementation</td><td align="center">25 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-3">phase-1-3</a></th>
 <th align="center" width="150px">100 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-1/hackerearth/phase-1-4">phase-1-4</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Input / Output  </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Bit Manipulation</td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Recursion       </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Implementation  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Operators       </td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Implementation  </td><td align="center">25 problems</td>
+            <td>Input / Output  </td><td align="center">40 problems</td></tr>
+        <tr><td>Implementation  </td><td align="center">25 problems</td>
+            <td>Bit Manipulation</td><td align="center">40 problems</td></tr>
+        <tr><td>Implementation  </td><td align="center">25 problems</td>
+            <td>Recursion       </td><td align="center">10 problems</td></tr>
+        <tr><td>Implementation  </td><td align="center">25 problems</td>
+            <td>Operators       </td><td align="center">35 problems</td></tr>
     </tbody>
 </table>
 
