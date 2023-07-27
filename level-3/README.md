@@ -50,45 +50,41 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerrank/mathematics-1">mathematics-1</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/mathematics-2">mathematics-2</a></th>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Fundamentals </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Fundamentals </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Number Theory</td><td align="center">35 problems</td><td>solutions</td>
-            <td>Number Theory</td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Combinatorics</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Combinatorics</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Algebra      </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Algebra      </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Geometry     </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Probability  </td><td align="center">25 problems</td><td>solutions</td></tr>
+        <tr><td>Fundamentals </td><td align="center">10 problems</td>
+            <td>Fundamentals </td><td align="center">10 problems</td></tr>
+        <tr><td>Number Theory</td><td align="center">35 problems</td>
+            <td>Number Theory</td><td align="center">35 problems</td></tr>
+        <tr><td>Combinatorics</td><td align="center">25 problems</td>
+            <td>Combinatorics</td><td align="center">25 problems</td></tr>
+        <tr><td>Algebra      </td><td align="center">25 problems</td>
+            <td>Algebra      </td><td align="center">25 problems</td></tr>
+        <tr><td>Geometry     </td><td align="center">30 problems</td>
+            <td>Probability  </td><td align="center">25 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerrank/graph-string">graph-string</a></th>
 <th align="center" width="150px">135 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/dynamic-programming">dynamic-programming</a></th>
 <th align="center" width="150px">140 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Theory I         </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Bit Manipulation       </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Graph Theory II        </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Dynamic Programming I  </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Greedy                 </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming II </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Strings I              </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming III</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Strings II             </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Constructive Algorithms</td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Graph Theory I         </td><td align="center">30 problems</td>
+            <td>Bit Manipulation       </td><td align="center">30 problems</td></tr>
+        <tr><td>Graph Theory II        </td><td align="center">30 problems</td>
+            <td>Dynamic Programming I  </td><td align="center">40 problems</td></tr>
+        <tr><td>Greedy                 </td><td align="center">25 problems</td>
+            <td>Dynamic Programming II </td><td align="center">30 problems</td></tr>
+        <tr><td>Strings I              </td><td align="center">25 problems</td>
+            <td>Dynamic Programming III</td><td align="center">30 problems</td></tr>
+        <tr><td>Strings II             </td><td align="center">25 problems</td>
+            <td>Constructive Algorithms</td><td align="center">10 problems</td></tr>
     </tbody>
 </table>
 
@@ -107,19 +103,17 @@ These sheets contain grand contests (hard contests) and each sheet contains ~60 
         <tr>
 <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-1">phase-3-1</a></th>
 <th align="center" width="150px">55 contests</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-2">phase-3-2</a></th>
 <th align="center" width="150px">55 contests</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Grand Contests</td><td align="center">20 contests</td><td>solutions</td>
-            <td>2016-2017 Grand Contests</td><td align="center">20 contests</td><td>solutions</td></tr>
-        <tr><td>2018-2019 Grand Contests</td><td align="center">20 contests</td><td>solutions</td>
-            <td>2018-2019 Grand Contests</td><td align="center">20 contests</td><td>solutions</td></tr>
-        <tr><td>2020-2021 Grand Contests</td><td align="center">15 contests</td><td>solutions</td>
-            <td>2020-2021 Grand Contests</td><td align="center">15 contests</td><td>solutions</td></tr>
+        <tr><td>2016-2017 Grand Contests</td><td align="center">20 contests</td>
+            <td>2016-2017 Grand Contests</td><td align="center">20 contests</td></tr>
+        <tr><td>2018-2019 Grand Contests</td><td align="center">20 contests</td>
+            <td>2018-2019 Grand Contests</td><td align="center">20 contests</td></tr>
+        <tr><td>2020-2021 Grand Contests</td><td align="center">15 contests</td>
+            <td>2020-2021 Grand Contests</td><td align="center">15 contests</td></tr>
     </tbody>
 </table>
 
@@ -147,77 +141,71 @@ that focus on gym-contests that contains ~125 contests.
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-1">phase-3-1</a></td>
+<td align="center" width="400px"><a href="/level-3/codeforces/phase-3-1">phase-3-1</a></td>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-2">phase-3-2</a></td>
+<td align="center" width="400px"><a href="/level-3/codeforces/phase-3-2">phase-3-2</a></td>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Graph                 </td><td align="center">15 problems</td><td>solutions</td>
-            <td>Graph                 </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>String                </td><td align="center">15 problems</td><td>solutions</td>
-            <td>String                </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td>
-            <td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Divide and Conquer    </td><td align="center">10 problems</td>
+            <td>Divide and Conquer    </td><td align="center">10 problems</td></tr>
+        <tr><td>Graph                 </td><td align="center">15 problems</td>
+            <td>Graph                 </td><td align="center">15 problems</td></tr>
+        <tr><td>String                </td><td align="center">15 problems</td>
+            <td>String                </td><td align="center">15 problems</td></tr>
+        <tr><td>Data Structure        </td><td align="center">20 problems</td>
+            <td>Data Structure        </td><td align="center">20 problems</td></tr>
+        <tr><td>Math and Number Theory</td><td align="center">30 problems</td>
+            <td>Math and Number Theory</td><td align="center">30 problems</td></tr>
+        <tr><td>Greedy and Brute Force</td><td align="center">25 problems</td>
+            <td>Greedy and Brute Force</td><td align="center">25 problems</td></tr>
+        <tr><td>Dynamic Programming   </td><td align="center">10 problems</td>
+            <td>Dynamic Programming   </td><td align="center">10 problems</td></tr>
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-3">phase-3-3</a></td>
+<td align="center" width="400px"><a href="/level-3/codeforces/phase-3-3">phase-3-3</a></td>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/codeforces/phase-3-4">phase-3-4</a></td>
+<td align="center" width="400px"><a href="/level-3/codeforces/phase-3-4">phase-3-4</a></td>
 <th align="center" width="150px">125 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Divide and Conquer    </td><td align="center">10 problems</td><td>solutions</td></tr>
-        <tr><td>Graph                 </td><td align="center">15 problems</td><td>solutions</td>
-            <td>Graph                 </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>String                </td><td align="center">15 problems</td><td>solutions</td>
-            <td>String                </td><td align="center">15 problems</td><td>solutions</td></tr>
-        <tr><td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Data Structure        </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td>
-            <td>Math and Number Theory</td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Greedy and Brute Force</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Dynamic Programming   </td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Divide and Conquer    </td><td align="center">10 problems</td>
+            <td>Divide and Conquer    </td><td align="center">10 problems</td></tr>
+        <tr><td>Graph                 </td><td align="center">15 problems</td>
+            <td>Graph                 </td><td align="center">15 problems</td></tr>
+        <tr><td>String                </td><td align="center">15 problems</td>
+            <td>String                </td><td align="center">15 problems</td></tr>
+        <tr><td>Data Structure        </td><td align="center">20 problems</td>
+            <td>Data Structure        </td><td align="center">20 problems</td></tr>
+        <tr><td>Math and Number Theory</td><td align="center">30 problems</td>
+            <td>Math and Number Theory</td><td align="center">30 problems</td></tr>
+        <tr><td>Greedy and Brute Force</td><td align="center">25 problems</td>
+            <td>Greedy and Brute Force</td><td align="center">25 problems</td></tr>
+        <tr><td>Dynamic Programming   </td><td align="center">10 problems</td>
+            <td>Dynamic Programming   </td><td align="center">10 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/codeforces/div3-div4-contests">div3-div4-contests</a></th>
 <th align="center" width="150px">85 contests</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/codeforces/educational-contests">educational-contests</a></th>
 <th align="center" width="150px">125 contests</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>Educational Rounds III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td><td>solutions</td>
-            <td>Educational Rounds IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td><td>solutions</td>
-            <td>Educational Rounds V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>Div3 Contests I       </td><td align="center">25 Contests</td>
+            <td>Educational Rounds I  </td><td align="center">25 Contests</td></tr>
+        <tr><td>Div3 Contests II      </td><td align="center">25 Contests</td>
+            <td>Educational Rounds II </td><td align="center">25 Contests</td></tr>
+        <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td>
+            <td>Educational Rounds III</td><td align="center">25 Contests</td></tr>
+        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td>
+            <td>Educational Rounds IV </td><td align="center">25 Contests</td></tr>
+        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td>
+            <td>Educational Rounds V  </td><td align="center">25 Contests</td></tr>
     </tbody>
 </table>
 
@@ -226,45 +214,41 @@ that focus on gym-contests that contains ~125 contests.
         <tr>
 <th align="center" width="400px"><a href="/level-3/codeforces/gym-contests-1">gym-contests-1</a></th>
 <th align="center" width="150px">130 contests</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/codeforces/gym-contests-2">gym-contests-2</a></th>
 <th align="center" width="150px">130 contests</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>GYM Contests **** I  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** I  </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** III</td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** III</td><td align="center">30 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** IV </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** IV </td><td align="center">30 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** V  </td><td align="center">30 Contests</td><td>solutions</td>
-            <td>GYM Contests **** V  </td><td align="center">20 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** I  </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** I  </td><td align="center">25 Contests</td></tr>
+        <tr><td>GYM Contests **** II </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** II </td><td align="center">25 Contests</td></tr>
+        <tr><td>GYM Contests **** III</td><td align="center">25 Contests</td>
+            <td>GYM Contests **** III</td><td align="center">30 Contests</td></tr>
+        <tr><td>GYM Contests **** IV </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** IV </td><td align="center">30 Contests</td></tr>
+        <tr><td>GYM Contests **** V  </td><td align="center">30 Contests</td>
+            <td>GYM Contests **** V  </td><td align="center">20 Contests</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/codeforces/gym-contests-3">gym-contests-3</a></th>
 <th align="center" width="150px">125 contests</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/codeforces/gym-contests-4">gym-contests-4</a></th>
 <th align="center" width="150px">130 contests</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>GYM Contests **** I  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** I  </td><td align="center">30 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** II </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** III</td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** III</td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** IV </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** IV </td><td align="center">25 Contests</td><td>solutions</td></tr>
-        <tr><td>GYM Contests **** V  </td><td align="center">25 Contests</td><td>solutions</td>
-            <td>GYM Contests **** V  </td><td align="center">25 Contests</td><td>solutions</td></tr>
+        <tr><td>GYM Contests **** I  </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** I  </td><td align="center">30 Contests</td></tr>
+        <tr><td>GYM Contests **** II </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** II </td><td align="center">25 Contests</td></tr>
+        <tr><td>GYM Contests **** III</td><td align="center">25 Contests</td>
+            <td>GYM Contests **** III</td><td align="center">25 Contests</td></tr>
+        <tr><td>GYM Contests **** IV </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** IV </td><td align="center">25 Contests</td></tr>
+        <tr><td>GYM Contests **** V  </td><td align="center">25 Contests</td>
+            <td>GYM Contests **** V  </td><td align="center">25 Contests</td></tr>
     </tbody>
 </table>
 
@@ -285,72 +269,66 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
 <table>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/tree-graph-traversal">tree-graph-traversal</a></td>
+<td align="center" width="400px"><a href="/level-3/leetcode/tree-graph-traversal">tree-graph-traversal</a></td>
 <th align="center" width="150px">160 problems</th>
-<th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/graph-advanced-data-structures">graph-advanced-data-structures</a></td>
+<td align="center" width="400px"><a href="/level-3/leetcode/graph-advanced-data-structures">graph-advanced-data-structures</a></td>
 <th align="center" width="150px">190 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Breadth First Search I   </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Backtracking I           </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search II  </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Backtracking II          </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search III </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Graph  I                 </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search I     </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Graph  II                </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search II    </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Advanced Data Structures </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search III   </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Geometry                 </td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Breadth First Search I   </td><td align="center">25 problems</td>
+            <td>Backtracking I           </td><td align="center">35 problems</td></tr>
+        <tr><td>Breadth First Search II  </td><td align="center">25 problems</td>
+            <td>Backtracking II          </td><td align="center">35 problems</td></tr>
+        <tr><td>Breadth First Search III </td><td align="center">25 problems</td>
+            <td>Graph  I                 </td><td align="center">30 problems</td></tr>
+        <tr><td>Depth First Search I     </td><td align="center">30 problems</td>
+            <td>Graph  II                </td><td align="center">30 problems</td></tr>
+        <tr><td>Depth First Search II    </td><td align="center">30 problems</td>
+            <td>Advanced Data Structures </td><td align="center">40 problems</td></tr>
+        <tr><td>Depth First Search III   </td><td align="center">25 problems</td>
+            <td>Geometry                 </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/mathematics-strings">mathematics-strings</a></td>
+<td align="center" width="400px"><a href="/level-3/leetcode/mathematics-strings">mathematics-strings</a></td>
 <th align="center" width="150px">210 problems</th>
-<th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/dynamic-programming">dynamic-programming</a></td>
+<td align="center" width="400px"><a href="/level-3/leetcode/dynamic-programming">dynamic-programming</a></td>
 <th align="center" width="150px">200 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Math I                  </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Dynamic Programming I   </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Math II                 </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Dynamic Programming II  </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Math III                </td><td align="center">40 problems</td><td>solutions</td>
-            <td>Dynamic Programming III </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>String I                </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Dynamic Programming IV  </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>String II               </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Dynamic Programming V   </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>String III              </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming VI  </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Math I                  </td><td align="center">40 problems</td>
+            <td>Dynamic Programming I   </td><td align="center">35 problems</td></tr>
+        <tr><td>Math II                 </td><td align="center">40 problems</td>
+            <td>Dynamic Programming II  </td><td align="center">35 problems</td></tr>
+        <tr><td>Math III                </td><td align="center">40 problems</td>
+            <td>Dynamic Programming III </td><td align="center">25 problems</td></tr>
+        <tr><td>String I                </td><td align="center">35 problems</td>
+            <td>Dynamic Programming IV  </td><td align="center">35 problems</td></tr>
+        <tr><td>String II               </td><td align="center">35 problems</td>
+            <td>Dynamic Programming V   </td><td align="center">35 problems</td></tr>
+        <tr><td>String III              </td><td align="center">25 problems</td>
+            <td>Dynamic Programming VI  </td><td align="center">30 problems</td></tr>
     </tbody>
         <tr>
-            <td align="center" width="400px"><a href="/level-3/leetcode/interviews-questions">interviews-questions</a></td>
+<td align="center" width="400px"><a href="/level-3/leetcode/interviews-questions">interviews-questions</a></td>
 <th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
-            <td align="center" width="400px"><a href="/level-3/leetcode/liked-questions">liked-questions</a></td>
+<td align="center" width="400px"><a href="/level-3/leetcode/liked-questions">liked-questions</a></td>
 <th align="center" width="150px">170 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Easy Problems       </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Easy Problems       </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Medium Problems I   </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Medium Problems I   </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Medium Problems II  </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Medium Problems II  </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Medium Problems III </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Medium Problems III </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Hard Problems       </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Hard Problems       </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Easy Problems       </td><td align="center">35 problems</td>
+            <td>Easy Problems       </td><td align="center">35 problems</td></tr>
+        <tr><td>Medium Problems I   </td><td align="center">35 problems</td>
+            <td>Medium Problems I   </td><td align="center">35 problems</td></tr>
+        <tr><td>Medium Problems II  </td><td align="center">35 problems</td>
+            <td>Medium Problems II  </td><td align="center">35 problems</td></tr>
+        <tr><td>Medium Problems III </td><td align="center">35 problems</td>
+            <td>Medium Problems III </td><td align="center">35 problems</td></tr>
+        <tr><td>Hard Problems       </td><td align="center">30 problems</td>
+            <td>Hard Problems       </td><td align="center">30 problems</td></tr>
     </tbody>
 </table>
 
@@ -375,85 +353,77 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerearth/mathematics-strings-1">mathematics-strings-1</a></th>
 <th align="center" width="150px">110 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerearth/mathematics-strings-2">mathematics-strings-2</a></th>
 <th align="center" width="150px">120 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Number Theory           </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Basic Number Theory           </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Primality Tests               </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Basics of Combinatorics       </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Totient Function              </td><td align="center">10 problems</td><td>solutions</td>
-            <td>Inclusione-Exclusion          </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Basics of String Manipulation </td><td align="center">40 problems</td><td>solutions</td>
-            <td>String Searching & Z Algorithm</td><td align="center">35 problems</td><td>solutions</td></tr>
+        <tr><td>Basic Number Theory           </td><td align="center">30 problems</td>
+            <td>Basic Number Theory           </td><td align="center">30 problems</td></tr>
+        <tr><td>Primality Tests               </td><td align="center">30 problems</td>
+            <td>Basics of Combinatorics       </td><td align="center">30 problems</td></tr>
+        <tr><td>Totient Function              </td><td align="center">10 problems</td>
+            <td>Inclusione-Exclusion          </td><td align="center">25 problems</td></tr>
+        <tr><td>Basics of String Manipulation </td><td align="center">40 problems</td>
+            <td>String Searching & Z Algorithm</td><td align="center">35 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerearth/graph-1">graph-1</a></th>
 <th align="center" width="150px">150 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerearth/graph-2">graph-2</a></th>
 <th align="center" width="150px">150 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Representation   </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Depth First Search     </td><td align="center">40 problems</td><td>solutions</td></tr>
-        <tr><td>Breadth First Search   </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Shortest Path I        </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search I   </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Shortest Path II       </td><td align="center">20 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search II  </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Spanning Tree          </td><td align="center">35 problems</td><td>solutions</td></tr>
-        <tr><td>Depth First Search III </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Min Cost & Max Flow    </td><td align="center">30 problems</td><td>solutions</td></tr>
+        <tr><td>Graph Representation   </td><td align="center">35 problems</td>
+            <td>Depth First Search     </td><td align="center">40 problems</td></tr>
+        <tr><td>Breadth First Search   </td><td align="center">35 problems</td>
+            <td>Shortest Path I        </td><td align="center">25 problems</td></tr>
+        <tr><td>Depth First Search I   </td><td align="center">30 problems</td>
+            <td>Shortest Path II       </td><td align="center">20 problems</td></tr>
+        <tr><td>Depth First Search II  </td><td align="center">30 problems</td>
+            <td>Spanning Tree          </td><td align="center">35 problems</td></tr>
+        <tr><td>Depth First Search III </td><td align="center">20 problems</td>
+            <td>Min Cost & Max Flow    </td><td align="center">30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerearth/dynamic-programming-1">dynamic-programming-1</a></th>
 <th align="center" width="150px">110 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerearth/dynamic-programming-2">dynamic-programming-2</a></th>
 <th align="center" width="150px">110 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Dynamic Programming I    </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming I    </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming II   </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming II   </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming 2D I </td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming 2D I </td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>Dynamic Programming 2D II</td><td align="center">25 problems</td><td>solutions</td>
-            <td>Dynamic Programming 2D II</td><td align="center">25 problems</td><td>solutions</td></tr>
-        <tr><td>DP and Bit Masking       </td><td align="center">10 problems</td><td>solutions</td>
-            <td>DP and Bit Masking       </td><td align="center">10 problems</td><td>solutions</td></tr>
+        <tr><td>Dynamic Programming I    </td><td align="center">25 problems</td>
+            <td>Dynamic Programming I    </td><td align="center">25 problems</td></tr>
+        <tr><td>Dynamic Programming II   </td><td align="center">25 problems</td>
+            <td>Dynamic Programming II   </td><td align="center">25 problems</td></tr>
+        <tr><td>Dynamic Programming 2D I </td><td align="center">25 problems</td>
+            <td>Dynamic Programming 2D I </td><td align="center">25 problems</td></tr>
+        <tr><td>Dynamic Programming 2D II</td><td align="center">25 problems</td>
+            <td>Dynamic Programming 2D II</td><td align="center">25 problems</td></tr>
+        <tr><td>DP and Bit Masking       </td><td align="center">10 problems</td>
+            <td>DP and Bit Masking       </td><td align="center">10 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerearth/advanced-data-structures-1">advanced-data-structures-1</a></th>
 <th align="center" width="150px">120 problems</th>
-<th align="center" width="50px"></th>
 <th align="center" width="400px"><a href="/level-3/hackerearth/advanced-data-structures-2">advanced-data-structures-2</a></th>
 <th align="center" width="150px">110 problems</th>
-<th align="center" width="50px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Disjoint Sets             </td><td align="center">30 problems</td><td>solutions</td>
-            <td>Segment Tree              </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Trie                      </td><td align="center">20 problems</td><td>solutions</td>
-            <td>Binary Indexed Tree I     </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Segment Tree I            </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Binary Indexed Tree II    </td><td align="center">30 problems</td><td>solutions</td></tr>
-        <tr><td>Segment Tree II           </td><td align="center">35 problems</td><td>solutions</td>
-            <td>Suffix Tree & Suffix Array</td><td align="center">20 problems</td><td>solutions</td></tr>
+        <tr><td>Disjoint Sets             </td><td align="center">30 problems</td>
+            <td>Segment Tree              </td><td align="center">30 problems</td></tr>
+        <tr><td>Trie                      </td><td align="center">20 problems</td>
+            <td>Binary Indexed Tree I     </td><td align="center">30 problems</td></tr>
+        <tr><td>Segment Tree I            </td><td align="center">35 problems</td>
+            <td>Binary Indexed Tree II    </td><td align="center">30 problems</td></tr>
+        <tr><td>Segment Tree II           </td><td align="center">35 problems</td>
+            <td>Suffix Tree & Suffix Array</td><td align="center">20 problems</td></tr>
     </tbody>
 </table>
 
