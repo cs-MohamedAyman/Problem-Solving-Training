@@ -26,121 +26,121 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/simple-array-sum/problem">simple array sum</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/simple-array-sum/problem">Simple Array Sum</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/compare-the-triplets/problem">compare the triplets</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/compare-the-triplets/problem">Compare the Triplets</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/a-very-big-sum/problem">a very big sum</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/a-very-big-sum/problem">A Very Big Sum</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/diagonal-difference/problem">diagonal difference</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/diagonal-difference/problem">Diagonal Difference</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/plus-minus/problem">plus minus</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/plus-minus/problem">Plus Minus</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/staircase/problem">staircase</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/staircase/problem">Staircase</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/mini-max-sum/problem">mini max sum</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/mini-max-sum/problem">Mini-Max Sum</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/birthday-cake-candles/problem">birthday cake candles</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/birthday-cake-candles/problem">Birthday Cake Candles</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/time-conversion/problem">time conversion</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/time-conversion/problem">Time Conversion</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-power-sum/problem">the power sum</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/the-power-sum/problem">The Power Sum</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/crossword-puzzle/problem">crossword puzzle</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/crossword-puzzle/problem">Crossword Puzzle</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/recursive-digit-sum/problem">recursive digit sum</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/recursive-digit-sum/problem">Recursive Digit Sum</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/simplified-chess-engine/problem">simplified chess engine</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/simplified-chess-engine/problem">Simplified Chess Engine</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/password-cracker/problem">password cracker</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/password-cracker/problem">Password Cracker</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/stone-division-2/problem">stone division 2</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/stone-division-2/problem">Stone Division, Revisited</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/arithmetic-expressions/problem">arithmetic expressions</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/arithmetic-expressions/problem">Arithmetic Expressions</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/k-factorization/problem">k factorization</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/k-factorization/problem">K Factorization</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/bowling-pins/problem">bowling pins</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/bowling-pins/problem">Bowling Pins</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/simplified-chess-engine-ii/problem">simplified chess engine ii</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/simplified-chess-engine-ii/problem">Simplified Chess Engine II</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">20</th>
-<th align="left"><a href="https://hackerrank.com/challenges/repeat-k-sums/problem">repeat k sums</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/repeat-k-sums/problem">Repetitive K-Sums</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/Warmup-Recursion.md">Solution</a></th>
         </tr>
