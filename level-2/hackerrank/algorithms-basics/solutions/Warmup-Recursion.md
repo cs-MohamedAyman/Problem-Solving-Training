@@ -555,8 +555,58 @@ vector<string> crosswordPuzzle(vector<string> crossword, string words) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Recursive Digit Sum
+Problem Link: https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+
+<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
+```python
+def superDigit(n, k):
+    def get_super_digit(p):
+        if len(p) == 1:
+            return int(p)
+        digits = map(int, list(p))
+        return get_super_digit(str(sum(digits)))
+
+    digits = map(int, list(n))
+    return get_super_digit(str(sum(digits) * k))
+```
+
+</details>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
+```cpp
+vector<int> map_string_to_list(string s) {
+    vector<int> res(s.begin(), s.end());
+    for (int &i : res)
+        i -= '0';
+    return res;
+}
+int get_super_digit(string p) {
+    if (size(p) == 1)
+        return p[0] - '0';
+    vector<int> digits = map_string_to_list(p);
+    int sum = accumulate(digits.begin(), digits.end(), 0);
+    return get_super_digit(to_string(sum));
+}
+int superDigit(string n, int k) {
+    vector<int> digits = map_string_to_list(n);
+    int sum = accumulate(digits.begin(), digits.end(), 0);
+    string s = "";
+    for (int i=0; i<k; i++)
+        s += to_string(sum);
+    return get_super_digit(s);
+}
+```
+
+</details>
+
+## Simplified Chess Engine
+Problem Link: https://www.hackerrank.com/challenges/simplified-chess-engine/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -577,8 +627,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Password Cracker
+Problem Link: https://www.hackerrank.com/challenges/password-cracker/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -599,8 +649,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Stone Division, Revisited
+Problem Link: https://www.hackerrank.com/challenges/stone-division-2/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -621,8 +671,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Arithmetic Expressions
+Problem Link: https://www.hackerrank.com/challenges/arithmetic-expressions/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -643,8 +693,76 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## K Factorization
+Problem Link: https://www.hackerrank.com/challenges/k-factorization/problem
+
+<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
+```python
+def kFactorization(n, A):
+    def k_factorization(n, arr, i, res):
+        if i == n:
+            all_res.append(res[:])
+            return True
+        if i > n:
+            return False
+        for j in range(len(arr)):
+            res.append(i * arr[j])
+            k_factorization(n, arr[j:], i * arr[j], res)
+            res.pop()
+        return False
+
+    all_res = []
+    A = sorted(A)
+    k_factorization(n, A, 1, [1])
+    if all_res:
+        return min(all_res, key=len)
+    else:
+        return [-1]
+```
+
+</details>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
+```cpp
+auto cmp = [](const vector<int> &a, const vector<int> &b) { 
+    return size(a) < size(b);
+};
+set<vector<int>, decltype(cmp)> all_res(cmp);
+
+bool k_factorization(int n, vector<int> arr, long i, vector<int> res) {
+    if (i == n) {
+        all_res.insert(res);
+        return true;
+    }
+    if (i > n)
+        return false;
+    for (int j=0; j<size(arr); j++) {
+        res.push_back(i * arr[j]);
+        vector<int> temp(arr.begin()+j, arr.end());
+        k_factorization(n, temp, i * arr[j], res);
+        res.pop_back();
+    }
+    return false;
+}
+vector<int> kFactorization(int n, vector<int> A) {
+    sort(A.begin(), A.end());
+    k_factorization(n, A, 1, {1});
+    if (size(all_res))
+        return *all_res.begin();
+    else
+        return {-1};
+}
+```
+
+</details>
+
+## Bowling Pins
+Problem Link: https://www.hackerrank.com/challenges/bowling-pins/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -665,8 +783,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Simplified Chess Engine II
+Problem Link: https://www.hackerrank.com/challenges/simplified-chess-engine-ii/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -687,8 +805,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Repetitive K-Sums
+Problem Link: https://www.hackerrank.com/challenges/repeat-k-sums/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -708,268 +826,3 @@ Problem Link: ProblemLink
 ```
 
 </details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
