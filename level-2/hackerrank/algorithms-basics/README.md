@@ -161,91 +161,91 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/big-sorting/problem">big sorting</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/big-sorting/problem">Big Sorting</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/tutorial-intro/problem">tutorial intro</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/tutorial-intro/problem">Intro to Tutorial Challenges</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insertionsort1/problem">insertionsort1</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insertionsort1/problem">Insertion Sort - Part 1</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insertionsort2/problem">insertionsort2</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insertionsort2/problem">Insertion Sort - Part 2</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/correctness-invariant/problem">correctness invariant</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/correctness-invariant/problem">Correctness and the Loop Invariant</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/runningtime/problem">runningtime</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/runningtime/problem">Running Time of Algorithms</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/quicksort1/problem">quicksort1</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/quicksort1/problem">Quicksort 1 - Partition</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/countingsort1/problem">countingsort1</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/countingsort1/problem">Counting Sort 1</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/countingsort2/problem">countingsort2</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/countingsort2/problem">Counting Sort 2</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/closest-numbers/problem">closest numbers</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/closest-numbers/problem">Closest Numbers</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-the-median/problem">find the median</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-the-median/problem">Find the Median</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/countingsort4/problem">countingsort4</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/countingsort4/problem">The Full Counting Sort</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/fraudulent-activity-notifications/problem">fraudulent activity notifications</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/fraudulent-activity-notifications/problem">Fraudulent Activity Notifications</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/lilys-homework/problem">lilys homework</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/lilys-homework/problem">Lily's Homework</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/insertion-sort/problem">insertion sort</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/insertion-sort/problem">Insertion Sort Advanced Analysis</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md">Solution</a></th>
         </tr>
