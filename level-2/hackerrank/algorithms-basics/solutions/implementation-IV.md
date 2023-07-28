@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Algorithms Basics <br> Implementation III `15 problems`
+# HackerRank OJ - Algorithms Basics <br> Implementation IV `15 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
