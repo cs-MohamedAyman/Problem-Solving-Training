@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Interviews Questions `170 problems` `100 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Interviews Questions I `170 problems` `100 hrs`
 
 ### Table of Content
 
