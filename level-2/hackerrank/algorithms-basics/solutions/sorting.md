@@ -3,7 +3,7 @@
 # HackerRank OJ - Algorithms Basics <br> Sorting `15 problems`
 
 ## Big Sorting
-Problem Link: https://www.hackerrank.com/challenges/big-sorting/problem
+Problem Link: https://hackerrank.com/challenges/big-sorting/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -21,8 +21,8 @@ def bigSorting(unsorted):
 
 ```cpp
 vector<string> bigSorting(vector<string> unsorted) {
-    auto comp = [](const string &x, const string &y) { 
-        return make_pair(size(x), x) < make_pair(size(y), y); 
+    auto comp = [](const string &x, const string &y) {
+        return make_pair(size(x), x) < make_pair(size(y), y);
     };
     sort(unsorted.begin(), unsorted.end(), comp);
     return unsorted;
@@ -32,7 +32,7 @@ vector<string> bigSorting(vector<string> unsorted) {
 </details>
 
 ## Intro to Tutorial Challenges
-Problem Link: https://www.hackerrank.com/challenges/tutorial-intro/problem
+Problem Link: https://hackerrank.com/challenges/tutorial-intro/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -64,7 +64,7 @@ int introTutorial(int V, vector<int> arr) {
 </details>
 
 ## Insertion Sort - Part 1
-Problem Link: https://www.hackerrank.com/challenges/insertionsort1/problem
+Problem Link: https://hackerrank.com/challenges/insertionsort1/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -94,7 +94,7 @@ def insertionSort1(n, arr):
 void insertionSort1(int n, vector<int> arr) {
     int temp = arr[size(arr)-1];
     auto print_arr = [](vector<int> arr) {
-        for (int &i : arr) 
+        for (int &i : arr)
             cout << i << ' ';
         cout << '\n';
     };
@@ -117,7 +117,7 @@ void insertionSort1(int n, vector<int> arr) {
 </details>
 
 ## Insertion Sort - Part 2
-Problem Link: https://www.hackerrank.com/challenges/insertionsort2/problem
+Problem Link: https://hackerrank.com/challenges/insertionsort2/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -143,7 +143,7 @@ def insertionSort2(n, arr):
 ```cpp
 void insertionSort2(int n, vector<int> arr) {
     auto print_arr = [](vector<int> arr) {
-        for (int &i : arr) 
+        for (int &i : arr)
             cout << i << ' ';
         cout << '\n';
     };
@@ -163,7 +163,7 @@ void insertionSort2(int n, vector<int> arr) {
 </details>
 
 ## Correctness and the Loop Invariant
-Problem Link: https://www.hackerrank.com/challenges/correctness-invariant/problem
+Problem Link: https://hackerrank.com/challenges/correctness-invariant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -200,7 +200,7 @@ void insertionSort(int N, int arr[]) {
 </details>
 
 ## Running Time of Algorithms
-Problem Link: https://www.hackerrank.com/challenges/runningtime/problem
+Problem Link: https://hackerrank.com/challenges/runningtime/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -245,7 +245,7 @@ int runningTime(vector<int> arr) {
 </details>
 
 ## Quicksort 1 - Partition
-Problem Link: https://www.hackerrank.com/challenges/quicksort1/problem
+Problem Link: https://hackerrank.com/challenges/quicksort1/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -275,7 +275,7 @@ vector<int> quickSort(vector<int> arr) {
             if (fn(i, arr[0]))
                 res.push_back(i);
     };
-    
+
     vector<int> res;
     select_fn(arr, comp_lt, res);
     select_fn(arr, comp_eq, res);
@@ -287,7 +287,7 @@ vector<int> quickSort(vector<int> arr) {
 </details>
 
 ## Counting Sort 1
-Problem Link: https://www.hackerrank.com/challenges/countingsort1/problem
+Problem Link: https://hackerrank.com/challenges/countingsort1/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -318,7 +318,7 @@ vector<int> countingSort(vector<int> arr) {
 </details>
 
 ## Counting Sort 2
-Problem Link: https://www.hackerrank.com/challenges/countingsort2/problem
+Problem Link: https://hackerrank.com/challenges/countingsort2/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -361,7 +361,7 @@ vector<int> countingSort(vector<int> arr) {
 </details>
 
 ## Closest Numbers
-Problem Link: https://www.hackerrank.com/challenges/closest-numbers/problem
+Problem Link: https://hackerrank.com/challenges/closest-numbers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -410,7 +410,7 @@ vector<int> closestNumbers(vector<int> arr) {
 </details>
 
 ## Find the Median
-Problem Link: https://www.hackerrank.com/challenges/find-the-median/problem
+Problem Link: https://hackerrank.com/challenges/find-the-median/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -437,7 +437,7 @@ int findMedian(vector<int> arr) {
 </details>
 
 ## The Full Counting Sort
-Problem Link: https://www.hackerrank.com/challenges/countingsort4/problem
+Problem Link: https://hackerrank.com/challenges/countingsort4/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -459,7 +459,7 @@ Problem Link: https://www.hackerrank.com/challenges/countingsort4/problem
 </details>
 
 ## Fraudulent Activity Notifications
-Problem Link: https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
+Problem Link: https://hackerrank.com/challenges/fraudulent-activity-notifications/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -481,7 +481,7 @@ Problem Link: https://www.hackerrank.com/challenges/fraudulent-activity-notifica
 </details>
 
 ## Lily's Homework
-Problem Link: https://www.hackerrank.com/challenges/lilys-homework/problem
+Problem Link: https://hackerrank.com/challenges/lilys-homework/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -503,7 +503,7 @@ Problem Link: https://www.hackerrank.com/challenges/lilys-homework/problem
 </details>
 
 ## Insertion Sort Advanced Analysis
-Problem Link: https://www.hackerrank.com/challenges/insertion-sort/problem
+Problem Link: https://hackerrank.com/challenges/insertion-sort/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

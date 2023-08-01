@@ -3,7 +3,7 @@
 # HackerRank OJ - Algorithms Basics <br> Search `20 problems`
 
 ## Ice Cream Parlor
-Problem Link: https://www.hackerrank.com/challenges/icecream-parlor/problem
+Problem Link: https://hackerrank.com/challenges/icecream-parlor/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -38,7 +38,7 @@ vector<int> icecreamParlor(int m, vector<int> arr) {
 </details>
 
 ## Missing Numbers
-Problem Link: https://www.hackerrank.com/challenges/missing-numbers/problem
+Problem Link: https://hackerrank.com/challenges/missing-numbers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -82,7 +82,7 @@ vector<int> missingNumbers(vector<int> arr, vector<int> brr) {
 </details>
 
 ## Sherlock and Array
-Problem Link: https://www.hackerrank.com/challenges/sherlock-and-array/problem
+Problem Link: https://hackerrank.com/challenges/sherlock-and-array/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -122,7 +122,7 @@ string balancedSums(vector<int> arr) {
 </details>
 
 ## Hackerland Radio Transmitters
-Problem Link: https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
+Problem Link: https://hackerrank.com/challenges/hackerland-radio-transmitters/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -138,7 +138,7 @@ def binary_search(a, x, l=0):
         else:
             l = m + 1
     return l
-    
+
 def hackerlandRadioTransmitters(x, k):
     chunk = []
     x.sort()
@@ -207,7 +207,7 @@ int hackerlandRadioTransmitters(vector<int> x, int k) {
 </details>
 
 ## Gridland Metro
-Problem Link: https://www.hackerrank.com/challenges/gridland-metro/problem
+Problem Link: https://hackerrank.com/challenges/gridland-metro/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -237,7 +237,7 @@ def gridlandMetro(n, m, k, track):
         for i in range(len(row)):
             if is_overlap(row[i], new_train) or \
                is_subset(row[i], new_train):
-                row[i] = union_seg(row[i], new_train)          
+                row[i] = union_seg(row[i], new_train)
                 overlapping = True
                 break
         if not overlapping:
@@ -257,7 +257,7 @@ def gridlandMetro(n, m, k, track):
 ```cpp
 bool is_subset(vector<int> &a, vector<int> &b) {
     int min_val = min(a[0], b[0]), max_val = max(a[1], b[1]);
-    return b[0] == min_val and b[1] == max_val or 
+    return b[0] == min_val and b[1] == max_val or
            a[0] == min_val and a[1] == max_val;
 }
 bool is_overlap(vector<int> &a, vector<int> &b) {
@@ -295,7 +295,7 @@ long long gridlandMetro(int n, int m, int k, vector<vector<int>> track) {
 </details>
 
 ## KnightL on a Chessboard
-Problem Link: https://www.hackerrank.com/challenges/knightl-on-chessboard/problem
+Problem Link: https://hackerrank.com/challenges/knightl-on-chessboard/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -382,7 +382,7 @@ vector<vector<int>> knightlOnAChessboard(int n) {
 </details>
 
 ## Minimum Loss
-Problem Link: https://www.hackerrank.com/challenges/minimum-loss/problem
+Problem Link: https://hackerrank.com/challenges/minimum-loss/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -423,7 +423,7 @@ int minimumLoss(vector<long> price) {
 </details>
 
 ## Pairs
-Problem Link: https://www.hackerrank.com/challenges/pairs/problem
+Problem Link: https://hackerrank.com/challenges/pairs/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -458,7 +458,7 @@ int pairs(int k, vector<int> arr) {
 </details>
 
 ## Connected Cells in a Grid
-Problem Link: https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem
+Problem Link: https://hackerrank.com/challenges/connected-cell-in-a-grid/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -520,7 +520,7 @@ int connectedCell(vector<vector<int>> matrix) {
 </details>
 
 ## Short Palindrome
-Problem Link: https://www.hackerrank.com/challenges/short-palindrome/problem
+Problem Link: https://hackerrank.com/challenges/short-palindrome/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
