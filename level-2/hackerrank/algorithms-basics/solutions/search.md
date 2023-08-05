@@ -307,11 +307,11 @@ dy = [1, -1, 1, -1]
 
 def knightl_helper(n, i, j):
     grid = [[2e9 for i in range(n)] for j in range(n)]
-    q = []
-    q.append((0, 0))
+    que = []
+    que.append((0, 0))
     grid[0][0] = 0
-    while q:
-        x, y = q.pop()
+    while que:
+        x, y = que.pop()
         curr = grid[x][y] + 1
         next_pos = []
         for k in range(4):
@@ -321,7 +321,7 @@ def knightl_helper(n, i, j):
             if 0 <= x <= n - 1 and 0 <= y <= n - 1:
                 if grid[x][y] > curr:
                     grid[x][y] = curr
-                    q.append((x, y))
+                    que.append((x, y))
     if grid[n-1][n-1] != 2e9:
         return grid[n-1][n-1]
     return -1
@@ -345,12 +345,12 @@ const int dy[] = {1, -1, 1, -1};
 
 int knightl_helper(int n, int i, int j) {
     vector<vector<int>> grid(n, vector<int>(n, 2e9));
-    queue<pair<int, int>> q;
-    q.push({0, 0});
+    queue<pair<int, int>> que;
+    que.push({0, 0});
     grid[0][0] = 0;
-    while (!q.empty()) {
-        pair<int, int> pos = q.front();
-        q.pop();
+    while (!que.empty()) {
+        pair<int, int> pos = que.front();
+        que.pop();
         int curr = grid[pos.first][pos.second] + 1;
         vector<pair<int, int>> next_pos;
         for (int k = 0; k < 4; k++) {
@@ -361,7 +361,7 @@ int knightl_helper(int n, int i, int j) {
             if (0 <= x and x <= n - 1 and 0 <= y and y <= n - 1) {
                 if (grid[x][y] > curr) {
                     grid[x][y] = curr;
-                    q.push({x, y});
+                    que.push({x, y});
                 }
             }
         }
@@ -785,7 +785,34 @@ Problem Link: https://www.hackerrank.com/challenges/red-knights-shortest-path/pr
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def printShortestPath(n, i_start, j_start, i_end, j_end):
+    end = (i_end, j_end)
+    visited = set()
+    visited.add((i_start, j_start))
+    que = [(i_start, j_start, '')]
+    cnt = 0
+    steps = [('UL', -2, -1), 
+             ('UR', -2,  1), 
+             ('R' ,  0,  2), 
+             ('LR',  2,  1), 
+             ('LL',  2, -1), 
+             ('L' ,  0, -2)]
+    while que:
+        cnt += 1
+        m = len(que)
+        while m:
+            m -= 1
+            i, j, path = que.pop(0)
+            for d, stepx, stepy in steps:
+                x = i + stepx
+                y = j + stepy
+                if (x, y) == end:
+                    path += ' ' + d 
+                    return str(cnt) + '\n' + path[1:]
+                if 0 <= x < n and 0 <= y < n and (x, y) not in visited:
+                    visited.add((x, y))
+                    que.append((x, y, path+' '+d))
+    return 'Impossible'
 ```
 
 </details>
@@ -794,7 +821,43 @@ Problem Link: https://www.hackerrank.com/challenges/red-knights-shortest-path/pr
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+string printShortestPath(int n, int i_start, int j_start, int i_end, int j_end) {
+    pair<int, int> end = {i_end, j_end};
+    set<pair<int, int>> visited;
+    visited.insert({i_start, j_start});
+    queue<tuple<int, int, string>> que;
+    que.push({i_start, j_start, ""});
+    int cnt = 0;
+    vector<tuple<string, int, int>> steps = {{"UL", -2, -1}, 
+                                             {"UR", -2,  1}, 
+                                             {"R" ,  0,  2}, 
+                                             {"LR",  2,  1}, 
+                                             {"LL",  2, -1}, 
+                                             {"L" ,  0, -2}};
+    while (size(que)) {
+        cnt ++;
+        int m = size(que);
+        while (m) {
+            m --;
+            auto [i, j, path] = que.front();
+            que.pop();
+            for (auto &[d, stepx, stepy] : steps) {
+                int x = i + stepx;
+                int y = j + stepy;
+                if (make_pair(x, y) == end) {
+                    path += ' ' + d;
+                    return to_string(cnt) + '\n' + path.substr(1);
+                }
+                if (0 <= x and x < n and 0 <= y and y < n 
+                    and visited.find({x, y}) == visited.end()) {
+                    visited.insert({x, y});
+                    que.push({x, y, path+' '+d});
+                }
+            }
+        }
+    }
+    return "Impossible";
+}
 ```
 
 </details>

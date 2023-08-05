@@ -699,21 +699,21 @@ class Solution:
             adj[j].append(i)
             degree[i] += 1
             degree[j] += 1
-        q = []
+        que = []
         for i in range(len(degree)):
             if degree[i] == 1:
-                q.append(i)
+                que.append(i)
         res = []
-        while q:
+        while que:
             res.clear()
-            queue_len = len(q)
+            queue_len = len(que)
             for i in range(queue_len):
-                u = q.pop(0)
+                u = que.pop(0)
                 res.append(u)
                 for v in adj[u]:
                     degree[v] -= 1
                     if degree[v] == 1:
-                        q.append(v)
+                        que.append(v)
         return res
 ```
 
@@ -736,23 +736,23 @@ public:
             degree[v[0]] ++;
             degree[v[1]] ++;
         }
-        vector<int> q;
+        vector<int> que;
         for (int i=0; i<size(degree); i++) {
             if (degree[i] == 1)
-                q.push_back(i);
+                que.push_back(i);
         }
         vector<int> res;
-        while (size(q)) {
+        while (size(que)) {
             res.clear();
-            int queue_len = size(q);
+            int queue_len = size(que);
             for (int i=0; i<queue_len; i++) {
-                int u = q[0];
-                q.erase(q.begin());
+                int u = que[0];
+                que.erase(que.begin());
                 res.push_back(u);
                 for (int v : adj[u]) {
                     degree[v] --;
                     if (degree[v] == 1)
-                        q.push_back(v);
+                        que.push_back(v);
                 }
             }
         }
@@ -797,18 +797,18 @@ class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        q = [root]
+        que = [root]
         res = []
-        while q:
+        while que:
             level = []
-            curr_len = len(q)
+            curr_len = len(que)
             for i in range(curr_len):
-                curr = q.pop(0)
+                curr = que.pop(0)
                 level.append(curr.val)
                 if curr.left:
-                    q.append(curr.left)
+                    que.append(curr.left)
                 if curr.right:
-                    q.append(curr.right)
+                    que.append(curr.right)
             res.append(level)
         res = res[::-1]
         return res
@@ -825,19 +825,19 @@ public:
     vector<vector<int>> levelOrderBottom(TreeNode *root) {
         if (not root)
             return {};
-        vector<TreeNode*> q = {root};
+        vector<TreeNode*> que = {root};
         vector<vector<int>> res;
-        while (size(q)) {
+        while (size(que)) {
             vector<int> level;
-            int curr_len = size(q);
+            int curr_len = size(que);
             for (int i=0; i<curr_len; i++) {
-                TreeNode *curr = q[0];
-                q.erase(q.begin());
+                TreeNode *curr = que[0];
+                que.erase(que.begin());
                 level.push_back(curr->val);
                 if (curr->left)
-                    q.push_back(curr->left);
+                    que.push_back(curr->left);
                 if (curr->right)
-                    q.push_back(curr->right);
+                    que.push_back(curr->right);
             }
             res.push_back(level);
         }
@@ -861,18 +861,18 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        q = [root]
+        que = [root]
         res = []
-        while q:
+        while que:
             level = []
-            curr_len = len(q)
+            curr_len = len(que)
             for i in range(curr_len):
-                curr = q.pop(0)
+                curr = que.pop(0)
                 level.append(curr.val)
                 if curr.left:
-                    q.append(curr.left)
+                    que.append(curr.left)
                 if curr.right:
-                    q.append(curr.right)
+                    que.append(curr.right)
             res.append(level)
         return res
 ```
@@ -888,19 +888,19 @@ public:
     vector<vector<int>> levelOrder(TreeNode *root) {
         if (not root)
             return {};
-        vector<TreeNode*> q = {root};
+        vector<TreeNode*> que = {root};
         vector<vector<int>> res;
-        while (size(q)) {
+        while (size(que)) {
             vector<int> level;
-            int curr_len = size(q);
+            int curr_len = size(que);
             for (int i=0; i<curr_len; i++) {
-                TreeNode *curr = q[0];
-                q.erase(q.begin());
+                TreeNode *curr = que[0];
+                que.erase(que.begin());
                 level.push_back(curr->val);
                 if (curr->left)
-                    q.push_back(curr->left);
+                    que.push_back(curr->left);
                 if (curr->right)
-                    q.push_back(curr->right);
+                    que.push_back(curr->right);
             }
             res.push_back(level);
         }
@@ -923,19 +923,19 @@ class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        q = [root]
+        que = [root]
         res = []
         is_reverse = 0
-        while q:
+        while que:
             level = []
-            curr_len = len(q)
+            curr_len = len(que)
             for i in range(curr_len):
-                curr = q.pop(0)
+                curr = que.pop(0)
                 level.append(curr.val)
                 if curr.left:
-                    q.append(curr.left)
+                    que.append(curr.left)
                 if curr.right:
-                    q.append(curr.right)
+                    que.append(curr.right)
             if is_reverse:
                 level = level[::-1]
             is_reverse = 1 - is_reverse
@@ -954,20 +954,20 @@ public:
     vector<vector<int>> zigzagLevelOrder(TreeNode *root) {
         if (not root)
             return {};
-        vector<TreeNode*> q = {root};
+        vector<TreeNode*> que = {root};
         vector<vector<int>> res;
         bool is_reverse = 0;
-        while (size(q)) {
+        while (size(que)) {
             vector<int> level;
-            int curr_len = size(q);
+            int curr_len = size(que);
             for (int i=0; i<curr_len; i++) {
-                TreeNode *curr = q[0];
-                q.erase(q.begin());
+                TreeNode *curr = que[0];
+                que.erase(que.begin());
                 level.push_back(curr->val);
                 if (curr->left)
-                    q.push_back(curr->left);
+                    que.push_back(curr->left);
                 if (curr->right)
-                    q.push_back(curr->right);
+                    que.push_back(curr->right);
             }
             if (is_reverse)
                 reverse(level.begin(), level.end());
@@ -994,17 +994,17 @@ class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return root
-        q = [root]
-        while q:
+        que = [root]
+        while que:
             level = []
-            curr_len = len(q)
+            curr_len = len(que)
             prev = None
             for i in range(curr_len):
-                curr = q.pop(0)
+                curr = que.pop(0)
                 if curr.left and curr.right:
                     curr.left.next = curr.right
-                    q.append(curr.left)
-                    q.append(curr.right)
+                    que.append(curr.left)
+                    que.append(curr.right)
                     if prev != None:
                         prev.right.next = curr.left
                 prev = curr
@@ -1022,19 +1022,19 @@ public:
     Node* connect(Node *root) {
         if (not root)
             return root;
-        vector<Node*> q = {root};
-        while (size(q)) {
+        vector<Node*> que = {root};
+        while (size(que)) {
             vector<int> level;
-            int curr_len = size(q);
+            int curr_len = size(que);
             Node *prev = NULL;
             for (int i=0; i<curr_len; i++) {
-                Node *curr = q[0];
-                q.erase(q.begin());
+                Node *curr = que[0];
+                que.erase(que.begin());
                 level.push_back(curr->val);
                 if (curr->left and curr->right) {
                     curr->left->next = curr->right;
-                    q.push_back(curr->left);
-                    q.push_back(curr->right);
+                    que.push_back(curr->left);
+                    que.push_back(curr->right);
                     if (prev != NULL)
                         prev->right->next = curr->left;
                 }
@@ -1060,17 +1060,17 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
             return root
-        q = [root]
-        while q:
+        que = [root]
+        while que:
             level = []
-            curr_len = len(q)
+            curr_len = len(que)
             for i in range(curr_len):
-                curr = q.pop(0)
+                curr = que.pop(0)
                 level.append(curr)
                 if curr.left:
-                    q.append(curr.left)
+                    que.append(curr.left)
                 if curr.right:
-                    q.append(curr.right)
+                    que.append(curr.right)
             for i in range(len(level)-1):
                 level[i].next = level[i+1]
         return root
@@ -1087,18 +1087,18 @@ public:
     Node* connect(Node *root) {
         if (not root)
             return root;
-        vector<Node*> q = {root};
-        while (size(q)) {
+        vector<Node*> que = {root};
+        while (size(que)) {
             vector<Node*> level;
-            int curr_len = size(q);
+            int curr_len = size(que);
             for (int i=0; i<curr_len; i++) {
-                Node *curr = q[0];
-                q.erase(q.begin());
+                Node *curr = que[0];
+                que.erase(que.begin());
                 level.push_back(curr);
                 if (curr->left)
-                    q.push_back(curr->left);
+                    que.push_back(curr->left);
                 if (curr->right)
-                    q.push_back(curr->right);
+                    que.push_back(curr->right);
             }
             for (int i=0; i<size(level)-1; i++)
                 level[i]->next = level[i+1];
@@ -1122,18 +1122,18 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
             return []
-        q = [root]
+        que = [root]
         res = []
-        while q:
+        while que:
             level = []
-            curr_len = len(q)
+            curr_len = len(que)
             for i in range(curr_len):
-                curr = q.pop(0)
+                curr = que.pop(0)
                 level.append(curr.val)
                 if curr.left:
-                    q.append(curr.left)
+                    que.append(curr.left)
                 if curr.right:
-                    q.append(curr.right)
+                    que.append(curr.right)
             res.append(level[-1])
         return res
 ```
@@ -1149,19 +1149,19 @@ public:
     vector<int> rightSideView(TreeNode* root) {
         if (not root)
             return {};
-        vector<TreeNode*> q = {root};
+        vector<TreeNode*> que = {root};
         vector<int> res;
-        while (size(q)) {
+        while (size(que)) {
             vector<int> level;
-            int curr_len = size(q);
+            int curr_len = size(que);
             for (int i=0; i<curr_len; i++) {
                 TreeNode *curr = q[0];
-                q.erase(q.begin());
+                que.erase(que.begin());
                 level.push_back(curr->val);
                 if (curr->left)
-                    q.push_back(curr->left);
+                    que.push_back(curr->left);
                 if (curr->right)
-                    q.push_back(curr->right);
+                    que.push_back(curr->right);
             }
             res.push_back(level[size(level)-1]);
         }
@@ -1183,18 +1183,18 @@ Problem Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         def bfs():
-            q = [(-1, root)]
-            while q:
-                curr_len = len(q)
+            que = [(-1, root)]
+            while que:
+                curr_len = len(que)
                 for i in range(curr_len):
-                    p, u = q.pop(0)
+                    p, u = que.pop(0)
                     if p != -1:
                         adj[u.val].append(p.val)
                         adj[p.val].append(u.val)
                     if u.left:
-                        q.append((u, u.left))
+                        que.append((u, u.left))
                     if u.right:
-                        q.append((u, u.right))
+                        que.append((u, u.right))
 
         def dfs(p, u, k):
             if k == 0:
@@ -1220,20 +1220,20 @@ class Solution:
 ```cpp
 class Solution {
     void bfs(vector<vector<int>> &adj, TreeNode* root) {
-        vector<pair<TreeNode*, TreeNode*>> q = {{NULL, root}};
-        while (size(q)) {
-            int curr_len = size(q);
+        vector<pair<TreeNode*, TreeNode*>> que = {{NULL, root}};
+        while (size(que)) {
+            int curr_len = size(que);
             for (int i=0; i<curr_len; i++) {
-                auto [p, u] = q[0];
-                q.erase(q.begin());
+                auto [p, u] = que[0];
+                que.erase(que.begin());
                 if (p != NULL) {
                     adj[u->val].push_back(p->val);
                     adj[p->val].push_back(u->val);
                 }
                 if (u->left)
-                    q.push_back({u, u->left});
+                    que.push_back({u, u->left});
                 if (u->right)
-                    q.push_back({u, u->right});
+                    que.push_back({u, u->right});
             }
         }
     }
@@ -1506,18 +1506,18 @@ Problem Link: https://leetcode.com/problems/maximum-width-of-binary-tree
 ```python
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        q = [(root, 0)]
+        que = [(root, 0)]
         res = 0
-        while q:
-            curr_len = len(q)
-            prt_width = q[0][1]
+        while que:
+            curr_len = len(que)
+            prt_width = que[0][1]
             last_width = -1
             for i in range(curr_len):
-                curr, width = q.pop(0)
+                curr, width = que.pop(0)
                 if curr.left:
-                    q.append((curr.left,  2*width - 2*prt_width))
+                    que.append((curr.left,  2*width - 2*prt_width))
                 if curr.right:
-                    q.append((curr.right, 2*width+1 - 2*prt_width))
+                    que.append((curr.right, 2*width+1 - 2*prt_width))
                 last_width = width
             res = max(res, last_width-prt_width+1)
         return res
@@ -1532,19 +1532,19 @@ class Solution:
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode *root) {
-        vector<pair<TreeNode*, long>> q = {{root, 0}};
+        vector<pair<TreeNode*, long>> que = {{root, 0}};
         int res = 0;
-        while (size(q)) {
-            int curr_len = size(q);
-            int prt_width = q[0].second;
+        while (size(que)) {
+            int curr_len = size(que);
+            int prt_width = que[0].second;
             int last_width;
             for (int i=0; i<curr_len; i++) {
-                auto [curr, width] = q[0];
-                q.erase(q.begin());
+                auto [curr, width] = que[0];
+                que.erase(que.begin());
                 if (curr->left)
-                    q.push_back({curr->left,  2*width - 2*prt_width});
+                    que.push_back({curr->left,  2*width - 2*prt_width});
                 if (curr->right)
-                    q.push_back({curr->right, 2*width+1 - 2*prt_width});
+                    que.push_back({curr->right, 2*width+1 - 2*prt_width});
                 last_width = width;
             }
             res = max(res, last_width-prt_width+1);

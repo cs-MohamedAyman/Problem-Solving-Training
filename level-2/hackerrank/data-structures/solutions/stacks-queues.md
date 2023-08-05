@@ -206,12 +206,12 @@ def minimumMoves(grid, startX, startY, goalX, goalY):
     n = len(grid)
     moves = [[-1 for _ in range(n)] for _ in range(n)]
     moves[startX][startY] = 0
-    q = [(startX, startY)]
+    que = [(startX, startY)]
     dx = [0, 0, 1, -1]
     dy = [1, -1, 0, 0]
-    while q:
-        head = q[0]
-        q.pop(0)
+    while que:
+        head = que[0]
+        que.pop(0)
         for i in range(4):
             nextX, nextY = head[0], head[1]
             while isOpen(grid, nextX + dx[i], nextY + dy[i]):
@@ -221,7 +221,7 @@ def minimumMoves(grid, startX, startY, goalX, goalY):
                     return moves[head[0]][head[1]] + 1
                 if moves[nextX][nextY] == -1:
                     moves[nextX][nextY] = moves[head[0]][head[1]] + 1
-                    q.append((nextX, nextY))
+                    que.append((nextX, nextY))
     return 0
 ```
 
@@ -244,10 +244,10 @@ int minimumMoves(vector<string> grid, int startX, int startY, int goalX, int goa
     int n = size(grid);
     vector<vector<int>> moves(n, vector<int>(n, -1));
     moves[startX][startY] = 0;
-    vector<pair<int, int>> q = {{startX, startY}};
-    while (size(q) > 0) {
-        auto head = q.front();
-        q.erase(q.begin());
+    vector<pair<int, int>> que = {{startX, startY}};
+    while (size(que) > 0) {
+        auto head = que.front();
+        que.erase(que.begin());
         for (int i = 0; i < 4; i++) {
             int nextX = head.first, nextY = head.second;
             while (isOpen(grid, nextX + dx[i], nextY + dy[i])) {
@@ -257,7 +257,7 @@ int minimumMoves(vector<string> grid, int startX, int startY, int goalX, int goa
                     return moves[head.first][head.second] + 1;
                 if (moves[nextX][nextY] == -1) {
                     moves[nextX][nextY] = moves[head.first][head.second] + 1;
-                    q.push_back({nextX, nextY});
+                    que.push_back({nextX, nextY});
                 }
             }
         }
