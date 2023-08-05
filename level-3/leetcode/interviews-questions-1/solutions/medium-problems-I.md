@@ -347,8 +347,8 @@ class Solution:
 class Solution {
     int n, m;
     vector<vector<int>> visited;
-    int dx[4] = {0, 0, 1, -1};
-    int dy[4] = {1, -1, 0, 0};
+    int dx[] = {0, 0, 1, -1};
+    int dy[] = {1, -1, 0, 0};
 
     bool dfs(int x, int y, int idx, const vector<vector<char>> &board, const string &word) {
         if (idx == size(word))

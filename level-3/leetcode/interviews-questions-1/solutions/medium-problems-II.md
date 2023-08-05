@@ -339,7 +339,7 @@ public:
         ListNode *curr2 = head;
         while (n) {
             curr2 = curr2->next;
-            n -= 1;
+            n --;
         }
         while (curr2) {
             curr1 = curr1->next;
@@ -584,15 +584,15 @@ Problem Link: https://leetcode.com/problems/clone-graph
 class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
         def dfs(u):
-            if u in adj_list:
-                return adj_list[u]
+            if u in adj:
+                return adj[u]
             new_u = Node(u.val)
-            adj_list[u] = new_u
+            adj[u] = new_u
             for v in u.neighbors:
                 new_u.neighbors.append(dfs(v))
             return new_u
 
-        adj_list = {}
+        adj = {}
         return dfs(node) if node else None
 ```
 
@@ -603,13 +603,13 @@ class Solution:
 
 ```cpp
 class Solution {
-    map<Node*, Node*> adj_list;
+    map<Node*, Node*> adj;
 
     Node* dfs(Node *u) {
-        if (adj_list.find(u) != adj_list.end())
-            return adj_list[u];
+        if (adj.find(u) != adj.end())
+            return adj[u];
         Node *new_u = new Node(u->val);
-        adj_list[u] = new_u;
+        adj[u] = new_u;
         for (Node *v : u->neighbors)
             new_u->neighbors.push_back(dfs(v));
         return new_u;
@@ -662,8 +662,8 @@ class Solution:
 ```cpp
 class Solution {
     set<pair<int, int>> visited1, visited2;
-    int dx[4] = {0, 0, 1, -1};
-    int dy[4] = {-1, 1, 0, 0};
+    int dx[] = {0, 0, 1, -1};
+    int dy[] = {-1, 1, 0, 0};
 
     void dfs(int r, int c, set<pair<int, int>> &visited, int prev_h,
              const vector<vector<int>> &heights, int n, int m) {
@@ -1235,7 +1235,7 @@ public:
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> res;
         res.push_back(intervals[0]);
-        for (auto it : intervals) {
+        for (auto &it : intervals) {
             int s = it[0], e = it[1];
             if (s <= res[size(res)-1][1])
                 res[size(res)-1][1] = max(res[size(res)-1][1], e);
@@ -1337,7 +1337,7 @@ public:
         sort(intervals.begin(), intervals.end());
         int res = 0;
         int prev_end = -int(5e4);
-        for (auto it : intervals) {
+        for (auto &it : intervals) {
             int s = it[0], e = it[1];
             if (s >= prev_end)
                 prev_end = e;
@@ -1457,13 +1457,14 @@ public:
         sort(points.begin(), points.end());
         int res = 0;
         long prev_end = -long(1LL<<31)-1;
-        for (auto it : points) {
+        for (auto &it : points) {
             int s = it[0], e = it[1];
             if (s > prev_end)
                 prev_end = e;
-            else
+            else {
                 res ++;
                 prev_end = min(long(e), prev_end);
+            }
         }
         return size(points) - res;
     }

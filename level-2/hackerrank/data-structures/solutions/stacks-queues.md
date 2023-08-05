@@ -231,6 +231,9 @@ def minimumMoves(grid, startX, startY, goalX, goalY):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+const int dx[] = {0, 0, 1, -1};
+const int dy[] = {1, -1, 0, 0};
+
 bool isOpen(vector<string> grid, int x, int y) {
     return 0 <= x and x < size(grid) and 0 <= y and y < size(grid) and grid[x][y] == '.';
 }
@@ -242,8 +245,6 @@ int minimumMoves(vector<string> grid, int startX, int startY, int goalX, int goa
     vector<vector<int>> moves(n, vector<int>(n, -1));
     moves[startX][startY] = 0;
     vector<pair<int, int>> q = {{startX, startY}};
-    int dx[4] = {0, 0, 1, -1};
-    int dy[4] = {1, -1, 0, 0};
     while (size(q) > 0) {
         auto head = q.front();
         q.erase(q.begin());

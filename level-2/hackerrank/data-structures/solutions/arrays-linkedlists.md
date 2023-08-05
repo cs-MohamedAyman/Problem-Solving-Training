@@ -106,7 +106,7 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
     vector<int> res;
     vector<vector<int>> arr(n);
     int last_ans = 0;
-    for (auto it : queries) {
+    for (auto &it : queries) {
         int t=it[0], x=it[1], y=it[2];
         if (t == 1) {
             int idx = (x^last_ans) % n;
@@ -659,7 +659,7 @@ def findMergeNode(head1, head2):
         len1 += 1
     while curr2:
         curr2 = curr2.next
-        len2 +=1
+        len2 += 1
     while len1 > len2:
         head1 = head1.next
         len1 -= 1
@@ -932,7 +932,7 @@ def arrayManipulation(n, queries):
 ```cpp
 long arrayManipulation(int n, vector<vector<int>> queries) {
     vector<long> arr(n+1, 0);
-    for (auto it : queries) {
+    for (auto &it : queries) {
         int a=it[0], b=it[1], k=it[2];
         arr[a-1] += k;
         arr[b] -= k;

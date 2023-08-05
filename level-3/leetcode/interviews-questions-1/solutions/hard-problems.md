@@ -125,7 +125,7 @@ class Solution {
     }
     bool solve_grid(vector<vector<char>> &cpy_grid, vector<vector<char>> &grid, int i, int j) {
         if (j == 9) {
-            i += 1;
+            i ++;
             j = 0;
         }
         if (i == 9)
@@ -911,7 +911,7 @@ public:
         sort(courses.begin(), courses.end(), comp);
         priority_queue<int> max_heap;
         int now = 0;
-        for (auto it : courses) {
+        for (auto &it : courses) {
             now += it[0];
             max_heap.push(it[0]);
             if (now > it[1]) {
@@ -1714,7 +1714,8 @@ class Solution:
     def palindromePairs(self, words: List[str]) -> List[List[int]]:
         def is_palindrome(s, i, j):
             while i < j and s[i] == s[j]:
-                i += 1; j -= 1
+                i += 1
+                j -= 1
             return i >= j
 
         idx = {}
@@ -1749,7 +1750,8 @@ class Solution:
 class Solution {
     bool is_palindrome(string &s, int i, int j) {
         while (i < j and s[i] == s[j]) {
-            i ++, j --;
+            i ++;
+            j --;
         }
         return i >= j;
     }

@@ -492,7 +492,7 @@ public:
             if (stk[i] != curr->val)
                 return false;
             curr = curr->next;
-            i++;
+            i ++;
         }
         return true;
     }
@@ -1518,12 +1518,12 @@ class Solution:
 class Solution {
     void move(string w, int &idx, int &cnt) {
         while (idx != -1 and w[idx] == '#') {
-            cnt += 1;
-            idx -= 1;
+            cnt ++;
+            idx --;
         }
         while (idx != -1 and cnt > 0 and w[idx] != '#') {
-            cnt -= 1;
-            idx -= 1;
+            cnt --;
+            idx --;
         }
     }
 public:

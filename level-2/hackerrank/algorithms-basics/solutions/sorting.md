@@ -152,7 +152,7 @@ void insertionSort2(int n, vector<int> arr) {
         int j = i;
         while (j > 0 and temp < arr[j-1]) {
             arr[j] = arr[j-1];
-            j -= 1;
+            j --;
         }
         arr[j] = temp;
         print_arr(arr);

@@ -340,8 +340,8 @@ def knightlOnAChessboard(n):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int dx[] = {1, 1, -1, -1};
-int dy[] = {1, -1, 1, -1};
+const int dx[] = {1, 1, -1, -1};
+const int dy[] = {1, -1, 1, -1};
 
 int knightl_helper(int n, int i, int j) {
     vector<vector<int>> grid(n, vector<int>(n, 2e9));
@@ -493,8 +493,8 @@ def connectedCell(matrix):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int dx[] = {1, 1, -1, -1, 1, -1, 0, 0};
-int dy[] = {1, -1, 1, -1, 0, 0, 1, -1};
+const int dx[] = {1, 1, -1, -1, 1, -1, 0, 0};
+const int dy[] = {1, -1, 1, -1, 0, 0, 1, -1};
 
 int dfs(vector<vector<int>> &A, int i, int j, int n, int m) {
     A[i][j] = -1;
@@ -671,8 +671,8 @@ string countLuck(vector<string> matrix, int k) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Cut the Tree
+Problem Link: https://www.hackerrank.com/challenges/cut-the-tree/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
