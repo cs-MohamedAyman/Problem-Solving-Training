@@ -266,119 +266,119 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/icecream-parlor/problem">icecream parlor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/icecream-parlor/problem">Ice Cream Parlor</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/missing-numbers/problem">missing numbers</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/missing-numbers/problem">Missing Numbers</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-array/problem">sherlock and array</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-array/problem">Sherlock and Array</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/hackerland-radio-transmitters/problem">hackerland radio transmitters</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/hackerland-radio-transmitters/problem">Hackerland Radio Transmitters</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/gridland-metro/problem">gridland metro</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/gridland-metro/problem">Gridland Metro</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/knightl-on-chessboard/problem">knightl on chessboard</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/knightl-on-chessboard/problem">KnightL on a Chessboard</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/minimum-loss/problem">minimum loss</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/minimum-loss/problem">Minimum Loss</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/pairs/problem">pairs</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/pairs/problem">Pairs</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/connected-cell-in-a-grid/problem">connected cell in a grid</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/connected-cell-in-a-grid/problem">Connected Cells in a Grid</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/short-palindrome/problem">short palindrome</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/short-palindrome/problem">Short Palindrome</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/count-luck/problem">count luck</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/count-luck/problem">Count Luck</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/cut-the-tree/problem">cut the tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/cut-the-tree/problem">Cut the Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/gena/problem">gena</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/gena/problem">Gena Playing Hanoi</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/xor-quadruples/problem">xor quadruples</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/xor-quadruples/problem">Beautiful Quadruples</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/red-knights-shortest-path/problem">red knights shortest path</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/red-knights-shortest-path/problem">Red Knight's Shortest Path</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/maximum-subarray-sum/problem">maximum subarray sum</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/maximum-subarray-sum/problem">Maximum Subarray Sum</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/maximizing-mission-points/problem">maximizing mission points</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/maximizing-mission-points/problem">Maximizing Mission Points</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/making-candies/problem">making candies</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/making-candies/problem">Making Candies</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/bike-racers/problem">bike racers</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/bike-racers/problem">Bike Racers</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">20</th>
-<th align="left"><a href="https://hackerrank.com/challenges/playing-with-numbers/problem">playing with numbers</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/playing-with-numbers/problem">Absolute Element Sums</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md">Solution</a></th>
         </tr>
