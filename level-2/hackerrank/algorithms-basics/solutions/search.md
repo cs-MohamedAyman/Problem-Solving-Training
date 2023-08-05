@@ -570,15 +570,50 @@ int shortPalindrome(string s) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Count Luck
+Problem Link: https://www.hackerrank.com/challenges/count-luck/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
+dx = [1, -1, 0, 0]
+dy = [0, 0, 1, -1]
 
+def dfs(i, j, matrix, visited, des):
+    if (i, j) == des:
+        return True
+    visited.add((i, j))
+    for w in range(4):
+        x, y = i+dx[w], j+dy[w]
+        if 0 <= x < n and 0 <= y < m and matrix[x][y] != 'X' \
+           and (x, y) not in visited and dfs(x, y, matrix, visited, des):
+            return True
+    visited.remove((i, j))
+    return False
+
+def countLuck(matrix, k):
+    n, m = len(matrix), len(matrix[0])
+    src, des = (0, 0), (0, 0)
+    for i in range(n):
+        for j in range(m):
+            if matrix[i][j] == 'M':
+                src = (i, j)
+            if matrix[i][j] == '*':
+                des = (i, j)
+    visited = set()
+    dfs(src[0], src[1], matrix, visited, des)
+    res = 0
+    for i, j in visited:
+        for w in range(4):
+            x, y = i+dx[w], j+dy[w]
+            if 0 <= x < n and 0 <= y < m and \
+               matrix[x][y] == '.' and \
+               (x, y) not in visited:
+                res += 1
+                break
+    return ('Impressed' if res == k else 'Oops!')
 ```
 
 </details>
@@ -587,7 +622,51 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+const int dx[] = {1, -1, 0, 0};
+const int dy[] = {0, 0, 1, -1};
+int n, m;
 
+bool dfs(int i, int j, vector<string> &matrix, set<pair<int, int>> &visited, pair<int, int> des) {
+    if (make_pair(i, j) == des)
+        return true;
+    visited.insert({i, j});
+    for (int k=0; k<4; k++) {
+        int x = i+dx[k], y = j+dy[k];
+        if (0 <= x and x < n and 0 <= y and y < m and
+            visited.find({x, y}) == visited.end() and 
+            matrix[x][y] != 'X' and dfs(x, y, matrix, visited, des))
+            return true;
+    }
+    visited.erase(visited.find({i, j}));
+    return false;
+}
+string countLuck(vector<string> matrix, int k) {
+    n = size(matrix), m = size(matrix[0]);
+    pair<int, int> src, des;
+    for (int i=0; i<n; i++) {
+        for (int j=0; j<m; j++) {
+            if (matrix[i][j] == 'M')
+                src = make_pair(i, j);
+            if (matrix[i][j] == '*')
+                des = make_pair(i, j);
+        }
+    }
+    set<pair<int, int>> visited;
+    dfs(src.first, src.second, matrix, visited, des);
+    int res = 0;
+    for (auto &[i, j] : visited) {
+        for (int k=0; k<4; k++) {
+            int x = i+dx[k], y = j+dy[k];
+            if (0 <= x and x < n and 0 <= y and y < m and
+                matrix[x][y] == '.' and
+                visited.find({x, y}) == visited.end()) {
+                res ++;
+                break;
+            }
+        }
+    }
+    return (res == k? "Impressed" : "Oops!");
+}
 ```
 
 </details>
