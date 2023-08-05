@@ -693,8 +693,8 @@ Problem Link: https://www.hackerrank.com/challenges/cut-the-tree/problem
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Gena Playing Hanoi
+Problem Link: https://www.hackerrank.com/challenges/gena/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -715,8 +715,70 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Beautiful Quadruples
+Problem Link: https://www.hackerrank.com/challenges/xor-quadruples/problem
+
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
+```python
+def beautifulQuadruples(a, b, c, d):
+    a, b, c, d = sorted([a, b, c, d])
+    N = int(3e3+3)
+    total = [0] * N
+    cnt = [[0 for j in range(1<<12)] for i in range(N)]
+    for i in range(1, a+1):
+        for j in range(i, b+1):
+            total[j] += 1
+            cnt[j][i^j] += 1
+    for i in range(1, N):
+        total[i] += total[i-1]
+        for j in range(1<<12):
+            cnt[i][j] += cnt[i-1][j]
+    res = 0
+    for i in range(1, c+1):
+        for j in range(i, d+1):
+            res += total[i] - cnt[i][i^j]
+    return res
+```
+
+</details>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
+```cpp
+long long beautifulQuadruples(int a, int b, int c, int d) {
+    vector<int> temp = {a, b, c, d};
+    sort(temp.begin(), temp.end());
+    a = temp[0], b = temp[1], c = temp[2], d = temp[3];
+    const int N = 3e3+3;
+    vector<int> total(N, 0);
+    vector<vector<int> > cnt(N, vector<int>(1<<12, 0));
+    for (int i=1; i<a+1; i++) {
+        for (int j=i; j<b+1; j++) {
+            total[j] ++;
+            cnt[j][i^j] ++;
+        }
+    }
+    for (int i=1; i<N; i++) {
+        total[i] += total[i-1];
+        for (int j=0; j<(1<<12); j++)
+            cnt[i][j] += cnt[i-1][j];
+    }
+    long long res = 0;
+    for (int i=1; i<c+1; i++)
+        for (int j=i; j<d+1; j++)
+            res += total[i] - cnt[i][i^j];
+    return res;
+}
+```
+
+</details>
+
+## Red Knight's Shortest Path
+Problem Link: https://www.hackerrank.com/challenges/red-knights-shortest-path/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -737,8 +799,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Maximum Subarray Sum
+Problem Link: https://www.hackerrank.com/challenges/maximum-subarray-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -759,8 +821,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Maximizing Mission Points
+Problem Link: https://www.hackerrank.com/challenges/maximizing-mission-points/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -781,8 +843,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Making Candies
+Problem Link: https://www.hackerrank.com/challenges/making-candies/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -803,8 +865,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Bike Racers
+Problem Link: https://www.hackerrank.com/challenges/bike-racers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -825,30 +887,8 @@ Problem Link: ProblemLink
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
+## Absolute Element Sums
+Problem Link: https://www.hackerrank.com/challenges/playing-with-numbers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
