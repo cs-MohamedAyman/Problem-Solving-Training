@@ -634,12 +634,6 @@
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
-        <tr>
-<th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/halloween-sale/problem">halloween sale</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
-        </tr>
     </tbody>
 </table>
 
@@ -705,36 +699,42 @@
         </tr>
         <tr>
 <th align="center">09</th>
+<th align="left"><a href="https://hackerrank.com/challenges/halloween-sale/problem">halloween sale</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">10</th>
 <th align="left"><a href="https://hackerrank.com/challenges/magic-square-forming/problem">magic square forming</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">10</th>
+<th align="center">11</th>
 <th align="left"><a href="https://hackerrank.com/challenges/climbing-the-leaderboard/problem">climbing the leaderboard</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">11</th>
+<th align="center">12</th>
 <th align="left"><a href="https://hackerrank.com/challenges/extra-long-factorials/problem">extra long factorials</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">12</th>
+<th align="center">13</th>
 <th align="left"><a href="https://hackerrank.com/challenges/non-divisible-subset/problem">non divisible subset</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">13</th>
+<th align="center">14</th>
 <th align="left"><a href="https://hackerrank.com/challenges/queens-attack-2/problem">queens attack 2</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">14</th>
+<th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
