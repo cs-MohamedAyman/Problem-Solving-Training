@@ -61,11 +61,11 @@ each sheet of them contains linear and non linear data structures problems, and 
             <td>Search                             </td><td align="center">20 problems</td></tr>
         <tr><td>Heap & Disjoint Set                </td><td align="center">10 problems</td>
             <td>Implementation I                   </td><td align="center">20 problems</td></tr>
-        <tr><td>Advanced I                         </td><td align="center">20 problems</td>
+        <tr><td>Strings                            </td><td align="center">20 problems</td>
             <td>Implementation II                  </td><td align="center">20 problems</td></tr>
-        <tr><td>Advanced II                        </td><td align="center">15 problems</td>
+        <tr><td>Bit Manipulation                   </td><td align="center">15 problems</td>
             <td>Implementation III                 </td><td align="center">15 problems</td></tr>
-        <tr><td>Advanced III                       </td><td align="center">20 problems</td>
+        <tr><td>Advanced                           </td><td align="center">20 problems</td>
             <td>Implementation IV                  </td><td align="center">15 problems</td></tr>
     </tbody>
 </table>
