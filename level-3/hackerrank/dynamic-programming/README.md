@@ -9,6 +9,7 @@
 - ***Dynamic Programming II***    `30 problems`
 - ***Dynamic Programming III***   `30 problems`
 - ***Constructive Algorithms***   `10 problems`
+- ***Advanced***                  `20 problems`
 
 ### HackerRank - Bit Manipulation `30 problems`
 
