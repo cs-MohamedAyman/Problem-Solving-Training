@@ -320,3 +320,108 @@
         </tr>
     </tbody>
 </table>
+
+### HackerRank - Advanced `15 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
+
+<table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center" width="480px">Tags</th>
+<th align="center" width="120px">Solution</th>
+        </tr>
+    </head>
+    <tbody>
+        <tr>
+<th align="center">01</th>
+<th align="left"><a href="https://hackerrank.com/challenges/rooted-tree/problem">rooted tree</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">02</th>
+<th align="left"><a href="https://hackerrank.com/challenges/net-admin/problem">net admin</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">03</th>
+<th align="left"><a href="https://hackerrank.com/challenges/net-admin/problem">net admin</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">04</th>
+<th align="left"><a href="https://hackerrank.com/challenges/subsequence-weighting/problem">subsequence weighting</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">05</th>
+<th align="left"><a href="https://hackerrank.com/challenges/self-driving-bus/problem">self driving bus</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">06</th>
+<th align="left"><a href="https://hackerrank.com/challenges/unique-colors/problem">unique colors</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">07</th>
+<th align="left"><a href="https://hackerrank.com/challenges/functional-palindromes/problem">functional palindromes</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">08</th>
+<th align="left"><a href="https://hackerrank.com/challenges/little-alexey-and-sum-of-maximums/problem">little alexey and sum of maximums</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">09</th>
+<th align="left"><a href="https://hackerrank.com/challenges/heavy-light-2-white-falcon/problem">heavy light 2 white falcon</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">10</th>
+<th align="left"><a href="https://hackerrank.com/challenges/starfleet/problem">starfleet</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">11</th>
+<th align="left"><a href="https://hackerrank.com/challenges/swaps-and-sum/problem">swaps and sum</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">12</th>
+<th align="left"><a href="https://hackerrank.com/challenges/arithmetic-progressions/problem">arithmetic progressions</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">13</th>
+<th align="left"><a href="https://hackerrank.com/challenges/coolguy-and-two-subsequences/problem">coolguy and two subsequences</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">14</th>
+<th align="left"><a href="https://hackerrank.com/challenges/subtrees-and-paths/problem">subtrees and paths</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">15</th>
+<th align="left"><a href="https://hackerrank.com/challenges/triplets/problem">triplets</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+    </tbody>
+</table>
