@@ -458,7 +458,7 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://www.hackerrank.com/challenges/reduced-string/problem">Reduced String</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/reduced-string/problem">Reduced String</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
@@ -470,7 +470,7 @@
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://www.hackerrank.com/challenges/strong-password/problem">strong password</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/strong-password/problem">strong password</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>

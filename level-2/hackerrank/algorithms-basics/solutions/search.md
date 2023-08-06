@@ -571,7 +571,7 @@ int shortPalindrome(string s) {
 </details>
 
 ## Count Luck
-Problem Link: https://www.hackerrank.com/challenges/count-luck/problem
+Problem Link: https://hackerrank.com/challenges/count-luck/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -633,7 +633,7 @@ bool dfs(int i, int j, vector<string> &matrix, set<pair<int, int>> &visited, pai
     for (int k=0; k<4; k++) {
         int x = i+dx[k], y = j+dy[k];
         if (0 <= x and x < n and 0 <= y and y < m and
-            visited.find({x, y}) == visited.end() and 
+            visited.find({x, y}) == visited.end() and
             matrix[x][y] != 'X' and dfs(x, y, matrix, visited, des))
             return true;
     }
@@ -672,7 +672,7 @@ string countLuck(vector<string> matrix, int k) {
 </details>
 
 ## Cut the Tree
-Problem Link: https://www.hackerrank.com/challenges/cut-the-tree/problem
+Problem Link: https://hackerrank.com/challenges/cut-the-tree/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -694,7 +694,7 @@ Problem Link: https://www.hackerrank.com/challenges/cut-the-tree/problem
 </details>
 
 ## Gena Playing Hanoi
-Problem Link: https://www.hackerrank.com/challenges/gena/problem
+Problem Link: https://hackerrank.com/challenges/gena/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -716,7 +716,7 @@ Problem Link: https://www.hackerrank.com/challenges/gena/problem
 </details>
 
 ## Beautiful Quadruples
-Problem Link: https://www.hackerrank.com/challenges/xor-quadruples/problem
+Problem Link: https://hackerrank.com/challenges/xor-quadruples/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -778,7 +778,7 @@ long long beautifulQuadruples(int a, int b, int c, int d) {
 </details>
 
 ## Red Knight's Shortest Path
-Problem Link: https://www.hackerrank.com/challenges/red-knights-shortest-path/problem
+Problem Link: https://hackerrank.com/challenges/red-knights-shortest-path/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -791,11 +791,11 @@ def printShortestPath(n, i_start, j_start, i_end, j_end):
     visited.add((i_start, j_start))
     que = [(i_start, j_start, '')]
     cnt = 0
-    steps = [('UL', -2, -1), 
-             ('UR', -2,  1), 
-             ('R' ,  0,  2), 
-             ('LR',  2,  1), 
-             ('LL',  2, -1), 
+    steps = [('UL', -2, -1),
+             ('UR', -2,  1),
+             ('R' ,  0,  2),
+             ('LR',  2,  1),
+             ('LL',  2, -1),
              ('L' ,  0, -2)]
     while que:
         cnt += 1
@@ -807,7 +807,7 @@ def printShortestPath(n, i_start, j_start, i_end, j_end):
                 x = i + stepx
                 y = j + stepy
                 if (x, y) == end:
-                    path += ' ' + d 
+                    path += ' ' + d
                     return str(cnt) + '\n' + path[1:]
                 if 0 <= x < n and 0 <= y < n and (x, y) not in visited:
                     visited.add((x, y))
@@ -828,11 +828,11 @@ string printShortestPath(int n, int i_start, int j_start, int i_end, int j_end) 
     queue<tuple<int, int, string>> que;
     que.push({i_start, j_start, ""});
     int cnt = 0;
-    vector<tuple<string, int, int>> steps = {{"UL", -2, -1}, 
-                                             {"UR", -2,  1}, 
-                                             {"R" ,  0,  2}, 
-                                             {"LR",  2,  1}, 
-                                             {"LL",  2, -1}, 
+    vector<tuple<string, int, int>> steps = {{"UL", -2, -1},
+                                             {"UR", -2,  1},
+                                             {"R" ,  0,  2},
+                                             {"LR",  2,  1},
+                                             {"LL",  2, -1},
                                              {"L" ,  0, -2}};
     while (size(que)) {
         cnt ++;
@@ -848,7 +848,7 @@ string printShortestPath(int n, int i_start, int j_start, int i_end, int j_end) 
                     path += ' ' + d;
                     return to_string(cnt) + '\n' + path.substr(1);
                 }
-                if (0 <= x and x < n and 0 <= y and y < n 
+                if (0 <= x and x < n and 0 <= y and y < n
                     and visited.find({x, y}) == visited.end()) {
                     visited.insert({x, y});
                     que.push({x, y, path+' '+d});
@@ -863,7 +863,7 @@ string printShortestPath(int n, int i_start, int j_start, int i_end, int j_end) 
 </details>
 
 ## Maximum Subarray Sum
-Problem Link: https://www.hackerrank.com/challenges/maximum-subarray-sum/problem
+Problem Link: https://hackerrank.com/challenges/maximum-subarray-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -885,7 +885,7 @@ Problem Link: https://www.hackerrank.com/challenges/maximum-subarray-sum/problem
 </details>
 
 ## Maximizing Mission Points
-Problem Link: https://www.hackerrank.com/challenges/maximizing-mission-points/problem
+Problem Link: https://hackerrank.com/challenges/maximizing-mission-points/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -907,7 +907,7 @@ Problem Link: https://www.hackerrank.com/challenges/maximizing-mission-points/pr
 </details>
 
 ## Making Candies
-Problem Link: https://www.hackerrank.com/challenges/making-candies/problem
+Problem Link: https://hackerrank.com/challenges/making-candies/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -929,7 +929,7 @@ Problem Link: https://www.hackerrank.com/challenges/making-candies/problem
 </details>
 
 ## Bike Racers
-Problem Link: https://www.hackerrank.com/challenges/bike-racers/problem
+Problem Link: https://hackerrank.com/challenges/bike-racers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -951,7 +951,7 @@ Problem Link: https://www.hackerrank.com/challenges/bike-racers/problem
 </details>
 
 ## Absolute Element Sums
-Problem Link: https://www.hackerrank.com/challenges/playing-with-numbers/problem
+Problem Link: https://hackerrank.com/challenges/playing-with-numbers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
