@@ -1,75 +1,47 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming `140 problems` `80 hrs`
+## [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming `145 problems` `80 hrs`
 
 ### Table of Content
 
-- ***Bit Manipulation***          `30 problems`
+- ***Bit Manipulation***          `15 problems`
 - ***Dynamic Programming I***     `40 problems`
 - ***Dynamic Programming II***    `30 problems`
 - ***Dynamic Programming III***   `30 problems`
 - ***Constructive Algorithms***   `10 problems`
 - ***Advanced***                  `20 problems`
 
-### HackerRank - Bit Manipulation `30 problems`
+### HackerRank - Bit Manipulation `15 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lonely-integer/problem">lonely integer</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximizing-xor/problem">maximizing xor</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xoring-ninja/problem">xoring ninja</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-matrix/problem">xor matrix</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sum-vs-xor/problem">sum vs xor</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/flipping-bits/problem">flipping bits</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-transmission/problem">string transmission</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manipulative-numbers/problem">manipulative numbers</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/counter-game/problem">counter game</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-se/problem">xor se</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/stonegame/problem">stonegame</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximizing-the-function/problem">maximizing the function</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-great-xor/problem">the great xor</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/yet-another-minimax-problem/problem">yet another minimax problem</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pmix/problem">pmix</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/2s-complement/problem">2s complement</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sansa-and-xor/problem">sansa and xor</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/and-product/problem">and product</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/changing-bits/problem">changing bits</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-key/problem">xor key</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/winning-lottery-ticket/problem">winning lottery ticket</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cipher/problem">cipher</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-subsequence/problem">xor subsequence</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/iterate-it/problem">iterate it</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/whats-next/problem">whats next</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/aorb/problem">aorb</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xoring-ninja/problem">xoring ninja</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-matrix/problem">xor matrix</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-transmission/problem">string transmission</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manipulative-numbers/problem">manipulative numbers</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/stonegame/problem">stonegame</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximizing-the-function/problem">maximizing the function</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pmix/problem">pmix</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/2s-complement/problem">2s complement</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/changing-bits/problem">changing bits</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-key/problem">xor key</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-subsequence/problem">xor subsequence</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/iterate-it/problem">iterate it</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hamming-distance/problem">hamming distance</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hamming-distance/problem">hamming distance</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
