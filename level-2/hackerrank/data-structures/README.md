@@ -444,53 +444,143 @@
     </tbody>
 </table>
 
-### HackerRank - Strings `20 problems`
+### HackerRank - Strings `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/strings.md)
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center" width="480px">Tags</th>
+<th align="center" width="120px">Solution</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/reduced-string">challenges</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/camelcase/problem">camelcase</a></th>
+<th align="center">01</th>
+<th align="left"><a href="https://www.hackerrank.com/challenges/reduced-string/problem">Reduced String</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/strong-password">challenges</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-characters">challenges</a></th>
+<th align="center">02</th>
+<th align="left"><a href="https://hackerrank.com/challenges/camelcase/problem">camelcase</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/caesar-cipher-1">challenges</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/mars-exploration">challenges</a></th>
+<th align="center">03</th>
+<th align="left"><a href="https://www.hackerrank.com/challenges/strong-password/problem">strong password</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hackerrank-in-a-string">challenges</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pangrams">challenges</a></th>
+<th align="center">04</th>
+<th align="left"><a href="https://hackerrank.com/challenges/two-characters/problem">two characters</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/weighted-uniform-string">challenges</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/separate-the-numbers">challenges</a></th>
+<th align="center">05</th>
+<th align="left"><a href="https://hackerrank.com/challenges/caesar-cipher-1/problem">caesar cipher 1</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/funny-string">challenges</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/gem-stones">challenges</a></th>
+<th align="center">06</th>
+<th align="left"><a href="https://hackerrank.com/challenges/mars-exploration/problem">mars exploration</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/alternating-characters/problem">alternating characters</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-binary-string/problem">beautiful binary string</a></th>
+<th align="center">07</th>
+<th align="left"><a href="https://hackerrank.com/challenges/hackerrank-in-a-string/problem">hackerrank in a string</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-love-letter-mystery/problem">the love letter mystery</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/palindrome-index/problem">palindrome index</a></th>
+<th align="center">08</th>
+<th align="left"><a href="https://hackerrank.com/challenges/pangrams/problem">pangrams</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/anagram/problem">anagram</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/making-anagrams/problem">making anagrams</a></th>
+<th align="center">09</th>
+<th align="left"><a href="https://hackerrank.com/challenges/weighted-uniform-string/problem">weighted uniform string</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/game-of-thrones/problem">game of thrones</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-strings/problem">two strings</a></th>
+<th align="center">10</th>
+<th align="left"><a href="https://hackerrank.com/challenges/separate-the-numbers/problem">separate the numbers</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-construction/problem">string construction</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center">11</th>
+<th align="left"><a href="https://hackerrank.com/challenges/alternating-characters/problem">alternating characters</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">12</th>
+<th align="left"><a href="https://hackerrank.com/challenges/beautiful-binary-string/problem">beautiful binary string</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">13</th>
+<th align="left"><a href="https://hackerrank.com/challenges/the-love-letter-mystery/problem">the love letter mystery</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">14</th>
+<th align="left"><a href="https://hackerrank.com/challenges/palindrome-index/problem">palindrome index</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">15</th>
+<th align="left"><a href="https://hackerrank.com/challenges/anagram/problem">anagram</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">16</th>
+<th align="left"><a href="https://hackerrank.com/challenges/making-anagrams/problem">making anagrams</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">17</th>
+<th align="left"><a href="https://hackerrank.com/challenges/game-of-thrones/problem">game of thrones</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">18</th>
+<th align="left"><a href="https://hackerrank.com/challenges/two-strings/problem">two strings</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">19</th>
+<th align="left"><a href="https://hackerrank.com/challenges/string-construction/problem">string construction</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">20</th>
+<th align="left"><a href="https://hackerrank.com/challenges/funny-string/problem">funny string</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">21</th>
+<th align="left"><a href="https://hackerrank.com/challenges/gem-stones/problem">gem stones</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/data-structures/solutions/strings.md">Solution</a></th>
         </tr>
     </tbody>
 </table>
