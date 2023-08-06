@@ -1,14 +1,14 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Graph Algorithms `135 problems` `80 hrs`
+## [HackerRank](https://hackerrank.com/) OJ - Graph Algorithms `130 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Graph Theory I***   `30 problems`
 - ***Graph Theory II***  `30 problems`
 - ***Greedy***           `25 problems`
-- ***Strings I***        `25 problems`
-- ***Strings II***       `25 problems`
+- ***Strings I***        `15 problems`
+- ***Strings II***       `15 problems`
 - ***Advanced***         `15 problems`
 
 ### HackerRank - Graph Theory I `30 problems`
@@ -208,66 +208,7 @@
     </tbody>
 </table>
 
-### HackerRank - Strings I `25 problems`
-
-<table>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/reduced-string">challenges</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/camelcase/problem">camelcase</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/strong-password">challenges</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-characters">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/caesar-cipher-1">challenges</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/mars-exploration">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hackerrank-in-a-string">challenges</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pangrams">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/weighted-uniform-string">challenges</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/separate-the-numbers">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/funny-string">challenges</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/gem-stones">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/alternating-characters/problem">alternating characters</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-binary-string/problem">beautiful binary string</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-love-letter-mystery/problem">the love letter mystery</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/palindrome-index/problem">palindrome index</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/anagram/problem">anagram</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/making-anagrams/problem">making anagrams</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/game-of-thrones/problem">game of thrones</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-strings/problem">two strings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-construction/problem">string construction</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-valid-string">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/richie-rich">challenges</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximum-palindromes">challenges</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-anagrams">challenges</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
-    </tbody>
-</table>
-
-### HackerRank - Strings II `25 problems`
+### HackerRank - Strings I `15 problems`
 
 <table>
     <tbody>
@@ -288,36 +229,51 @@
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/challenging-palindromes/problem">challenging palindromes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ashton-and-string/problem">ashton and string</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/super-functional-strings/problem">super functional strings</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-valid-string">challenges</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/richie-rich">challenges</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/circular-palindromes/problem">circular palindromes</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/similar-strings/problem">similar strings</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximum-palindromes">challenges</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-anagrams">challenges</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-two/problem">two two</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/morgan-and-a-string/problem">morgan and a string</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ashton-and-string/problem">ashton and string</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/super-functional-strings/problem">super functional strings</a></th>
+        </tr>
+    </tbody>
+</table>
+
+### HackerRank - Strings II `15 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/circular-palindromes/problem">circular palindromes</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/similar-strings/problem">similar strings</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cards-permutation/problem">cards permutation</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-similarity/problem">string similarity</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-two/problem">two two</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/morgan-and-a-string/problem">morgan and a string</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/save-humanity/problem">save humanity</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/find-strings/problem">find strings</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cards-permutation/problem">cards permutation</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-similarity/problem">string similarity</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/palindromic-border/problem">palindromic border</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-strings-game/problem">two strings game</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/save-humanity/problem">save humanity</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/find-strings/problem">find strings</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/letter-islands/problem">letter islands</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pseudo-isomorphic-substrings/problem">pseudo isomorphic substrings</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/palindromic-border/problem">palindromic border</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-strings-game/problem">two strings game</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/how-many-substrings/problem">how many substrings</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/letter-islands/problem">letter islands</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pseudo-isomorphic-substrings/problem">pseudo isomorphic substrings</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/how-many-substrings/problem">how many substrings</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
