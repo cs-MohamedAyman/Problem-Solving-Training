@@ -9,6 +9,7 @@
 - ***Greedy***           `25 problems`
 - ***Strings I***        `25 problems`
 - ***Strings II***       `25 problems`
+- ***Advanced ***                            `15 problems`
 
 ### HackerRank - Graph Theory I `30 problems`
 
