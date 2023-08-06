@@ -8,7 +8,9 @@
 - ***Stack and Queue***                      `10 problems`
 - ***Binary Tree and Balanced Binary Tree*** `20 problems`
 - ***Heap & Disjoint Set***                  `10 problems`
-- ***Advanced ***                            `20 problems`
+- ***Strings***                              `20 problems`
+- ***Bit Manipulation***                     `15 problems`
+- ***Advanced***                             `20 problems`
 
 ### HackerRank - Array and Linked List `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md)
 
@@ -438,6 +440,92 @@
 <th align="left"><a href="https://hackerrank.com/challenges/no-prefix-set/problem">No Prefix Set</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md">Solution</a></th>
+        </tr>
+    </tbody>
+</table>
+
+### HackerRank - Strings `20 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/reduced-string">challenges</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/camelcase/problem">camelcase</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/strong-password">challenges</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-characters">challenges</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/caesar-cipher-1">challenges</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/mars-exploration">challenges</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hackerrank-in-a-string">challenges</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pangrams">challenges</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/weighted-uniform-string">challenges</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/separate-the-numbers">challenges</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/funny-string">challenges</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/gem-stones">challenges</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/alternating-characters/problem">alternating characters</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-binary-string/problem">beautiful binary string</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-love-letter-mystery/problem">the love letter mystery</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/palindrome-index/problem">palindrome index</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/anagram/problem">anagram</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/making-anagrams/problem">making anagrams</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/game-of-thrones/problem">game of thrones</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-strings/problem">two strings</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/string-construction/problem">string construction</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
+
+### HackerRank - Bit Manipulation `15 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lonely-integer/problem">lonely integer</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximizing-xor/problem">maximizing xor</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sum-vs-xor/problem">sum vs xor</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/flipping-bits/problem">flipping bits</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/counter-game/problem">counter game</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-se/problem">xor se</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-great-xor/problem">the great xor</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/yet-another-minimax-problem/problem">yet another minimax problem</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sansa-and-xor/problem">sansa and xor</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/and-product/problem">and product</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/winning-lottery-ticket/problem">winning lottery ticket</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cipher/problem">cipher</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/whats-next/problem">whats next</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/aorb/problem">aorb</a></th>
         </tr>
     </tbody>
 </table>
