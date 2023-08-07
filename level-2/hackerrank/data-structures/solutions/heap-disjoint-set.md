@@ -65,7 +65,7 @@ int cookies(int k, vector<int> A) {
     for (int i : A)
         min_heap.push(i);
     int res = 0;
-    while (!min_heap.empty()) {
+    while (not min_heap.empty()) {
         int a = min_heap.top();
         min_heap.pop();
         if (a >= k or min_heap.empty()) {

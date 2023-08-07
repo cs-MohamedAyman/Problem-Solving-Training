@@ -348,7 +348,7 @@ int knightl_helper(int n, int i, int j) {
     queue<pair<int, int>> que;
     que.push({0, 0});
     grid[0][0] = 0;
-    while (!que.empty()) {
+    while (not que.empty()) {
         pair<int, int> pos = que.front();
         que.pop();
         int curr = grid[pos.first][pos.second] + 1;

@@ -34,7 +34,7 @@ void preOrder(Node* root) {
     vector<int> res;
     stack<Node*> stk;
     stk.push(root);
-    while (!stk.empty()) {
+    while (not stk.empty()) {
         Node *curr = stk.top();
         stk.pop();
         if (curr->right != NULL)
@@ -83,7 +83,7 @@ void postOrder(Node* root) {
     vector<int> res;
     stack<Node*> stk;
     stk.push(root);
-    while (!stk.empty()) {
+    while (not stk.empty()) {
         Node *curr = stk.top();
         stk.pop();
         if (curr->left != NULL)
@@ -133,7 +133,7 @@ void inOrder(Node* root) {
     vector<int> res;
     stack<Node*> stk;
     Node *curr = root;
-    while (!stk.empty() or curr) {
+    while (not stk.empty() or curr) {
         if (curr) {
             stk.push(curr);
             curr = curr->left;
@@ -191,7 +191,7 @@ int height(Node *root) {
     stack<int> height;
     stk.push(root);
     height.push(0);
-    while (!stk.empty()) {
+    while (not stk.empty()) {
         Node *curr = stk.top();
         stk.pop();
         int curr_height = height.top();
@@ -266,7 +266,7 @@ void levelOrder(Node* root) {
     vector<int> res;
     queue<Node*> que;
     que.push(root);
-    while (!que.empty()) {
+    while (not que.empty()) {
         Node *curr = que.front();
         que.pop();
         if (curr->left != NULL)

@@ -373,14 +373,14 @@ long largestRectangle(vector<int> h) {
         else {
             int t = stk.top();
             stk.pop();
-            int area = h[t] * (!stk.empty()? i - stk.top() - 1 : i);
+            int area = h[t] * (not stk.empty()? i - stk.top() - 1 : i);
             res = max(res, area);
         }
     }
-    while (!stk.empty()) {
+    while (not stk.empty()) {
         int t = stk.top();
         stk.pop();
-        int area = h[t] * (!stk.empty()? i - stk.top() - 1 : i);
+        int area = h[t] * (not stk.empty()? i - stk.top() - 1 : i);
         res = max(res, area);
     }
     return res;
@@ -450,7 +450,7 @@ struct TextEditor {
         text.pop();
     }
     string last() {
-        return (!text.empty()? text.top() : "");
+        return (not text.empty()? text.top() : "");
     }
 };
 int main() {
@@ -556,7 +556,7 @@ vector<int> waiter(vector<int> nums, int q) {
     vector<int> res, strA, strB;
     vector<int> primes = constract_seive();
     for (int i = 0; i < q; i++) {
-        while (!nums.empty()) {
+        while (not nums.empty()) {
             if (nums.back() % primes[i] == 0)
                 strB.push_back(nums.back());
             else
@@ -565,12 +565,12 @@ vector<int> waiter(vector<int> nums, int q) {
         }
         nums = strA;
         strA.clear();
-        while (!strB.empty()) {
+        while (not strB.empty()) {
             res.push_back(strB.back());
             strB.pop_back();
         }
     }
-    while (!nums.empty()) {
+    while (not nums.empty()) {
         res.push_back(nums.back());
         nums.pop_back();
     }
