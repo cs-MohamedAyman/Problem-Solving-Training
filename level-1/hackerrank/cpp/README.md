@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - CPP Programming Language `70 problems` `40 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - CPP `70 problems` `40 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Introduction***                 `20 problems`
 - ***Arrays and Strings***           `10 problems`
 - ***Functions and Libraries***      `10 problems`
 - ***Structs and Classes***          `30 problems`
 
-### HackerRank - Introduction `20 problems`
+## HackerRank - Introduction `20 problems`
 
 <table>
     <tbody>
@@ -56,7 +56,7 @@
     </tbody>
 </table>
 
-### HackerRank - Arrays and Strings `10 problems`
+## HackerRank - Arrays and Strings `10 problems`
 
 <table>
     <tbody>
@@ -79,7 +79,7 @@
     </tbody>
 </table>
 
-### HackerRank - Functions and Libraries `10 problems`
+## HackerRank - Functions and Libraries `10 problems`
 
 <table>
     <tbody>
@@ -114,7 +114,7 @@
     </tbody>
 </table>
 
-### HackerRank - Structs and Classes `30 problems`
+## HackerRank - Structs and Classes `30 problems`
 
 <table>
     <tbody>
