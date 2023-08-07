@@ -1,15 +1,15 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Python Programming Language `95 problems` `40 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Python `95 problems` `40 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Introduction***                `25 problems`
 - ***Collections***                 `25 problems`
 - ***Functions and Libraries***     `35 problems`
 - ***Classes***                     `10 problems`
 
-### HackerRank - Introduction `25 problems`
+## HackerRank - Introduction `25 problems`
 
 <table>
     <tbody>
@@ -72,7 +72,7 @@
     </tbody>
 </table>
 
-### HackerRank - Collections `25 problems`
+## HackerRank - Collections `25 problems`
 
 <table>
     <tbody>
@@ -135,7 +135,7 @@
     </tbody>
 </table>
 
-### HackerRank - Functions and Libraries `35 problems`
+## HackerRank - Functions and Libraries `35 problems`
 
 <table>
     <tbody>
@@ -218,7 +218,7 @@
     </tbody>
 </table>
 
-### HackerRank - Classes `10 problems`
+## HackerRank - Classes `10 problems`
 
 <table>
     <tbody>
