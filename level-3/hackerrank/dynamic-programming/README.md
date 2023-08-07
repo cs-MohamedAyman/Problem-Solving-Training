@@ -1,8 +1,8 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming `145 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming <br> `145 problems` `80 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Bit Manipulation***          `15 problems`
 - ***Dynamic Programming I***     `40 problems`
@@ -11,7 +11,7 @@
 - ***Constructive Algorithms***   `10 problems`
 - ***Advanced***                  `20 problems`
 
-### HackerRank - Bit Manipulation `15 problems`
+## HackerRank - Bit Manipulation `15 problems`
 
 <table>
     <tbody>
@@ -46,7 +46,7 @@
     </tbody>
 </table>
 
-### HackerRank - Dynamic Programming I `40 problems`
+## HackerRank - Dynamic Programming I `40 problems`
 
 <table>
     <tbody>
@@ -133,7 +133,7 @@
     </tbody>
 </table>
 
-### HackerRank - Dynamic Programming II `30 problems`
+## HackerRank - Dynamic Programming II `30 problems`
 
 <table>
     <tbody>
@@ -204,7 +204,7 @@
     </tbody>
 </table>
 
-### HackerRank - Dynamic Programming III `30 problems`
+## HackerRank - Dynamic Programming III `30 problems`
 
 <table>
     <tbody>
@@ -271,7 +271,7 @@
     </tbody>
 </table>
 
-### HackerRank - Constructive Algorithms `10 problems`
+## HackerRank - Constructive Algorithms `10 problems`
 
 <table>
     <tbody>
@@ -302,7 +302,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced `20 problems` [`Solutions`](/level-3/hackerrank/dynamic-programming/solutions/advanced.md)
+## HackerRank - Advanced `20 problems` [`Solutions`](/level-3/hackerrank/dynamic-programming/solutions/advanced.md)
 
 <table>
     <head>
