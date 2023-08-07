@@ -1,8 +1,8 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Graph Algorithms `130 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Graph Algorithms <br> `130 problems` `80 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Graph Theory I***   `30 problems`
 - ***Graph Theory II***  `30 problems`
@@ -11,7 +11,7 @@
 - ***Strings II***       `15 problems`
 - ***Advanced***         `15 problems`
 
-### HackerRank - Graph Theory I `30 problems`
+## HackerRank - Graph Theory I `30 problems`
 
 <table>
     <tbody>
@@ -82,7 +82,7 @@
     </tbody>
 </table>
 
-### HackerRank - Graph Theory II `30 problems`
+## HackerRank - Graph Theory II `30 problems`
 
 <table>
     <tbody>
@@ -153,7 +153,7 @@
     </tbody>
 </table>
 
-### HackerRank - Greedy `25 problems`
+## HackerRank - Greedy `25 problems`
 
 <table>
     <tbody>
@@ -208,7 +208,7 @@
     </tbody>
 </table>
 
-### HackerRank - Strings I `15 problems`
+## HackerRank - Strings I `15 problems`
 
 <table>
     <tbody>
@@ -243,7 +243,7 @@
     </tbody>
 </table>
 
-### HackerRank - Strings II `15 problems`
+## HackerRank - Strings II `15 problems`
 
 <table>
     <tbody>
@@ -278,7 +278,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced `15 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
+## HackerRank - Advanced `15 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
 
 <table>
     <head>
