@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Python `95 problems` `40 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Python Programming Language <br> `95 problems` `40 hrs`
 
 ## Table of Content
 
