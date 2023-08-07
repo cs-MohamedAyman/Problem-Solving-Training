@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - CPP `70 problems` `40 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - CPP Programming Language <br> `70 problems` `40 hrs`
 
 ## Table of Content
 
