@@ -1,8 +1,8 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 2 `125 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 2 <br> `125 problems` `80 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Fundamentals***                `10 problems`
 - ***Number Theory***               `35 problems`
@@ -10,7 +10,7 @@
 - ***Algebra***                     `25 problems`
 - ***Probability***                 `25 problems`
 
-### HackerRank - Fundamentals `10 problems`
+## HackerRank - Fundamentals `10 problems`
 
 <table>
     <tbody>
@@ -45,7 +45,7 @@
     </tbody>
 </table>
 
-### HackerRank - Number Theory `35 problems`
+## HackerRank - Number Theory `35 problems`
 
 <table>
     <tbody>
@@ -124,7 +124,7 @@
     </tbody>
 </table>
 
-### HackerRank - Combinatorics `25 problems`
+## HackerRank - Combinatorics `25 problems`
 
 <table>
     <tbody>
@@ -187,7 +187,7 @@
     </tbody>
 </table>
 
-### HackerRank - Algebra `25 problems`
+## HackerRank - Algebra `25 problems`
 
 <table>
     <tbody>
@@ -246,7 +246,7 @@
     </tbody>
 </table>
 
-### HackerRank - Probability `25 problems`
+## HackerRank - Probability `25 problems`
 
 <table>
     <tbody>
