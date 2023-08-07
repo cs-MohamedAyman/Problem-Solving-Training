@@ -1,8 +1,8 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Data Structures `115 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Data Structures `115 problems` `80 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Array and Linked List***                `20 problems`
 - ***Stack and Queue***                      `10 problems`
@@ -12,7 +12,7 @@
 - ***Bit Manipulation***                     `15 problems`
 - ***Advanced***                             `20 problems`
 
-### HackerRank - Array and Linked List `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md)
+## HackerRank - Array and Linked List `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md)
 
 <table>
     <head>
@@ -153,7 +153,7 @@
     </tbody>
 </table>
 
-### HackerRank - Stack and Queue `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/stacks-queues.md)
+## HackerRank - Stack and Queue `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/stacks-queues.md)
 
 <table>
     <head>
@@ -240,7 +240,7 @@
     </tbody>
 </table>
 
-### HackerRank - Binary Tree and Balanced Binary Tree `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md)
+## HackerRank - Binary Tree and Balanced Binary Tree `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md)
 
 <table>
     <head>
@@ -369,7 +369,7 @@
     </tbody>
 </table>
 
-### HackerRank - Heap & Disjoint Set `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md)
+## HackerRank - Heap & Disjoint Set `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md)
 
 <table>
     <head>
@@ -444,7 +444,7 @@
     </tbody>
 </table>
 
-### HackerRank - Strings `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/strings.md)
+## HackerRank - Strings `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/strings.md)
 
 <table>
     <head>
@@ -585,7 +585,7 @@
     </tbody>
 </table>
 
-### HackerRank - Bit Manipulation `15 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/bit-manipulation.md)
+## HackerRank - Bit Manipulation `15 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/bit-manipulation.md)
 
 <table>
     <head>
@@ -684,7 +684,7 @@
     </tbody>
 </table>
 
-### HackerRank - Advanced `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/advanced.md)
+## HackerRank - Advanced `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/advanced.md)
 
 <table>
     <head>
