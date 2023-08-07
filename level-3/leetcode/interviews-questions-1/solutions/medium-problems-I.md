@@ -1777,11 +1777,11 @@ class Solution:
             for j in range(i + 1, len(nums)):
                 if nums[j] <= nums[i]:
                     continue
-                length, count = dp[j]
+                length, cnt = dp[j]
                 if length + 1 > max_len:
-                    max_len, max_cnt = length + 1, count
+                    max_len, max_cnt = length + 1, cnt
                 elif length + 1 == max_len:
-                    max_cnt += count
+                    max_cnt += cnt
             if max_len > len_lis:
                 len_lis, res = max_len, max_cnt
             elif max_len == len_lis:
