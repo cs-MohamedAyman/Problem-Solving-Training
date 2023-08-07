@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Algorithms Basics `120 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Algorithms Basics <br> `120 problems` `80 hrs`
 
 ## Table of Content
 
