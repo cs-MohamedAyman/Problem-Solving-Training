@@ -1,8 +1,8 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-## [HackerRank](https://hackerrank.com/) OJ - Algorithms Basics `120 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Algorithms Basics `120 problems` `80 hrs`
 
-### Table of Content
+## Table of Content
 
 - ***Warmup & Recursion*** `20 problems`
 - ***Sorting***            `15 problems`
@@ -12,7 +12,7 @@
 - ***Implementation III*** `15 problems`
 - ***Implementation IV***  `15 problems`
 
-### HackerEarth - Warmup & Recursion `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md)
+## HackerEarth - Warmup & Recursion `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md)
 
 <table>
     <head>
@@ -147,7 +147,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Sorting `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/sorting.md)
+## HackerEarth - Sorting `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/sorting.md)
 
 <table>
     <head>
@@ -252,7 +252,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Search `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/search.md)
+## HackerEarth - Search `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/search.md)
 
 <table>
     <head>
@@ -385,7 +385,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Implementation I `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md)
+## HackerEarth - Implementation I `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md)
 
 <table>
     <head>
@@ -520,7 +520,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Implementation II `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md)
+## HackerEarth - Implementation II `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md)
 
 <table>
     <head>
@@ -637,7 +637,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Implementation III `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md)
+## HackerEarth - Implementation III `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md)
 
 <table>
     <head>
@@ -742,7 +742,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Implementation IV `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md)
+## HackerEarth - Implementation IV `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md)
 
 <table>
     <head>
