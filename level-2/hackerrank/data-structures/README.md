@@ -1,11 +1,11 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Data Structures <br> `115 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Data Structures <br> `120 problems` `80 hrs`
 
 ## Table of Content
 
 - ***Array and Linked List***                `20 problems`
-- ***Stack and Queue***                      `10 problems`
+- ***Stack and Queue***                      `15 problems`
 - ***Binary Tree and Balanced Binary Tree*** `20 problems`
 - ***Heap & Disjoint Set***                  `10 problems`
 - ***Strings***                              `20 problems`
@@ -153,7 +153,7 @@
     </tbody>
 </table>
 
-## HackerRank - Stack and Queue `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/stacks-queues.md)
+## HackerRank - Stack and Queue `15 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/stacks-queues.md)
 
 <table>
     <head>
