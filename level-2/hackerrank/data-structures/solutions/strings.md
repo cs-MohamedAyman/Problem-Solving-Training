@@ -518,15 +518,20 @@ string separateNumbers(string s) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Alternating Characters
+Problem Link: https://www.hackerrank.com/challenges/alternating-characters/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def alternatingCharacters(s):
+    res = 0
+    for i in range(1, len(s)):
+        if s[i] == s[i-1]:
+            res += 1
+    return res
 ```
 
 </details>
@@ -535,20 +540,33 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int alternatingCharacters(string s) {
+    int res = 0;
+    for (int i=1; i<size(s); i++)
+        if (s[i] == s[i-1])
+            res ++;
+    return res;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Beautiful Binary String
+Problem Link: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def beautifulBinaryString(b):
+    res = 0
+    s = list(b)
+    for i in range(2, len(s)):
+        if s[i] == '0' and s[i-1] == '1' and s[i-2] == '0':
+            s[i] = '1'
+            res += 1
+    return res
 ```
 
 </details>
@@ -557,20 +575,35 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int beautifulBinaryString(string b) {
+    int res = 0;
+    vector<char> s(b.begin(), b.end());
+    for (int i=2; i<size(s); i++) {
+        if (s[i] == '0' and s[i-1] == '1' and s[i-2] == '0') {
+            s[i] = '1';
+            res ++;
+        }
+    }
+    return res;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## The Love-Letter Mystery
+Problem Link: https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def theLoveLetterMystery(s):
+    res = 0
+    for i in range(len(s)//2):
+        if s[i] != s[-i-1]:
+            res += abs(ord(s[i]) - ord(s[-i-1]))
+    return res
 ```
 
 </details>
@@ -579,20 +612,34 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int theLoveLetterMystery(string s) {
+    int res = 0;
+    for (int i=0; i<size(s)/2; i++)
+        if (s[i] != s[size(s)-i-1])
+            res += abs(s[i] - s[size(s)-i-1]);
+    return res;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Palindrome Index
+Problem Link: https://www.hackerrank.com/challenges/palindrome-index/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def palindromeIndex(s):
+    for i in range(len(s)//2):
+        if s[i] != s[-i-1]:
+            t = s[:i]+s[i+1:]
+            if t == t[::-1]:
+                return i
+            else:
+                return len(s)-i-1
+    return -1
 ```
 
 </details>
@@ -601,20 +648,45 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int palindromeIndex(string s) {
+    for (int i=0; i<size(s)/2; i++) {
+        if (s[i] != s[size(s)-i-1]) {
+            string t = s.substr(0, i) + s.substr(i+1);
+            string w = t;
+            reverse(w.begin(), w.end());
+            if (t == w)
+                return i;
+            else
+                return size(s)-i-1;
+        }
+    }
+    return -1;
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Anagram
+Problem Link: https://www.hackerrank.com/challenges/anagram/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def anagram(s):
+    if len(s) % 2 == 1:
+        return -1
+    arr = list(s)
+    a = arr[:len(arr)//2]
+    b = arr[len(arr)//2:]
+    res = 0
+    for i in range(len(a)):
+        if a[i] in b:
+            b.remove(a[i])
+        else:
+            res += 1
+    return res
 ```
 
 </details>
@@ -623,7 +695,21 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int anagram(string s) {
+    if (size(s) % 2 == 1)
+        return -1;
+    vector<char> arr(s.begin(), s.end());
+    vector<char> a(arr.begin(), arr.begin()+size(arr)/2);
+    vector<char> b(arr.begin()+size(arr)/2, arr.end());
+    int res = 0;
+    for (int i=0; i<size(a); i++) {
+        if (find(b.begin(), b.end(), a[i]) != b.end())
+            b.erase(find(b.begin(), b.end(), a[i]));
+        else
+            res ++;
+    }
+    return res;
+}
 ```
 
 </details>
