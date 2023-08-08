@@ -692,11 +692,10 @@ class Solution {
     }
 public:
     vector<vector<int>> permuteUnique(vector<int> &nums) {
-        set<vector<int>> res;
-        for (auto p : generate_permutation(nums))
-            res.insert(p);
-        vector<vector<int>> ans(res.begin(), res.end());
-        return ans;
+        vector<vector<int>> perm = generate_permutation(nums);
+        set<vector<int>> res_set(perm.begin(), perm.end());
+        vector<vector<int>> res(res_set.begin(), res_set.end());
+        return res;
     }
 };
 ```

@@ -1341,9 +1341,10 @@ public:
             int s = it[0], e = it[1];
             if (s >= prev_end)
                 prev_end = e;
-            else
+            else {
                 res ++;
                 prev_end = min(e, prev_end);
+            }
         }
         return res;
     }

@@ -266,9 +266,9 @@ def quickSort(arr):
 
 ```cpp
 vector<int> quickSort(vector<int> arr) {
-    auto comp_lt = [](const int &x, const int &y){ return x < y; };
-    auto comp_gt = [](const int &x, const int &y){ return x > y; };
-    auto comp_eq = [](const int &x, const int &y){ return x == y; };
+    auto comp_lt = [](const int &x, const int &y) { return x < y; };
+    auto comp_gt = [](const int &x, const int &y) { return x > y; };
+    auto comp_eq = [](const int &x, const int &y) { return x == y; };
 
     auto select_fn = [](vector<int> arr, function<bool(int, int)> fn, vector<int> &res) {
         for (int &i : arr)

@@ -714,15 +714,21 @@ int anagram(string s) {
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Making Anagrams
+Problem Link: https://www.hackerrank.com/challenges/making-anagrams/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def makingAnagrams(s1, s2):
+    cnt_a = {i : s1.count(i) for i in set(s1)}
+    cnt_b = {i : s2.count(i) for i in set(s2)}
+    diff_a = {i : max(0, cnt_a[i] - cnt_b.get(i, 0)) for i in cnt_a}
+    diff_b = {i : max(0, cnt_b[i] - cnt_a.get(i, 0)) for i in cnt_b}
+    res = sum(diff_a.values()) + sum(diff_b.values())
+    return res
 ```
 
 </details>
@@ -731,20 +737,45 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int makingAnagrams(string s1, string s2) {
+    auto fill_cnt = [](string &s) {
+        map<char, int> cnt;
+        for (auto &i : set<char>(s.begin(), s.end()))
+            cnt[i] = count(s.begin(), s.end(), i);
+        return cnt;
+    };
+    map<char, int> cnt_a = fill_cnt(s1);
+    map<char, int> cnt_b = fill_cnt(s2);
+    auto calc_diff = [](map<char, int> &cnt1, map<char, int> &cnt2) {
+        map<char, int> diff;
+        for (auto &[i, j] : cnt1)
+            diff[i] = max(0, cnt1[i] - cnt2[i]);
+        return diff;
+    };
+    auto calc_sum = [](map<char, int> diff) {
+        int res = 0;
+        for (auto &[i, j] : diff)
+            res += j;
+        return res;
+    };
+    return calc_sum(calc_diff(cnt_a, cnt_b)) + calc_sum(calc_diff(cnt_b, cnt_a));
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Game of Thrones - I
+Problem Link: https://www.hackerrank.com/challenges/game-of-thrones/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def gameOfThrones(s):
+    cnt = {i : s.count(i) for i in set(s)}
+    sum_odds = lambda cnt : sum(cnt[i]%2 == 1 for i in cnt)
+    return 'YES' if sum_odds(cnt) < 2 else 'NO'
 ```
 
 </details>
@@ -753,20 +784,35 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+string gameOfThrones(string s) {
+    auto fill_cnt = [](string &s) {
+        map<char, int> cnt;
+        for (auto &i : set<char>(s.begin(), s.end()))
+            cnt[i] = count(s.begin(), s.end(), i);
+        return cnt;
+    };
+    auto sum_odds = [](map<char, int> cnt) {
+        int res = 0;
+        for (auto &[i, j] : cnt)
+            res += (j%2 == 1);
+        return res;
+    };
+    return sum_odds(fill_cnt(s)) < 2? "YES" : "NO";
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Two Strings
+Problem Link: https://www.hackerrank.com/challenges/two-strings/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def twoStrings(s1, s2):
+    return 'YES' if set(s1) & set(s2) else 'NO'
 ```
 
 </details>
@@ -775,20 +821,28 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+string twoStrings(string s1, string s2) {
+    set<int> res;
+    sort(s1.begin(), s1.end());
+    sort(s2.begin(), s2.end());
+    set_intersection(s1.begin(), s1.end(), s2.begin(), s2.end(),
+                     inserter(res, res.begin()));
+    return size(res) > 0? "YES" : "NO";
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## String Construction
+Problem Link: https://www.hackerrank.com/challenges/string-construction/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def stringConstruction(s):
+    return len(set(s))
 ```
 
 </details>
@@ -797,20 +851,29 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+int stringConstruction(string s) {
+    return size(set<char>(s.begin(), s.end()));
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Funny String
+Problem Link: https://www.hackerrank.com/challenges/funny-string/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def funnyString(s):
+    res = s[::-1]
+    for i in range(1, len(s)):
+        d1 = abs(ord(s[i]) - ord(s[i-1]))
+        d2 = abs(ord(res[i]) - ord(res[i-1]))
+        if d1 != d2:
+            return 'Not Funny'
+    return 'Funny'
 ```
 
 </details>
@@ -819,20 +882,34 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+string funnyString(string s) {
+    string res = s;
+    reverse(res.begin(), res.end());
+    for (int i=1; i<size(s); i++) {
+        int d1 = abs(s[i] - s[i-1]);
+        int d2 = abs(res[i] - res[i-1]);
+        if (d1 != d2)
+            return "Not Funny";
+    }
+    return "Funny";
+}
 ```
 
 </details>
 
-## ProblemName
-Problem Link: ProblemLink
+## Gemstones
+Problem Link: https://www.hackerrank.com/challenges/gem-stones/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+def gemstones(arr):
+    res = set(arr[0])
+    for i in arr:
+        res = res.intersection(set(i))
+    return len(res)
 ```
 
 </details>
@@ -841,205 +918,19 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<details>
-    <summary><h5>Python Solution</h5></summary>
-
-```python
-
-```
-
-</details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
-<details>
-    <summary><h5>CPP Solution</h5></summary>
-
-```cpp
-
+int gemstones(vector<string> arr) {
+    for (auto &i : arr)
+        sort(i.begin(), i.end());
+    vector<char> v;
+    set<char> res(arr[0].begin(), arr[0].end());
+    for (auto &i : arr) {
+        set_intersection(res.begin(), res.end(), i.begin(), i.end(),
+                         inserter(v, v.begin()));
+        res = set<char>(v.begin(), v.end());
+        v.clear();
+    }
+    return size(res);
+}
 ```
 
 </details>
