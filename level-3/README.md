@@ -378,16 +378,16 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Representation   </td><td align="center">35 problems</td>
-            <td>Depth First Search     </td><td align="center">40 problems</td></tr>
-        <tr><td>Breadth First Search   </td><td align="center">35 problems</td>
-            <td>Shortest Path I        </td><td align="center">25 problems</td></tr>
-        <tr><td>Depth First Search I   </td><td align="center">30 problems</td>
-            <td>Shortest Path II       </td><td align="center">20 problems</td></tr>
-        <tr><td>Depth First Search II  </td><td align="center">30 problems</td>
-            <td>Spanning Tree          </td><td align="center">35 problems</td></tr>
-        <tr><td>Depth First Search III </td><td align="center">20 problems</td>
-            <td>Min Cost and Max Flow  </td><td align="center">30 problems</td></tr>
+        <tr><td>Graph and Topological Sort</td><td align="center">35 problems</td>
+            <td>Depth First Search        </td><td align="center">40 problems</td></tr>
+        <tr><td>Breadth First Search      </td><td align="center">35 problems</td>
+            <td>Shortest Path I           </td><td align="center">25 problems</td></tr>
+        <tr><td>Depth First Search I      </td><td align="center">30 problems</td>
+            <td>Shortest Path II          </td><td align="center">20 problems</td></tr>
+        <tr><td>Depth First Search II     </td><td align="center">30 problems</td>
+            <td>Spanning Tree             </td><td align="center">35 problems</td></tr>
+        <tr><td>Depth First Search III    </td><td align="center">20 problems</td>
+            <td>Min Cost and Max Flow     </td><td align="center">30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
