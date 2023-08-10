@@ -145,10 +145,6 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/powercode/problem">powercode</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/how-many-trees/problem">how many trees</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/byteland-itinerary/problem">byteland itinerary</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
     </tbody>
 </table>
 
