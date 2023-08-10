@@ -4,13 +4,13 @@
 
 ## Table of Content
 
-- ***Array and Linked List***                `20 problems`
-- ***Stack and Queue***                      `15 problems`
-- ***Binary Tree and Balanced Binary Tree*** `20 problems`
-- ***Heap & Disjoint Set***                  `10 problems`
-- ***Strings***                              `20 problems`
-- ***Bit Manipulation***                     `15 problems`
-- ***Advanced***                             `20 problems`
+- ***Array and Linked List***                  `20 problems`
+- ***Stack and Queue***                        `15 problems`
+- ***Binary Tree and Balanced Binary Tree***   `20 problems`
+- ***Heap and Disjoint Set***                  `10 problems`
+- ***Strings***                                `20 problems`
+- ***Bit Manipulation***                       `15 problems`
+- ***Advanced***                               `20 problems`
 
 ## HackerRank - Array and Linked List `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md)
 
@@ -369,7 +369,7 @@
     </tbody>
 </table>
 
-## HackerRank - Heap & Disjoint Set `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md)
+## HackerRank - Heap and Disjoint Set `10 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md)
 
 <table>
     <head>

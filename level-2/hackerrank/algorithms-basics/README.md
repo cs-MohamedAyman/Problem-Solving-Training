@@ -4,15 +4,15 @@
 
 ## Table of Content
 
-- ***Warmup & Recursion*** `20 problems`
-- ***Sorting***            `15 problems`
-- ***Search***             `20 problems`
-- ***Implementation I***   `20 problems`
-- ***Implementation II***  `15 problems`
-- ***Implementation III*** `15 problems`
-- ***Implementation IV***  `15 problems`
+- ***Warmup and Recursion*** `20 problems`
+- ***Sorting***              `15 problems`
+- ***Search***               `20 problems`
+- ***Implementation I***     `20 problems`
+- ***Implementation II***    `15 problems`
+- ***Implementation III***   `15 problems`
+- ***Implementation IV***    `15 problems`
 
-## HackerEarth - Warmup & Recursion `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md)
+## HackerEarth - Warmup and Recursion `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md)
 
 <table>
     <head>

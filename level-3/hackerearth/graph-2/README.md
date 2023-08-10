@@ -4,11 +4,11 @@
 
 ### Table of Content
 
-- ***Depth First Search***    `40 problems`
-- ***Shortest Path I***       `25 problems`
-- ***Shortest Path II***      `20 problems`
-- ***Spanning Tree***         `35 problems`
-- ***Min Cost & Max Flow***   `30 problems`
+- ***Depth First Search***      `40 problems`
+- ***Shortest Path I***         `25 problems`
+- ***Shortest Path II***        `20 problems`
+- ***Spanning Tree***           `35 problems`
+- ***Min Cost and Max Flow***   `30 problems`
 
 ### HackerEarth - Depth First Search `40 problems`
 
@@ -286,7 +286,7 @@
     </tbody>
 </table>
 
-### HackerRank - Min Cost & Max Flow `30 problems`
+### HackerRank - Min Cost and Max Flow `30 problems`
 
 <table>
     <tbody>

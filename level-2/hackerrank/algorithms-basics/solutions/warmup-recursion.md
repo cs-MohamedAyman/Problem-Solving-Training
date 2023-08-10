@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Algorithms Basics <br> Warmup & Recursion `20 problems`
+# HackerRank OJ - Algorithms Basics <br> Warmup and Recursion `20 problems`
 
 ## Simple Array Sum
 Problem Link: https://hackerrank.com/challenges/simple-array-sum/problem

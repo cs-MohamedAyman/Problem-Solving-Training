@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures <br> Heap & Disjoint Set `10 problems`
+# HackerRank OJ - Data Structures <br> Heap and Disjoint Set `10 problems`
 
 ## QHEAP1
 Problem Link: https://hackerrank.com/challenges/qheap1/problem

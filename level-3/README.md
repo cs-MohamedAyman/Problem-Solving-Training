@@ -360,14 +360,14 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Number Theory           </td><td align="center">30 problems</td>
-            <td>Basic Number Theory           </td><td align="center">30 problems</td></tr>
-        <tr><td>Primality Tests               </td><td align="center">30 problems</td>
-            <td>Basics of Combinatorics       </td><td align="center">30 problems</td></tr>
-        <tr><td>Totient Function              </td><td align="center">10 problems</td>
-            <td>Inclusione-Exclusion          </td><td align="center">25 problems</td></tr>
-        <tr><td>Basics of String Manipulation </td><td align="center">40 problems</td>
-            <td>String Searching & Z Algorithm</td><td align="center">35 problems</td></tr>
+        <tr><td>Basic Number Theory             </td><td align="center">30 problems</td>
+            <td>Basic Number Theory             </td><td align="center">30 problems</td></tr>
+        <tr><td>Primality Tests                 </td><td align="center">30 problems</td>
+            <td>Basics of Combinatorics         </td><td align="center">30 problems</td></tr>
+        <tr><td>Totient Function                </td><td align="center">10 problems</td>
+            <td>Inclusione-Exclusion            </td><td align="center">25 problems</td></tr>
+        <tr><td>Basics of String Manipulation   </td><td align="center">40 problems</td>
+            <td>String Searching and Z Algorithm</td><td align="center">35 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -387,7 +387,7 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
         <tr><td>Depth First Search II  </td><td align="center">30 problems</td>
             <td>Spanning Tree          </td><td align="center">35 problems</td></tr>
         <tr><td>Depth First Search III </td><td align="center">20 problems</td>
-            <td>Min Cost & Max Flow    </td><td align="center">30 problems</td></tr>
+            <td>Min Cost and Max Flow  </td><td align="center">30 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -418,14 +418,14 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
         </tr>
     </thead>
     <tbody>
-        <tr><td>Disjoint Sets             </td><td align="center">30 problems</td>
-            <td>Segment Tree              </td><td align="center">30 problems</td></tr>
-        <tr><td>Trie                      </td><td align="center">20 problems</td>
-            <td>Binary Indexed Tree I     </td><td align="center">30 problems</td></tr>
-        <tr><td>Segment Tree I            </td><td align="center">35 problems</td>
-            <td>Binary Indexed Tree II    </td><td align="center">30 problems</td></tr>
-        <tr><td>Segment Tree II           </td><td align="center">35 problems</td>
-            <td>Suffix Tree & Suffix Array</td><td align="center">20 problems</td></tr>
+        <tr><td>Disjoint Sets               </td><td align="center">30 problems</td>
+            <td>Segment Tree                </td><td align="center">30 problems</td></tr>
+        <tr><td>Trie                        </td><td align="center">20 problems</td>
+            <td>Binary Indexed Tree I       </td><td align="center">30 problems</td></tr>
+        <tr><td>Segment Tree I              </td><td align="center">35 problems</td>
+            <td>Binary Indexed Tree II      </td><td align="center">30 problems</td></tr>
+        <tr><td>Segment Tree II             </td><td align="center">35 problems</td>
+            <td>Suffix Tree and Suffix Array</td><td align="center">20 problems</td></tr>
     </tbody>
 </table>
 

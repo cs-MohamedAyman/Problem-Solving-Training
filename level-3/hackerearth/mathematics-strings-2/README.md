@@ -1,13 +1,13 @@
 <img align="right" width="80" src="/logos/hackerearth.png"></img>
 
-## [HackerEarth](https://hackerearth.com/) OJ - Mathematical & String Algorithms 2 `120 problems` `80 hrs`
+## [HackerEarth](https://hackerearth.com/) OJ - Mathematical and String Algorithms 2 `120 problems` `80 hrs`
 
 ### Table of Content
 
 - ***Basic Number Theory***            `30 problems`
 - ***Basics of Combinatorics***        `30 problems`
 - ***Inclusione-Exclusion***           `25 problems`
-- ***String Searching & Z Algorithm*** `35 problems`
+- ***String Searching and Z Algorithm*** `35 problems`
 
 ### HackerEarth - Basic Number Theory `30 problems`
 
@@ -198,7 +198,7 @@
     </tbody>
 </table>
 
-### HackerEarth - String Searching & Z Algorithm `35 problems`
+### HackerEarth - String Searching and Z Algorithm `35 problems`
 
 <table>
     <tbody>

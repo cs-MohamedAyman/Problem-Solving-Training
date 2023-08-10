@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures <br> Binary Tree & Balanced Binary Tree `20 problems`
+# HackerRank OJ - Data Structures <br> Binary Tree and Balanced Binary Tree `20 problems`
 
 ## Tree: Preorder Traversal
 Problem Link: https://hackerrank.com/challenges/tree-preorder-traversal/problem

@@ -4,13 +4,13 @@
 
 ### Table of Content
 
-- ***Graph Representation & Topological Sort***        `35 problems`
-- ***Breadth First Search***                           `35 problems`
-- ***Depth First Search I***                           `30 problems`
-- ***Depth First Search II***                          `30 problems`
-- ***Depth First Search III***                         `20 problems`
+- ***Graph and Topological Sort***      `35 problems`
+- ***Breadth First Search***            `35 problems`
+- ***Depth First Search I***            `30 problems`
+- ***Depth First Search II***           `30 problems`
+- ***Depth First Search III***          `20 problems`
 
-### HackerEarth - Graph Representation & Topological Sort `35 problems`
+### HackerEarth - Graph and Topological Sort `35 problems`
 
 <table>
     <tbody>

@@ -1,6 +1,6 @@
 <a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Data Structures <br> Stacks & Queues `10 problems`
+# HackerRank OJ - Data Structures <br> Stacks and Queues `10 problems`
 
 ## Equal Stacks
 Problem Link: https://hackerrank.com/challenges/equal-stacks/problem

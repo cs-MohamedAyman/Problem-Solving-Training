@@ -4,10 +4,10 @@
 
 ### Table of Content
 
-- ***Segment Tree***               `30 problems`
-- ***Binary Indexed Tree I***      `30 problems`
-- ***Binary Indexed Tree II***     `30 problems`
-- ***Suffix Tree & Suffix Array*** `20 problems`
+- ***Segment Tree***                 `30 problems`
+- ***Binary Indexed Tree I***        `30 problems`
+- ***Binary Indexed Tree II***       `30 problems`
+- ***Suffix Tree and Suffix Array*** `20 problems`
 
 ### HackerEarth - Segment Tree `30 problems`
 
@@ -218,7 +218,7 @@
     </tbody>
 </table>
 
-### HackerRank - Suffix Tree & Suffix Array `20 problems`
+### HackerRank - Suffix Tree and Suffix Array `20 problems`
 
 <table>
     <tbody>

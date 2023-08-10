@@ -4,13 +4,13 @@
 
 ### Table of Content
 
-- ***Bubble & Selection & Insertion & Merge*** `40 problems`
-- ***Quick & Count & Heap***                   `20 problems`
+- ***Sorting Algorithms I***                   `40 problems`
+- ***Sorting Algorithms II***                  `20 problems`
 - ***Greedy Algorithms I***                    `25 problems`
 - ***Greedy Algorithms II***                   `25 problems`
 - ***Greedy Algorithms III***                  `25 problems`
 
-### HackerEarth - Bubble & Selection & Insertion & Merge `40 problems`
+### HackerEarth - Sorting Algorithms I `40 problems`
 
 <table>
     <tbody>
@@ -97,7 +97,7 @@
     </tbody>
 </table>
 
-### HackerEarth - Quick & Count & Heap `20 problems`
+### HackerEarth - Sorting Algorithms II `20 problems`
 
 <table>
     <tbody>
