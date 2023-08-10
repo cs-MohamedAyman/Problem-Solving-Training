@@ -1,15 +1,16 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Python Programming Language <br> `95 problems` `40 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Python Programming Language <br> `100 problems` `40 hrs`
 
 ## Table of Content
 
 - ***Introduction***                `25 problems`
 - ***Collections***                 `25 problems`
-- ***Functions and Libraries***     `35 problems`
+- ***Functions and Libraries I***   `20 problems`
+- ***Functions and Libraries II***  `20 problems`
 - ***Classes***                     `10 problems`
 
-## HackerRank - Introduction `25 problems`
+## HackerRank - Introduction `20 problems`
 
 <table>
     <tbody>
@@ -65,14 +66,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/capitalize/problem">capitalize</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-minion-game/problem">the minion game</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/merge-the-tools/problem">merge the tools</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Collections `25 problems`
+## HackerRank - Collections `20 problems`
 
 <table>
     <tbody>
@@ -128,14 +125,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/itertools-combinations-with-replacement/problem">itertools combinations with replacement</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/compress-the-string/problem">compress the string</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/iterables-and-iterators/problem">iterables and iterators</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximize-it/problem">maximize it</a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries `35 problems`
+## HackerRank - Functions and Libraries I `20 problems`
 
 <table>
     <tbody>
@@ -179,44 +172,56 @@
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/re-start-re-end/problem">re start re end</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validate-a-roman-number/problem">validate a roman number</a></th>
         </tr>
+    </tbody>
+</table>
+
+## HackerRank - Functions and Libraries II `20 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-the-phone-number/problem">validating the phone number</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-named-email-addresses/problem">validating named email addresses</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-the-phone-number/problem">validating the phone number</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-named-email-addresses/problem">validating named email addresses</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hex-color-code/problem">hex color code</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/html-parser-part-1/problem">html parser part 1</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hex-color-code/problem">hex color code</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/html-parser-part-1/problem">html parser part 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/html-parser-part-2/problem">html parser part 2</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem">detect html tags attributes and attribute values</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/html-parser-part-2/problem">html parser part 2</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem">detect html tags attributes and attribute values</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xml-1-find-the-score/problem">xml 1 find the score</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-uid/problem">validating uid</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xml-1-find-the-score/problem">xml 1 find the score</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-uid/problem">validating uid</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xml2-find-the-maximum-depth/problem">xml2 find the maximum depth</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/python-time-delta/problem">python time delta</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xml2-find-the-maximum-depth/problem">xml2 find the maximum depth</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/python-time-delta/problem">python time delta</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/find-angle/problem">find angle</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/triangle-quest-2/problem">triangle quest 2</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/find-angle/problem">find angle</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/triangle-quest-2/problem">triangle quest 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/python-quest-1/problem">python quest 1</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/re-sub-regex-substitution/problem">re sub regex substitution</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/python-quest-1/problem">python quest 1</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/re-sub-regex-substitution/problem">re sub regex substitution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-credit-card-number/problem">validating credit card number</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-postalcode/problem">validating postalcode</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-credit-card-number/problem">validating credit card number</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-postalcode/problem">validating postalcode</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix-script/problem">matrix script</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix-script/problem">matrix script</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/merge-the-tools/problem">merge the tools</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/iterables-and-iterators/problem">iterables and iterators</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/maximize-it/problem">maximize it</a></th>
         </tr>
     </tbody>
 </table>
+
 
 ## HackerRank - Classes `10 problems`
 
