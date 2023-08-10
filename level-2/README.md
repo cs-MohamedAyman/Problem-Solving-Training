@@ -330,16 +330,16 @@ each sheet of them contains linear and non-linear data structures problems, plus
         </tr>
     </thead>
     <tbody>
-        <tr><td>Linear Search                      </td><td align="center">15 problems</td>
-            <td>Bubble, Selection, Insertion, Merge</td><td align="center">40 problems</td></tr>
-        <tr><td>Binary Search I                    </td><td align="center">35 problems</td>
-            <td>Quick, Count, Heap                 </td><td align="center">20 problems</td></tr>
-        <tr><td>Binary Search II                   </td><td align="center">35 problems</td>
-            <td>Greedy Algorithms I                </td><td align="center">25 problems</td></tr>
-        <tr><td>Binary Search III                  </td><td align="center">30 problems</td>
-            <td>Greedy Algorithms II               </td><td align="center">25 problems</td></tr>
-        <tr><td>Ternary Search                     </td><td align="center"> 5 problems</td>
-            <td>Greedy Algorithms III              </td><td align="center">25 problems</td></tr>
+        <tr><td>Linear Search         </td><td align="center">15 problems</td>
+            <td>Sorting Algorithms I  </td><td align="center">40 problems</td></tr>
+        <tr><td>Binary Search I       </td><td align="center">35 problems</td>
+            <td>Sorting Algorithms II </td><td align="center">20 problems</td></tr>
+        <tr><td>Binary Search II      </td><td align="center">35 problems</td>
+            <td>Greedy Algorithms I   </td><td align="center">25 problems</td></tr>
+        <tr><td>Binary Search III     </td><td align="center">30 problems</td>
+            <td>Greedy Algorithms II  </td><td align="center">25 problems</td></tr>
+        <tr><td>Ternary Search        </td><td align="center"> 5 problems</td>
+            <td>Greedy Algorithms III </td><td align="center">25 problems</td></tr>
     </tbody>
 </table>
 
