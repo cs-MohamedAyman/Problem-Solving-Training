@@ -599,85 +599,85 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/lonely-integer/problem">lonely integer</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/lonely-integer/problem">Lonely Integer</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/maximizing-xor/problem">maximizing xor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/maximizing-xor/problem">Maximizing XOR</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sum-vs-xor/problem">sum vs xor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sum-vs-xor/problem">Sum vs XOR</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/flipping-bits/problem">flipping bits</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/flipping-bits/problem">Flipping bits</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/counter-game/problem">counter game</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/counter-game/problem">Counter game</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/xor-se/problem">xor se</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/xor-se/problem">Xor-sequence</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-great-xor/problem">the great xor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/the-great-xor/problem">The Great XOR</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/yet-another-minimax-problem/problem">yet another minimax problem</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/yet-another-minimax-problem/problem">Yet Another Minimax Problem</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sansa-and-xor/problem">sansa and xor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sansa-and-xor/problem">Sansa and XOR</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/and-product/problem">and product</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/and-product/problem">AND Product</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/winning-lottery-ticket/problem">winning lottery ticket</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/winning-lottery-ticket/problem">Winning Lottery Ticket</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/cipher/problem">cipher</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/cipher/problem">Cipher</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/whats-next/problem">whats next</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/whats-next/problem">What's Next?</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/aorb/problem">aorb</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/aorb/problem">A or B</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md">Solution</a></th>
         </tr>
