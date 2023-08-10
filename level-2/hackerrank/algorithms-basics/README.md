@@ -640,6 +640,14 @@
 ## HackerRank - Math Fundamentals I `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md)
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center" width="480px">Tags</th>
+<th align="center" width="120px">Solution</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center">01</th>
@@ -743,6 +751,14 @@
 ## HackerRank - Math Fundamentals II `15 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md)
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center" width="480px">Tags</th>
+<th align="center" width="120px">Solution</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center">01</th>
