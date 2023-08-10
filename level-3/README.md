@@ -55,16 +55,16 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
         </tr>
     </thead>
     <tbody>
-        <tr><td>Fundamentals </td><td align="center">10 problems</td>
-            <td>Fundamentals </td><td align="center">10 problems</td></tr>
-        <tr><td>Number Theory</td><td align="center">35 problems</td>
-            <td>Number Theory</td><td align="center">35 problems</td></tr>
-        <tr><td>Combinatorics</td><td align="center">25 problems</td>
-            <td>Combinatorics</td><td align="center">25 problems</td></tr>
-        <tr><td>Algebra      </td><td align="center">25 problems</td>
-            <td>Algebra      </td><td align="center">25 problems</td></tr>
-        <tr><td>Geometry     </td><td align="center">30 problems</td>
-            <td>Probability  </td><td align="center">25 problems</td></tr>
+        <tr><td>Number Theory   </td><td align="center">30 problems</td>
+            <td>Number Theory   </td><td align="center">35 problems</td></tr>
+        <tr><td>Combinatorics   </td><td align="center">25 problems</td>
+            <td>Combinatorics   </td><td align="center">25 problems</td></tr>
+        <tr><td>Algebra         </td><td align="center">25 problems</td>
+            <td>Algebra         </td><td align="center">25 problems</td></tr>
+        <tr><td>Geometry        </td><td align="center">30 problems</td>
+            <td>Probability     </td><td align="center">25 problems</td></tr>
+        <tr><td>Implementation  </td><td align="center">15 problems</td>
+            <td>Implementation  </td><td align="center">15 problems</td></tr>
     </tbody>
     <thead>
         <tr>
