@@ -7,7 +7,8 @@
 - ***Introduction***                 `20 problems`
 - ***Arrays and Strings***           `10 problems`
 - ***Functions and Libraries***      `10 problems`
-- ***Structs and Classes***          `30 problems`
+- ***Structs and Classes***          `15 problems`
+- ***Implementation***               `15 problems`
 
 ## HackerRank - Introduction `20 problems`
 
@@ -114,7 +115,7 @@
     </tbody>
 </table>
 
-## HackerRank - Structs and Classes `30 problems`
+## HackerRank - Structs and Classes `15 problems`
 
 <table>
     <tbody>
@@ -152,31 +153,37 @@
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/magic-spells/problem">magic spells</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/c-class-templates/problem">c class templates</a></th>
+        </tr>
+    </tbody>
+</table>
+
+## HackerRank - Implementation `15 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/c-class-templates/problem">c class templates</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/preprocessor-solution/problem">preprocessor solution</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/preprocessor-solution/problem">preprocessor solution</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/overload-operators/problem">overload operators</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/overload-operators/problem">overload operators</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hotel-prices/problem">hotel prices</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hotel-prices/problem">hotel prices</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cpp-exception-handling/problem">cpp exception handling</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cpp-exception-handling/problem">cpp exception handling</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/overloading-ostream-operator/problem">overloading ostream operator</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/overloading-ostream-operator/problem">overloading ostream operator</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/messages-order/problem">messages order</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/messages-order/problem">messages order</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/operator-overloading/problem">operator overloading</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/operator-overloading/problem">operator overloading</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/attending-workshops/problem">attending workshops</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/attending-workshops/problem">attending workshops</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cpp-class-template-specialization/problem">cpp class template specialization</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cpp-class-template-specialization/problem">cpp class template specialization</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cpp-variadics/problem">cpp variadics</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bitset-1/problem">bitset 1</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cpp-variadics/problem">cpp variadics</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bitset-1/problem">bitset 1</a></th>
         </tr>
     </tbody>
 </table>
