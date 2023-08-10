@@ -48,7 +48,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
 <th align="center" width="400px"><a href="/level-1/hackerrank/cpp">cpp</a></th>
 <th align="center" width="150px">70 problems</th>
 <th align="center" width="400px"><a href="/level-1/hackerrank/python">python</a></th>
-<th align="center" width="150px">95 problems</th>
+<th align="center" width="150px">100 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -57,8 +57,10 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
         <tr><td>Arrays and Strings         </td><td align="center">10 problems</td>
             <td>Collections                </td><td align="center">25 problems</td></tr>
         <tr><td>Functions and Libraries    </td><td align="center">10 problems</td>
-            <td>Functions and Libraries    </td><td align="center">35 problems</td></tr>
-        <tr><td>Structs and Classes        </td><td align="center">30 problems</td>
+            <td>Functions and Libraries I  </td><td align="center">20 problems</td></tr>
+        <tr><td>Structs and Classes        </td><td align="center">15 problems</td>
+            <td>Functions and Libraries II </td><td align="center">20 problems</td></tr>
+        <tr><td>Implementation             </td><td align="center">15 problems</td>
             <td>Classes                    </td><td align="center">10 problems</td></tr>
     </tbody>
 </table>
