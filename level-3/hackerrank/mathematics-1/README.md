@@ -274,49 +274,49 @@
 <th align="center">01</th>
 <th align="left"><a href="https://hackerrank.com/challenges/bigger-is-greater/problem">bigger is greater</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
 <th align="left"><a href="https://hackerrank.com/challenges/kaprekar-numbers/problem">kaprekar numbers</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
 <th align="left"><a href="https://hackerrank.com/challenges/beautiful-triplets/problem">beautiful triplets</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
 <th align="left"><a href="https://hackerrank.com/challenges/flatland-space-stations/problem">flatland space stations</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
 <th align="left"><a href="https://hackerrank.com/challenges/fair-rations/problem">fair rations</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
 <th align="left"><a href="https://hackerrank.com/challenges/cavity-map/problem">cavity map</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
 <th align="left"><a href="https://hackerrank.com/challenges/manasa-and-stones/problem">manasa and stones</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
 <th align="left"><a href="https://hackerrank.com/challenges/the-grid-search/problem">the grid search</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
@@ -328,37 +328,37 @@
 <th align="center">10</th>
 <th align="left"><a href="https://hackerrank.com/challenges/magic-square-forming/problem">magic square forming</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
 <th align="left"><a href="https://hackerrank.com/challenges/climbing-the-leaderboard/problem">climbing the leaderboard</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
 <th align="left"><a href="https://hackerrank.com/challenges/extra-long-factorials/problem">extra long factorials</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
 <th align="left"><a href="https://hackerrank.com/challenges/non-divisible-subset/problem">non divisible subset</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
 <th align="left"><a href="https://hackerrank.com/challenges/queens-attack-2/problem">queens attack 2</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-III.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
     </tbody>
 </table>

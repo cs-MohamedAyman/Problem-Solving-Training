@@ -286,91 +286,91 @@
 <th align="center">01</th>
 <th align="left"><a href="https://hackerrank.com/challenges/encryption/problem">encryption</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
 <th align="left"><a href="https://hackerrank.com/challenges/the-time-in-words/problem">the time in words</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
 <th align="left"><a href="https://hackerrank.com/challenges/3d-surface-area/problem">3d surface area</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
 <th align="left"><a href="https://hackerrank.com/challenges/absolute-permutation/problem">absolute permutation</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
 <th align="left"><a href="https://hackerrank.com/challenges/bomber-man/problem">bomber man</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
 <th align="left"><a href="https://hackerrank.com/challenges/two-pluses/problem">two pluses</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
 <th align="left"><a href="https://hackerrank.com/challenges/larrys-array/problem">larrys array</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
 <th align="left"><a href="https://hackerrank.com/challenges/almost-sorted/problem">almost sorted</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
 <th align="left"><a href="https://hackerrank.com/challenges/matrix-rotation-algo/problem">matrix rotation algo</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
 <th align="left"><a href="https://hackerrank.com/challenges/sorted-subsegments/problem">sorted subsegments</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
 <th align="left"><a href="https://hackerrank.com/challenges/king-richards-knights/problem">king richards knights</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
 <th align="left"><a href="https://hackerrank.com/challenges/task-scheduling/problem">task scheduling</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
 <th align="left"><a href="https://hackerrank.com/challenges/similarpair/problem">similarpair</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
 <th align="left"><a href="https://hackerrank.com/challenges/almost-integer-rock-garden/problem">almost integer rock garden</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/distant-pairs/problem">distant pairs</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-IV.md">Solution</a></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-2/solutions/implementation.md">Solution</a></th>
         </tr>
     </tbody>
 </table>
