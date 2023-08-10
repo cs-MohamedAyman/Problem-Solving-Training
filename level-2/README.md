@@ -64,9 +64,9 @@ each sheet of them contains linear and non linear data structures problems, and 
         <tr><td>Strings                              </td><td align="center">20 problems</td>
             <td>Implementation II                    </td><td align="center">15 problems</td></tr>
         <tr><td>Bit Manipulation                     </td><td align="center">15 problems</td>
-            <td>Implementation III                   </td><td align="center">15 problems</td></tr>
+            <td>Math Fundamentals I                  </td><td align="center">15 problems</td></tr>
         <tr><td>Advanced                             </td><td align="center">20 problems</td>
-            <td>Implementation IV                    </td><td align="center">15 problems</td></tr>
+            <td>Math Fundamentals II                 </td><td align="center">15 problems</td></tr>
     </tbody>
 </table>
 
