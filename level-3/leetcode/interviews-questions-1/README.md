@@ -17,7 +17,7 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="480px">Tags</th>
+<th align="center" width="480px">Keywords</th>
 <th align="center" width="120px">Solution</th>
         </tr>
     </head>
@@ -248,7 +248,7 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="480px">Tags</th>
+<th align="center" width="480px">Keywords</th>
 <th align="center" width="120px">Solution</th>
         </tr>
     </head>
@@ -473,7 +473,7 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="480px">Tags</th>
+<th align="center" width="480px">Keywords</th>
 <th align="center" width="120px">Solution</th>
         </tr>
     </head>
@@ -698,7 +698,7 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="480px">Tags</th>
+<th align="center" width="480px">Keywords</th>
 <th align="center" width="120px">Solution</th>
         </tr>
     </head>
@@ -923,7 +923,7 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="480px">Tags</th>
+<th align="center" width="480px">Keywords</th>
 <th align="center" width="120px">Solution</th>
         </tr>
     </head>
