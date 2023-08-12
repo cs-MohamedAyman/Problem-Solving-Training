@@ -43,7 +43,7 @@ The HackerRank OJ sheets:
 [[mathematics-2](/level-3/hackerrank/mathematics-2)],
 [[graph-string](/level-3/hackerrank/graph-string)],
 [[dynamic-programming](/level-3/hackerrank/dynamic-programming)],
-each sheet of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~130 problems.
+each sheet of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <table>
     <thead>
@@ -62,9 +62,9 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
         <tr><td>Combinatorics   </td><td align="center">20 problems</td>
             <td>Combinatorics   </td><td align="center">15 problems</td></tr>
         <tr><td>Algebra         </td><td align="center">20 problems</td>
-            <td>Algebra         </td><td align="center">15 problems</td></tr>
+            <td>Algebra I       </td><td align="center">15 problems</td></tr>
         <tr><td>Geometry I      </td><td align="center">15 problems</td>
-            <td>Algebra         </td><td align="center">15 problems</td></tr>
+            <td>Algebra II      </td><td align="center">15 problems</td></tr>
         <tr><td>Geometry II     </td><td align="center">15 problems</td>
             <td>Probability     </td><td align="center">20 problems</td></tr>
         <tr><td>Implementation  </td><td align="center">20 problems</td>
