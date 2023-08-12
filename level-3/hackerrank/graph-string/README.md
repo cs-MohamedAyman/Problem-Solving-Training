@@ -1,17 +1,18 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Graph and String Algorithms <br> `130 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Graph and String Algorithms <br> `125 problems` `80 hrs`
 
 ## Table of Content
 
-- ***Graph Theory I***   `30 problems`
-- ***Graph Theory II***  `30 problems`
-- ***Greedy***           `25 problems`
+- ***Graph Theory I***   `20 problems`
+- ***Graph Theory II***  `20 problems`
+- ***Graph Theory III*** `20 problems`
+- ***Greedy***           `20 problems`
 - ***Strings I***        `15 problems`
 - ***Strings II***       `15 problems`
 - ***Advanced***         `15 problems`
 
-## HackerRank - Graph Theory I `30 problems`
+## HackerRank - Graph Theory I `20 problems`
 
 <table>
     <tbody>
@@ -59,30 +60,10 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/real-estate-broker/problem">real estate broker</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/borrowing-money/problem">borrowing money</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/value-of-friendship/problem">value of friendship</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/floyd-city-of-blinding-lights/problem">floyd city of blinding lights</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kingdom-connectivity/problem">kingdom connectivity</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/computer-game/problem">computer game</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/problem-solving/problem">problem solving</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/journey-scheduling/problem">journey scheduling</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix/problem">matrix</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/episode-recording/problem">episode recording</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/repair-roads/problem">repair roads</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kth-ancestor/problem">kth ancestor</a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Graph Theory II `30 problems`
+## HackerRank - Graph Theory II `20 problems`
 
 <table>
     <tbody>
@@ -130,30 +111,57 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/huarongdao/problem">huarongdao</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/alex-vs-fedor/problem">alex vs fedor</a></th>
         </tr>
+    </tbody>
+</table>
+
+## HackerRank - Graph Theory III `20 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/vertical-paths/problem">vertical paths</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/drive/problem">drive</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/value-of-friendship/problem">value of friendship</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/floyd-city-of-blinding-lights/problem">floyd city of blinding lights</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/tsp-grid/problem">tsp grid</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/road-network/problem">road network</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kingdom-connectivity/problem">kingdom connectivity</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/computer-game/problem">computer game</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/going-office/problem">going office</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ticket/problem">ticket</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/problem-solving/problem">problem solving</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/journey-scheduling/problem">journey scheduling</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/dfs-edges/problem">dfs edges</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/diameter-minimization/problem">diameter minimization</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix/problem">matrix</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/episode-recording/problem">episode recording</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/airports/problem">airports</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/definite-random-walks/problem">definite random walks</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/repair-roads/problem">repair roads</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kth-ancestor/problem">kth ancestor</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/vertical-paths/problem">vertical paths</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/drive/problem">drive</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/tsp-grid/problem">tsp grid</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/road-network/problem">road network</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/going-office/problem">going office</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ticket/problem">ticket</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/dfs-edges/problem">dfs edges</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/diameter-minimization/problem">diameter minimization</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/airports/problem">airports</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/definite-random-walks/problem">definite random walks</a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Greedy `25 problems`
+## HackerRank - Greedy `20 problems`
 
 <table>
     <tbody>
@@ -200,10 +208,6 @@
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/accessory-collection/problem">accessory collection</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/fighting-pits/problem">fighting pits</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/reverse-shuffle-merge/problem">reverse shuffle merge</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/team-formation/problem">team formation</a></th>
         </tr>
     </tbody>
 </table>
@@ -273,7 +277,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/how-many-substrings/problem">how many substrings</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/reverse-shuffle-merge/problem">reverse shuffle merge</a></th>
         </tr>
     </tbody>
 </table>
@@ -377,6 +381,12 @@
         <tr>
 <th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/triplets/problem">triplets</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">16</th>
+<th align="left"><a href="https://hackerrank.com/challenges/team-formation/problem">team formation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
         </tr>
