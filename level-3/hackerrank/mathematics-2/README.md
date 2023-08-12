@@ -1,13 +1,14 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 2 <br> `125 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 2 <br> `120 problems` `80 hrs`
 
 ## Table of Content
 
 - ***Number Theory I***             `20 problems`
 - ***Number Theory II***            `15 problems`
-- ***Combinatorics***               `25 problems`
-- ***Algebra***                     `25 problems`
+- ***Combinatorics***               `15 problems`
+- ***Algebra I***                   `15 problems`
+- ***Algebra II***                  `15 problems`
 - ***Probability***                 `20 problems`
 - ***Implementation***              `20 problems`
 
@@ -97,7 +98,7 @@
     </tbody>
 </table>
 
-## HackerRank - Combinatorics `25 problems`
+## HackerRank - Combinatorics `15 problems`
 
 <table>
     <tbody>
@@ -137,26 +138,10 @@
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/strongly-connected-digraphs/problem">strongly connected digraphs</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/r-tree-decoration/problem">r tree decoration</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-palindromes/problem">count palindromes</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/introduction-to-representation-theory/problem">introduction to representation theory</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/demidenko-farmer/problem">demidenko farmer</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/surveillance/problem">surveillance</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/to-heap-or-not-to-heap/problem">to heap or not to heap</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sasha-and-swaps/problem">sasha and swaps</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/powercode/problem">powercode</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/how-many-trees/problem">how many trees</a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Algebra `25 problems`
+## HackerRank - Algebra I `15 problems`
 
 <table>
     <tbody>
@@ -178,39 +163,64 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/black-box-1/problem">black box 1</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1/problem">linear algebra foundations 1</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1/problem">problem 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem">linear algebra foundations 1 matrix subtraction</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem">linear algebra foundations 3 matrix multiplication</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem">1 matrix subtraction</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem">3 matrix multiplication</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem">linear algebra foundations 4 matrix multiplication</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix/problem">linear algebra foundations 5 the 100th power of a matrix</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem">4 matrix multiplication</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix/problem">5 the 100th power of a matrix</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix/problem">linear algebra foundations 6 the nsupthsup power of a matrix</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors/problem">linear algebra fundamentals 10 eigenvectors</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix/problem">6 the nsupthsup power of a matrix</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors/problem">10 eigenvectors</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-1/problem">determinant of the matrix 1</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-3/problem">determinant of the matrix 3</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-palindromes/problem">count palindromes</a></th>
+        </tr>
+    </tbody>
+</table>
+
+## HackerRank - Algebra II `15 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-1/problem">determinant of the matrix 1</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-3/problem">determinant of the matrix 3</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-7-the-1000th-power-of-a-matrix/problem">linear algebra foundations 7 the 1000th power of a matrix</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-8-systems-of-equations/problem">linear algebra fundamentals 8 systems of equations</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-7-the-1000th-power-of-a-matrix/problem">linear algebra foundations 7 the 1000th power of a matrix</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-8-systems-of-equations/problem">linear algebra fundamentals 8 systems of equations</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-9-eigenvalues/problem">linear algebra fundamentals 9 eigenvalues</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-2/problem">determinant of the matrix 2</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-9-eigenvalues/problem">linear algebra fundamentals 9 eigenvalues</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-2/problem">determinant of the matrix 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalue-of-matrix-1/problem">eigenvalue of matrix 1</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalue-of-matrix-2/problem">eigenvalue of matrix 2</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalue-of-matrix-1/problem">eigenvalue of matrix 1</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalue-of-matrix-2/problem">eigenvalue of matrix 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalues-of-matrix-3/problem">eigenvalues of matrix 3</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalues-of-matrix-4/problem">eigenvalues of matrix 4</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalues-of-matrix-3/problem">eigenvalues of matrix 3</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eigenvalues-of-matrix-4/problem">eigenvalues of matrix 4</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/demidenko-farmer/problem">demidenko farmer</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/surveillance/problem">surveillance</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/to-heap-or-not-to-heap/problem">to heap or not to heap</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sasha-and-swaps/problem">sasha and swaps</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/powercode/problem">powercode</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/how-many-trees/problem">how many trees</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/introduction-to-representation-theory/problem">introduction to representation theory</a></th>
         </tr>
     </tbody>
 </table>
