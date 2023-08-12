@@ -1,16 +1,18 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 1 <br> `125 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 1 <br> `120 problems` `80 hrs`
 
 ## Table of Content
 
-- ***Number Theory***               `30 problems`
-- ***Combinatorics***               `25 problems`
-- ***Algebra***                     `25 problems`
-- ***Geometry***                    `30 problems`
-- ***Implementation***              `15 problems`
+- ***Number Theory I***             `15 problems`
+- ***Number Theory II***            `15 problems`
+- ***Combinatorics***               `20 problems`
+- ***Algebra***                     `20 problems`
+- ***Geometry I***                  `15 problems`
+- ***Geometry II***                 `15 problems`
+- ***Implementation***              `20 problems`
 
-## HackerRank - Number Theory `30 problems`
+## HackerRank - Number Theory I `15 problems`
 
 <table>
     <tbody>
@@ -46,38 +48,45 @@
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/equations/problem">equations</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/binomial-coefficients/problem">binomial coefficients</a></th>
         </tr>
+    </tbody>
+</table>
+
+## HackerRank - Number Theory II `15 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucy-and-flowers/problem">lucy and flowers</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/a-weird-function/problem">a weird function</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucy-and-flowers/problem">lucy and flowers</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/a-weird-function/problem">a weird function</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/arthur-and-coprimes/problem">arthur and coprimes</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/megaprime-numbers/problem">megaprime numbers</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/arthur-and-coprimes/problem">arthur and coprimes</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/megaprime-numbers/problem">megaprime numbers</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ants/problem">ants</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-cubes/problem">ichigo and cubes</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ants/problem">ants</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-cubes/problem">ichigo and cubes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/prime-sum/problem">prime sum</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hyperrectangle-gcd/problem">hyperrectangle gcd</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/prime-sum/problem">prime sum</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hyperrectangle-gcd/problem">hyperrectangle gcd</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-rooms/problem">ichigo and rooms</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ajob-subsequence/problem">ajob subsequence</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-rooms/problem">ichigo and rooms</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ajob-subsequence/problem">ajob subsequence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix-tree/problem">matrix tree</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/niceclique/problem">niceclique</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix-tree/problem">matrix tree</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/niceclique/problem">niceclique</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/down-the-rabbit-hole/problem">down the rabbit hole</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/identify-smith-numbers/problem">identify smith numbers</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/down-the-rabbit-hole/problem">down the rabbit hole</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/identify-smith-numbers/problem">identify smith numbers</a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Combinatorics `25 problems`
+## HackerRank - Combinatorics `20 problems`
 
 <table>
     <tbody>
@@ -125,14 +134,10 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manasa-and-combinatorics/problem">manasa and combinatorics</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/coloring-grid/problem">coloring grid</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/div-and-span/problem">div and span</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-revenge/problem">ichigo and revenge</a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Algebra `25 problems`
+## HackerRank - Algebra `20 problems`
 
 <table>
     <tbody>
@@ -180,22 +185,10 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cross-matrix/problem">cross matrix</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/easy-sum/problem">easy sum</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pairwise-sum-and-divide/problem">pairwise sum and divide</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-square/problem">sherlock and square</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-love/problem">xor love</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/gneck/problem">gneck</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/emma-and-sum-of-products/problem">emma and sum of products</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/demidenko-black-hole/problem">demidenko black hole</a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Geometry `30 problems`
+## HackerRank - Geometry I `15 problems`
 
 <table>
     <tbody>
@@ -228,37 +221,48 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/polar-angles/problem">polar angles</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jim-and-the-challenge/problem">jim and the challenge</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jim-beam/problem">jim beam</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/good-point/problem">good point</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/polygons/problem">polygons</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/polygon/problem">polygon</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/meeting-point/problem">meeting point</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/house-location/problem">house location</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/isosceles-triangles/problem">isosceles triangles</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-geometry/problem">sherlock and geometry</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/n-letter/problem">n letter</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/best-sum/problem">best sum</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/geometry-queries/problem">geometry queries</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-triangles/problem">count triangles</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/emma-and-sum-of-products/problem">emma and sum of products</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/demidenko-black-hole/problem">demidenko black hole</a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Implementation `15 problems`
+## HackerRank - Geometry II `15 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jim-and-the-challenge/problem">jim and the challenge</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jim-beam/problem">jim beam</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/good-point/problem">good point</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/polygons/problem">polygons</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/polygon/problem">polygon</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/meeting-point/problem">meeting point</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/house-location/problem">house location</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/isosceles-triangles/problem">isosceles triangles</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-geometry/problem">sherlock and geometry</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/n-letter/problem">n letter</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/best-sum/problem">best sum</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/geometry-queries/problem">geometry queries</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-triangles/problem">count triangles</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/xor-love/problem">xor love</a></th>
+        </tr>
+    </tbody>
+</table>
+
+## HackerEarth - Implementation `20 problems`
 
 <table>
     <head>
@@ -357,6 +361,36 @@
         <tr>
 <th align="center">15</th>
 <th align="left"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">16</th>
+<th align="left"><a href="https://hackerrank.com/challenges/pairwise-sum-and-divide/problem">pairwise sum and divide</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">17</th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-square/problem">sherlock and square</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">18</th>
+<th align="left"><a href="https://hackerrank.com/challenges/div-and-span/problem">div and span</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">19</th>
+<th align="left"><a href="https://hackerrank.com/challenges/ichigo-and-revenge/problem">ichigo and revenge</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">20</th>
+<th align="left"><a href="https://hackerrank.com/challenges/gneck/problem">gneck</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-3/hackerrank/mathematics-1/solutions/implementation.md">Solution</a></th>
         </tr>
