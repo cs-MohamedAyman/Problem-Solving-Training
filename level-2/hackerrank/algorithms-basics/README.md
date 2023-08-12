@@ -651,97 +651,97 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-point/problem">find-point</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-point/problem">Find the Point</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/maximum-draws/problem">maximum draws</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/maximum-draws/problem">Maximum Draws</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/handshake/problem">handshake</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/handshake/problem">Handshake</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/lowest-triangle/problem">lowest triangle</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/lowest-triangle/problem">Minimum Height Triangle</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/game-with-cells/problem">game with cells</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/game-with-cells/problem">Army Game</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/leonardo-and-prime/problem">leonardo and prime</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/leonardo-and-prime/problem">Leonardo's Prime Factors</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/connecting-towns/problem">connecting towns</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/connecting-towns/problem">Connecting Towns</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/p1-paper-cutting/problem">p1 paper cutting</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/p1-paper-cutting/problem">Cutting Paper Squares</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-moving-tiles/problem">sherlock and moving tiles</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-moving-tiles/problem">Sherlock and Moving Tiles</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/best-divisor/problem">best divisor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/best-divisor/problem">Best Divisor</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/restaurant/problem">restaurant</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/restaurant/problem">Restaurant</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/reverse-game/problem">reverse game</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/reverse-game/problem">Reverse Game</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/strange-grid/problem">strange grid</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/strange-grid/problem">Strange Grid Again</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/constructing-a-number/problem">constructing a number</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/constructing-a-number/problem">Constructing a Number</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-gcd/problem">sherlock and gcd</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-gcd/problem">Sherlock and GCD</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/primitive-problem/problem">primitive problem</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/primitive-problem/problem">Primitive Problem</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md">Solution</a></th>
         </tr>
