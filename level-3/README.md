@@ -73,24 +73,26 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerrank/graph-string">graph-string</a></th>
-<th align="center" width="150px">130 problems</th>
+<th align="center" width="150px">125 problems</th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/dynamic-programming">dynamic-programming</a></th>
-<th align="center" width="150px">145 problems</th>
+<th align="center" width="150px">135 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Graph Theory I         </td><td align="center">30 problems</td>
-            <td>Bit Manipulation       </td><td align="center">15 problems</td></tr>
-        <tr><td>Graph Theory II        </td><td align="center">30 problems</td>
-            <td>Dynamic Programming I  </td><td align="center">40 problems</td></tr>
-        <tr><td>Greedy                 </td><td align="center">25 problems</td>
-            <td>Dynamic Programming II </td><td align="center">30 problems</td></tr>
-        <tr><td>Strings I              </td><td align="center">15 problems</td>
-            <td>Dynamic Programming III</td><td align="center">30 problems</td></tr>
-        <tr><td>Strings II             </td><td align="center">15 problems</td>
-            <td>Constructive Algorithms</td><td align="center">10 problems</td></tr>
-        <tr><td>Advanced               </td><td align="center">15 problems</td>
-            <td>Advanced               </td><td align="center">20 problems</td></tr>
+        <tr><td>Graph Theory I              </td><td align="center">20 problems</td>
+            <td>Bit Manipulation            </td><td align="center">15 problems</td></tr>
+        <tr><td>Graph Theory II             </td><td align="center">20 problems</td>
+            <td>Dynamic Programming I       </td><td align="center">20 problems</td></tr>
+        <tr><td>Graph Theory III            </td><td align="center">20 problems</td>
+            <td>Dynamic Programming II      </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy                      </td><td align="center">20 problems</td>
+            <td>Hard Dynamic Programming I  </td><td align="center">20 problems</td></tr>
+        <tr><td>Strings I                   </td><td align="center">15 problems</td>
+            <td>Hard Dynamic Programming II </td><td align="center">20 problems</td></tr>
+        <tr><td>Strings II                  </td><td align="center">15 problems</td>
+            <td>Hard Dynamic Programming III</td><td align="center">20 problems</td></tr>
+        <tr><td>Advanced                    </td><td align="center">15 problems</td>
+            <td>Advanced                    </td><td align="center">20 problems</td></tr>
     </tbody>
 </table>
 
