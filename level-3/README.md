@@ -49,22 +49,26 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/hackerrank/mathematics-1">mathematics-1</a></th>
-<th align="center" width="150px">125 problems</th>
+<th align="center" width="150px">120 problems</th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/mathematics-2">mathematics-2</a></th>
-<th align="center" width="150px">125 problems</th>
+<th align="center" width="150px">120 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Number Theory   </td><td align="center">30 problems</td>
-            <td>Number Theory   </td><td align="center">35 problems</td></tr>
-        <tr><td>Combinatorics   </td><td align="center">25 problems</td>
-            <td>Combinatorics   </td><td align="center">25 problems</td></tr>
-        <tr><td>Algebra         </td><td align="center">25 problems</td>
-            <td>Algebra         </td><td align="center">25 problems</td></tr>
-        <tr><td>Geometry        </td><td align="center">30 problems</td>
-            <td>Probability     </td><td align="center">25 problems</td></tr>
-        <tr><td>Implementation  </td><td align="center">15 problems</td>
-            <td>Implementation  </td><td align="center">15 problems</td></tr>
+        <tr><td>Number Theory I </td><td align="center">15 problems</td>
+            <td>Number Theory I </td><td align="center">20 problems</td></tr>
+        <tr><td>Number Theory II</td><td align="center">15 problems</td>
+            <td>Number Theory II</td><td align="center">15 problems</td></tr>
+        <tr><td>Combinatorics   </td><td align="center">20 problems</td>
+            <td>Combinatorics   </td><td align="center">15 problems</td></tr>
+        <tr><td>Algebra         </td><td align="center">20 problems</td>
+            <td>Algebra         </td><td align="center">15 problems</td></tr>
+        <tr><td>Geometry I      </td><td align="center">15 problems</td>
+            <td>Algebra         </td><td align="center">15 problems</td></tr>
+        <tr><td>Geometry II     </td><td align="center">15 problems</td>
+            <td>Probability     </td><td align="center">20 problems</td></tr>
+        <tr><td>Implementation  </td><td align="center">20 problems</td>
+            <td>Implementation  </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
         <tr>
