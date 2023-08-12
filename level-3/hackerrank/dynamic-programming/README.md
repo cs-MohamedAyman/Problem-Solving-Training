@@ -1,15 +1,16 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming <br> `145 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming <br> `135 problems` `80 hrs`
 
 ## Table of Content
 
-- ***Bit Manipulation***          `15 problems`
-- ***Dynamic Programming I***     `40 problems`
-- ***Dynamic Programming II***    `30 problems`
-- ***Dynamic Programming III***   `30 problems`
-- ***Constructive Algorithms***   `10 problems`
-- ***Advanced***                  `20 problems`
+- ***Bit Manipulation***              `15 problems`
+- ***Dynamic Programming I***         `20 problems`
+- ***Dynamic Programming II***        `20 problems`
+- ***Hard Dynamic Programming I***    `20 problems`
+- ***Hard Dynamic Programming II***   `20 problems`
+- ***Hard Dynamic Programming III***  `20 problems`
+- ***Advanced***                      `20 problems`
 
 ## HackerRank - Bit Manipulation `15 problems`
 
@@ -41,12 +42,16 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hamming-distance/problem">hamming distance</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/an-interesting-game-1/problem">an interesting game 1</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/new-year-chaos/problem">new year chaos</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming I `40 problems`
+## HackerRank - Dynamic Programming I `20 problems`
 
 <table>
     <tbody>
@@ -90,50 +95,57 @@
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/stockmax/problem">stockmax</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-robots/problem">two robots</a></th>
         </tr>
+    </tbody>
+</table>
+
+## HackerRank - Dynamic Programming II `20 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cuttree/problem">cuttree</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/wet-shark-and-two-subsequences/problem">wet shark and two subsequences</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cuttree/problem">cuttree</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/wet-shark-and-two-subsequences/problem">wet shark and two subsequences</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/array-splitting/problem">array splitting</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/mandragora/problem">mandragora</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/array-splitting/problem">array splitting</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/mandragora/problem">mandragora</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/red-john-is-back/problem">red john is back</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/tutzki-and-lcs/problem">tutzki and lcs</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/red-john-is-back/problem">red john is back</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/tutzki-and-lcs/problem">tutzki and lcs</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/grid-walking/problem">grid walking</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/unbounded-knapsack/problem">unbounded knapsack</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/grid-walking/problem">grid walking</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/unbounded-knapsack/problem">unbounded knapsack</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/play-game/problem">play game</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/coin-on-the-table/problem">coin on the table</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/play-game/problem">play game</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/coin-on-the-table/problem">coin on the table</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem">dynamic programming classics the longest common subsequence</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/strplay/problem">strplay</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem">dynamic programming classics the longest common subsequence</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/strplay/problem">strplay</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/counting-special-sub-cubes/problem">counting special sub cubes</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/interval-selection/problem">interval selection</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/counting-special-sub-cubes/problem">counting special sub cubes</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/interval-selection/problem">interval selection</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-indian-job/problem">the indian job</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/travel-around-the-world/problem">travel around the world</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-indian-job/problem">the indian job</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/travel-around-the-world/problem">travel around the world</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/candles-2/problem">candles 2</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/swappermutation/problem">swappermutation</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/candles-2/problem">candles 2</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/swappermutation/problem">swappermutation</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/extremum-permutations/problem">extremum permutations</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/extremum-permutations/problem">extremum permutations</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-subarrays/problem">two subarrays</a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming II `30 problems`
+## HackerRank - Hard Dynamic Programming I `20 problems`
 
 <table>
     <tbody>
@@ -181,30 +193,10 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/covering-the-stains/problem">covering the stains</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/gcd-matrix/problem">gcd matrix</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/newyear-present/problem">newyear present</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/longest-palindromic-subsequence/problem">longest palindromic subsequence</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/square-subsequences/problem">square subsequences</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/police-operation/problem">police operation</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/zurikela/problem">zurikela</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/longest-mod-path/problem">longest mod path</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/p-sequences/problem">p sequences</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/oil-well/problem">oil well</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ones-and-twos/problem">ones and twos</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming III `30 problems`
+## HackerRank - Hard Dynamic Programming II `20 problems`
 
 <table>
     <tbody>
@@ -252,52 +244,56 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/super-kth-lis">challenges</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/counting-road-networks/problem">counting road networks</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/suffix-rotation/problem">suffix rotation</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucky-numbers/problem">lucky numbers</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-scorecards/problem">count scorecards</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/divisible-numbers/problem">divisible numbers</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/happy-king/problem">happy king</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-ways-1/problem">count ways 1</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hard-drive-disks/problem">hard drive disks</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/separate-the-chocolate/problem">separate the chocolate</a></th>
-        </tr>
     </tbody>
 </table>
 
-## HackerRank - Constructive Algorithms `10 problems`
+## HackerRank - Hard Dynamic Programming III `20 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lena-sort/problem">lena sort</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/flipping-the-matrix/problem">flipping the matrix</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/newyear-present/problem">newyear present</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/longest-palindromic-subsequence/problem">longest palindromic subsequence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/an-interesting-game-1/problem">an interesting game 1</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/new-year-chaos/problem">new year chaos</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/square-subsequences/problem">square subsequences</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/police-operation/problem">police operation</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bonetrousle/problem">bonetrousle</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kmp-problem/problem">kmp problem</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/zurikela/problem">zurikela</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/longest-mod-path/problem">longest mod path</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-3-set/problem">beautiful 3 set</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/inverse-rmq/problem">inverse rmq</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/p-sequences/problem">p sequences</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/oil-well/problem">oil well</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lovely-triplets/problem">lovely triplets</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/array-construction/problem">array construction</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ones-and-twos/problem">ones and twos</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-subarrays/problem">two subarrays</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/suffix-rotation/problem">suffix rotation</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucky-numbers/problem">lucky numbers</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-scorecards/problem">count scorecards</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/divisible-numbers/problem">divisible numbers</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/happy-king/problem">happy king</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-ways-1/problem">count ways 1</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hard-drive-disks/problem">hard drive disks</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/separate-the-chocolate/problem">separate the chocolate</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-3-set/problem">beautiful 3 set</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/inverse-rmq/problem">inverse rmq</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lovely-triplets/problem">lovely triplets</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/array-construction/problem">array construction</a></th>
         </tr>
     </tbody>
 </table>
@@ -419,6 +415,30 @@
         <tr>
 <th align="center">18</th>
 <th align="left"><a href="https://hackerrank.com/challenges/max-transform/problem">max transform</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">19</th>
+<th align="left"><a href="https://hackerrank.com/challenges/lena-sort/problem">lena sort</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">20</th>
+<th align="left"><a href="https://hackerrank.com/challenges/flipping-the-matrix/problem">flipping the matrix</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">21</th>
+<th align="left"><a href="https://hackerrank.com/challenges/bonetrousle/problem">bonetrousle</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">22</th>
+<th align="left"><a href="https://hackerrank.com/challenges/kmp-problem/problem">kmp problem</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
         </tr>
