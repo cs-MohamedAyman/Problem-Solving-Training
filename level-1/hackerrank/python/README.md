@@ -10,7 +10,7 @@
 - ***Functions and Libraries II***  `20 problems`
 - ***Classes***                     `10 problems`
 
-## HackerRank - Introduction `20 problems`
+## HackerRank - Introduction `25 problems`
 
 <table>
     <tbody>
@@ -69,7 +69,7 @@
     </tbody>
 </table>
 
-## HackerRank - Collections `20 problems`
+## HackerRank - Collections `25 problems`
 
 <table>
     <tbody>
