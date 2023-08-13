@@ -1,6 +1,6 @@
 <a href="r/level-3/hackerrank/graph-string/solutions/advanced.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Graph Algorithms <br> Advanced `15 problems`
+# HackerRank OJ - Graph Algorithms <br> Advanced `20 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
