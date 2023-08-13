@@ -1,6 +1,6 @@
 <a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
-# HackerRank OJ - Dynamic Programming <br> Advanced `20 problems`
+# HackerRank OJ - Dynamic Programming <br> Advanced `15 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
