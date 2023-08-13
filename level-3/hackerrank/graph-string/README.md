@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Graph and String Algorithms <br> `125 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Graph and String Algorithms <br> `130 problems` `80 hrs`
 
 ## Table of Content
 
@@ -10,7 +10,7 @@
 - ***Greedy***           `20 problems`
 - ***Strings I***        `15 problems`
 - ***Strings II***       `15 problems`
-- ***Advanced***         `15 problems`
+- ***Advanced***         `20 problems`
 
 ## HackerRank - Graph Theory I `20 problems`
 
@@ -282,7 +282,7 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `15 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
+## HackerRank - Advanced `20 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
 
 <table>
     <head>
@@ -386,6 +386,36 @@
         </tr>
         <tr>
 <th align="center">16</th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-the-permutation/problem">find the permutation</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">17</th>
+<th align="left"><a href="https://hackerrank.com/challenges/box-operations/problem">box operations</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">18</th>
+<th align="left"><a href="https://hackerrank.com/challenges/max-transform/problem">max transform</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">19</th>
+<th align="left"><a href="https://hackerrank.com/challenges/lena-sort/problem">lena sort</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">20</th>
+<th align="left"><a href="https://hackerrank.com/challenges/flipping-the-matrix/problem">flipping the matrix</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
+        </tr>
+        <tr>
+<th align="center">21</th>
 <th align="left"><a href="https://hackerrank.com/challenges/team-formation/problem">team formation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-3/hackerrank/graph-string/solutions/advanced.md">Solution</a></th>
