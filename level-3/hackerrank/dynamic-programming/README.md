@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/hackerrank.png"></img>
 
-# [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming <br> `135 problems` `80 hrs`
+# [HackerRank](https://hackerrank.com/) OJ - Dynamic Programming <br> `130 problems` `80 hrs`
 
 ## Table of Content
 
@@ -10,7 +10,7 @@
 - ***Hard Dynamic Programming I***    `20 problems`
 - ***Hard Dynamic Programming II***   `20 problems`
 - ***Hard Dynamic Programming III***  `20 problems`
-- ***Advanced***                      `20 problems`
+- ***Advanced***                      `15 problems`
 
 ## HackerRank - Bit Manipulation `15 problems`
 
@@ -298,7 +298,7 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `20 problems` [`Solutions`](/level-3/hackerrank/dynamic-programming/solutions/advanced.md)
+## HackerRank - Advanced `15 problems` [`Solutions`](/level-3/hackerrank/dynamic-programming/solutions/advanced.md)
 
 <table>
     <head>
@@ -402,42 +402,12 @@
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-the-permutation/problem">find the permutation</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/box-operations/problem">box operations</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/max-transform/problem">max transform</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/lena-sort/problem">lena sort</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">20</th>
-<th align="left"><a href="https://hackerrank.com/challenges/flipping-the-matrix/problem">flipping the matrix</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">21</th>
 <th align="left"><a href="https://hackerrank.com/challenges/bonetrousle/problem">bonetrousle</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
-<th align="center">22</th>
+<th align="center">17</th>
 <th align="left"><a href="https://hackerrank.com/challenges/kmp-problem/problem">kmp problem</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-3/hackerrank/dynamic-programming/solutions/advanced.md">Solution</a></th>
