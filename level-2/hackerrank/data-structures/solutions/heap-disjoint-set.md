@@ -10,7 +10,7 @@ Problem Link: https://hackerrank.com/challenges/qheap1/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -19,7 +19,7 @@ Problem Link: https://hackerrank.com/challenges/qheap1/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -456,7 +456,7 @@ Problem Link: https://hackerrank.com/challenges/kundu-and-tree/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -465,7 +465,7 @@ Problem Link: https://hackerrank.com/challenges/kundu-and-tree/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -569,7 +569,7 @@ Problem Link: https://hackerrank.com/challenges/minimum-average-waiting-time/pro
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -578,7 +578,7 @@ Problem Link: https://hackerrank.com/challenges/minimum-average-waiting-time/pro
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -591,7 +591,7 @@ Problem Link: https://hackerrank.com/challenges/maximum-cost-queries/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -600,7 +600,7 @@ Problem Link: https://hackerrank.com/challenges/maximum-cost-queries/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -613,7 +613,7 @@ Problem Link: https://hackerrank.com/challenges/no-prefix-set/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -622,7 +622,7 @@ Problem Link: https://hackerrank.com/challenges/no-prefix-set/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>

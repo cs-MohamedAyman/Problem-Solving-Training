@@ -340,7 +340,7 @@ Problem Link: https://www.hackerrank.com/challenges/and-product/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -349,7 +349,7 @@ Problem Link: https://www.hackerrank.com/challenges/and-product/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -362,7 +362,7 @@ Problem Link: https://www.hackerrank.com/challenges/winning-lottery-ticket/probl
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -371,7 +371,7 @@ Problem Link: https://www.hackerrank.com/challenges/winning-lottery-ticket/probl
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -384,7 +384,7 @@ Problem Link: https://www.hackerrank.com/challenges/cipher/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -393,7 +393,7 @@ Problem Link: https://www.hackerrank.com/challenges/cipher/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -406,7 +406,7 @@ Problem Link: https://www.hackerrank.com/challenges/whats-next/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -415,7 +415,7 @@ Problem Link: https://www.hackerrank.com/challenges/whats-next/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -428,7 +428,7 @@ Problem Link: https://www.hackerrank.com/challenges/aorb/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -437,7 +437,7 @@ Problem Link: https://www.hackerrank.com/challenges/aorb/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>

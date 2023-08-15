@@ -613,7 +613,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -622,7 +622,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -635,7 +635,7 @@ Problem Link: https://hackerrank.com/challenges/password-cracker/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -644,7 +644,7 @@ Problem Link: https://hackerrank.com/challenges/password-cracker/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -657,7 +657,7 @@ Problem Link: https://hackerrank.com/challenges/stone-division-2/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -666,7 +666,7 @@ Problem Link: https://hackerrank.com/challenges/stone-division-2/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -679,7 +679,7 @@ Problem Link: https://hackerrank.com/challenges/arithmetic-expressions/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -688,7 +688,7 @@ Problem Link: https://hackerrank.com/challenges/arithmetic-expressions/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -769,7 +769,7 @@ Problem Link: https://hackerrank.com/challenges/bowling-pins/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -778,7 +778,7 @@ Problem Link: https://hackerrank.com/challenges/bowling-pins/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -791,7 +791,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine-ii/probl
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -800,7 +800,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine-ii/probl
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -813,7 +813,7 @@ Problem Link: https://hackerrank.com/challenges/repeat-k-sums/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -822,7 +822,7 @@ Problem Link: https://hackerrank.com/challenges/repeat-k-sums/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>

@@ -679,7 +679,7 @@ Problem Link: https://hackerrank.com/challenges/cut-the-tree/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -688,7 +688,7 @@ Problem Link: https://hackerrank.com/challenges/cut-the-tree/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -701,7 +701,7 @@ Problem Link: https://hackerrank.com/challenges/gena/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -710,7 +710,7 @@ Problem Link: https://hackerrank.com/challenges/gena/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -870,7 +870,7 @@ Problem Link: https://hackerrank.com/challenges/maximum-subarray-sum/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -879,7 +879,7 @@ Problem Link: https://hackerrank.com/challenges/maximum-subarray-sum/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -892,7 +892,7 @@ Problem Link: https://hackerrank.com/challenges/maximizing-mission-points/proble
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -901,7 +901,7 @@ Problem Link: https://hackerrank.com/challenges/maximizing-mission-points/proble
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -914,7 +914,7 @@ Problem Link: https://hackerrank.com/challenges/making-candies/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -923,7 +923,7 @@ Problem Link: https://hackerrank.com/challenges/making-candies/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -936,7 +936,7 @@ Problem Link: https://hackerrank.com/challenges/bike-racers/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -945,7 +945,7 @@ Problem Link: https://hackerrank.com/challenges/bike-racers/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -958,7 +958,7 @@ Problem Link: https://hackerrank.com/challenges/playing-with-numbers/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -967,7 +967,7 @@ Problem Link: https://hackerrank.com/challenges/playing-with-numbers/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>

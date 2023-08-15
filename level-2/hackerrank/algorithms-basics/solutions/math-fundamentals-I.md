@@ -229,7 +229,7 @@ Problem Link: https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/pr
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -238,7 +238,7 @@ Problem Link: https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/pr
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -340,7 +340,7 @@ Problem Link: https://www.hackerrank.com/challenges/reverse-game/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -349,7 +349,7 @@ Problem Link: https://www.hackerrank.com/challenges/reverse-game/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -362,7 +362,7 @@ Problem Link: https://www.hackerrank.com/challenges/strange-grid/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -371,7 +371,7 @@ Problem Link: https://www.hackerrank.com/challenges/strange-grid/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -452,7 +452,7 @@ Problem Link: https://www.hackerrank.com/challenges/primitive-problem/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -461,7 +461,7 @@ Problem Link: https://www.hackerrank.com/challenges/primitive-problem/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>

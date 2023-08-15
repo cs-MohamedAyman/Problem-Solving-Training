@@ -220,7 +220,7 @@ Problem Link: https://hackerrank.com/challenges/tree-top-view/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -229,7 +229,7 @@ Problem Link: https://hackerrank.com/challenges/tree-top-view/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -451,7 +451,7 @@ Problem Link: https://hackerrank.com/challenges/swap-nodes-algo/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -460,7 +460,7 @@ Problem Link: https://hackerrank.com/challenges/swap-nodes-algo/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -720,7 +720,7 @@ Problem Link: https://hackerrank.com/challenges/square-ten-tree/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -729,7 +729,7 @@ Problem Link: https://hackerrank.com/challenges/square-ten-tree/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -742,7 +742,7 @@ Problem Link: https://hackerrank.com/challenges/balanced-forest/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -751,7 +751,7 @@ Problem Link: https://hackerrank.com/challenges/balanced-forest/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -764,7 +764,7 @@ Problem Link: https://hackerrank.com/challenges/jenny-subtrees/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -773,7 +773,7 @@ Problem Link: https://hackerrank.com/challenges/jenny-subtrees/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -786,7 +786,7 @@ Problem Link: https://hackerrank.com/challenges/array-and-simple-queries/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -795,7 +795,7 @@ Problem Link: https://hackerrank.com/challenges/array-and-simple-queries/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -808,7 +808,7 @@ Problem Link: https://hackerrank.com/challenges/median/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -817,7 +817,7 @@ Problem Link: https://hackerrank.com/challenges/median/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -830,7 +830,7 @@ Problem Link: https://hackerrank.com/challenges/kittys-calculations-on-a-tree/pr
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -839,7 +839,7 @@ Problem Link: https://hackerrank.com/challenges/kittys-calculations-on-a-tree/pr
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
@@ -852,7 +852,7 @@ Problem Link: https://hackerrank.com/challenges/array-pairs/problem
     <summary><h5>Python Solution</h5></summary>
 
 ```python
-
+#TODO
 ```
 
 </details>
@@ -861,7 +861,7 @@ Problem Link: https://hackerrank.com/challenges/array-pairs/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-
+//TODO
 ```
 
 </details>
