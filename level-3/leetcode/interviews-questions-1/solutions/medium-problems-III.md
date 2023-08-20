@@ -2200,10 +2200,10 @@ class Solution:
             prefixes = set()
             for n in nums:
                 prefixes.add(mask & n)
-            tmp = res | (1 << i)
+            temp = res | (1 << i)
             for p in prefixes:
-                if (tmp ^ p) in prefixes:
-                    res = tmp
+                if (temp ^ p) in prefixes:
+                    res = temp
                     break
         return res
 ```
@@ -2223,10 +2223,10 @@ public:
             set<int> prefixes;
             for (int n : nums)
                 prefixes.insert(mask & n);
-            int tmp = res | (1 << i);
+            int temp = res | (1 << i);
             for (int p : prefixes) {
-                if (prefixes.find((tmp ^ p)) != prefixes.end()) {
-                    res = tmp;
+                if (prefixes.find((temp ^ p)) != prefixes.end()) {
+                    res = temp;
                     break;
                 }
             }

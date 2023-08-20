@@ -528,17 +528,17 @@ Problem Link: https://hackerrank.com/challenges/short-palindrome/problem
 
 ```python
 def shortPalindrome(s):
-    mod = int(1e9 + 7)
+    MOD = int(1e9+7)
     res = 0
     freq = [0] * 26
     tripfreq = [0] * 26
     pairfreq = [[0] * 26 for i in range(26)]
     for c in s:
         idx = ord(c) - ord('a')
-        res = (res + tripfreq[idx]) % mod
+        res = (res + tripfreq[idx]) % MOD
         for i in range(26):
-            tripfreq[i] = (tripfreq[i] + pairfreq[i][idx]) % mod;
-            pairfreq[i][idx] = (pairfreq[i][idx] + freq[i]) % mod;
+            tripfreq[i] = (tripfreq[i] + pairfreq[i][idx]) % MOD
+            pairfreq[i][idx] = (pairfreq[i][idx] + freq[i]) % MOD
         freq[idx] += 1
     return res
 ```
@@ -550,17 +550,17 @@ def shortPalindrome(s):
 
 ```cpp
 int shortPalindrome(string s) {
-    int mod = 1e9 + 7;
+    int MOD = 1e9+7;
     int res = 0;
     vector<int> freq(26, 0);
     vector<int> tripfreq(26, 0);
     vector<vector<int>> pairfreq(26, vector<int>(26));
     for (char &c : s) {
         int idx = c - 'a';
-        res = (res + tripfreq[idx]) % mod;
+        res = (res + tripfreq[idx]) % MOD;
         for (int i=0; i<26; i++) {
-            tripfreq[i] = (tripfreq[i] + pairfreq[i][idx]) % mod;
-            pairfreq[i][idx] = (pairfreq[i][idx] + freq[i]) % mod;
+            tripfreq[i] = (tripfreq[i] + pairfreq[i][idx]) % MOD;
+            pairfreq[i][idx] = (pairfreq[i][idx] + freq[i]) % MOD;
         }
         freq[idx] ++;
     }

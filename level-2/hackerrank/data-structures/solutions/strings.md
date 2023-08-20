@@ -285,11 +285,11 @@ Problem Link: https://hackerrank.com/challenges/mars-exploration/problem
 ```python
 def marsExploration(s):
     res, j = 0, 0
-    tmp = ('S', 'O', 'S')
+    temp = ('S', 'O', 'S')
     for i in range(len(s)):
         if j == 3:
             j = 0
-        if s[i] != tmp[j]:
+        if s[i] != temp[j]:
             res += 1
         j += 1
     return res
@@ -303,11 +303,11 @@ def marsExploration(s):
 ```cpp
 int marsExploration(string s) {
     int res = 0, j = 0;
-    char tmp[] = {'S', 'O', 'S'};
+    char temp[] = {'S', 'O', 'S'};
     for (int i=0; i<size(s); i++) {
         if (j == 3)
             j = 0;
-        if (s[i] != tmp[j])
+        if (s[i] != temp[j])
             res ++;
         j ++;
     }

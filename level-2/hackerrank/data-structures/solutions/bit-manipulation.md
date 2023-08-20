@@ -137,9 +137,9 @@ def counterGame(n):
     res = 0
     while n != 1:
         cnt = 0
-        tmp = n
-        while tmp:
-            tmp >>= 1
+        temp = n
+        while temp:
+            temp >>= 1
             cnt +=1
         a = 1 << (cnt - 1)
         if n == a:
@@ -160,9 +160,9 @@ string counterGame(long n) {
     int res = 0;
     while (n != 1) {
         int cnt = 0;
-        long tmp = n;
-        while (tmp) {
-            tmp >>= 1;
+        long temp = n;
+        while (temp) {
+            temp >>= 1;
             cnt ++;
         }
         long a = 1LL << (cnt - 1);

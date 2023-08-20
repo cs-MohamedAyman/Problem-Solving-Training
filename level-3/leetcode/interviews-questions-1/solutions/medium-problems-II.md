@@ -827,10 +827,10 @@ class Solution:
             cur = cur.next
         prv = None
         for i in range(right-left+1):
-            tmp = cur.next
+            temp = cur.next
             cur.next = prv
             prv = cur
-            cur = tmp
+            cur = temp
         prev_left.next.next = cur
         prev_left.next = prv
         return res.next
@@ -853,10 +853,10 @@ public:
         }
         ListNode *prv = NULL;
         for (int i=0; i<right-left+1; i++) {
-            ListNode *tmp = cur->next;
+            ListNode *temp = cur->next;
             cur->next = prv;
             prv = cur;
-            cur = tmp;
+            cur = temp;
         }
         prev_left->next->next = cur;
         prev_left->next = prv;

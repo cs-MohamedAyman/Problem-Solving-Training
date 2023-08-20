@@ -1134,9 +1134,9 @@ class Codec {
 public:
     string serialize(TreeNode *root) {
         dfs1(root);
-        stringstream tmp;
-        copy(res.begin(), res.end(), ostream_iterator<string>(tmp, ","));
-        return tmp.str();
+        stringstream temp;
+        copy(res.begin(), res.end(), ostream_iterator<string>(temp, ","));
+        return temp.str();
     }
     TreeNode* deserialize(string s) {
         int pos = 0;
