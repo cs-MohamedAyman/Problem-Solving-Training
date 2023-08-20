@@ -762,85 +762,85 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-divisors/problem">sherlock and divisors</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-divisors/problem">Sherlock and Divisors</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/halloween-party/problem">halloween party</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/halloween-party/problem">Halloween party</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/filling-jars/problem">filling jars</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/filling-jars/problem">Filling Jars</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem">harry potter and the floating rocks</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem">Sumar and the Floating Rocks</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/russian-peasant-exponentiation/problem">russian peasant exponentiation</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/russian-peasant-exponentiation/problem">Russian Peasant Exponentiation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/most-distant/problem">most distant</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/most-distant/problem">Most Distant</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/possible-path/problem">possible path</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/possible-path/problem">Possible Path</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/summing-the-n-series/problem">summing the n series</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/summing-the-n-series/problem">Summing the N series</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/diwali-lights/problem">diwali lights</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/diwali-lights/problem">Diwali Lights</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/special-multiple/problem">special multiple</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/special-multiple/problem">Special Multiple</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-permutations/problem">sherlock and permutations</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-permutations/problem">Sherlock and Permutations</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/even-odd-query/problem">even odd query</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/even-odd-query/problem">Even Odd Query</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/matrix-tracing/problem">matrix tracing</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/matrix-tracing/problem">Matrix Tracing</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/byteland-itinerary/problem">byteland itinerary</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/byteland-itinerary/problem">Byteland Itinerary</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md">Solution</a></th>
         </tr>
