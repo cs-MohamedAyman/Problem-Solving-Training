@@ -3,7 +3,7 @@
 # HackerRank OJ - Algorithms Basics <br> Math Fundamentals I `15 problems`
 
 ## Find the Point
-Problem Link: https://www.hackerrank.com/challenges/find-point/problem
+Problem Link: https://hackerrank.com/challenges/find-point/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -28,7 +28,7 @@ vector<int> findPoint(int px, int py, int qx, int qy) {
 </details>
 
 ## Maximum Draws
-Problem Link: https://www.hackerrank.com/challenges/maximum-draws/problem
+Problem Link: https://hackerrank.com/challenges/maximum-draws/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -53,7 +53,7 @@ int maximumDraws(int n) {
 </details>
 
 ## Handshake
-Problem Link: https://www.hackerrank.com/challenges/handshake/problem
+Problem Link: https://hackerrank.com/challenges/handshake/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -78,7 +78,7 @@ int handshake(int n) {
 </details>
 
 ## Minimum Height Triangle
-Problem Link: https://www.hackerrank.com/challenges/lowest-triangle/problem
+Problem Link: https://hackerrank.com/challenges/lowest-triangle/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -103,7 +103,7 @@ int lowestTriangle(int base, int area) {
 </details>
 
 ## Army Game
-Problem Link: https://www.hackerrank.com/challenges/game-with-cells/problem
+Problem Link: https://hackerrank.com/challenges/game-with-cells/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -128,7 +128,7 @@ int gameWithCells(int n, int m) {
 </details>
 
 ## Leonardo's Prime Factors
-Problem Link: https://www.hackerrank.com/challenges/leonardo-and-prime/problem
+Problem Link: https://hackerrank.com/challenges/leonardo-and-prime/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -166,7 +166,7 @@ int primeCount(long n) {
 </details>
 
 ## Connecting Towns
-Problem Link: https://www.hackerrank.com/challenges/connecting-towns/problem
+Problem Link: https://hackerrank.com/challenges/connecting-towns/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -197,7 +197,7 @@ int connectingTowns(int n, vector<int> routes) {
 </details>
 
 ## Cutting Paper Squares
-Problem Link: https://www.hackerrank.com/challenges/p1-paper-cutting/problem
+Problem Link: https://hackerrank.com/challenges/p1-paper-cutting/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -222,7 +222,7 @@ long solve(int n, int m) {
 </details>
 
 ## Sherlock and Moving Tiles
-Problem Link: https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem
+Problem Link: https://hackerrank.com/challenges/sherlock-and-moving-tiles/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -244,7 +244,7 @@ Problem Link: https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/pr
 </details>
 
 ## Best Divisor
-Problem Link: https://www.hackerrank.com/challenges/best-divisor/problem
+Problem Link: https://hackerrank.com/challenges/best-divisor/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -306,7 +306,7 @@ int divisors(int n) {
 </details>
 
 ## Restaurant
-Problem Link: https://www.hackerrank.com/challenges/restaurant/problem
+Problem Link: https://hackerrank.com/challenges/restaurant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -333,7 +333,7 @@ int restaurant(int l, int b) {
 </details>
 
 ## Reverse Game
-Problem Link: https://www.hackerrank.com/challenges/reverse-game/problem
+Problem Link: https://hackerrank.com/challenges/reverse-game/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -355,7 +355,7 @@ Problem Link: https://www.hackerrank.com/challenges/reverse-game/problem
 </details>
 
 ## Strange Grid Again
-Problem Link: https://www.hackerrank.com/challenges/strange-grid/problem
+Problem Link: https://hackerrank.com/challenges/strange-grid/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -377,7 +377,7 @@ Problem Link: https://www.hackerrank.com/challenges/strange-grid/problem
 </details>
 
 ## Constructing a Number
-Problem Link: https://www.hackerrank.com/challenges/constructing-a-number/problem
+Problem Link: https://hackerrank.com/challenges/constructing-a-number/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -409,7 +409,7 @@ string canConstruct(vector<int> a) {
 </details>
 
 ## Sherlock and GCD
-Problem Link: https://www.hackerrank.com/challenges/sherlock-and-gcd/problem
+Problem Link: https://hackerrank.com/challenges/sherlock-and-gcd/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -435,7 +435,7 @@ string solve(vector<int> a) {
     int curr_gcd = a[0];
     for (auto &i : a) {
         curr_gcd = gcd(curr_gcd, i);
-        if (curr_gcd == 1) 
+        if (curr_gcd == 1)
             return "YES";
     }
     return "NO";
@@ -445,7 +445,7 @@ string solve(vector<int> a) {
 </details>
 
 ## Primitive Problem
-Problem Link: https://www.hackerrank.com/challenges/primitive-problem/problem
+Problem Link: https://hackerrank.com/challenges/primitive-problem/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

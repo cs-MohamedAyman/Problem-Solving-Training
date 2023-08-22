@@ -3,7 +3,7 @@
 # HackerRank OJ - Algorithms Basics <br> Math Fundamentals II `15 problems`
 
 ## Sherlock and Divisors
-Problem Link: https://www.hackerrank.com/challenges/sherlock-and-divisors/problem
+Problem Link: https://hackerrank.com/challenges/sherlock-and-divisors/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -46,7 +46,7 @@ int divisors(int n) {
 </details>
 
 ## Halloween party
-Problem Link: https://www.hackerrank.com/challenges/halloween-party/problem
+Problem Link: https://hackerrank.com/challenges/halloween-party/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -75,7 +75,7 @@ long halloweenParty(int k) {
 </details>
 
 ## Filling Jars
-Problem Link: https://www.hackerrank.com/challenges/filling-jars/problem
+Problem Link: https://hackerrank.com/challenges/filling-jars/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -106,7 +106,7 @@ long solve(int n, vector<vector<int>> operations) {
 </details>
 
 ## Sumar and the Floating Rocks
-Problem Link: https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem
+Problem Link: https://hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -131,7 +131,7 @@ int solve(int x1, int y1, int x2, int y2) {
 </details>
 
 ## Russian Peasant Exponentiation
-Problem Link: https://www.hackerrank.com/challenges/russian-peasant-exponentiation/problem
+Problem Link: https://hackerrank.com/challenges/russian-peasant-exponentiation/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -182,7 +182,7 @@ vector<long> solve(long a, long b, long k, int m) {
 </details>
 
 ## Most Distant
-Problem Link: https://www.hackerrank.com/challenges/most-distant/problem
+Problem Link: https://hackerrank.com/challenges/most-distant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -216,7 +216,7 @@ def solve(coordinates):
 </details>
 
 ## Possible Path
-Problem Link: https://www.hackerrank.com/challenges/possible-path/problem
+Problem Link: https://hackerrank.com/challenges/possible-path/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -241,7 +241,7 @@ string solve(long a, long b, long x, long y) {
 </details>
 
 ## Summing the N series
-Problem Link: https://www.hackerrank.com/challenges/summing-the-n-series/problem
+Problem Link: https://hackerrank.com/challenges/summing-the-n-series/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -270,7 +270,7 @@ int summingSeries(long n) {
 </details>
 
 ## Diwali Lights
-Problem Link: https://www.hackerrank.com/challenges/diwali-lights/problem
+Problem Link: https://hackerrank.com/challenges/diwali-lights/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -320,7 +320,7 @@ long lights(int n) {
 </details>
 
 ## Special Multiple
-Problem Link: https://www.hackerrank.com/challenges/special-multiple/problem
+Problem Link: https://hackerrank.com/challenges/special-multiple/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -371,7 +371,7 @@ string solve(int n) {
 </details>
 
 ## Sherlock and Permutations
-Problem Link: https://www.hackerrank.com/challenges/sherlock-and-permutations/problem
+Problem Link: https://hackerrank.com/challenges/sherlock-and-permutations/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -433,7 +433,7 @@ void build_prerequisite() {
 </details>
 
 ## Even Odd Query
-Problem Link: https://www.hackerrank.com/challenges/even-odd-query/problem
+Problem Link: https://hackerrank.com/challenges/even-odd-query/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -471,7 +471,7 @@ vector<string> solve(vector<int> arr, vector<vector<int>> queries) {
 </details>
 
 ## Matrix Tracing
-Problem Link: https://www.hackerrank.com/challenges/matrix-tracing/problem
+Problem Link: https://hackerrank.com/challenges/matrix-tracing/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -533,7 +533,7 @@ void build_prerequisite() {
 </details>
 
 ## Byteland Itinerary
-Problem Link: https://www.hackerrank.com/challenges/byteland-itinerary/problem
+Problem Link: https://hackerrank.com/challenges/byteland-itinerary/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

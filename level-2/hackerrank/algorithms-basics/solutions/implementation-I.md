@@ -3,7 +3,7 @@
 # HackerRank OJ - Algorithms Basics <br> Implementation I `20 problems`
 
 ## Grading Students
-Problem Link: https://www.hackerrank.com/challenges/grading/problem
+Problem Link: https://hackerrank.com/challenges/grading/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -43,7 +43,7 @@ vector<int> gradingStudents(vector<int> grades) {
 </details>
 
 ## Apple and Orange
-Problem Link: https://www.hackerrank.com/challenges/apple-and-orange/problem
+Problem Link: https://hackerrank.com/challenges/apple-and-orange/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -84,7 +84,7 @@ void countApplesAndOranges(int s, int t, int a, int b, vector<int> &apples, vect
 </details>
 
 ## Number Line Jumps
-Problem Link: https://www.hackerrank.com/challenges/kangaroo/problem
+Problem Link: https://hackerrank.com/challenges/kangaroo/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -132,7 +132,7 @@ string kangaroo(int x1, int v1, int x2, int v2) {
 </details>
 
 ## Between Two Sets
-Problem Link: https://www.hackerrank.com/challenges/between-two-sets/problem
+Problem Link: https://hackerrank.com/challenges/between-two-sets/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -184,7 +184,7 @@ int getTotalX(vector<int> a, vector<int> b) {
 </details>
 
 ## Breaking the Records
-Problem Link: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+Problem Link: https://hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -230,7 +230,7 @@ vector<int> breakingRecords(vector<int> scores) {
 </details>
 
 ## Subarray Division
-Problem Link: https://www.hackerrank.com/challenges/the-birthday-bar/problem
+Problem Link: https://hackerrank.com/challenges/the-birthday-bar/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -270,7 +270,7 @@ int birthday(vector<int> s, int d, int m) {
 </details>
 
 ## Divisible Sum Pairs
-Problem Link: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+Problem Link: https://hackerrank.com/challenges/divisible-sum-pairs/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -307,7 +307,7 @@ int divisibleSumPairs(int n, int k, vector<int> arr) {
 </details>
 
 ## Migratory Birds
-Problem Link: https://www.hackerrank.com/challenges/migratory-birds/problem
+Problem Link: https://hackerrank.com/challenges/migratory-birds/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -339,7 +339,7 @@ int migratoryBirds(vector<int> arr) {
 </details>
 
 ## Day of the Programmer
-Problem Link: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+Problem Link: https://hackerrank.com/challenges/day-of-the-programmer/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -376,7 +376,7 @@ string dayOfProgrammer(int year) {
 </details>
 
 ## Bill Division
-Problem Link: https://www.hackerrank.com/challenges/bon-appetit/problem
+Problem Link: https://hackerrank.com/challenges/bon-appetit/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -420,7 +420,7 @@ void bonAppetit(vector<int> bill, int k, int b) {
 </details>
 
 ## Sales by Match
-Problem Link: https://www.hackerrank.com/challenges/sock-merchant/problem
+Problem Link: https://hackerrank.com/challenges/sock-merchant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -453,7 +453,7 @@ int sockMerchant(int n, vector<int> arr) {
 </details>
 
 ## Drawing Book
-Problem Link: https://www.hackerrank.com/challenges/drawing-book/problem
+Problem Link: https://hackerrank.com/challenges/drawing-book/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -478,7 +478,7 @@ int pageCount(int n, int p) {
 </details>
 
 ## Counting Valleys
-Problem Link: https://www.hackerrank.com/challenges/counting-valleys/problem
+Problem Link: https://hackerrank.com/challenges/counting-valleys/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -520,7 +520,7 @@ int countingValleys(int steps, string path) {
 </details>
 
 ## Electronics Shop
-Problem Link: https://www.hackerrank.com/challenges/electronics-shop/problem
+Problem Link: https://hackerrank.com/challenges/electronics-shop/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -571,7 +571,7 @@ int getMoneySpent(vector<int> keyboards, vector<int> drives, int b) {
 </details>
 
 ## Cats and a Mouse
-Problem Link: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+Problem Link: https://hackerrank.com/challenges/cats-and-a-mouse/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -610,7 +610,7 @@ string catAndMouse(int x, int y, int z) {
 </details>
 
 ## The Hurdle Race
-Problem Link: https://www.hackerrank.com/challenges/the-hurdle-race/problem
+Problem Link: https://hackerrank.com/challenges/the-hurdle-race/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -636,7 +636,7 @@ int hurdleRace(int k, vector<int> height) {
 </details>
 
 ## Designer PDF Viewer
-Problem Link: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+Problem Link: https://hackerrank.com/challenges/designer-pdf-viewer/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -667,7 +667,7 @@ int designerPdfViewer(vector<int> h, string word) {
 </details>
 
 ## Utopian Tree
-Problem Link: https://www.hackerrank.com/challenges/utopian-tree/problem
+Problem Link: https://hackerrank.com/challenges/utopian-tree/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -693,9 +693,9 @@ def utopianTree(n):
 int utopianTree(int n) {
     int height = 1;
     for (int i=0 ; i<n ; i++) {
-        if (i%2 == 1) 
+        if (i%2 == 1)
             height ++;
-        else 
+        else
             height *= 2;
     }
     return height;
@@ -705,7 +705,7 @@ int utopianTree(int n) {
 </details>
 
 ## Angry Professor
-Problem Link: https://www.hackerrank.com/challenges/angry-professor/problem
+Problem Link: https://hackerrank.com/challenges/angry-professor/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

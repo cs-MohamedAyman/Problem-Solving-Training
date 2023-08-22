@@ -3,7 +3,7 @@
 # HackerRank OJ - Data Structures <br> Bit Manipulation `15 problems`
 
 ## Lonely Integer
-Problem Link: https://www.hackerrank.com/challenges/lonely-integer/problem
+Problem Link: https://hackerrank.com/challenges/lonely-integer/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -34,7 +34,7 @@ int lonelyinteger(vector<int> a) {
 </details>
 
 ## Maximizing XOR
-Problem Link: https://www.hackerrank.com/challenges/maximizing-xor/problem
+Problem Link: https://hackerrank.com/challenges/maximizing-xor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -67,7 +67,7 @@ int maximizingXor(int l, int r) {
 </details>
 
 ## Sum vs XOR
-Problem Link: https://www.hackerrank.com/challenges/sum-vs-xor/problem
+Problem Link: https://hackerrank.com/challenges/sum-vs-xor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -92,7 +92,7 @@ long sumXor(long n) {
     int res = 0;
     while (n) {
         res += 1 - (n % 2);
-        n >>= 1; 
+        n >>= 1;
     }
     return 1LL << res;
 }
@@ -101,7 +101,7 @@ long sumXor(long n) {
 </details>
 
 ## Flipping bits
-Problem Link: https://www.hackerrank.com/challenges/flipping-bits/problem
+Problem Link: https://hackerrank.com/challenges/flipping-bits/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -126,7 +126,7 @@ long flippingBits(long n) {
 </details>
 
 ## Counter game
-Problem Link: https://www.hackerrank.com/challenges/counter-game/problem
+Problem Link: https://hackerrank.com/challenges/counter-game/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -166,9 +166,9 @@ string counterGame(long n) {
             cnt ++;
         }
         long a = 1LL << (cnt - 1);
-        if (n == a) 
+        if (n == a)
             n >>= 1;
-        else 
+        else
             n -= a;
         res ++;
     }
@@ -179,7 +179,7 @@ string counterGame(long n) {
 </details>
 
 ## Xor-sequence
-Problem Link: https://www.hackerrank.com/challenges/xor-se/problem
+Problem Link: https://hackerrank.com/challenges/xor-se/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -216,12 +216,12 @@ def xorSequence(l, r):
 long clac_xor(long x) {
     long y = (x >> 2) << 2;
     long res = 0;
-    for (long i=y; i<x+1; i++) 
+    for (long i=y; i<x+1; i++)
         res ^= i;
     return res;
 }
 long get(long x) {
-    if (x == 0) 
+    if (x == 0)
         return 0;
     long k = (x + 1) >> 1;
     if (x % 2)
@@ -237,7 +237,7 @@ long xorSequence(long l, long r) {
 </details>
 
 ## The Great XOR
-Problem Link: https://www.hackerrank.com/challenges/the-great-xor/problem
+Problem Link: https://hackerrank.com/challenges/the-great-xor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -275,7 +275,7 @@ long theGreatXor(long x) {
 </details>
 
 ## Yet Another Minimax Problem
-Problem Link: https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem
+Problem Link: https://hackerrank.com/challenges/yet-another-minimax-problem/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -297,7 +297,7 @@ Problem Link: https://www.hackerrank.com/challenges/yet-another-minimax-problem/
 </details>
 
 ## Sansa and XOR
-Problem Link: https://www.hackerrank.com/challenges/sansa-and-xor/problem
+Problem Link: https://hackerrank.com/challenges/sansa-and-xor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -333,7 +333,7 @@ int sansaXor(vector<int> arr) {
 </details>
 
 ## AND Product
-Problem Link: https://www.hackerrank.com/challenges/and-product/problem
+Problem Link: https://hackerrank.com/challenges/and-product/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -355,7 +355,7 @@ Problem Link: https://www.hackerrank.com/challenges/and-product/problem
 </details>
 
 ## Winning Lottery Ticket
-Problem Link: https://www.hackerrank.com/challenges/winning-lottery-ticket/problem
+Problem Link: https://hackerrank.com/challenges/winning-lottery-ticket/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -377,7 +377,7 @@ Problem Link: https://www.hackerrank.com/challenges/winning-lottery-ticket/probl
 </details>
 
 ## Cipher
-Problem Link: https://www.hackerrank.com/challenges/cipher/problem
+Problem Link: https://hackerrank.com/challenges/cipher/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -399,7 +399,7 @@ Problem Link: https://www.hackerrank.com/challenges/cipher/problem
 </details>
 
 ## What's Next?
-Problem Link: https://www.hackerrank.com/challenges/whats-next/problem
+Problem Link: https://hackerrank.com/challenges/whats-next/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -421,7 +421,7 @@ Problem Link: https://www.hackerrank.com/challenges/whats-next/problem
 </details>
 
 ## A or B
-Problem Link: https://www.hackerrank.com/challenges/aorb/problem
+Problem Link: https://hackerrank.com/challenges/aorb/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
