@@ -399,121 +399,115 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/grading/problem">grading</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/grading/problem">Grading Students</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/apple-and-orange/problem">apple and orange</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/apple-and-orange/problem">Apple and Orange</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/kangaroo/problem">kangaroo</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/kangaroo/problem">Number Line Jumps</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/between-two-sets/problem">between two sets</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/between-two-sets/problem">Between Two Sets</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/breaking-best-and-worst-records/problem">breaking best and worst records</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/breaking-best-and-worst-records/problem">Breaking the Records</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-birthday-bar/problem">the birthday bar</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/the-birthday-bar/problem">Subarray Division</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/divisible-sum-pairs/problem">divisible sum pairs</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/divisible-sum-pairs/problem">Divisible Sum Pairs</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/migratory-birds/problem">migratory birds</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/migratory-birds/problem">Migratory Birds</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/day-of-the-programmer/problem">day of the programmer</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/day-of-the-programmer/problem">Day of the Programmer</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/bon-appetit/problem">bon appetit</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/bon-appetit/problem">Bill Division</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sock-merchant/problem">sock merchant</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sock-merchant/problem">Sales by Match</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/drawing-book/problem">drawing book</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/drawing-book/problem">Drawing Book</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/counting-valleys/problem">counting valleys</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/counting-valleys/problem">Counting Valleys</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/electronics-shop/problem">electronics shop</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/electronics-shop/problem">Electronics Shop</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/cats-and-a-mouse/problem">cats and a mouse</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/cats-and-a-mouse/problem">Cats and a Mouse</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/counting-valleys/problem">counting valleys</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/the-hurdle-race/problem">The Hurdle Race</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-hurdle-race/problem">the hurdle race</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/designer-pdf-viewer/problem">Designer PDF Viewer</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/designer-pdf-viewer/problem">designer pdf viewer</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/utopian-tree/problem">Utopian Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/utopian-tree/problem">utopian tree</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">20</th>
-<th align="left"><a href="https://hackerrank.com/challenges/angry-professor/problem">angry professor</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/angry-professor/problem">Angry Professor</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
