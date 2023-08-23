@@ -734,3 +734,46 @@ string angryProfessor(int k, vector<int> a) {
 ```
 
 </details>
+
+## Minimum Distances
+Problem Link: https://www.hackerrank.com/challenges/minimum-distances/problem
+
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<details>
+    <summary><h5>Python Solution</h5></summary>
+
+```python
+def minimumDistances(a):
+    res = 2e9
+    for i in range(len(a)):
+        for j in range(i+1, len(a)):
+            if a[i] == a[j] and res > j-i:
+                res = j-i
+    if res == 2e9:
+        return -1
+    else:
+        return res
+```
+
+</details>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<details>
+    <summary><h5>CPP Solution</h5></summary>
+
+```cpp
+int minimumDistances(vector<int> a) {
+    int res = 2e9;
+    for (int i = 0; i < size(a); i++) {
+        for (int j = i+1; j < size(a); j++) {
+            if (a[i] == a[j] and res > j-i)
+                res = j-i;
+        }
+    }
+    if (res == 2e9) 
+        return -1;
+    else
+        return res;
+}
+```
+
+</details>

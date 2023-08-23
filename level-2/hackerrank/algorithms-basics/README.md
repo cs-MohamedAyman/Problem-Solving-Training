@@ -511,6 +511,12 @@
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
         </tr>
+        <tr>
+<th align="center">20</th>
+<th align="left"><a href="https://hackerrank.com/challenges/minimum-distances/problem">Minimum Distances</a></th>
+<th align="left"></th>
+<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md">Solution</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -619,12 +625,6 @@
         <tr>
 <th align="center">16</th>
 <th align="left"><a href="https://hackerrank.com/challenges/taum-and-bday/problem">taum and bday</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/minimum-distances/problem">minimum distances</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
