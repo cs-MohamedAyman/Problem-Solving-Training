@@ -736,7 +736,7 @@ string angryProfessor(int k, vector<int> a) {
 </details>
 
 ## Minimum Distances
-Problem Link: https://www.hackerrank.com/challenges/minimum-distances/problem
+Problem Link: https://hackerrank.com/challenges/minimum-distances/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -769,7 +769,7 @@ int minimumDistances(vector<int> a) {
                 res = j-i;
         }
     }
-    if (res == 2e9) 
+    if (res == 2e9)
         return -1;
     else
         return res;

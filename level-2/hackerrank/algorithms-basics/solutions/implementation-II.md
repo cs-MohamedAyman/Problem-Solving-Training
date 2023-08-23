@@ -3,7 +3,7 @@
 # HackerRank OJ - Algorithms Basics <br> Implementation II `15 problems`
 
 ## Beautiful Days at the Movies
-Problem Link: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+Problem Link: https://hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -56,7 +56,7 @@ int beautifulDays(int i, int j, int k) {
 </details>
 
 ## Viral Advertising
-Problem Link: https://www.hackerrank.com/challenges/strange-advertising/problem
+Problem Link: https://hackerrank.com/challenges/strange-advertising/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -90,7 +90,7 @@ int viralAdvertising(int n) {
 </details>
 
 ## Save the Prisoner!
-Problem Link: https://www.hackerrank.com/challenges/save-the-prisoner/problem
+Problem Link: https://hackerrank.com/challenges/save-the-prisoner/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -117,7 +117,7 @@ int saveThePrisoner(int n, int m, int s) {
 </details>
 
 ## Circular Array Rotation
-Problem Link: https://www.hackerrank.com/challenges/circular-array-rotation/problem
+Problem Link: https://hackerrank.com/challenges/circular-array-rotation/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -153,7 +153,7 @@ vector<int> circularArrayRotation(vector<int> a, int k, vector<int> queries) {
 </details>
 
 ## Sequence Equation
-Problem Link: https://www.hackerrank.com/challenges/permutation-equation/problem
+Problem Link: https://hackerrank.com/challenges/permutation-equation/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -193,7 +193,7 @@ vector<int> permutationEquation(vector<int> p) {
 </details>
 
 ## Jumping on the Clouds: Revisited
-Problem Link: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+Problem Link: https://hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -229,7 +229,7 @@ int jumpingOnClouds(vector<int> c, int k) {
 </details>
 
 ## Find Digits
-Problem Link: https://www.hackerrank.com/challenges/find-digits/problem
+Problem Link: https://hackerrank.com/challenges/find-digits/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -267,7 +267,7 @@ int findDigits(int n) {
 </details>
 
 ## Append and Delete
-Problem Link: https://www.hackerrank.com/challenges/append-and-delete/problem
+Problem Link: https://hackerrank.com/challenges/append-and-delete/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -306,7 +306,7 @@ string appendAndDelete(string s, string t, int k) {
 </details>
 
 ## Sherlock and Squares
-Problem Link: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+Problem Link: https://hackerrank.com/challenges/sherlock-and-squares/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -333,7 +333,7 @@ int squares(int a, int b) {
 </details>
 
 ## Library Fine
-Problem Link: https://www.hackerrank.com/challenges/library-fine/problem
+Problem Link: https://hackerrank.com/challenges/library-fine/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -372,7 +372,7 @@ int libraryFine(int d1, int m1, int y1, int d2, int m2, int y2) {
 </details>
 
 ## Cut the sticks
-Problem Link: https://www.hackerrank.com/challenges/cut-the-sticks/problem
+Problem Link: https://hackerrank.com/challenges/cut-the-sticks/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -411,7 +411,7 @@ vector<int> cutTheSticks(vector<int> arr) {
 </details>
 
 ## Repeated String
-Problem Link: https://www.hackerrank.com/challenges/repeated-string/problem
+Problem Link: https://hackerrank.com/challenges/repeated-string/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -454,7 +454,7 @@ long repeatedString(string s, long n) {
 </details>
 
 ## Jumping on the Clouds
-Problem Link: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+Problem Link: https://hackerrank.com/challenges/jumping-on-the-clouds/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -492,7 +492,7 @@ int jumpingOnClouds(vector<int> c) {
 </details>
 
 ## Equalize the Array
-Problem Link: https://www.hackerrank.com/challenges/equality-in-a-array/problem
+Problem Link: https://hackerrank.com/challenges/equality-in-a-array/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -539,7 +539,7 @@ int equalizeArray(vector<int> arr) {
 </details>
 
 ## ACM ICPC Team
-Problem Link: https://www.hackerrank.com/challenges/acm-icpc-team/problem
+Problem Link: https://hackerrank.com/challenges/acm-icpc-team/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -591,7 +591,7 @@ vector<int> acmTeam(vector<string> topic) {
 </details>
 
 ## Taum and B'day
-Problem Link: https://www.hackerrank.com/challenges/taum-and-bday/problem
+Problem Link: https://hackerrank.com/challenges/taum-and-bday/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
