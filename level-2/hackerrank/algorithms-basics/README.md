@@ -534,97 +534,97 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/beautiful-days-at-the-movies/problem">beautiful days at the movies</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/beautiful-days-at-the-movies/problem">Beautiful Days at the Movies</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/strange-advertising/problem">strange advertising</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/strange-advertising/problem">Viral Advertising</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/save-the-prisoner/problem">save the prisoner</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/save-the-prisoner/problem">Save the Prisoner</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/circular-array-rotation/problem">circular array rotation</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/circular-array-rotation/problem">Circular Array Rotation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/permutation-equation/problem">permutation equation</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/permutation-equation/problem">Sequence Equation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem">jumping on the clouds revisited</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem">Jumping on the Clouds: Revisited</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-digits/problem">find digits</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-digits/problem">Find Digits</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/append-and-delete/problem">append and delete</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/append-and-delete/problem">Append and Delete</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-squares/problem">sherlock and squares</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/sherlock-and-squares/problem">Sherlock and Squares</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/library-fine/problem">library fine</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/library-fine/problem">Library Fine</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/cut-the-sticks/problem">cut the sticks</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/cut-the-sticks/problem">Cut the sticks</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/repeated-string/problem">repeated string</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/repeated-string/problem">Repeated String</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jumping-on-the-clouds/problem">jumping on the clouds</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/jumping-on-the-clouds/problem">Jumping on the Clouds</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/equality-in-a-array/problem">equality in a array</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/equality-in-a-array/problem">Equalize the Array</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/acm-icpc-team/problem">acm icpc team</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/acm-icpc-team/problem">ACM ICPC Team</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/taum-and-bday/problem">taum and bday</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/taum-and-bday/problem">Taum and B'day</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md">Solution</a></th>
         </tr>
