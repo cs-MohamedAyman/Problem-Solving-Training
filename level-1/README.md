@@ -1,4 +1,4 @@
-<a href="/README.md"><img align="right" width="200" src="/logos/problem-solving-training.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="200" src="/logos/problem-solving-training.png"></img></a>
 
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
