@@ -10,7 +10,7 @@
 - ***Functions and Libraries II***  `20 problems`
 - ***Classes***                     `10 problems`
 
-## HackerRank - Introduction `25 problems`
+## HackerRank - Introduction `25 problems` [`Solutions`](/level-1/hackerrank/python/solutions/introduction.md)
 
 <table>
     <tbody>
@@ -69,7 +69,7 @@
     </tbody>
 </table>
 
-## HackerRank - Collections `25 problems`
+## HackerRank - Collections `25 problems` [`Solutions`](/level-1/hackerrank/python/solutions/collections.md)
 
 <table>
     <tbody>
@@ -128,7 +128,7 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries I `20 problems`
+## HackerRank - Functions and Libraries I `20 problems` [`Solutions`](/level-1/hackerrank/python/solutions/functions-libraries-I.md)
 
 <table>
     <tbody>
@@ -175,7 +175,7 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries II `20 problems`
+## HackerRank - Functions and Libraries II `20 problems` [`Solutions`](/level-1/hackerrank/python/solutions/functions-libraries-II.md)
 
 <table>
     <tbody>
@@ -223,7 +223,7 @@
 </table>
 
 
-## HackerRank - Classes `10 problems`
+## HackerRank - Classes `10 problems` [`Solutions`](/level-1/hackerrank/python/solutions/classes.md)
 
 <table>
     <tbody>

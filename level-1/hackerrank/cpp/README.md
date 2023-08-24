@@ -10,7 +10,7 @@
 - ***Structs and Classes***          `15 problems`
 - ***Implementation***               `15 problems`
 
-## HackerRank - Introduction `20 problems`
+## HackerRank - Introduction `20 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/introduction.md)
 
 <table>
     <tbody>
@@ -57,7 +57,7 @@
     </tbody>
 </table>
 
-## HackerRank - Arrays and Strings `10 problems`
+## HackerRank - Arrays and Strings `10 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/arrays-strings.md)
 
 <table>
     <tbody>
@@ -80,7 +80,7 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries `10 problems`
+## HackerRank - Functions and Libraries `10 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/functions-libraries.md)
 
 <table>
     <tbody>
@@ -115,7 +115,7 @@
     </tbody>
 </table>
 
-## HackerRank - Structs and Classes `15 problems`
+## HackerRank - Structs and Classes `15 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/structs-classes.md)
 
 <table>
     <tbody>
@@ -157,7 +157,7 @@
     </tbody>
 </table>
 
-## HackerRank - Implementation `15 problems`
+## HackerRank - Implementation `15 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/implementation.md)
 
 <table>
     <tbody>
