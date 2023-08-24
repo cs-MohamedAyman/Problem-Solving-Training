@@ -11,8 +11,8 @@ Problem Solving Training for computer science students.
 <table>
     <thead>
         <tr>
-<th align="center" width="500px"><a href="/level-1/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
-<th align="center" width="500px"><a href="/level-1/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
+<th align="center" width="550px"><a href="/level-1/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
+<th align="center" width="550px"><a href="/level-1/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
         </tr>
     </thead>
     <tbody>
@@ -30,8 +30,8 @@ Problem Solving Training for computer science students.
 <table>
     <thead>
         <tr>
-<th align="center" width="500px"><a href="/level-2/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
-<th align="center" width="500px"><a href="/level-2/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
+<th align="center" width="550px"><a href="/level-2/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
+<th align="center" width="550px"><a href="/level-2/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
         </tr>
     </thead>
     <tbody>
@@ -51,8 +51,8 @@ Problem Solving Training for computer science students.
 <table>
     <thead>
         <tr>
-<th align="center" width="500px"><a href="/level-3/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
-<th align="center" width="500px"><a href="/level-3/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
+<th align="center" width="550px"><a href="/level-3/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
+<th align="center" width="550px"><a href="/level-3/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
         </tr>
     </thead>
     <tbody>
