@@ -10,7 +10,6 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
-  * [Level Timeline](#level-timeline)
   * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
   * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
   * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
@@ -27,11 +26,6 @@ This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 6 
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Advanced-Data-Structures-and-Algorithms/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
-
-## [`Level Timeline`](/level-3/Timeline.md)
-
-<a href="/level-3/Timeline.md"><img width="100%" src="/logos/level-3-timeline.png"></img></a>
-<br><br>
 
 <a href="/level-3/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>

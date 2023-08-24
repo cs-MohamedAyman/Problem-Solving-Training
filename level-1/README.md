@@ -10,7 +10,6 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
-  * [Level Timeline](#level-timeline)
   * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
   * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
   * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
@@ -26,11 +25,6 @@ This level simply consists of 12 sheets, 2 sheets on HackerRank Online Judge, 4 
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Programming-Languages-and-Object-Oriented/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
-
-## [`Level Timeline`](/level-1/Timeline.md)
-
-<a href="/level-1/Timeline.md"><img width="100%" src="/logos/level-1-timeline.png"></img></a>
-<br><br>
 
 <a href="/level-1/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>

@@ -10,7 +10,6 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
-  * [Level Timeline](#level-timeline)
   * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
   * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
   * [Google Competitions Sheets](#google-competitions-sheets)
@@ -25,10 +24,6 @@ Problem Solving Training for computer science students.
 coming soon ...
 
 ## `Prerequisite Knowledge`
-
-coming soon ...
-
-## [`Level Timeline`](/level-4/Timeline.md)
 
 coming soon ...
 
