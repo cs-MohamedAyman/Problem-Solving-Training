@@ -186,7 +186,7 @@ def connectingTowns(n, routes):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int connectingTowns(int n, vector<int> routes) {
+int connectingTowns(int n, vector<int> &routes) {
     int res = 1;
     for (auto &i : routes)
         res = (res * i) % 1234567;
@@ -397,7 +397,7 @@ def canConstruct(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-string canConstruct(vector<int> a) {
+string canConstruct(vector<int> &a) {
     long arr_sum = accumulate(a.begin(), a.end(), 0LL);
     if (arr_sum % 3 == 0)
         return "Yes";
@@ -431,7 +431,7 @@ def solve(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-string solve(vector<int> a) {
+string solve(vector<int> &a) {
     int curr_gcd = a[0];
     for (auto &i : a) {
         curr_gcd = gcd(curr_gcd, i);

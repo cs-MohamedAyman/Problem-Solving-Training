@@ -139,7 +139,7 @@ def circularArrayRotation(a, k, queries):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> circularArrayRotation(vector<int> a, int k, vector<int> queries) {
+vector<int> circularArrayRotation(vector<int> &a, int k, vector<int> &queries) {
     int x = k % size(a);
     vector<int> t(a.begin(), a.end()-x);
     t.insert(t.begin(), a.end()-x, a.end());
@@ -176,7 +176,7 @@ def permutationEquation(p):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> permutationEquation(vector<int> p) {
+vector<int> permutationEquation(vector<int> &p) {
     vector<int> res(size(p));
     for (int i=0; i<size(p); i++) {
         for (int j=0; j<size(p); j++) {
@@ -215,7 +215,7 @@ def jumpingOnClouds(c, k):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int jumpingOnClouds(vector<int> c, int k) {
+int jumpingOnClouds(vector<int> &c, int k) {
     int curr = k % size(c);
     int res = 99 - c[curr] * 2;
     while (curr) {
@@ -396,7 +396,7 @@ def cutTheSticks(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> cutTheSticks(vector<int> arr) {
+vector<int> cutTheSticks(vector<int> &arr) {
     map<int, int> d;
     for (auto &i : arr)
         d[i] ++;
@@ -477,7 +477,7 @@ def jumpingOnClouds(c):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int jumpingOnClouds(vector<int> c) {
+int jumpingOnClouds(vector<int> &c) {
     int res = 0, i = 0;
     while (i < size(c)-1) {
         if (i+2 < size(c) and c[i+2] == 0)
@@ -517,7 +517,7 @@ def equalizeArray(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int equalizeArray(vector<int> arr) {
+int equalizeArray(vector<int> &arr) {
     map<int, int> cnt;
     for (auto &i : arr)
         cnt[i] ++;

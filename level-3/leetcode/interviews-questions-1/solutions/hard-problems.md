@@ -1435,7 +1435,7 @@ class Solution:
 
 ```cpp
 class Solution {
-    int binary_search(vector<int> arr, int x) {
+    int binary_search(vector<int> &arr, int x) {
         int l = 0, r = size(arr);
         while (l < r) {
             int m = (l+r) / 2;

@@ -46,7 +46,7 @@ def equalStacks(h1, h2, h3):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int equalStacks(vector<int> h1, vector<int> h2, vector<int> h3) {
+int equalStacks(vector<int> &h1, vector<int> &h2, vector<int> &h3) {
     stack<int> s1, s2, s3;
     int sum_h1 = 0, sum_h2 = 0, sum_h3 = 0;
     int res = 0;
@@ -360,7 +360,7 @@ def largestRectangle(h):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-long largestRectangle(vector<int> h) {
+long largestRectangle(vector<int> &h) {
     stack<int> stk;
     int i = 0;
     int res = 0;
@@ -552,7 +552,7 @@ vector<int> constract_seive() {
     }
     return primes;
 }
-vector<int> waiter(vector<int> nums, int q) {
+vector<int> waiter(vector<int> &nums, int q) {
     vector<int> res, strA, strB;
     vector<int> primes = constract_seive();
     for (int i = 0; i < q; i++) {
@@ -654,7 +654,7 @@ def solve(arr, queries):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> solve(vector<int> arr, vector<int> queries) {
+vector<int> solve(vector<int> &arr, vector<int> &queries) {
     deque<int> dq;
     vector<int> res;
     for (int &d : queries) {
@@ -703,7 +703,7 @@ def poisonousPlants(p):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int poisonousPlants(vector<int> p) {
+int poisonousPlants(vector<int> &p) {
     vector<int> stk;
     int max_height = 0, max_diff = 0;
     for (int i = size(p)-1; i > -1; i--) {
@@ -747,7 +747,7 @@ def andXorOr(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int andXorOr(vector<int> a) {
+int andXorOr(vector<int> &a) {
     int res = 0;
     stack<int> stk;
     for (int &i : a) {

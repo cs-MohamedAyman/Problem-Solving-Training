@@ -606,7 +606,7 @@ class Solution:
 
 ```cpp
 class Solution {
-    vector<vector<int>> generate_permutation(vector<int> arr) {
+    vector<vector<int>> generate_permutation(vector<int> &arr) {
         if (size(arr) == 0)
             return {};
         if (size(arr) == 1)
@@ -669,7 +669,7 @@ class Solution:
 
 ```cpp
 class Solution {
-    vector<vector<int>> generate_permutation(vector<int> arr) {
+    vector<vector<int>> generate_permutation(vector<int> &arr) {
         if (size(arr) == 0)
             return {};
         if (size(arr) == 1)
@@ -735,7 +735,7 @@ class Solution:
 class Solution {
     vector<vector<int>> res;
 
-    void generate_combinations(int p, vector<int> arr, int n, int k) {
+    void generate_combinations(int p, vector<int> &arr, int n, int k) {
         if (size(arr) == k) {
             res.push_back(arr);
             return;
@@ -791,7 +791,7 @@ class Solution:
 class Solution {
     vector<vector<int>> res;
 
-    void generate_combinations(int i, vector<int >arr, int curr_total, vector<int> &candidates, int target) {
+    void generate_combinations(int i, vector<int> &arr, int curr_total, vector<int> &candidates, int target) {
         if (curr_total == target) {
             sort(arr.begin(), arr.end());
             res.push_back(arr);
@@ -918,7 +918,7 @@ class Solution:
 class Solution {
     vector<vector<int>> res;
 
-    void generate_combinations(int p, vector<int> arr, int curr_total, int n, int k) {
+    void generate_combinations(int p, vector<int> &arr, int curr_total, int n, int k) {
         if (size(arr) == k and curr_total == n) {
             res.push_back(arr);
             return;
@@ -1262,7 +1262,7 @@ class Solution:
 
 ```cpp
 class Solution {
-    int rob_subarray(vector<int> nums) {
+    int rob_subarray(vector<int> &nums) {
         int res1 = 0, res2 = 0;
         for (int i : nums) {
             int temp = max(res1+i, res2);

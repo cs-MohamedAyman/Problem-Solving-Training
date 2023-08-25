@@ -20,7 +20,7 @@ def reverseArray(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> reverseArray(vector<int> a) {
+vector<int> reverseArray(vector<int> &a) {
     reverse(a.begin(), a.end());
     return a;
 }
@@ -146,7 +146,7 @@ def rotateLeft(d, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> rotateLeft(int d, vector<int> arr) {
+vector<int> rotateLeft(int d, vector<int> &arr) {
     int n = size(arr);
     vector<int> res(n);
     for (int i=0; i<n; i++)

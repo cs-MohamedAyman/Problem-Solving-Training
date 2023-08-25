@@ -59,7 +59,7 @@ def cookies(k, A):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int cookies(int k, vector<int> A) {
+int cookies(int k, vector<int> &A) {
     auto comp = [](const int &x, const int &y) { return x > y; };
     priority_queue<int, vector<int>, decltype(comp)> min_heap(comp);
     for (int i : A)
@@ -518,7 +518,7 @@ def runningMedian(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<double> runningMedian(vector<int> a) {
+vector<double> runningMedian(vector<int> &a) {
     vector<double> res;
     double median = a[0];
     auto comp = [](const int &x, const int &y) { return x > y; };

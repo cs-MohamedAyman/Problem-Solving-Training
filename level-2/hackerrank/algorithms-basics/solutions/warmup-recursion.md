@@ -20,7 +20,7 @@ def simpleArraySum(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int simpleArraySum(vector<int> arr) {
+int simpleArraySum(vector<int> &arr) {
     return accumulate(arr.begin(), arr.end(), 0);
 }
 ```
@@ -49,7 +49,7 @@ def compareTriplets(a, b):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> compareTriplets(vector<int> a, vector<int> b) {
+vector<int> compareTriplets(vector<int> &a, vector<int> &b) {
     int sum1 = 0, sum2 = 0;
     for (int i=0; i<size(a); i++) {
         sum1 += int(a[i] > b[i]);
@@ -146,7 +146,7 @@ def plusMinus(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-void plusMinus(vector<int> arr) {
+void plusMinus(vector<int> &arr) {
     double sum_pos = 0, sum_neg = 0, sum_zero = 0;
     for (int &i : arr) {
         sum_pos += int(i > 0);
@@ -210,7 +210,7 @@ def miniMaxSum(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-void miniMaxSum(vector<int> arr) {
+void miniMaxSum(vector<int> &arr) {
     long sum = accumulate(arr.begin(), arr.end(), 0LL);
     vector<long> sum_arr(5, sum);
     for (int i=0; i<5; i++)
@@ -240,7 +240,7 @@ def birthdayCakeCandles(candles):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int birthdayCakeCandles(vector<int> candles) {
+int birthdayCakeCandles(vector<int> &candles) {
     auto it_b = candles.begin();
     auto it_e = candles.end();
     return count(it_b, it_e, *max_element(it_b, it_e));
@@ -734,7 +734,7 @@ auto cmp = [](const vector<int> &a, const vector<int> &b) {
 };
 set<vector<int>, decltype(cmp)> all_res(cmp);
 
-bool k_factorization(int n, vector<int> arr, long i, vector<int> res) {
+bool k_factorization(int n, vector<int> &arr, long i, vector<int> &res) {
     if (i == n) {
         all_res.insert(res);
         return true;
@@ -749,7 +749,7 @@ bool k_factorization(int n, vector<int> arr, long i, vector<int> res) {
     }
     return false;
 }
-vector<int> kFactorization(int n, vector<int> A) {
+vector<int> kFactorization(int n, vector<int> &A) {
     sort(A.begin(), A.end());
     k_factorization(n, A, 1, {1});
     if (size(all_res))

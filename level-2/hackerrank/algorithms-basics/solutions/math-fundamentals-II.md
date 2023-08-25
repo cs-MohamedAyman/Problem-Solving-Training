@@ -456,7 +456,7 @@ def solve(arr, queries):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<string> solve(vector<int> arr, vector<vector<int>> queries) {
+vector<string> solve(vector<int> &arr, vector<vector<int>> queries) {
     vector<string> res;
     for (auto &it : queries) {
         if (it[0] < size(arr) and arr[it[0]] == 0 and it[0] != it[1])

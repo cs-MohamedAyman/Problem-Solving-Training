@@ -27,7 +27,7 @@ def gradingStudents(grades):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> gradingStudents(vector<int> grades) {
+vector<int> gradingStudents(vector<int> &grades) {
     vector<int> res;
     for (auto &i : grades) {
         int c = i % 5;
@@ -160,7 +160,7 @@ def getTotalX(a, b):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int getTotalX(vector<int> a, vector<int> b) {
+int getTotalX(vector<int> &a, vector<int> &b) {
     int res = 0;
     int max_a = *max_element(a.begin(), a.end());
     int min_b = *min_element(b.begin(), b.end());
@@ -210,7 +210,7 @@ def breakingRecords(scores):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> breakingRecords(vector<int> scores) {
+vector<int> breakingRecords(vector<int> &scores) {
     int maxi = scores[0], mini = scores[0];
     int max_cnt = 0, min_cnt = 0;
     for (auto &i : scores) {
@@ -254,7 +254,7 @@ def birthday(s, d, m):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int birthday(vector<int> s, int d, int m) {
+int birthday(vector<int> &s, int d, int m) {
     int res = 0;
     for (int i=0; i<size(s); i++) {
         int curr_sum = 0;
@@ -292,7 +292,7 @@ def divisibleSumPairs(n, k, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int divisibleSumPairs(int n, int k, vector<int> arr) {
+int divisibleSumPairs(int n, int k, vector<int> &arr) {
     int res = 0;
     for (int i=0; i<size(arr); i++) {
         for (int j=i+1; j<size(arr); j++) {
@@ -327,7 +327,7 @@ def migratoryBirds(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int migratoryBirds(vector<int> arr) {
+int migratoryBirds(vector<int> &arr) {
     vector<int> res(6, 0);
     for (auto &i : arr)
         res[i] ++;
@@ -402,7 +402,7 @@ def bonAppetit(bill, k, b):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-void bonAppetit(vector<int> bill, int k, int b) {
+void bonAppetit(vector<int> &bill, int k, int b) {
     int total = 0;
     for (int i=0; i<size(bill); i++) {
         if (i == k)
@@ -441,7 +441,7 @@ def sockMerchant(n, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int sockMerchant(int n, vector<int> arr) {
+int sockMerchant(int n, vector<int> &arr) {
     int res = 0;
     set<int> set_arr(arr.begin(), arr.end());
     for (auto &i : set_arr)
@@ -549,7 +549,7 @@ def getMoneySpent(keyboards, drives, b):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int getMoneySpent(vector<int> keyboards, vector<int> drives, int b) {
+int getMoneySpent(vector<int> &keyboards, vector<int> &drives, int b) {
     sort(keyboards.begin(), keyboards.end());
     sort(drives.begin(), drives.end());
     int res = -1;
@@ -627,7 +627,7 @@ def hurdleRace(k, height):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int hurdleRace(int k, vector<int> height) {
+int hurdleRace(int k, vector<int> &height) {
     int max_item = *max_element(height.begin(), height.end());
     return max(0, max_item - k);
 }
@@ -656,7 +656,7 @@ def designerPdfViewer(h, word):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int designerPdfViewer(vector<int> h, string word) {
+int designerPdfViewer(vector<int> &h, string word) {
     int max_item = 0;
     for (auto &i : word)
         max_item = max(max_item, h[i - 'a']);
@@ -725,7 +725,7 @@ def angryProfessor(k, a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-string angryProfessor(int k, vector<int> a) {
+string angryProfessor(int k, vector<int> &a) {
     int sum_arr = 0;
     for (auto &i : a)
         sum_arr += int(i <= 0);
@@ -761,7 +761,7 @@ def minimumDistances(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int minimumDistances(vector<int> a) {
+int minimumDistances(vector<int> &a) {
     int res = 2e9;
     for (int i = 0; i < size(a); i++) {
         for (int j = i+1; j < size(a); j++) {

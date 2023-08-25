@@ -52,7 +52,7 @@ def introTutorial(V, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int introTutorial(int V, vector<int> arr) {
+int introTutorial(int V, vector<int> &arr) {
     for (int i = 0; i < size(arr); i++) {
         if (arr[i] == V)
             return i;
@@ -91,9 +91,9 @@ def insertionSort1(n, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-void insertionSort1(int n, vector<int> arr) {
+void insertionSort1(int n, vector<int> &arr) {
     int temp = arr[size(arr)-1];
-    auto print_arr = [](vector<int> arr) {
+    auto print_arr = [](vector<int> &arr) {
         for (int &i : arr)
             cout << i << ' ';
         cout << '\n';
@@ -141,8 +141,8 @@ def insertionSort2(n, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-void insertionSort2(int n, vector<int> arr) {
-    auto print_arr = [](vector<int> arr) {
+void insertionSort2(int n, vector<int> &arr) {
+    auto print_arr = [](vector<int> &arr) {
         for (int &i : arr)
             cout << i << ' ';
         cout << '\n';
@@ -226,7 +226,7 @@ def runningTime(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int runningTime(vector<int> arr) {
+int runningTime(vector<int> &arr) {
     int res = 0;
     for (int i=1; i<size(arr); i++) {
         int value = arr[i];
@@ -265,12 +265,12 @@ def quickSort(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> quickSort(vector<int> arr) {
+vector<int> quickSort(vector<int> &arr) {
     auto comp_lt = [](const int &x, const int &y) { return x < y; };
     auto comp_gt = [](const int &x, const int &y) { return x > y; };
     auto comp_eq = [](const int &x, const int &y) { return x == y; };
 
-    auto select_fn = [](vector<int> arr, function<bool(int, int)> fn, vector<int> &res) {
+    auto select_fn = [](vector<int> &arr, function<bool(int, int)> fn, vector<int> &res) {
         for (int &i : arr)
             if (fn(i, arr[0]))
                 res.push_back(i);
@@ -307,7 +307,7 @@ def countingSort(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> countingSort(vector<int> arr) {
+vector<int> countingSort(vector<int> &arr) {
     vector<int> counts(100, 0);
     for (int &i : arr)
         counts[i] ++;
@@ -343,7 +343,7 @@ def countingSort(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> countingSort(vector<int> arr) {
+vector<int> countingSort(vector<int> &arr) {
     vector<int> counts(100, 0);
     for (int &i : arr)
         counts[i] ++;
@@ -388,7 +388,7 @@ def closestNumbers(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> closestNumbers(vector<int> arr) {
+vector<int> closestNumbers(vector<int> &arr) {
     vector<int> res;
     sort(arr.begin(), arr.end());
     int min_diff = 2e7;
@@ -428,7 +428,7 @@ def findMedian(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int findMedian(vector<int> arr) {
+int findMedian(vector<int> &arr) {
     sort(arr.begin(), arr.end());
     return arr[size(arr)/2];
 }

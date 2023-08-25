@@ -23,7 +23,7 @@ def lonelyinteger(a):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int lonelyinteger(vector<int> a) {
+int lonelyinteger(vector<int> &a) {
     int res = 0;
     for (auto &i : a)
         res ^= i;
@@ -319,7 +319,7 @@ def sansaXor(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int sansaXor(vector<int> arr) {
+int sansaXor(vector<int> &arr) {
     int res = 0;
     for (int i=0; i<size(arr); i++) {
         long t = (i + 1) * (size(arr) - i);

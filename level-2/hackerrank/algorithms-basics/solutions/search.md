@@ -24,7 +24,7 @@ def icecreamParlor(m, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> icecreamParlor(int m, vector<int> arr) {
+vector<int> icecreamParlor(int m, vector<int> &arr) {
     for (int i=0; i<size(arr); i++) {
         for (int j=i+1; j<size(arr); j++) {
             if (arr[i] + arr[j] == m)
@@ -62,7 +62,7 @@ def missingNumbers(arr, brr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<int> missingNumbers(vector<int> arr, vector<int> brr) {
+vector<int> missingNumbers(vector<int> &arr, vector<int> &brr) {
     int m = max(*max_element(arr.begin(), arr.end()),
                 *max_element(brr.begin(), brr.end())) + 1;
     vector<int> cnt(m, 0);
@@ -106,7 +106,7 @@ def balancedSums(arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-string balancedSums(vector<int> arr) {
+string balancedSums(vector<int> &arr) {
     int left = 0;
     int right = accumulate(arr.begin(), arr.end(), 0);
     for (int &i : arr) {
@@ -166,7 +166,7 @@ def hackerlandRadioTransmitters(x, k):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int binary_search(vector<int> a, int x, int l=0) {
+int binary_search(vector<int> &a, int x, int l=0) {
     int r = size(a) - 1;
     while (l <= r) {
         int m = (l + r) / 2;
@@ -177,7 +177,7 @@ int binary_search(vector<int> a, int x, int l=0) {
     }
     return l;
 }
-int hackerlandRadioTransmitters(vector<int> x, int k) {
+int hackerlandRadioTransmitters(vector<int> &x, int k) {
     vector<vector<int>> chunk;
     sort(x.begin(), x.end());
     vector<int> temp = {x[0]};
@@ -445,7 +445,7 @@ def pairs(k, arr):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-int pairs(int k, vector<int> arr) {
+int pairs(int k, vector<int> &arr) {
     int res = 0;
     set<int> distinct(arr.begin(), arr.end());
     for (int &i : arr)

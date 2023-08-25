@@ -433,7 +433,7 @@ def weightedUniformStrings(s, queries):
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-vector<string> weightedUniformStrings(string s, vector<int> queries) {
+vector<string> weightedUniformStrings(string s, vector<int> &queries) {
     map<char, int> alpha_idx;
     for (int i=0; i<26; i++)
         alpha_idx[i+'a'] = i+1;
