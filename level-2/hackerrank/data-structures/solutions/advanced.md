@@ -3,7 +3,7 @@
 # HackerRank OJ - Data Structures <br> Advanced `20 problems`
 
 ## Kindergarten Adventures
-Problem Link: https://www.hackerrank.com/challenges/kindergarten-adventures/problem
+Problem Link: https://hackerrank.com/challenges/kindergarten-adventures/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -56,7 +56,7 @@ int solve(vector<int> &t) {
 </details>
 
 ## Mr. X and His Shots
-Problem Link: https://www.hackerrank.com/challenges/x-and-his-shots/problem
+Problem Link: https://hackerrank.com/challenges/x-and-his-shots/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -78,7 +78,7 @@ Problem Link: https://www.hackerrank.com/challenges/x-and-his-shots/problem
 </details>
 
 ## Jim and the Skyscrapers
-Problem Link: https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem
+Problem Link: https://hackerrank.com/challenges/jim-and-the-skyscrapers/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -152,7 +152,7 @@ long solve(vector<int> &arr) {
 </details>
 
 ## Find Maximum Index Product
-Problem Link: https://www.hackerrank.com/challenges/find-maximum-index-product/problem
+Problem Link: https://hackerrank.com/challenges/find-maximum-index-product/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -222,7 +222,7 @@ long solve(vector<int> &arr) {
 </details>
 
 ## Cube Summation
-Problem Link: https://www.hackerrank.com/challenges/cube-summation/problem
+Problem Link: https://hackerrank.com/challenges/cube-summation/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -282,7 +282,7 @@ vector<long> cubeSum(int n, vector<string> &operations) {
     for (auto &s : operations) {
         auto cmd = split(s, ' ');
         if (cmd[0] == "UPDATE") {
-            int x = stoi(cmd[1]), y = stoi(cmd[2]), 
+            int x = stoi(cmd[1]), y = stoi(cmd[2]),
                 z = stoi(cmd[3]), v = stoi(cmd[4]);
             x --; y --; z --;
             d[x + n*y + n*n*z] = v;
@@ -296,8 +296,8 @@ vector<long> cubeSum(int n, vector<string> &operations) {
                 int y = (k/n) % n;
                 int z = k / (n*n);
                 x ++; y ++; z ++;
-                if (x1 <= x and x <= x2 and 
-                    y1 <= y and y <= y2 and 
+                if (x1 <= x and x <= x2 and
+                    y1 <= y and y <= y2 and
                     z1 <= z and z <= z2)
                     total += v;
             }
@@ -311,7 +311,7 @@ vector<long> cubeSum(int n, vector<string> &operations) {
 </details>
 
 ## Direct Connections
-Problem Link: https://www.hackerrank.com/challenges/direct-connections/problem
+Problem Link: https://hackerrank.com/challenges/direct-connections/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -333,7 +333,7 @@ Problem Link: https://www.hackerrank.com/challenges/direct-connections/problem
 </details>
 
 ## Palindromic Subsets
-Problem Link: https://www.hackerrank.com/challenges/palindromic-subsets/problem
+Problem Link: https://hackerrank.com/challenges/palindromic-subsets/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -355,7 +355,7 @@ Problem Link: https://www.hackerrank.com/challenges/palindromic-subsets/problem
 </details>
 
 ## Polynomial Division
-Problem Link: https://www.hackerrank.com/challenges/polynomial-division/problem
+Problem Link: https://hackerrank.com/challenges/polynomial-division/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -377,7 +377,7 @@ Problem Link: https://www.hackerrank.com/challenges/polynomial-division/problem
 </details>
 
 ## Costly Intervals
-Problem Link: https://www.hackerrank.com/challenges/costly-intervals/problem
+Problem Link: https://hackerrank.com/challenges/costly-intervals/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -399,7 +399,7 @@ Problem Link: https://www.hackerrank.com/challenges/costly-intervals/problem
 </details>
 
 ## The Strange Function
-Problem Link: https://www.hackerrank.com/challenges/the-strange-function/problem
+Problem Link: https://hackerrank.com/challenges/the-strange-function/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -421,7 +421,7 @@ Problem Link: https://www.hackerrank.com/challenges/the-strange-function/problem
 </details>
 
 ## Lazy White Falcon
-Problem Link: https://www.hackerrank.com/challenges/lazy-white-falcon/problem
+Problem Link: https://hackerrank.com/challenges/lazy-white-falcon/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -443,7 +443,7 @@ Problem Link: https://www.hackerrank.com/challenges/lazy-white-falcon/problem
 </details>
 
 ## Heavy Light White Falcon
-Problem Link: https://www.hackerrank.com/challenges/heavy-light-white-falcon/problem
+Problem Link: https://hackerrank.com/challenges/heavy-light-white-falcon/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -465,7 +465,7 @@ Problem Link: https://www.hackerrank.com/challenges/heavy-light-white-falcon/pro
 </details>
 
 ## Heavy Light 2 White Falcon
-Problem Link: https://www.hackerrank.com/challenges/heavy-light-2-white-falcon/problem
+Problem Link: https://hackerrank.com/challenges/heavy-light-2-white-falcon/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -487,7 +487,7 @@ Problem Link: https://www.hackerrank.com/challenges/heavy-light-2-white-falcon/p
 </details>
 
 ## Burger Happiness
-Problem Link: https://www.hackerrank.com/challenges/burger-happiness/problem
+Problem Link: https://hackerrank.com/challenges/burger-happiness/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -509,7 +509,7 @@ Problem Link: https://www.hackerrank.com/challenges/burger-happiness/problem
 </details>
 
 ## Roy and alpha-beta trees
-Problem Link: https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees/problem
+Problem Link: https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -531,7 +531,7 @@ Problem Link: https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees/pro
 </details>
 
 ## Coloring Tree
-Problem Link: https://www.hackerrank.com/challenges/coloring-tree/problem
+Problem Link: https://hackerrank.com/challenges/coloring-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -553,7 +553,7 @@ Problem Link: https://www.hackerrank.com/challenges/coloring-tree/problem
 </details>
 
 ## Recalling Early Days GP with Trees
-Problem Link: https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem
+Problem Link: https://hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -575,7 +575,7 @@ Problem Link: https://www.hackerrank.com/challenges/recalling-early-days-gp-with
 </details>
 
 ## White Falcon And Tree
-Problem Link: https://www.hackerrank.com/challenges/white-falcon-and-tree/problem
+Problem Link: https://hackerrank.com/challenges/white-falcon-and-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -597,7 +597,7 @@ Problem Link: https://www.hackerrank.com/challenges/white-falcon-and-tree/proble
 </details>
 
 ## Jaggu Playing with Balloons
-Problem Link: https://www.hackerrank.com/challenges/jagia-playing-with-numbers/problem
+Problem Link: https://hackerrank.com/challenges/jagia-playing-with-numbers/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -619,7 +619,7 @@ Problem Link: https://www.hackerrank.com/challenges/jagia-playing-with-numbers/p
 </details>
 
 ## Two Array Problem
-Problem Link: https://www.hackerrank.com/challenges/weird-queries/problem
+Problem Link: https://hackerrank.com/challenges/weird-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>

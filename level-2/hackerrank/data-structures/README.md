@@ -698,121 +698,121 @@
     <tbody>
         <tr>
 <th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/kindergarten-adventures/problem">kindergarten adventures</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/kindergarten-adventures/problem">Kindergarten Adventures</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/x-and-his-shots/problem">x and his shots</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/x-and-his-shots/problem">Mr. X and His Shots</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jim-and-the-skyscrapers/problem">jim and the skyscrapers</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/jim-and-the-skyscrapers/problem">Jim and the Skyscrapers</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/find-maximum-index-product/problem">find maximum index product</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/find-maximum-index-product/problem">Find Maximum Index Product</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/cube-summation/problem">cube summation</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/cube-summation/problem">Cube Summation</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/direct-connections/problem">direct connections</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/direct-connections/problem">Direct Connections</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/palindromic-subsets/problem">palindromic subsets</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/palindromic-subsets/problem">Palindromic Subsets</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/polynomial-division/problem">polynomial division</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/polynomial-division/problem">Polynomial Division</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/costly-intervals/problem">costly intervals</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/costly-intervals/problem">Costly Intervals</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-strange-function/problem">the strange function</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/the-strange-function/problem">The Strange Function</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/lazy-white-falcon/problem">lazy white falcon</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/lazy-white-falcon/problem">Lazy White Falcon</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/heavy-light-white-falcon/problem">heavy light white falcon</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/heavy-light-white-falcon/problem">Heavy Light White Falcon</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/heavy-light-2-white-falcon/problem">heavy light 2 white falcon</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/heavy-light-2-white-falcon/problem">Heavy Light 2 White Falcon</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/burger-happiness/problem">burger happiness</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/burger-happiness/problem">Burger Happiness</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem">roy and alpha beta trees</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem">Roy and alpha-beta trees</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/coloring-tree/problem">coloring tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/coloring-tree/problem">Coloring Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem">recalling early days gp with trees</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem">Recalling Early Days GP with Trees</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/white-falcon-and-tree/problem">white falcon and tree</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/white-falcon-and-tree/problem">White Falcon And Tree</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">19</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jagia-playing-with-numbers/problem">jagia playing with numbers</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/jagia-playing-with-numbers/problem">Jaggu Playing with Balloons</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">20</th>
-<th align="left"><a href="https://hackerrank.com/challenges/weird-queries/problem">weird queries</a></th>
+<th align="left"><a href="https://hackerrank.com/challenges/weird-queries/problem">Two Array Problem</a></th>
 <th align="left"></th>
 <th align="center"><a href="/level-2/hackerrank/data-structures/solutions/advanced.md">Solution</a></th>
         </tr>
