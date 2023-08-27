@@ -1,4 +1,4 @@
-<a href="/level-1/README.md"><img align="right" width="200" src="/logos/problem-solving-training.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="160" src="/logos/problem-solving-training.png"></img></a>
 
 # Problem Solving Training - Level 1
 Problem Solving Training for computer science students.
@@ -6,7 +6,7 @@ Problem Solving Training for computer science students.
 <br><br><br><br>
 
 <br>
-<a href="/level-1/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -17,7 +17,7 @@ Problem Solving Training for computer science students.
   * [Notes](#notes)
 
 <br><br><br><br>
-<a href="/level-1/README.md"><img align="right" width="120" src="/logos/level-1.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
 
 ## `Level 1`
 
