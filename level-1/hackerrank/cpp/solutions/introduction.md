@@ -3,7 +3,7 @@
 # HackerRank OJ - CPP Programming Language <br> Introduction `20 problems`
 
 ## ProblemName
-Problem Link: ProblemLink
+Problem Link: https://www.hackerrank.com/challenges/hello-world-c/problem
 
 <a href="/level-1/hackerrank/cpp/solutions/introduction.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -19,13 +19,17 @@ Problem Link: ProblemLink
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+    char s[100]; 
+    fgets(s, sizeof(s), stdin);
+    printf("Hello, World!\n");
+    printf("%s", s );
 
 ```
 
 </details>
 
 ## ProblemName
-Problem Link: ProblemLink
+Problem Link: https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true
 
 <a href="/level-1/hackerrank/cpp/solutions/introduction.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
