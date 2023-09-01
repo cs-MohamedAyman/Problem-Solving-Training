@@ -1,6 +1,10 @@
-<img align="right" width="80" src="/logos/hackerrank.png"></img>
+<a href="/level-2/hackerrank/algorithms-basics/README.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
 # [HackerRank](https://hackerrank.com/) OJ - Algorithms Basics <br> `120 problems` `80 hrs`
+<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+## Solved using 
+<br>
 
 ## Table of Content
 
@@ -11,6 +15,8 @@
 - ***Implementation II***    `15 problems`
 - ***Math Fundamentals I***  `15 problems`
 - ***Math Fundamentals II*** `15 problems`
+
+<br>
 
 ## HackerEarth - Warmup and Recursion `20 problems` [`Solutions`](/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md)
 
