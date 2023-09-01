@@ -1,8 +1,8 @@
 <a href="/level-2/hackerrank/algorithms-basics/README.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
 # [HackerRank](https://hackerrank.com/) OJ - Algorithms Basics <br> `120 problems` `80 hrs`
-<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
-<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
 ## Solved using 
 <br>
 
