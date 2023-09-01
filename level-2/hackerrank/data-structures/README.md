@@ -1,6 +1,10 @@
-<img align="right" width="80" src="/logos/hackerrank.png"></img>
+<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
 # [HackerRank](https://hackerrank.com/) OJ - Data Structures <br> `120 problems` `80 hrs`
+<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+## Solved using 
+<br>
 
 ## Table of Content
 
@@ -11,6 +15,8 @@
 - ***Strings***                                `20 problems`
 - ***Bit Manipulation***                       `15 problems`
 - ***Advanced***                               `20 problems`
+
+<br>
 
 ## HackerRank - Array and Linked List `20 problems` [`Solutions`](/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md)
 
