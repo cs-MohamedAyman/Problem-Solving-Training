@@ -19,10 +19,15 @@ Problem Link: https://www.hackerrank.com/challenges/hello-world-c/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+int main() 
+{
     char s[100]; 
     fgets(s, sizeof(s), stdin);
     printf("Hello, World!\n");
     printf("%s", s );
+    return 0;
+}
+
 
 ```
 
@@ -45,6 +50,8 @@ Problem Link: https://www.hackerrank.com/challenges/playing-with-characters/prob
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+int main() 
+{
     char ch;
     char str[100];
     char sentence[100];
@@ -60,8 +67,9 @@ Problem Link: https://www.hackerrank.com/challenges/playing-with-characters/prob
 
     printf("%s\n", str);
 
-    printf("%s\n", sentence);  
-
+    printf("%s\n", sentence);
+    return 0;
+}
 ```
 
 </details>
@@ -83,12 +91,16 @@ Problem Link: https://www.hackerrank.com/challenges/sum-numbers-c/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+int main() 
+{
     int num1,num2;
     float num3,num4;
     scanf("%d %d",&num1,&num2);
     scanf("%f %f",&num3,&num4);
     printf("%d %d\n", num1+num2, num1-num2);
     printf("%.1f %.1f\n", num3+num4, num3-num4);
+    return 0;
+}
 
 ```
 
@@ -111,14 +123,14 @@ Problem Link: https://www.hackerrank.com/challenges/functions-in-c/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    int max(int a, int b) {
-        return (a > b) ? a : b;
-    }
-    int max_of_four(int a,int b,int c,int d){
-        int max1 = max(a, b);
-        int max2 = max(c, d);
-        return max(max1, max2);
-    }
+int max(int a, int b) {
+    return (a > b) ? a : b;
+}
+int max_of_four(int a,int b,int c,int d){
+    int max1 = max(a, b);
+    int max2 = max(c, d);
+    return max(max1, max2);
+}
 
 ```
 
@@ -141,14 +153,14 @@ Problem Link: https://www.hackerrank.com/challenges/pointer-in-c/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    void update(int *a,int *b) {
-        // Complete this function   
-        int sum = *a + *b;
-        int diff = abs(*a - *b);
-    
-        *a = sum;
-        *b = diff;
-    }
+void update(int *a,int *b) {
+    // Complete this function   
+    int sum = *a + *b;
+    int diff = abs(*a - *b);
+
+    *a = sum;
+    *b = diff;
+}
 
 ```
 
@@ -171,7 +183,7 @@ Problem Link: https://www.hackerrank.com/challenges/cpp-hello-world/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    cout<<"Hello, World!";
+cout<<"Hello, World!";
 ```
 
 </details>
@@ -193,10 +205,14 @@ Problem Link: https://www.hackerrank.com/challenges/cpp-input-and-output/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+int main() 
+{
     int a,b,c;
     cin>>a>>b>>c;
     int sum =a+b+c;
     cout<<sum;
+    return 0;
+}
 
 ```
 
@@ -219,10 +235,13 @@ Problem Link: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
+int main() 
+{
     int a; long b; char c; float d; double e;
     cin>>a>>b>>c>>d>>e;
     cout<<a<<'\n'<<b<<'\n'<<c<<'\n'<<fixed << setprecision(3)<<d<<'\n'<< fixed <<setprecision(3)<< e <<'\n';
-
+    return 0;
+}
 ```
 
 </details>
@@ -244,31 +263,31 @@ Problem Link: https://www.hackerrank.com/challenges/c-tutorial-conditional-if-el
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    string n_temp;
-    getline(cin, n_temp);
+string n_temp;
+getline(cin, n_temp);
 
-    int n = stoi(ltrim(rtrim(n_temp)));
-    if (n == 1) {
-        cout << "one" << std::endl;
-    } else if (n == 2) {
-        cout << "two" << std::endl;
-    } else if (n == 3) {
-        cout << "three" << std::endl;
-    } else if (n == 4) {
-        cout << "four" << std::endl;
-    } else if (n == 5) {
-        cout << "five" << std::endl;
-    } else if (n == 6) {
-        cout << "six" << std::endl;
-    } else if (n == 7) {
-        cout << "seven" << std::endl;
-    } else if (n == 8) {
-        cout << "eight" << std::endl;
-    } else if (n == 9) {
-        cout << "nine" << std::endl;
-    } else {
-        cout << "Greater than 9" << std::endl;
-    }
+int n = stoi(ltrim(rtrim(n_temp)));
+if (n == 1) {
+    cout << "one" << std::endl;
+} else if (n == 2) {
+    cout << "two" << std::endl;
+} else if (n == 3) {
+    cout << "three" << std::endl;
+} else if (n == 4) {
+    cout << "four" << std::endl;
+} else if (n == 5) {
+    cout << "five" << std::endl;
+} else if (n == 6) {
+    cout << "six" << std::endl;
+} else if (n == 7) {
+    cout << "seven" << std::endl;
+} else if (n == 8) {
+    cout << "eight" << std::endl;
+} else if (n == 9) {
+    cout << "nine" << std::endl;
+} else {
+    cout << "Greater than 9" << std::endl;
+}
 
 ```
 
@@ -291,19 +310,19 @@ Problem Link: https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    int a, b;
-    cin >> a >> b;
+int a, b;
+cin >> a >> b;
 
-    for (int i = a; i <= b; i++) {
-        if (i >= 1 && i <= 9) {
-            string words[] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-            cout << words[i - 1] << endl;
-        } else if (i % 2 == 0) {
-            cout << "even" << endl;
-        } else {
-            cout << "odd" << std::endl;
-        }
+for (int i = a; i <= b; i++) {
+    if (i >= 1 && i <= 9) {
+        string words[] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+        cout << words[i - 1] << endl;
+    } else if (i % 2 == 0) {
+        cout << "even" << endl;
+    } else {
+        cout << "odd" << std::endl;
     }
+}
 
 ```
 
@@ -326,11 +345,11 @@ Problem Link: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    int max_of_four(int a, int b, int c, int d){
-        int max1 = max(a, b);
-        int max2 = max(c, d);
-        return max(max1, max2);
-    }
+int max_of_four(int a, int b, int c, int d){
+    int max1 = max(a, b);
+    int max2 = max(c, d);
+    return max(max1, max2);
+}
 
 ```
 
@@ -353,14 +372,14 @@ Problem Link: https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    void update(int *a,int *b) {
-        // Complete this function 
-        int sum = *a + *b;
-        int diff = abs(*a - *b);
-    
-        *a = sum;
-        *b = diff;   
-    }
+void update(int *a,int *b) {
+    // Complete this function 
+    int sum = *a + *b;
+    int diff = abs(*a - *b);
+
+    *a = sum;
+    *b = diff;   
+}
 
 ```
 
@@ -383,15 +402,15 @@ Problem Link: https://www.hackerrank.com/challenges/arrays-introduction/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-  int n;
-    cin>>n;
-    int arr[n];
-     for(int i=0;i<n;i++){
-        cin>>arr[i];
-    } 
-    for(int i=n-1;i>=0;i--){
-        cout<<arr[i]<<" ";
-    } 
+int n;
+cin>>n;
+int arr[n];
+ for(int i=0;i<n;i++){
+    cin>>arr[i];
+} 
+for(int i=n-1;i>=0;i--){
+    cout<<arr[i]<<" ";
+} 
 
 ```
 
@@ -437,37 +456,37 @@ Problem Link: https://www.hackerrank.com/challenges/conditional-statements-in-c/
 
 ```cpp
 switch(n) {
-        case 1:
-            printf("one");
-            break;
-        case 2:
-            printf("two");
-            break;
-        case 3:
-            printf("three");
-            break;
-        case 4:
-            printf("four");
-            break;
-        case 5:
-            printf("five");
-            break;
-        case 6:
-            printf("six");
-            break;
-        case 7:
-            printf("seven");
-            break;
-        case 8:
-            printf("eight");
-            break;
-        case 9:
-            printf("nine");
-            break;
-        default:
-            printf("Greater than 9");
-            break;
-    }
+    case 1:
+        printf("one");
+        break;
+    case 2:
+        printf("two");
+        break;
+    case 3:
+        printf("three");
+        break;
+    case 4:
+        printf("four");
+        break;
+    case 5:
+        printf("five");
+        break;
+    case 6:
+        printf("six");
+        break;
+    case 7:
+        printf("seven");
+        break;
+    case 8:
+        printf("eight");
+        break;
+    case 9:
+        printf("nine");
+        break;
+    default:
+        printf("Greater than 9");
+        break;
+}
 
 ```
 
@@ -490,44 +509,44 @@ Problem Link: https://www.hackerrank.com/challenges/for-loop-in-c/problem
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
- for (int i = a; i <= b; ++i) {
-        if (i <= 9) {
-            switch(i) {
-        case 1:
-            printf("one");
-            break;
-        case 2:
-            printf("two");
-            break;
-        case 3:
-            printf("three");
-            break;
-        case 4:
-            printf("four");
-            break;
-        case 5:
-            printf("five");
-            break;
-        case 6:
-            printf("six");
-            break;
-        case 7:
-            printf("seven");
-            break;
-        case 8:
-            printf("eight");
-            break;
-        case 9:
-            printf("nine");
-            break;
+for (int i = a; i <= b; ++i) {
+    if (i <= 9) {
+        switch(i) {
+    case 1:
+        printf("one");
+        break;
+    case 2:
+        printf("two");
+        break;
+    case 3:
+        printf("three");
+        break;
+    case 4:
+        printf("four");
+        break;
+    case 5:
+        printf("five");
+        break;
+    case 6:
+        printf("six");
+        break;
+    case 7:
+        printf("seven");
+        break;
+    case 8:
+        printf("eight");
+        break;
+    case 9:
+        printf("nine");
+        break;
+}
+    } else if (i % 2 == 0) {
+        printf("even");
+    } else {
+        printf("odd");
     }
-        } else if (i % 2 == 0) {
-            printf("even");
-        } else {
-            printf("odd");
-        }
-        printf("\n");
-    }
+    printf("\n");
+}
 
 
 ```
@@ -551,12 +570,12 @@ Problem Link: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digi
     <summary><h5>CPP Solution</h5></summary>
 
 ```cpp
-    int sum = 0;
-    while (n > 0) {
-        int digit = n % 10; 
-        sum += digit;       
-        n /= 10;            
-    }
+int sum = 0;
+while (n > 0) {
+    int digit = n % 10; 
+    sum += digit;       
+    n /= 10;            
+}
 
 ```
 
