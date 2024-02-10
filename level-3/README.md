@@ -20,19 +20,84 @@
 
 <br><br>
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms/README.md): Data Structures and Algorithms
+## Prerequisite Knowledge: [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms/README.md)
 The prerequisites for level 3 of this training are the knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Divide and Conquer - Graph Theory - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms - String Algorithms)***.
 
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 <br>
 
 ## `HackerRank OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="120px">OJ</th>
+<th width="240px">Phase Name</th>
+<th width="240px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="60px">Hrs</th>
+<th width="240px">Solved Using</th>
+<th width="150px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-3/hackerrank/mathematical-algorithms/README.md">         <img width="95%" src="/logos/hackerrank-07.png"></img></a></td>
-<td align="center"><a href="/level-3/hackerrank/graph-theory-dynamic-programming/README.md"><img width="95%" src="/logos/hackerrank-08.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
+<td align="center">
+Number Theory I <br>
+Number Theory II <br>
+Combinatorics <br>
+Algebra I <br>
+Algebra II <br>
+Geometry <br>
+Probability <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+25 <br>
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+</td>
+<td align="center">115</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
+<td align="center">
+Graph Theory I <br>
+Graph Theory II <br>
+Greedy <br>
+Dynamic Programming I <br>
+Dynamic Programming II <br>
+Implementation I <br>
+Implementation II <br>
+</td>
+<td align="center">
+15 <br>
+10 <br>
+15 <br>
+20 <br>
+20 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">100</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
