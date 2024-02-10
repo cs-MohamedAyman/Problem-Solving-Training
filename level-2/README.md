@@ -20,19 +20,88 @@
 
 <br><br>
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms/README.md): Data Structures and Algorithms
+## Prerequisite Knowledge: [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer - Graph Theory)***.
 
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 <br>
 
 ## `HackerRank OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="120px">OJ</th>
+<th width="240px">Phase Name</th>
+<th width="240px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="60px">Hrs</th>
+<th width="240px">Solved Using</th>
+<th width="150px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-2/hackerrank/data-structures/README.md">            <img width="95%" src="/logos/hackerrank-05.png"></img></a></td>
-<td align="center"><a href="/level-2/hackerrank/algorithms/README.md">                 <img width="95%" src="/logos/hackerrank-06.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/data-structures/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/data-structures/README.md">HackerRank OJ <br> Data Structures</a></td>
+<td align="center">
+Array and Linked List <br>
+Stack and Queue <br>
+Binary Tree <br>
+Strings <br>
+Bit Manipulation <br>
+Implementation <br>
+</td>
+<td align="center">
+20 <br>
+10 <br>
+20 <br>
+20 <br>
+15 <br>
+15 <br>
+</td>
+<td align="center">100</td>
+<td align="center">80</td>
+<td align="center">
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/data-structures/README.md">
+<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/data-structures/README.md">
+<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/algorithms/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/algorithms/README.md">HackerRank OJ <br> Algorithms</a></td>
+<td align="center">
+Warmup and Recursion <br>
+Sorting <br>
+Search <br>
+Math Fundamentals I <br>
+Math Fundamentals II <br>
+Implementation <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+10 <br>
+20 <br>
+</td>
+<td align="center">90</td>
+<td align="center">80</td>
+<td align="center">
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/algorithms/README.md">
+<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/algorithms/README.md">
+<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
