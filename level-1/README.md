@@ -20,27 +20,130 @@
 
 <br><br>
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages/README.md): C++, Python Programming Languages
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages/README.md): Java, C# Programming Languages
+## Prerequisite Knowledge: <br> [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages/README.md) and [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 <br>
 
 ## `HackerRank OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="120px">OJ</th>
+<th width="240px">Phase Name</th>
+<th width="240px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="60px">Hrs</th>
+<th width="240px">Solved Using</th>
+<th width="150px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-1/hackerrank/cpp/README.md">         <img width="95%" src="/logos/hackerrank-01.png"></img></a></td>
-<td align="center"><a href="/level-1/hackerrank/python/README.md">      <img width="95%" src="/logos/hackerrank-02.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">HackerRank OJ <br> C++</a></td>
+<td align="center">
+Introduction <br>
+Arrays and Strings <br>
+Functions and Libraries <br>
+Structs and Classes <br>
+Implementation <br>
+</td>
+<td align="center">
+20 <br>
+10 <br>
+10 <br>
+15 <br>
+15 <br>
+</td>
+<td align="center">70</td>
+<td align="center">40</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-1/hackerrank/java/README.md">        <img width="95%" src="/logos/hackerrank-03.png"></img></a></td>
-<td align="center"><a href="/level-1/hackerrank/linux-shell/README.md"> <img width="95%" src="/logos/hackerrank-04.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">HackerRank OJ <br> Python</a></td>
+<td align="center">
+Introduction <br>
+Collections <br>
+Functions and Libraries I <br>
+Functions and Libraries II <br>
+Classes <br>
+</td>
+<td align="center">
+25 <br>
+25 <br>
+20 <br>
+20 <br>
+10 <br>
+</td>
+<td align="center">100</td>
+<td align="center">40</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">HackerRank OJ <br> Java</a></td>
+<td align="center">
+Introduction <br>
+Strings and BigNumber <br>
+Data Structures <br>
+Object Oriented Programming <br>
+Advanced <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+15 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">65</td>
+<td align="center">40</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">HackerRank OJ <br> Linux Shell</a></td>
+<td align="center">
+Bash <br>
+Text Processing I <br>
+Text Processing II <br>
+Arrays in Bash <br>
+Grep Sed Awk <br>
+</td>
+<td align="center">
+10 <br>
+15 <br>
+15 <br>
+10 <br>
+15 <br>
+</td>
+<td align="center">65</td>
+<td align="center">40</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
+
 
 <picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 <br>
