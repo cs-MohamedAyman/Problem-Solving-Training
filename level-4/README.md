@@ -284,16 +284,64 @@ Dynamic Programming VI <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
 <br>
 
 ## `AtCoder OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Contests</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-4/atcoder/phase-3-1/README.md">                     <img width="95%" src="/logos/atcoder-07.png"></img></a></td>
-<td align="center"><a href="/level-4/atcoder/phase-3-2/README.md">                     <img width="95%" src="/logos/atcoder-08.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-1/README.md">AtCoder OJ <br> Phase 3-1</a></td>
+<td align="center">
+2016-2017 Grand Contests <br>
+2018-2019 Grand Contests <br>
+2020-2023 Grand Contests <br>
+</td>
+<td align="center">
+10 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">30</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-2/README.md">AtCoder OJ <br> Phase 3-2</a></td>
+<td align="center">
+2016-2017 Grand Contests <br>
+2018-2019 Grand Contests <br>
+2020-2023 Grand Contests <br>
+</td>
+<td align="center">
+10 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">30</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
