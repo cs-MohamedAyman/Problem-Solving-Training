@@ -4,9 +4,9 @@
 
 ## Table of Content
 
-- ***Google CodeJam Round 2***            `7 contests`
-- ***Google CodeJam Round 3***            `7 contests`
-- ***Google CodeJam Round World Finals*** `7 contests`
+- ***CodeJam Round 2***            `7 contests`
+- ***CodeJam Round 3***            `7 contests`
+- ***CodeJam Round World Finals*** `7 contests`
 
 ## Google CodeJam Round 2 `7 contests`
 
