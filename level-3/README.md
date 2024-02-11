@@ -102,29 +102,191 @@ Implementation II <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 <br>
 
 ## `LeetCode OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="120px">OJ</th>
+<th width="240px">Phase Name</th>
+<th width="270px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="240px">Solved Using</th>
+<th width="150px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-3/leetcode/basic-algorithms/README.md">             <img width="95%" src="/logos/leetcode-09.png"></img></a></td>
-<td align="center"><a href="/level-3/leetcode/graph-theory/README.md">                 <img width="95%" src="/logos/leetcode-10.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">LeetCode OJ <br> Basic Algorithms</a></td>
+<td align="center">
+Binary Search <br>
+Sorting I <br>
+Sorting II <br>
+Greedy I <br>
+Greedy II <br>
+Greedy III <br>
+Bit Manipulation <br>
+</td>
+<td align="center">
+20 <br>
+15 <br>
+15 <br>
+20 <br>
+20 <br>
+10 <br>
+15 <br>
+</td>
+<td align="center">115</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-3/leetcode/mathematics-strings/README.md">          <img width="95%" src="/logos/leetcode-11.png"></img></a></td>
-<td align="center"><a href="/level-3/leetcode/dynamic-programming/README.md">          <img width="95%" src="/logos/leetcode-12.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">LeetCode OJ <br> Graph Theory</a></td>
+<td align="center">
+Breadth First Search <br>
+Depth First Search <br>
+Graph <br>
+Backtracking <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+15 <br>
+</td>
+<td align="center">75</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-3/leetcode/interviews-questions-1/README.md">       <img width="95%" src="/logos/leetcode-07.png"></img></a></td>
-<td align="center"><a href="/level-3/leetcode/interviews-questions-2/README.md">       <img width="95%" src="/logos/leetcode-08.png"></img></a></td>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">LeetCode OJ <br> Mathematics Strings</a></td>
+<td align="center">
+Math I <br>
+Math II <br>
+Math III <br>
+String I <br>
+String II <br>
+String III <br>
+</td>
+<td align="center">
+25 <br>
+25 <br>
+25 <br>
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">135</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">LeetCode OJ <br> Dynamic Programming</a></td>
+<td align="center">
+Dynamic Programming I <br>
+Dynamic Programming II <br>
+Dynamic Programming III <br>
+Dynamic Programming IV <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">80</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">05</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">LeetCode OJ <br> Interviews Questions 1</a></td>
+<td align="center">
+Array and String <br>
+Linked List <br>
+Stack and Queue <br>
+Binary Tree and Binary Search <br>
+Graph and Backtracking <br>
+Heap and Bit Manipulation <br>
+Hashmap and Math <br>
+Dynamic Programming <br>
+</td>
+<td align="center">
+20 <br>
+15 <br>
+10 <br>
+25 <br>
+20 <br>
+10 <br>
+10 <br>
+15 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">06</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">LeetCode OJ <br> Interviews Questions 2</a></td>
+<td align="center">
+Array and String <br>
+Linked List <br>
+Stack and Queue <br>
+Binary Tree and Binary Search <br>
+Graph and Backtracking <br>
+Heap and Bit Manipulation <br>
+Hashmap and Math <br>
+Dynamic Programming <br>
+</td>
+<td align="center">
+20 <br>
+15 <br>
+10 <br>
+25 <br>
+20 <br>
+10 <br>
+10 <br>
+15 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
 <br>
 
 ## `Google Competitions phases`
