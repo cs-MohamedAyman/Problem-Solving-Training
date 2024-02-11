@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
-
 # Google KickStart - Google KickStart 1 <br> `33 contests` `120 hrs`
 
 ## Table of Content

@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture></a>
-
 # HackerRank OJ - Data Structures <br> `100 problems` `80 hrs`
 
 ## Table of Content

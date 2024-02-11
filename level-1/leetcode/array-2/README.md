@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Array 2 <br> `60 problems` `40 hrs`
 
 ## Table of Content

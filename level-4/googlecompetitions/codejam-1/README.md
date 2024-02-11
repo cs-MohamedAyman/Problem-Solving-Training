@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
-
 # Google CodeJam - Rounds 2, 3, World Finals <br> `27 contests` `120 hrs`
 
 ## Table of Content

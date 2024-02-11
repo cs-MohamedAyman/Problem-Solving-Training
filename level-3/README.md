@@ -591,7 +591,6 @@ Educational Rounds IV <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
 <br>
 
 ## `HackerEarth OJ phases`

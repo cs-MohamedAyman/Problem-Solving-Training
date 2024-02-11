@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture></a>
-
 # HackerRank OJ - Algorithms <br> `90 problems` `80 hrs`
 
 ## Table of Content

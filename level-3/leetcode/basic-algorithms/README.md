@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Basic Algorithms <br> `115 problems` `80 hrs`
 
 ## Table of Content

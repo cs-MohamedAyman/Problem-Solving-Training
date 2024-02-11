@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
-
 # Google CodeJam - Qualification, 1A, 1B, 1C Rounds <br> `32 contests` `120 hrs`
 
 ## Table of Content

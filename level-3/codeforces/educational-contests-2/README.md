@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Educational Contests <br> `80 contests` `120 hrs`
 
 ## Table of Content

@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - Mathematical Algorithms <br> `115 problems` `80 hrs`
 
 ## Table of Content

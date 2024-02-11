@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Data Structures Hard Problems <br> `70 problems` `80 hrs`
 
 ## Table of Content

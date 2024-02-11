@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - Linux Shell <br> `65 problems` `40 hrs`
 
 ## Table of Content

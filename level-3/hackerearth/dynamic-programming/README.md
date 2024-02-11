@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Dynamic Programming <br> `110 problems` `80 hrs`
 
 ## Table of Content

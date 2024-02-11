@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - C++ Programming Language <br> `70 problems` `40 hrs`
 
 ## Table of Content

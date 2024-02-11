@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Phase 2.3 <br> `120 problems` `80 hrs`
 
 ## Table of Content

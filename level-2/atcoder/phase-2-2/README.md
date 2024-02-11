@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
-
 # AtCoder OJ - Phase 2.2 <br> `105 problems` `80 hrs`
 
 ## Table of Content
