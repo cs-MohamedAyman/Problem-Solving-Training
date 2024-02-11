@@ -209,20 +209,122 @@ Array IV <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
 <br>
 
 ## `AtCoder OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-1/atcoder/phase-1-1/README.md">      <img width="95%" src="/logos/atcoder-01.png"></img></a></td>
-<td align="center"><a href="/level-1/atcoder/phase-1-2/README.md">      <img width="95%" src="/logos/atcoder-02.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-1/README.md">AtCoder OJ <br> Phase 1-1</a></td>
+<td align="center">
+2016-2017 Beginner Contests <br>
+2018-2019 Beginner Contests <br>
+2020-2021 Beginner Contests <br>
+2022 Beginner Contests <br>
+2023 Beginner Contests <br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+35 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">135</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-1/atcoder/phase-1-3/README.md">      <img width="95%" src="/logos/atcoder-03.png"></img></a></td>
-<td align="center"><a href="/level-1/atcoder/phase-1-4/README.md">      <img width="95%" src="/logos/atcoder-04.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-2/README.md">AtCoder OJ <br> Phase 1-2</a></td>
+<td align="center">
+2016-2017 Beginner Contests <br>
+2018-2019 Beginner Contests <br>
+2020-2021 Beginner Contests <br>
+2022 Beginner Contests <br>
+2023 Beginner Contests <br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+35 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">135</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-3/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-3/README.md">AtCoder OJ <br> Phase 1-3</a></td>
+<td align="center">
+2016-2017 Beginner Contests <br>
+2018-2019 Beginner Contests <br>
+2020-2021 Beginner Contests <br>
+2022 Beginner Contests <br>
+2023 Beginner Contests <br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+35 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">135</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-4/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-4/README.md">AtCoder OJ <br> Phase 1-4</a></td>
+<td align="center">
+2016-2017 Beginner Contests <br>
+2018-2019 Beginner Contests <br>
+2020-2021 Beginner Contests <br>
+2022 Beginner Contests <br>
+2023 Beginner Contests <br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+35 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">135</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
