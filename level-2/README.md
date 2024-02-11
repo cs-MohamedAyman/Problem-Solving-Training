@@ -65,9 +65,9 @@ Implementation <br>
 <td align="center">80</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/data-structures/README.md">
-<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<img width="45%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/data-structures/README.md">
-<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<img width="45%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 </td>
 <td align="center"></td>
         </tr>
@@ -96,9 +96,9 @@ Implementation <br>
 <td align="center">80</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/algorithms/README.md">
-<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<img width="45%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/algorithms/README.md">
-<img width="33%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<img width="45%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 </td>
 <td align="center"></td>
         </tr>
@@ -239,16 +239,68 @@ Backtracking <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
 <br>
 
 ## `AtCoder OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-2/atcoder/phase-2-1/README.md">                     <img width="95%" src="/logos/atcoder-05.png"></img></a></td>
-<td align="center"><a href="/level-2/atcoder/phase-2-2/README.md">                     <img width="95%" src="/logos/atcoder-06.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/atcoder/phase-2-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/atcoder/phase-2-1/README.md">AtCoder OJ <br> Phase 2-1</a></td>
+<td align="center">
+2016-2017 Regular Contests <br>
+2018-2019 Regular Contests <br>
+2020-2021 Regular Contests <br>
+2022-2023 Regular Contests <br>
+</td>
+<td align="center">
+30 <br>
+15 <br>
+25 <br>
+35 <br>
+</td>
+<td align="center">105</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/atcoder/phase-2-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/atcoder/phase-2-2/README.md">AtCoder OJ <br> Phase 2-2</a></td>
+<td align="center">
+2016-2017 Regular Contests <br>
+2018-2019 Regular Contests <br>
+2020-2021 Regular Contests <br>
+2022-2023 Regular Contests <br>
+</td>
+<td align="center">
+30 <br>
+15 <br>
+25 <br>
+35 <br>
+</td>
+<td align="center">105</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
