@@ -428,9 +428,9 @@ Brute Force <br>
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-1/README.md">Codeforces OJ <br> Div3 & Div4 Contests 1</a></td>
 <td align="center">
-Codeforces Div3 Contests I <br>
-Codeforces Div3 Contests II <br>
-Codeforces Div3 Contests III <br>
+Div3 Contests I <br>
+Div3 Contests II <br>
+Div3 Contests III <br>
 </td>
 <td align="center">
 20 <br>
@@ -449,9 +449,9 @@ Codeforces Div3 Contests III <br>
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-2/README.md">Codeforces OJ <br> Div3 & Div4 Contests 2</a></td>
 <td align="center">
-Codeforces Div3 Contests I <br>
-Codeforces Div3 Contests II <br>
-Codeforces Div3 Contests III <br>
+Div3 Contests I <br>
+Div3 Contests II <br>
+Div3 Contests III <br>
 </td>
 <td align="center">
 20 <br>
