@@ -290,14 +290,113 @@ Dynamic Programming <br>
 ## `Google Competitions phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Contests</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-3/googlecompetitions/kickstart-1/README.md">        <img width="95%" src="/logos/googlecompetitions-01.png"></img></a></td>
-<td align="center"><a href="/level-3/googlecompetitions/kickstart-2/README.md">        <img width="95%" src="/logos/googlecompetitions-02.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/kickstart-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/kickstart-1/README.md">Google Competitions <br> KickStart 1</a></td>
+<td align="center">
+KickStart 2013 <br>
+KickStart 2014 <br>
+KickStart 2015 <br>
+KickStart 2016 <br>
+KickStart 2017 <br>
+KickStart 2018 <br>
+</td>
+<td align="center">
+3 <br>
+4 <br>
+6 <br>
+5 <br>
+7 <br>
+8 <br>
+</td>
+<td align="center">33</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-3/googlecompetitions/codejam-1/README.md">          <img width="95%" src="/logos/googlecompetitions-03.png"></img></a></td>
-<td align="center"><a href="/level-3/googlecompetitions/codejam-2/README.md">          <img width="95%" src="/logos/googlecompetitions-04.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/kickstart-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/kickstart-2/README.md">Google Competitions <br> KickStart 2</a></td>
+<td align="center">
+KickStart 2019 <br>
+KickStart 2020 <br>
+KickStart 2021 <br>
+KickStart 2022 <br>
+</td>
+<td align="center">
+9 <br>
+9 <br>
+8 <br>
+11 <br>
+</td>
+<td align="center">37</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/codejam-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/codejam-1/README.md">Google Competitions <br> CodeJam 1</a></td>
+<td align="center">
+CodeJam Qualifications <br>
+CodeJam 1A <br>
+CodeJam 1B <br>
+CodeJam 1C <br>
+</td>
+<td align="center">
+8 <br>
+8 <br>
+8 <br>
+8 <br>
+</td>
+<td align="center">32</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/codejam-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/googlecompetitions/codejam-2/README.md">Google Competitions <br> CodeJam 2</a></td>
+<td align="center">
+CodeJam Qualifications <br>
+CodeJam 1A <br>
+CodeJam 1B <br>
+CodeJam 1C <br>
+</td>
+<td align="center">
+8 <br>
+7 <br>
+7 <br>
+7 <br>
+</td>
+<td align="center">29</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
