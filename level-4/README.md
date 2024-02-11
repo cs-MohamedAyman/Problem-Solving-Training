@@ -32,9 +32,9 @@ coming soon ...
 <th width="30px">#</th>
 <th width="120px">OJ</th>
 <th width="240px">Phase Name</th>
-<th width="240px">Phase Sections</th>
+<th width="270px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
-<th width="60px">Hrs</th>
+<th width="30px">Hrs</th>
 <th width="240px">Solved Using</th>
 <th width="150px"></th>
         </tr>
@@ -153,9 +153,9 @@ Combinatorics, Geometry, Probability <br>
 <th width="30px">#</th>
 <th width="120px">OJ</th>
 <th width="240px">Phase Name</th>
-<th width="240px">Phase Sections</th>
+<th width="270px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
-<th width="60px">Hrs</th>
+<th width="30px">Hrs</th>
 <th width="240px">Solved Using</th>
 <th width="150px"></th>
         </tr>
