@@ -106,20 +106,137 @@ Implementation <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 <br>
 
 ## `LeetCode OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="15px">#</th>
+<th width="120px">OJ</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="15px">Hrs</th>
+<th width="240px">Solved Using</th>
+<th width="150px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-2/leetcode/linear-data-structures/README.md">       <img width="95%" src="/logos/leetcode-03.png"></img></a></td>
-<td align="center"><a href="/level-2/leetcode/non-linear-data-structures/README.md">   <img width="95%" src="/logos/leetcode-04.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/linear-data-structures/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/linear-data-structures/README.md">LeetCode OJ <br> Linear Data Structures</a></td>
+<td align="center">
+Array I <br>
+Array II <br>
+Linked List <br>
+Stack I <br>
+Stack II <br>
+Queue and Dequeue <br>
+Advanced Topics I <br>
+Advanced Topics II <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+20 <br>
+15 <br>
+10 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-2/leetcode/basic-algorithms/README.md">             <img width="95%" src="/logos/leetcode-05.png"></img></a></td>
-<td align="center"><a href="/level-2/leetcode/graph-theory/README.md">                 <img width="95%" src="/logos/leetcode-06.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/non-linear-data-structures/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/non-linear-data-structures/README.md">LeetCode OJ <br> Non-Linear Data Structures</a></td>
+<td align="center">
+Binary Tree I <br>
+Binary Tree II <br>
+Binary Tree III <br>
+Heap Tree <br>
+Hash Table I <br>
+Hash Table II <br>
+Hash Table III <br>
+Hash Table IV <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+10 <br>
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">150</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/basic-algorithms/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/basic-algorithms/README.md">LeetCode OJ <br> Basic Algorithms</a></td>
+<td align="center">
+Binary Search I <br>
+Sorting I <br>
+Sorting II <br>
+Greedy I <br>
+Greedy II <br>
+Greedy III <br>
+Bit Manipulation <br>
+</td>
+<td align="center">
+20 <br>
+15 <br>
+15 <br>
+20 <br>
+20 <br>
+10 <br>
+15 <br>
+</td>
+<td align="center">115</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/graph-theory/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/graph-theory/README.md">LeetCode OJ <br> Graph Theory</a></td>
+<td align="center">
+Breadth First Search <br>
+Depth First Search <br>
+Graph <br>
+Backtracking <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+15 <br>
+</td>
+<td align="center">75</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
