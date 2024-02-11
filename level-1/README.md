@@ -20,7 +20,7 @@
 
 <br><br>
 
-## Prerequisite Knowledge: <br> [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages/README.md) and [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages/README.md)
+## Prerequisite Knowledge: <br> [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages/README.md) or [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
 <br>
