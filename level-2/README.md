@@ -472,14 +472,117 @@ Div3 Contests III <br>
 ## `HackerEarth OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-2/hackerearth/linear-data-structures/README.md">    <img width="95%" src="/logos/hackerearth-05.png"></img></a></td>
-<td align="center"><a href="/level-2/hackerearth/non-linear-data-structures/README.md"><img width="95%" src="/logos/hackerearth-06.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/linear-data-structures/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/linear-data-structures/README.md">HackerEarth OJ <br> Linear Data Structures</a></td>
+<td align="center">
+Arrays 1D I <br>
+Arrays 1D II <br>
+Arrays Multi-dimensional <br>
+Stacks <br>
+Queues <br>
+</td>
+<td align="center">
+25 <br>
+25 <br>
+35 <br>
+25 <br>
+5 <br>
+</td>
+<td align="center">115</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-2/hackerearth/algorithms-searching/README.md">      <img width="95%" src="/logos/hackerearth-07.png"></img></a></td>
-<td align="center"><a href="/level-2/hackerearth/algorithms-sorting/README.md">        <img width="95%" src="/logos/hackerearth-08.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/non-linear-data-structures/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/non-linear-data-structures/README.md">HackerEarth OJ <br> Non-Linear Data Structures</a></td>
+<td align="center">
+Binary Tree <br>
+Binary Search Tree <br>
+Binary Heap / Priority Queue <br>
+Hash Tables I <br>
+Hash Tables II <br>
+</td>
+<td align="center">
+10 <br>
+10 <br>
+20 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">90</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/algorithms-searching/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/algorithms-searching/README.md">HackerEarth OJ <br> Algorithms Searching</a></td>
+<td align="center">
+Linear Search <br>
+Binary Search I <br>
+Binary Search II <br>
+Binary Search III <br>
+Ternary Search <br>
+</td>
+<td align="center">
+15 <br>
+35 <br>
+35 <br>
+30 <br>
+5 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/algorithms-sorting/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerearth/algorithms-sorting/README.md">HackerEarth OJ <br> Algorithms Sorting</a></td>
+<td align="center">
+Sorting Algorithms I <br>
+Sorting Algorithms II <br>
+Greedy Algorithms I <br>
+Greedy Algorithms II <br>
+Greedy Algorithms III <br>
+</td>
+<td align="center">
+40 <br>
+20 <br>
+25 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">135</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
