@@ -4,9 +4,9 @@
 
 ## Table of Content
 
-- ***Codeforces Div3 Contests I***   `20 contests`
-- ***Codeforces Div3 Contests II***  `20 contests`
-- ***Codeforces Div3 Contests III*** `20 contests`
+- ***Div3 Contests I***   `20 contests`
+- ***Div3 Contests II***  `20 contests`
+- ***Div3 Contests III*** `20 contests`
 
 ## Codeforces -  Div3 Contests I `20 contests`
 
