@@ -305,24 +305,164 @@ Backtracking <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
 <br>
 
 ## `Codeforces OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-2/codeforces/phase-2-1/README.md">                  <img width="95%" src="/logos/codeforces-05.png"></img></a></td>
-<td align="center"><a href="/level-2/codeforces/phase-2-2/README.md">                  <img width="95%" src="/logos/codeforces-06.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-1/README.md">Codeforces OJ <br> Phase 2-1</a></td>
+<td align="center">
+Data Structure <br>
+String <br>
+Mathematics <br>
+Greedy <br>
+Brute Force <br>
+</td>
+<td align="center">
+20 <br>
+25 <br>
+35 <br>
+30 <br>
+10 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-2/codeforces/phase-2-3/README.md">                  <img width="95%" src="/logos/codeforces-07.png"></img></a></td>
-<td align="center"><a href="/level-2/codeforces/phase-2-4/README.md">                  <img width="95%" src="/logos/codeforces-08.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-2/README.md">Codeforces OJ <br> Phase 2-2</a></td>
+<td align="center">
+Data Structure <br>
+String <br>
+Mathematics <br>
+Greedy <br>
+Brute Force <br>
+</td>
+<td align="center">
+20 <br>
+25 <br>
+35 <br>
+30 <br>
+10 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-2/codeforces/div3-div4-contests-1/README.md">       <img width="95%" src="/logos/codeforces-09.png"></img></a></td>
-<td align="center"><a href="/level-2/codeforces/div3-div4-contests-2/README.md">       <img width="95%" src="/logos/codeforces-10.png"></img></a></td>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-3/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-3/README.md">Codeforces OJ <br> Phase 2-3</a></td>
+<td align="center">
+Data Structure <br>
+String <br>
+Mathematics <br>
+Greedy <br>
+Brute Force <br>
+</td>
+<td align="center">
+20 <br>
+25 <br>
+35 <br>
+30 <br>
+10 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-4/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/phase-2-4/README.md">Codeforces OJ <br> Phase 2-4</a></td>
+<td align="center">
+Data Structure <br>
+String <br>
+Mathematics <br>
+Greedy <br>
+Brute Force <br>
+</td>
+<td align="center">
+20 <br>
+25 <br>
+35 <br>
+30 <br>
+10 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">05</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-1/README.md">Codeforces OJ <br> Div3 & Div4 Contests 1</a></td>
+<td align="center">
+Codeforces Div3 Contests I <br>
+Codeforces Div3 Contests II <br>
+Codeforces Div3 Contests III <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">60</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">06</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-2/README.md">Codeforces OJ <br> Div3 & Div4 Contests 2</a></td>
+<td align="center">
+Codeforces Div3 Contests I <br>
+Codeforces Div3 Contests II <br>
+Codeforces Div3 Contests III <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">60</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
