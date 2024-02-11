@@ -291,7 +291,7 @@ Dynamic Programming VI <br>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/googlecompetitions/codejam-1/README.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/googlecompetitions/codejam-1/README.md">Google Competitions OJ <br> CodeJam 1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/googlecompetitions/codejam-1/README.md">Google Competitions <br> CodeJam 1</a></td>
 <td align="center">
 CodeJam Round 2 <br>
 CodeJam Round 3 <br>
@@ -312,7 +312,7 @@ CodeJam Round World Finals <br>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/googlecompetitions/codejam-2/README.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/googlecompetitions/codejam-2/README.md">Google Competitions OJ <br> CodeJam 2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/googlecompetitions/codejam-2/README.md">Google Competitions <br> CodeJam 2</a></td>
 <td align="center">
 CodeJam Round 2 <br>
 CodeJam Round 3 <br>
