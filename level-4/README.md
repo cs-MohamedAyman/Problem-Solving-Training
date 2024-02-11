@@ -143,20 +143,131 @@ Combinatorics, Geometry, Probability <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 <br>
 
 ## `LeetCode OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="120px">OJ</th>
+<th width="240px">Phase Name</th>
+<th width="240px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="60px">Hrs</th>
+<th width="240px">Solved Using</th>
+<th width="150px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-4/leetcode/data-structures-hard-problems/README.md"><img width="95%" src="/logos/leetcode-13.png"></img></a></td>
-<td align="center"><a href="/level-4/leetcode/algorithms-hard-problems/README.md">     <img width="95%" src="/logos/leetcode-14.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/data-structures-hard-problems/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/data-structures-hard-problems/README.md">LeetCode OJ <br> Data Structures Hard Problems</a></td>
+<td align="center">
+Array <br>
+Stack, Queue, Dequeue <br>
+Binary Tree <br>
+Heap Tree <br>
+Hash Table <br>
+Advanced Topics <br>
+</td>
+<td align="center">
+10 <br>
+15 <br>
+5 <br>
+20 <br>
+5 <br>
+15 <br>
+</td>
+<td align="center">70</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-4/leetcode/mathematics-strings/README.md">          <img width="95%" src="/logos/leetcode-15.png"></img></a></td>
-<td align="center"><a href="/level-4/leetcode/dynamic-programming/README.md">          <img width="95%" src="/logos/leetcode-16.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/algorithms-hard-problems/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/algorithms-hard-problems/README.md">HackerRank OJ <br> Algorithms Hard Problems</a></td>
+<td align="center">
+Breadth First Search <br>
+Depth First Search <br>
+Backtracking <br>
+Binary Search <br>
+Greedy <br>
+Bit Manipulation, Sorting <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">120</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/mathematics-strings/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/mathematics-strings/README.md">LeetCode OJ <br> Mathematics and Strings</a></td>
+<td align="center">
+Math I <br>
+Math II <br>
+Math III <br>
+String I <br>
+String II <br>
+String III <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+10 <br>
+10 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">70</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/dynamic-programming/README.md">
+<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/dynamic-programming/README.md">HackerRank OJ <br> Dynamic Programming</a></td>
+<td align="center">
+Dynamic Programming I <br>
+Dynamic Programming II <br>
+Dynamic Programming III <br>
+Dynamic Programming IV <br>
+Dynamic Programming V <br>
+Dynamic Programming VI <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+</td>
+<td align="center">90</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
