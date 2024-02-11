@@ -4,10 +4,10 @@
 
 ## Table of Content
 
-- ***Google CodeJam Qualifications***   `8 contests`
-- ***Google CodeJam Rounds 1A***        `7 contests`
-- ***Google CodeJam Rounds 1B***        `7 contests`
-- ***Google CodeJam Rounds 1C***        `7 contests`
+- ***CodeJam Qualifications***   `8 contests`
+- ***CodeJam Rounds 1A***        `7 contests`
+- ***CodeJam Rounds 1B***        `7 contests`
+- ***CodeJam Rounds 1C***        `7 contests`
 
 ## Google CodeJam Qualifications `8 contests`
 
