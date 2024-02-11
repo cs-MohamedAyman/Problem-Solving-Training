@@ -143,17 +143,68 @@ Grep Sed Awk <br>
     </tbody>
 </table>
 
-
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 <br>
 
 ## `LeetCode OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-1/leetcode/array-1/README.md">       <img width="95%" src="/logos/leetcode-01.png"></img></a></td>
-<td align="center"><a href="/level-1/leetcode/array-2/README.md">       <img width="95%" src="/logos/leetcode-02.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1/README.md">LeetCode OJ <br> Array 1</a></td>
+<td align="center">
+Array I <br>
+Array II <br>
+Array III <br>
+Array IV <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+</td>
+<td align="center">60</td>
+<td align="center">40</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-2/README.md">LeetCode OJ <br> Array 2</a></td>
+<td align="center">
+Array I <br>
+Array II <br>
+Array III <br>
+Array IV <br>
+</td>
+<td align="center">
+15 <br>
+15 <br>
+15 <br>
+15 <br>
+</td>
+<td align="center">60</td>
+<td align="center">40</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
