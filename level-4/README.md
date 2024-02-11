@@ -394,7 +394,6 @@ CodeJam Round World Finals <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
 <br>
 
 ## `Codeforces OJ phases`
