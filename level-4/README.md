@@ -192,7 +192,7 @@ Advanced Topics <br>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/algorithms-hard-problems/README.md">
 <img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/algorithms-hard-problems/README.md">HackerRank OJ <br> Algorithms Hard Problems</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/algorithms-hard-problems/README.md">LeetCode OJ <br> Algorithms Hard Problems</a></td>
 <td align="center">
 Breadth First Search <br>
 Depth First Search <br>
@@ -246,7 +246,7 @@ String III <br>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/dynamic-programming/README.md">
 <img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/dynamic-programming/README.md">HackerRank OJ <br> Dynamic Programming</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/leetcode/dynamic-programming/README.md">LeetCode OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
 Dynamic Programming II <br>
