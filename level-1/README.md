@@ -462,14 +462,109 @@ List / Array II <br>
 ## `HackerEarth OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-1/hackerearth/phase-1-1/README.md">  <img width="95%" src="/logos/hackerearth-01.png"></img></a></td>
-<td align="center"><a href="/level-1/hackerearth/phase-1-2/README.md">  <img width="95%" src="/logos/hackerearth-02.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-1/README.md">HackerEarth OJ <br> Phase 1-1</a></td>
+<td align="center">
+Implementation I <br>
+Implementation II <br>
+Implementation III <br>
+Implementation IV <br>
+</td>
+<td align="center">
+25 <br>
+25 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">100</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-1/hackerearth/phase-1-3/README.md">  <img width="95%" src="/logos/hackerearth-03.png"></img></a></td>
-<td align="center"><a href="/level-1/hackerearth/phase-1-4/README.md">  <img width="95%" src="/logos/hackerearth-04.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-2/README.md">HackerEarth OJ <br> Phase 1-2</a></td>
+<td align="center">
+Implementation I <br>
+Implementation II <br>
+Implementation III <br>
+Implementation IV <br>
+</td>
+<td align="center">
+25 <br>
+25 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">100</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-3/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-3/README.md">HackerEarth OJ <br> Phase 1-3</a></td>
+<td align="center">
+Implementation I <br>
+Implementation II <br>
+Implementation III <br>
+Implementation IV <br>
+</td>
+<td align="center">
+25 <br>
+25 <br>
+25 <br>
+25 <br>
+</td>
+<td align="center">100</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-4/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-4/README.md">HackerEarth OJ <br> Phase 1-4</a></td>
+<td align="center">
+Input/Output <br>
+Bit Manipulation <br>
+Recursion <br>
+Operators <br>
+</td>
+<td align="center">
+40 <br>
+40 <br>
+10 <br>
+35 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
