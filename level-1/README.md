@@ -30,22 +30,21 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 <table>
     <thead>
         <tr>
-<th width="15px">#</th>
-<th width="120px">OJ</th>
+<th width="30px">#</th>
 <th width="240px">Phase Name</th>
 <th width="300px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
-<th width="15px">Hrs</th>
-<th width="240px">Solved Using</th>
-<th width="150px"></th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">HackerRank OJ <br> C++</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">HackerRank OJ <br> C++</a></td>
 <td align="center">
 Introduction <br>
 Arrays and Strings <br>
@@ -69,8 +68,8 @@ Implementation <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">HackerRank OJ <br> Python</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">HackerRank OJ <br> Python</a></td>
 <td align="center">
 Introduction <br>
 Collections <br>
@@ -94,8 +93,8 @@ Classes <br>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">HackerRank OJ <br> Java</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">HackerRank OJ <br> Java</a></td>
 <td align="center">
 Introduction <br>
 Strings and BigNumber <br>
@@ -119,8 +118,8 @@ Advanced <br>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">HackerRank OJ <br> Linux Shell</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">HackerRank OJ <br> Linux Shell</a></td>
 <td align="center">
 Bash <br>
 Text Processing I <br>
