@@ -30,22 +30,21 @@ The prerequisites for level 3 of this training are the knowledge for Data Struct
 <table>
     <thead>
         <tr>
-<th width="15px">#</th>
-<th width="120px">OJ</th>
+<th width="30px">#</th>
 <th width="240px">Phase Name</th>
 <th width="300px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
-<th width="15px">Hrs</th>
-<th width="240px">Solved Using</th>
-<th width="150px"></th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
 <td align="center">
 Number Theory I <br>
 Number Theory II <br>
@@ -73,8 +72,8 @@ Probability <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
 <td align="center">
 Graph Theory I <br>
 Graph Theory II <br>
@@ -109,22 +108,21 @@ Implementation II <br>
 <table>
     <thead>
         <tr>
-<th width="15px">#</th>
-<th width="120px">OJ</th>
+<th width="30px">#</th>
 <th width="240px">Phase Name</th>
 <th width="300px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
-<th width="15px">Hrs</th>
-<th width="240px">Solved Using</th>
-<th width="150px"></th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">LeetCode OJ <br> Basic Algorithms</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">LeetCode OJ <br> Basic Algorithms</a></td>
 <td align="center">
 Binary Search <br>
 Sorting I <br>
@@ -152,8 +150,8 @@ Bit Manipulation <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">LeetCode OJ <br> Graph Theory</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">LeetCode OJ <br> Graph Theory</a></td>
 <td align="center">
 Breadth First Search <br>
 Depth First Search <br>
@@ -175,8 +173,8 @@ Backtracking <br>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">LeetCode OJ <br> Mathematics Strings</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">LeetCode OJ <br> Mathematics Strings</a></td>
 <td align="center">
 Math I <br>
 Math II <br>
@@ -202,8 +200,8 @@ String III <br>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">LeetCode OJ <br> Dynamic Programming</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">LeetCode OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
 Dynamic Programming II <br>
@@ -225,8 +223,8 @@ Dynamic Programming IV <br>
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">LeetCode OJ <br> Interviews Questions 1</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">LeetCode OJ <br> Interviews Questions 1</a></td>
 <td align="center">
 Array and String <br>
 Linked List <br>
@@ -256,8 +254,8 @@ Dynamic Programming <br>
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">
-<img width="90%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">LeetCode OJ <br> Interviews Questions 2</a></td>
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">LeetCode OJ <br> Interviews Questions 2</a></td>
 <td align="center">
 Array and String <br>
 Linked List <br>
