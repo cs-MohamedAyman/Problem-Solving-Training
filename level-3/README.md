@@ -401,24 +401,192 @@ CodeJam 1C <br>
     </tbody>
 </table>
 
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
 <br>
 
 ## `Codeforces OJ phases`
 
 <table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="240px">Phase Name</th>
+<th width="300px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+<th width="210px">Solved Using</th>
+<th width="240px"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/level-3/codeforces/phase-3-1/README.md">                  <img width="95%" src="/logos/codeforces-11.png"></img></a></td>
-<td align="center"><a href="/level-3/codeforces/phase-3-2/README.md">                  <img width="95%" src="/logos/codeforces-12.png"></img></a></td>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-1/README.md">Codeforces OJ <br> Phase 3-1</a></td>
+<td align="center">
+Divide and Conquer <br>
+Graph <br>
+String <br>
+Data Structure <br>
+Math and Number Theory I <br>
+Math and Number Theory II <br>
+Greedy and Brute Force <br>
+Dynamic Programming <br>
+</td>
+<td align="center">
+10 <br>
+15 <br>
+15 <br>
+20 <br>
+15 <br>
+15 <br>
+25 <br>
+10 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-3/codeforces/phase-3-3/README.md">                  <img width="95%" src="/logos/codeforces-13.png"></img></a></td>
-<td align="center"><a href="/level-3/codeforces/phase-3-4/README.md">                  <img width="95%" src="/logos/codeforces-14.png"></img></a></td>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-2/README.md">Codeforces OJ <br> Phase 3-2</a></td>
+<td align="center">
+Divide and Conquer <br>
+Graph <br>
+String <br>
+Data Structure <br>
+Math and Number Theory I <br>
+Math and Number Theory II <br>
+Greedy and Brute Force <br>
+Dynamic Programming <br>
+</td>
+<td align="center">
+10 <br>
+15 <br>
+15 <br>
+20 <br>
+15 <br>
+15 <br>
+25 <br>
+10 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-3/codeforces/educational-contests-1/README.md">     <img width="95%" src="/logos/codeforces-15.png"></img></a></td>
-<td align="center"><a href="/level-3/codeforces/educational-contests-2/README.md">     <img width="95%" src="/logos/codeforces-16.png"></img></a></td>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-3/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-3/README.md">Codeforces OJ <br> Phase 3-3</a></td>
+<td align="center">
+Divide and Conquer <br>
+Graph <br>
+String <br>
+Data Structure <br>
+Math and Number Theory I <br>
+Math and Number Theory II <br>
+Greedy and Brute Force <br>
+Dynamic Programming <br>
+</td>
+<td align="center">
+10 <br>
+15 <br>
+15 <br>
+20 <br>
+15 <br>
+15 <br>
+25 <br>
+10 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-4/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-4/README.md">Codeforces OJ <br> Phase 3-4</a></td>
+<td align="center">
+Divide and Conquer <br>
+Graph <br>
+String <br>
+Data Structure <br>
+Math and Number Theory I <br>
+Math and Number Theory II <br>
+Greedy and Brute Force <br>
+Dynamic Programming <br>
+</td>
+<td align="center">
+10 <br>
+15 <br>
+15 <br>
+20 <br>
+15 <br>
+15 <br>
+25 <br>
+10 <br>
+</td>
+<td align="center">125</td>
+<td align="center">80</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">05</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1/README.md">Codeforces OJ <br> Educational Contests 1</a></td>
+<td align="center">
+Educational Rounds I <br>
+Educational Rounds II <br>
+Educational Rounds III <br>
+Educational Rounds IV <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">80</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
+        </tr>
+        <tr>
+<td align="center">06</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2/README.md">
+<img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2/README.md">Codeforces OJ <br> Educational Contests 2</a></td>
+<td align="center">
+Educational Rounds I <br>
+Educational Rounds II <br>
+Educational Rounds III <br>
+Educational Rounds IV <br>
+</td>
+<td align="center">
+20 <br>
+20 <br>
+20 <br>
+20 <br>
+</td>
+<td align="center">80</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
