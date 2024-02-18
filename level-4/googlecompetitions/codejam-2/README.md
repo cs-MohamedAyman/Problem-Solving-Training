@@ -1,12 +1,10 @@
-<picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
-
 # Google CodeJam - Rounds 2, 3, World Finals <br> `21 contests` `120 hrs`
 
 ## Table of Content
 
-- ***Google CodeJam Round 2***            `7 contests`
-- ***Google CodeJam Round 3***            `7 contests`
-- ***Google CodeJam Round World Finals*** `7 contests`
+- ***CodeJam Round 2***            `7 contests`
+- ***CodeJam Round 3***            `7 contests`
+- ***CodeJam Round World Finals*** `7 contests`
 
 ## Google CodeJam Round 2 `7 contests`
 

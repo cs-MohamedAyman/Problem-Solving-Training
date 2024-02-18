@@ -1,6 +1,4 @@
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
-
-# AtCoder OJ - Phase 3.2 <br> `30 contests` `80 hrs`
+# AtCoder OJ - Phase 3.2 <br> `30 contests` `120 hrs`
 
 ## Table of Content
 
