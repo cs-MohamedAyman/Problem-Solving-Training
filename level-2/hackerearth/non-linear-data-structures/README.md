@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Non-linear Data Structure <br> `90 problems` `80 hrs`
 
 ## Table of Content

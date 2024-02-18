@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Gym Contests 2 <br> `155 contests` `240 hrs`
 
 ## Table of Content

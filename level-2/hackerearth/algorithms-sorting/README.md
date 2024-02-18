@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Algorithms Sorting <br> `135 problems` `80 hrs`
 
 ## Table of Content

@@ -1,12 +1,10 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Div3 + Div4 Contests <br> `60 contests` `120 hrs`
 
 ## Table of Content
 
-- ***Codeforces Div3 Contests I***   `20 contests`
-- ***Codeforces Div3 Contests II***  `20 contests`
-- ***Codeforces Div3 Contests III*** `20 contests`
+- ***Div3 Contests I***   `20 contests`
+- ***Div3 Contests II***  `20 contests`
+- ***Div3 Contests III*** `20 contests`
 
 ## Codeforces -  Div3 Contests I `20 contests`
 
