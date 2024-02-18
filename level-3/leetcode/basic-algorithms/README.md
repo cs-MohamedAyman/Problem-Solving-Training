@@ -1,6 +1,4 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
-# LeetCode OJ - Basic Algorithms <br> `115 problems` `80 hrs`
+# LeetCode OJ - Basic Algorithms <br> `100 problems` `80 hrs`
 
 ## Table of Content
 
@@ -10,7 +8,6 @@
 - ***Greedy I***               `20 problems`
 - ***Greedy II***              `20 problems`
 - ***Greedy III***             `10 problems`
-- ***Bit Manipulation***       `15 problems`
 
 ## LeetCode - Binary Search `20 problems`
 
@@ -254,49 +251,6 @@
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-values-from-labels/">largest values from labels</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/car-pooling/">car pooling</a></th>
-        </tr>
-    </tbody>
-</table>
-
-## LeetCode - Bit Manipulation `15 problems`
-
-<table>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/">find the longest substring containing vowels in even counts</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-xored-permutation/">decode xored permutation</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ip-to-cidr/">ip to cidr</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-word-lengths/">maximum product of word lengths</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/utf-8-validation/">utf 8 validation</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/integer-replacement/">integer replacement</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/">check if a string contains all binary codes of size k</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/">concatenation of consecutive binary numbers</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/total-hamming-distance/">total hamming distance</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/bulb-switcher-ii/">bulb switcher ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-two-integers/">sum of two integers</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/">number of steps to reduce a number in binary representation to one</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/">maximum score from removing substrings</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-wonderful-substrings/">number of wonderful substrings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-xor-for-each-query/">maximum xor for each query</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/xor-queries-of-a-subarray/">xor queries of a subarray</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-good-ways-to-split-a-string/">number of good ways to split a string</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-number/">encode number</a></th>
         </tr>
     </tbody>
 </table>

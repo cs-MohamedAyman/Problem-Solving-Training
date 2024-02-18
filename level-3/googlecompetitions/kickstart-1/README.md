@@ -1,15 +1,13 @@
-<picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
-
 # Google KickStart - Google KickStart 1 <br> `33 contests` `120 hrs`
 
 ## Table of Content
 
-- ***Google KickStart 2013***        `3 contests`
-- ***Google KickStart 2014***        `4 contests`
-- ***Google KickStart 2015***        `6 contests`
-- ***Google KickStart 2016***        `5 contests`
-- ***Google KickStart 2017***        `7 contests`
-- ***Google KickStart 2018***        `8 contests`
+- ***KickStart 2013***        `3 contests`
+- ***KickStart 2014***        `4 contests`
+- ***KickStart 2015***        `6 contests`
+- ***KickStart 2016***        `5 contests`
+- ***KickStart 2017***        `7 contests`
+- ***KickStart 2018***        `8 contests`
 
 ## Google KickStart 2013 `3 contests`
 
