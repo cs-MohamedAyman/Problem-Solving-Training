@@ -237,7 +237,7 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/">longest continuous subarray with absolute diff less than or equal to limit</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/">longest substring with at most k distinct characters</a></th>
-        </tr>        
+        </tr>
     </tbody>
 </table>
 
