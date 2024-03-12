@@ -20,7 +20,7 @@
 
 <br><br>
 
-## Prerequisite Knowledge: <br> [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages/README.md) or [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages/README.md)
+## Prerequisite Knowledge: <br> [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages.md) or [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
 <br>
@@ -42,9 +42,9 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp/README.md">HackerRank OJ <br> C++</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/cpp.md">HackerRank OJ <br> C++</a></td>
 <td align="center">
 Introduction <br>
 Arrays and Strings <br>
@@ -67,9 +67,9 @@ Implementation <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python/README.md">HackerRank OJ <br> Python</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/python.md">HackerRank OJ <br> Python</a></td>
 <td align="center">
 Introduction <br>
 Collections <br>
@@ -89,9 +89,9 @@ Classes <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java/README.md">HackerRank OJ <br> Java</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/java.md">HackerRank OJ <br> Java</a></td>
 <td align="center">
 Introduction <br>
 Strings and BigNumber <br>
@@ -111,9 +111,9 @@ Advanced <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell/README.md">HackerRank OJ <br> Linux Shell</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerrank/linux-shell.md">HackerRank OJ <br> Linux Shell</a></td>
 <td align="center">
 Bash <br>
 Text Processing I <br>
@@ -153,9 +153,9 @@ Grep Sed Awk <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1/README.md">LeetCode OJ <br> Array 1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1.md">LeetCode OJ <br> Array 1</a></td>
 <td align="center">
 Array I <br>
 Array II <br>
@@ -176,9 +176,9 @@ Array IV <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-2/README.md">LeetCode OJ <br> Array 2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-2.md">LeetCode OJ <br> Array 2</a></td>
 <td align="center">
 Array I <br>
 Array II <br>
@@ -196,9 +196,9 @@ Array IV <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-bit-manipulation/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-bit-manipulation.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-bit-manipulation/README.md">LeetCode OJ <br> Array and Bit Manipulation</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-bit-manipulation.md">LeetCode OJ <br> Array and Bit Manipulation</a></td>
 <td align="center">
 Bit Manipulation I <br>
 Bit Manipulation II <br>
@@ -216,9 +216,9 @@ Array II <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/mathematics-strings/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/mathematics-strings.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/mathematics-strings/README.md">LeetCode OJ <br> Mathematics and Strings</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/mathematics-strings.md">LeetCode OJ <br> Mathematics and Strings</a></td>
 <td align="center">
 Math I <br>
 Math II <br>
@@ -256,9 +256,9 @@ String II <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-1/README.md">AtCoder OJ <br> Phase 1-1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-1.md">AtCoder OJ <br> Phase 1-1</a></td>
 <td align="center">
 2016-2017 Beginner Contests <br>
 2018-2019 Beginner Contests <br>
@@ -281,9 +281,9 @@ String II <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-2/README.md">AtCoder OJ <br> Phase 1-2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-2.md">AtCoder OJ <br> Phase 1-2</a></td>
 <td align="center">
 2016-2017 Beginner Contests <br>
 2018-2019 Beginner Contests <br>
@@ -303,9 +303,9 @@ String II <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-3/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-3.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-3/README.md">AtCoder OJ <br> Phase 1-3</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-3.md">AtCoder OJ <br> Phase 1-3</a></td>
 <td align="center">
 2016-2017 Beginner Contests <br>
 2018-2019 Beginner Contests <br>
@@ -328,9 +328,9 @@ String II <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-4/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-4.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-4/README.md">AtCoder OJ <br> Phase 1-4</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/atcoder/phase-1-4.md">AtCoder OJ <br> Phase 1-4</a></td>
 <td align="center">
 2016-2017 Beginner Contests <br>
 2018-2019 Beginner Contests <br>
@@ -370,9 +370,9 @@ String II <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-1/README.md">Codeforces OJ <br> Phase 1-1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-1.md">Codeforces OJ <br> Phase 1-1</a></td>
 <td align="center">
 Basic Operator <br>
 Condition <br>
@@ -397,9 +397,9 @@ List / Array II <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-2/README.md">Codeforces OJ <br> Phase 1-2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-2.md">Codeforces OJ <br> Phase 1-2</a></td>
 <td align="center">
 Basic Operator <br>
 Condition <br>
@@ -421,9 +421,9 @@ List / Array II <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-3/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-3.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-3/README.md">Codeforces OJ <br> Phase 1-3</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-3.md">Codeforces OJ <br> Phase 1-3</a></td>
 <td align="center">
 Basic Operator <br>
 Condition <br>
@@ -448,9 +448,9 @@ List / Array II <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-4/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-4.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-4/README.md">Codeforces OJ <br> Phase 1-4</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/codeforces/phase-1-4.md">Codeforces OJ <br> Phase 1-4</a></td>
 <td align="center">
 Basic Operator <br>
 Condition <br>
@@ -492,9 +492,9 @@ List / Array II <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-1/README.md">HackerEarth OJ <br> Phase 1-1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-1.md">HackerEarth OJ <br> Phase 1-1</a></td>
 <td align="center">
 Implementation I <br>
 Implementation II <br>
@@ -515,9 +515,9 @@ Implementation IV <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-2/README.md">HackerEarth OJ <br> Phase 1-2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-2.md">HackerEarth OJ <br> Phase 1-2</a></td>
 <td align="center">
 Implementation I <br>
 Implementation II <br>
@@ -535,9 +535,9 @@ Implementation IV <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-3/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-3.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-3/README.md">HackerEarth OJ <br> Phase 1-3</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-3.md">HackerEarth OJ <br> Phase 1-3</a></td>
 <td align="center">
 Implementation I <br>
 Implementation II <br>
@@ -558,9 +558,9 @@ Implementation IV <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-4/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-4.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-4/README.md">HackerEarth OJ <br> Phase 1-4</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/hackerearth/phase-1-4.md">HackerEarth OJ <br> Phase 1-4</a></td>
 <td align="center">
 Input/Output <br>
 Bit Manipulation <br>
