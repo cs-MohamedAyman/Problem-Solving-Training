@@ -282,7 +282,7 @@ def TestRunCases():
   # empty to begin with...
   RunCases(1, 3, 1, 123,
            test_input=["3", "3", "3", "3", "3", "3", "0", "1 2"],
-  	   test_output_storage=[])
+         test_output_storage=[])
   # One more round than allowed.
   AssertRaisesError(TOO_MANY_ROUNDS_ERROR, RunCases, 1, 3, 1, 123,
                     test_input=["3", "3", "3", "3", "3", "3", "3", "0", "1 2"],
