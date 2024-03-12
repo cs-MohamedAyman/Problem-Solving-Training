@@ -20,7 +20,7 @@
 
 <br><br>
 
-## Prerequisite Knowledge: [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms/README.md)
+## Prerequisite Knowledge: [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms.md)
 The prerequisites for level 3 of this training are the knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Divide and Conquer - Graph Theory - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms - String Algorithms)***.
 
 <br>
@@ -42,9 +42,9 @@ The prerequisites for level 3 of this training are the knowledge for Data Struct
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms/README.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
 <td align="center">
 Number Theory I <br>
 Number Theory II <br>
@@ -71,9 +71,9 @@ Probability <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming/README.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
 <td align="center">
 Graph Theory I <br>
 Graph Theory II <br>
@@ -117,9 +117,9 @@ Implementation II <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms/README.md">LeetCode OJ <br> Basic Algorithms</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/basic-algorithms.md">LeetCode OJ <br> Basic Algorithms</a></td>
 <td align="center">
 Binary Search <br>
 Sorting I <br>
@@ -144,9 +144,9 @@ Greedy III <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory/README.md">LeetCode OJ <br> Graph Theory</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/graph-theory.md">LeetCode OJ <br> Graph Theory</a></td>
 <td align="center">
 Breadth First Search <br>
 Depth First Search <br>
@@ -164,9 +164,9 @@ Backtracking <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings/README.md">LeetCode OJ <br> Mathematics and Strings</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/mathematics-strings.md">LeetCode OJ <br> Mathematics and Strings</a></td>
 <td align="center">
 Math I <br>
 Math II <br>
@@ -191,9 +191,9 @@ String III <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming/README.md">LeetCode OJ <br> Dynamic Programming</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/dynamic-programming.md">LeetCode OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
 Dynamic Programming II <br>
@@ -211,9 +211,9 @@ Dynamic Programming IV <br>
         </tr>
         <tr>
 <td align="center">05</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1/README.md">LeetCode OJ <br> Interviews Questions 1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1.md">LeetCode OJ <br> Interviews Questions 1</a></td>
 <td align="center">
 Array and String <br>
 Linked List <br>
@@ -235,16 +235,16 @@ Dynamic Programming <br>
 15 <br>
 </td>
 <td align="center">125</td>
-<td align="center">80</td>
-<td align="center" rowspan=2>
+<td align="center">120</td>
+<td align="center">
 </td>
-<td align="center" rowspan=2></td>
+<td align="center"></td>
         </tr>
         <tr>
 <td align="center">06</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2/README.md">LeetCode OJ <br> Interviews Questions 2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2.md">LeetCode OJ <br> Interviews Questions 2</a></td>
 <td align="center">
 Array and String <br>
 Linked List <br>
@@ -266,7 +266,10 @@ Dynamic Programming <br>
 15 <br>
 </td>
 <td align="center">125</td>
-<td align="center">80</td>
+<td align="center">120</td>
+<td align="center">
+</td>
+<td align="center"></td>
         </tr>
     </tbody>
 </table>
@@ -406,9 +409,9 @@ CodeJam 1C <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-1/README.md">Codeforces OJ <br> Phase 3-1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-1.md">Codeforces OJ <br> Phase 3-1</a></td>
 <td align="center">
 Divide and Conquer <br>
 Graph <br>
@@ -437,9 +440,9 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-2/README.md">Codeforces OJ <br> Phase 3-2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-2.md">Codeforces OJ <br> Phase 3-2</a></td>
 <td align="center">
 Divide and Conquer <br>
 Graph <br>
@@ -465,9 +468,9 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-3/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-3.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-3/README.md">Codeforces OJ <br> Phase 3-3</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-3.md">Codeforces OJ <br> Phase 3-3</a></td>
 <td align="center">
 Divide and Conquer <br>
 Graph <br>
@@ -496,9 +499,9 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-4/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-4.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-4/README.md">Codeforces OJ <br> Phase 3-4</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/phase-3-4.md">Codeforces OJ <br> Phase 3-4</a></td>
 <td align="center">
 Divide and Conquer <br>
 Graph <br>
@@ -524,9 +527,9 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">05</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1/README.md">Codeforces OJ <br> Educational Contests 1</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1.md">Codeforces OJ <br> Educational Contests 1</a></td>
 <td align="center">
 Educational Rounds I <br>
 Educational Rounds II <br>
@@ -547,9 +550,9 @@ Educational Rounds IV <br>
         </tr>
         <tr>
 <td align="center">06</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2/README.md">Codeforces OJ <br> Educational Contests 2</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2.md">Codeforces OJ <br> Educational Contests 2</a></td>
 <td align="center">
 Educational Rounds I <br>
 Educational Rounds II <br>
@@ -590,9 +593,9 @@ Educational Rounds IV <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/mathematics-strings/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/mathematics-strings.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/mathematics-strings/README.md">HackerEarth OJ <br> Mathematics Strings</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/mathematics-strings.md">HackerEarth OJ <br> Mathematics Strings</a></td>
 <td align="center">
 Basic Number Theory <br>
 Primality Tests <br>
@@ -613,9 +616,9 @@ Basics of String Manipulation <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/graph/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/graph.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/graph/README.md">HackerEarth OJ <br> Graph</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/graph.md">HackerEarth OJ <br> Graph</a></td>
 <td align="center">
 Graph and Topological Sort <br>
 Breadth First Search <br>
@@ -635,9 +638,9 @@ Depth First Search III <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/dynamic-programming/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/dynamic-programming.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/dynamic-programming/README.md">HackerEarth OJ <br> Dynamic Programming</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/dynamic-programming.md">HackerEarth OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
 Dynamic Programming II <br>
@@ -660,9 +663,9 @@ DP and Bit Masking <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/advanced-data-structures/README.md">
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/advanced-data-structures.md">
 <img width="40%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/advanced-data-structures/README.md">HackerEarth OJ <br> Advanced Data Structures</a></td>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerearth/advanced-data-structures.md">HackerEarth OJ <br> Advanced Data Structures</a></td>
 <td align="center">
 Disjoint Sets <br>
 Trie <br>

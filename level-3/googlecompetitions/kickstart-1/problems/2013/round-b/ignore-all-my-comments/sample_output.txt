@@ -3,8 +3,8 @@ Case #1:
 ************************
 */
 int spawn_workers(int worker_count) {
-  
-  return 0; 
+
+  return 0;
 }
 
 int main() {
