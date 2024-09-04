@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Dynamic Programming <br> `90 problems` `80 hrs`
 
 ## Table of Content
@@ -11,9 +9,17 @@
 - ***Dynamic Programming V***        `15 problems`
 - ***Dynamic Programming VI***       `15 problems`
 
-## LeetCode - Dynamic Programming I `15 problems`
+## LeetCode - Dynamic Programming I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reducing-dishes/">reducing dishes</a></th>
@@ -50,9 +56,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming II `15 problems`
+## LeetCode - Dynamic Programming II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/profitable-schemes/">profitable schemes</a></th>
@@ -85,9 +99,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming III `15 problems`
+## LeetCode - Dynamic Programming III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-merge-stones/">minimum cost to merge stones</a></th>
@@ -120,9 +142,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming IV `15 problems`
+## LeetCode - Dynamic Programming IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-time-to-build-blocks/">minimum time to build blocks</a></th>
@@ -159,9 +189,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming V `15 problems`
+## LeetCode - Dynamic Programming V
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-multiple-of-three/">largest multiple of three</a></th>
@@ -198,9 +236,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming VI `15 problems`
+## LeetCode - Dynamic Programming VI
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-vacation-days/">maximum vacation days</a></th>

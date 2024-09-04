@@ -6,7 +6,7 @@
 - ***CodeJam Round 3***            `8 contests`
 - ***CodeJam Round World Finals*** `11 contests`
 
-## Google CodeJam Round 2 `8 contests`
+## Google CodeJam Round 2
 
 <table>
     <head>
@@ -60,7 +60,7 @@
     </tbody>
 </table>
 
-## Google CodeJam Round 3 `8 contests`
+## Google CodeJam Round 3
 
 <table>
     <head>
@@ -114,7 +114,7 @@
     </tbody>
 </table>
 
-## Google CodeJam World Finals `11 contests`
+## Google CodeJam World Finals
 
 <table>
     <head>

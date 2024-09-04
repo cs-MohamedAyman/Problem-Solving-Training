@@ -1,6 +1,4 @@
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
-
-# AtCoder OJ - Phase 3.2 <br> `30 contests` `80 hrs`
+# AtCoder OJ - Phase 3.2 <br> `30 contests` `120 hrs`
 
 ## Table of Content
 
@@ -8,9 +6,17 @@
 - ***2018-2019 Grand Contests***     `10 contests`
 - ***2020-2023 Grand Contests***     `10 contests`
 
-## AtCoder - 2016-2017 Grand Contests `10 contests`
+## AtCoder - 2016-2017 Grand Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/agc011">Grand Contest 11</a></th>
@@ -35,9 +41,17 @@
     </tbody>
 </table>
 
-## AtCoder - 2018-2019 Grand Contests `10 contests`
+## AtCoder - 2018-2019 Grand Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/agc033">Grand Contest 33</a></th>
@@ -62,9 +76,17 @@
     </tbody>
 </table>
 
-## AtCoder - 2020-2023 Grand Contests `10 contests`
+## AtCoder - 2020-2023 Grand Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/agc049">Grand Contest 49</a></th>

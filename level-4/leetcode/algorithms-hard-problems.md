@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Algorithms Hard Problems <br> `120 problems` `80 hrs`
 
 ## Table of Content
@@ -11,9 +9,17 @@
 - ***Greedy***                     `20 problems`
 - ***Bit Manipulation, Sorting***  `20 problems`
 
-## LeetCode - Breadth First Search `20 problems`
+## LeetCode - Breadth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/">minimum number of flips to convert binary matrix to zero matrix</a></th>
@@ -62,9 +68,17 @@
     </tbody>
 </table>
 
-## LeetCode - Depth First Search `20 problems`
+## LeetCode - Depth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/redundant-connection-ii/">redundant connection ii</a></th>
@@ -113,9 +127,17 @@
     </tbody>
 </table>
 
-## LeetCode - Backtracking `20 problems`
+## LeetCode - Backtracking
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-paths-iii/">unique paths iii</a></th>
@@ -168,9 +190,17 @@
     </tbody>
 </table>
 
-## LeetCode - Binary Search `20 problems`
+## LeetCode - Binary Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divide-chocolate/">divide chocolate</a></th>
@@ -223,9 +253,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy `20 problems`
+## LeetCode - Greedy
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/">minimum initial energy to finish tasks</a></th>
@@ -278,9 +316,17 @@
     </tbody>
 </table>
 
-## LeetCode - Bit Manipulation, Sorting `20 problems`
+## LeetCode - Bit Manipulation, Sorting
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-meeting-point/">best meeting point</a></th>

@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Mathematical and String Algorithms <br> `120 problems` `80 hrs`
 
 ## Table of Content
@@ -9,9 +7,17 @@
 - ***Inclusione-Exclusion***           `25 problems`
 - ***String Searching and Z Algorithm*** `35 problems`
 
-## HackerEarth - Basic Number Theory `30 problems`
+## HackerEarth - Basic Number Theory
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/akashs-girlfriend/">akashs girlfriend</a></th>
@@ -80,9 +86,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Basics of Combinatorics `30 problems`
+## HackerEarth - Basics of Combinatorics
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/monica-and-gaming-obsession-2/">monica and gaming obsession 2</a></th>
@@ -147,9 +161,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Inclusione-Exclusion `20 problems`
+## HackerEarth - Inclusione-Exclusion
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/combinatorics/inclusion-exclusion/practice-problems/algorithm/mayanks-network/">mayanks network</a></th>
@@ -198,9 +220,17 @@
     </tbody>
 </table>
 
-## HackerEarth - String Searching and Z Algorithm `35 problems`
+## HackerEarth - String Searching and Z Algorithm
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/solitary-string/">solitary string</a></th>
@@ -272,7 +302,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/practice-problems/algorithm/last-forever/">last forever</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

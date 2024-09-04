@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Data Structures Hard Problems <br> `70 problems` `80 hrs`
 
 ## Table of Content
@@ -11,9 +9,17 @@
 - ***Hash Table***            ` 5 problems`
 - ***Advanced Topics***       `15 problems`
 
-## LeetCode - Array `10 problems`
+## LeetCode - Array
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/max-chunks-to-make-sorted-ii/">max chunks to make sorted ii</a></th>
@@ -38,9 +44,17 @@
     </tbody>
 </table>
 
-## LeetCode - Stack, Queue, Dequeue `15 problems`
+## LeetCode - Stack, Queue, Dequeue
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-valid-subarrays/">number of valid subarrays</a></th>
@@ -72,9 +86,17 @@
     </tbody>
 </table>
 
-## LeetCode - Binary Tree `5 problems`
+## LeetCode - Binary Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/">encode n ary tree to binary tree</a></th>
@@ -91,9 +113,17 @@
     </tbody>
 </table>
 
-## LeetCode - Heap Tree `20 problems`
+## LeetCode - Heap Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/">find the kth smallest sum of a matrix with sorted rows</a></th>
@@ -138,9 +168,17 @@
     </tbody>
 </table>
 
-## LeetCode - Hash Table `5 problems`
+## LeetCode - Hash Table
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-distinct-islands-ii/">number of distinct islands ii</a></th>
@@ -157,9 +195,17 @@
     </tbody>
 </table>
 
-## LeetCode - Advanced Topics `15 problems`
+## LeetCode - Advanced Topics
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">remove max number of edges to keep graph fully traversable</a></th>

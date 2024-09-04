@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Mathematics and Strings <br> `70 problems` `80 hrs`
 
 ## Table of Content
@@ -11,9 +9,17 @@
 - ***String II***     `10 problems`
 - ***String III***    `10 problems`
 
-## LeetCode - Math I `15 problems`
+## LeetCode - Math I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-different-subsequences-gcds/">number of different subsequences gcds</a></th>
@@ -46,9 +52,17 @@
     </tbody>
 </table>
 
-## LeetCode - Math II `15 problems`
+## LeetCode - Math II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-the-rectangle/">construct the rectangle</a></th>
@@ -80,9 +94,17 @@
     </tbody>
 </table>
 
-## LeetCode - Math III `10 problems`
+## LeetCode - Math III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/">count ways to build rooms in an ant colony</a></th>
@@ -107,9 +129,17 @@
     </tbody>
 </table>
 
-## LeetCode - String I `10 problems`
+## LeetCode - String I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/parsing-a-boolean-expression/">parsing a boolean expression</a></th>
@@ -141,9 +171,17 @@
     </tbody>
 </table>
 
-## LeetCode - String II `10 problems`
+## LeetCode - String II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">maximum score after splitting a string</a></th>
@@ -168,9 +206,17 @@
     </tbody>
 </table>
 
-## LeetCode - String III `10 problems`
+## LeetCode - String III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-uncommon-subsequence-i/">longest uncommon subsequence i</a></th>

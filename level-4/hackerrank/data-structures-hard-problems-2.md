@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - Data Structures Hard Problems 2 <br> `75 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Dynamic Programming II***   `10 problems`
 - ***Advanced***                 `20 problems`
 
-## HackerRank - Linear and Non-linear DS `15 problems`
+## HackerRank - Linear and Non-linear DS
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kittys-calculations-on-a-tree/problem">Kitty's Calculations on a Tree</a></th>
@@ -49,9 +55,17 @@
     </tbody>
 </table>
 
-## HackerRank - Strings `15 problems`
+## HackerRank - Strings
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/circular-palindromes/problem">circular palindromes</a></th>
@@ -83,9 +97,17 @@
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming I `15 problems`
+## HackerRank - Dynamic Programming I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/modify-the-sequence/problem">modify the sequence</a></th>
@@ -118,9 +140,17 @@
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming II `10 problems`
+## HackerRank - Dynamic Programming II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/newyear-present/problem">newyear present</a></th>
@@ -152,106 +182,53 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `20 problems`
+## HackerRank - Advanced
 
 <table>
     <head>
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="600px">Keywords</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
         </tr>
     </head>
     <tbody>
         <tr>
-<th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
-<th align="left"></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/taxicab-drivers-problem/problem">taxicab drivers problem</a></th>
         </tr>
         <tr>
-<th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/taxicab-drivers-problem/problem">taxicab drivers problem</a></th>
-<th align="left"></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jagia-playing-with-numbers/problem">jagia playing with numbers</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/helix/problem">helix</a></th>
         </tr>
         <tr>
-<th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/jagia-playing-with-numbers/problem">jagia playing with numbers</a></th>
-<th align="left"></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/company-retreat/problem">company retreat</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/counting-on-a-tree/problem">counting on a tree</a></th>
         </tr>
         <tr>
-<th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/helix/problem">helix</a></th>
-<th align="left"></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/fibonacci-numbers-tree/problem">fibonacci numbers tree</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/pair-sums/problem">pair sums</a></th>
         </tr>
         <tr>
-<th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/company-retreat/problem">company retreat</a></th>
-<th align="left"></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ticket-to-ride/problem">ticket to ride</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/number-game-on-a-tree/problem">number game on a tree</a></th>
         </tr>
         <tr>
-<th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/counting-on-a-tree/problem">counting on a tree</a></th>
-<th align="left"></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/almost-equal-advanced/problem">almost equal advanced</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/almost-sorted-interval/problem">almost sorted interval</a></th>
         </tr>
         <tr>
-<th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/fibonacci-numbers-tree/problem">fibonacci numbers tree</a></th>
-<th align="left"></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ab0/problem">ab0</a></th>
         </tr>
         <tr>
-<th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/pair-sums/problem">pair sums</a></th>
-<th align="left"></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/easy-addition/problem">easy addition</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bonetrousle/problem">bonetrousle</a></th>
         </tr>
         <tr>
-<th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/ticket-to-ride/problem">ticket to ride</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/number-game-on-a-tree/problem">number game on a tree</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/almost-equal-advanced/problem">almost equal advanced</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/almost-sorted-interval/problem">almost sorted interval</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">13</th>
-<th align="left"><a href="https://hackerrank.com/challenges/beautiful-segments/problem">beautiful segments</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">14</th>
-<th align="left"><a href="https://hackerrank.com/challenges/ab0/problem">ab0</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">15</th>
-<th align="left"><a href="https://hackerrank.com/challenges/easy-addition/problem">easy addition</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">16</th>
-<th align="left"><a href="https://hackerrank.com/challenges/bonetrousle/problem">bonetrousle</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">17</th>
-<th align="left"><a href="https://hackerrank.com/challenges/kmp-problem/problem">kmp problem</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">18</th>
-<th align="left"><a href="https://hackerrank.com/challenges/team-formation/problem">team formation</a></th>
-<th align="left"></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kmp-problem/problem">kmp problem</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/team-formation/problem">team formation</a></th>
         </tr>
     </tbody>
 </table>

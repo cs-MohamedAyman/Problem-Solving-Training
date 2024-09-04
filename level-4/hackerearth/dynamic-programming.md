@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Dynamic Programming <br> `110 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Dynamic Programming 2D II***           `25 problems`
 - ***Dynamic Programming and Bit Masking*** `10 problems`
 
-## HackerEarth - Dynamic Programming I `25 problems`
+## HackerEarth - Dynamic Programming I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/angles-2/">angles 2</a></th>
@@ -68,14 +74,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/tedious-work-5593db30/">tedious work</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming II `25 problems`
+## HackerEarth - Dynamic Programming II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-coin-boxes-1/">roy and coin boxes 1</a></th>
@@ -131,14 +144,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/matrix-and-xor-operation-a2e19185/">matrix and xor operation</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming 2D I `25 problems`
+## HackerEarth - Dynamic Programming 2D I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/gcd-game-11/">gcd game 11</a></th>
@@ -191,9 +211,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming 2D II `25 problems`
+## HackerEarth - Dynamic Programming 2D II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/micro-and-matrix/">micro and matrix</a></th>
@@ -241,14 +269,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/interesting-game-3-4d4095c9/">interesting game 3</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming and Bit Masking `10 problems`
+## HackerEarth - Dynamic Programming and Bit Masking
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/trophy-of-xorasia-0a2d466a/">trophy of xorasia</a></th>
