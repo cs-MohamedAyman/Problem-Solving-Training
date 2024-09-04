@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Phase 1.2 <br> `125 problems` `80 hrs`
 
 ## Table of Content
@@ -11,9 +9,17 @@
 - ***List / Array I***   `20 problems`
 - ***List / Array II***  `20 problems`
 
-## Codeforces - Basic Operator `10 problems`
+## Codeforces - Basic Operator
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/964/A">Round 475 A</a></th>
@@ -33,14 +39,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/194/A">Round 122 A</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## Codeforces - Condition `20 problems`
+## Codeforces - Condition
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/313/A">Round 186 A</a></th>
@@ -76,14 +89,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/557/A">Round 311 A</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## Codeforces - Loop `25 problems`
+## Codeforces - Loop
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/776/A">Round 400 A</a></th>
@@ -135,13 +155,20 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/80/A">Round 69 A</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
     </tbody>
 </table>
 
-## Codeforces - String `30 problems`
+## Codeforces - String
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/465/A">Round 265 A</a></th>
@@ -210,9 +237,17 @@
     </tbody>
 </table>
 
-## Codeforces - List / Array I `20 problems`
+## Codeforces - List / Array I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/984/A">Round 483 A</a></th>
@@ -257,9 +292,17 @@
     </tbody>
 </table>
 
-## Codeforces - List / Array II `20 problems`
+## Codeforces - List / Array II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/782/A">Round 403 A</a></th>

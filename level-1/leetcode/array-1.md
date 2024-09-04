@@ -1,6 +1,9 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Array 1 <br> `60 problems` `40 hrs`
+
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
+## [Solved using](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md)
+<br>
 
 ## Table of Content
 
@@ -9,9 +12,17 @@
 - ***Array III***           `15 problems`
 - ***Array IV***            `15 problems`
 
-## LeetCode - Array I `15 problems`
+## LeetCode - Array I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/running-sum-of-1d-array/">running sum of 1d array</a></th>
@@ -48,9 +59,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array II `15 problems`
+## LeetCode - Array II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/">maximum sum of two non overlapping subarrays</a></th>
@@ -86,9 +105,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array III `15 problems`
+## LeetCode - Array III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/">find nearest point that has the same x or y coordinate</a></th>
@@ -125,9 +152,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array IV `15 problems`
+## LeetCode - Array IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/">special array with x elements greater than or equal x</a></th>

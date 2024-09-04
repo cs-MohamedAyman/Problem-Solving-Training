@@ -1,6 +1,9 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Array 2 <br> `60 problems` `40 hrs`
+
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
+## [Solved using](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md)
+<br>
 
 ## Table of Content
 
@@ -9,9 +12,17 @@
 - ***Array III***           `15 problems`
 - ***Array IV***            `15 problems`
 
-## LeetCode - Array I `15 problems`
+## LeetCode - Array I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">longest continuous increasing subsequence</a></th>
@@ -48,9 +59,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array II `15 problems`
+## LeetCode - Array II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/">lucky numbers in a matrix</a></th>
@@ -87,9 +106,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array III `15 problems`
+## LeetCode - Array III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/">x of a kind in a deck of cards</a></th>
@@ -126,9 +153,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array IV `15 problems`
+## LeetCode - Array IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subrectangle-queries/">subrectangle queries</a></th>

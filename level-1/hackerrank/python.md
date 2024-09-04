@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - Python Programming Language <br> `100 problems` `40 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Functions and Libraries II***  `20 problems`
 - ***Classes***                     `10 problems`
 
-## HackerRank - Introduction `25 problems` [`Solutions`](/level-1/hackerrank/python/solutions/introduction.md)
+## HackerRank - Introduction
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/py-hello-world/problem">py hello world</a></th>
@@ -69,9 +75,17 @@
     </tbody>
 </table>
 
-## HackerRank - Collections `25 problems` [`Solutions`](/level-1/hackerrank/python/solutions/collections.md)
+## HackerRank - Collections
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/collections-counter/problem">collections counter</a></th>
@@ -128,9 +142,17 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries I `20 problems` [`Solutions`](/level-1/hackerrank/python/solutions/functions-libraries-I.md)
+## HackerRank - Functions and Libraries I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/zipped/problem">zipped</a></th>
@@ -175,9 +197,17 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries II `20 problems` [`Solutions`](/level-1/hackerrank/python/solutions/functions-libraries-II.md)
+## HackerRank - Functions and Libraries II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/validating-the-phone-number/problem">validating the phone number</a></th>
@@ -222,9 +252,17 @@
     </tbody>
 </table>
 
-## HackerRank - Classes `10 problems` [`Solutions`](/level-1/hackerrank/python/solutions/classes.md)
+## HackerRank - Classes
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/exceptions/problem">exceptions</a></th>

@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Phase 1.4 <br> `125 problems` `80 hrs`
 
 ## Table of Content
@@ -9,9 +7,17 @@
 - ***Recursion***         `10 problems`
 - ***Operators***         `35 problems`
 
-## HackerEarth - Input/Output `40 problems`
+## HackerEarth - Input/Output
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/">a b 4</a></th>
@@ -112,9 +118,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Bit Manipulation `40 problems`
+## HackerEarth - Bit Manipulation
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/mystery-30/">mystery 30</a></th>
@@ -199,9 +213,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Recursion `10 problems`
+## HackerEarth - Recursion
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/gcd-strings/">gcd strings</a></th>
@@ -230,9 +252,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Operators `35 problems`
+## HackerEarth - Operators
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/">a b 4</a></th>
@@ -304,7 +334,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/chandan-and-balanced-strings/">chandan and balanced strings</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

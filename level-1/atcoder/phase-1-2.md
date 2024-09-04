@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
-
 # AtCoder OJ - Phase 1.2 <br> `135 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***2022 Beginner Contests***           `25 problems`
 - ***2023 Beginner Contests***           `25 problems`
 
-## AtCoder - 2016-2017 Beginner Contests `20 problems`
+## AtCoder - 2016-2017 Beginner Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc064/tasks/abc064_a">Beginner Contest 64 A</a></th>
@@ -56,14 +62,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc084/tasks/abc084_a">Beginner Contest 84 A</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## AtCoder - 2018-2019 Beginner Contests `30 problems`
+## AtCoder - 2018-2019 Beginner Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc117/tasks/abc117_a">Beginner Contest 117 A</a></th>
@@ -131,14 +144,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc149/tasks/abc149_a">Beginner Contest 149 A</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## AtCoder - 2020-2021 Beginner Contests `35 problems`
+## AtCoder - 2020-2021 Beginner Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc187/tasks/abc187_a">Beginner Contest 187 A</a></th>
@@ -211,9 +231,17 @@
     </tbody>
 </table>
 
-## AtCoder - 2022 Beginner Contests `25 problems`
+## AtCoder - 2022 Beginner Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc284/tasks/abc284_a">Beginner Contest 284 A</a></th>
@@ -269,59 +297,67 @@
     </tbody>
 </table>
 
-## AtCoder - 2023 Beginner Contests `25 problems`
+## AtCoder - 2023 Beginner Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc309/tasks/abc309_a">Beginner Contest 309 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc310/tasks/abc310_a">Beginner Contest 310 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc311/tasks/abc311_a">Beginner Contest 311 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc312/tasks/abc312_a">Beginner Contest 312 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc313/tasks/abc313_a">Beginner Contest 313 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc314/tasks/abc314_a">Beginner Contest 314 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc315/tasks/abc315_a">Beginner Contest 315 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc316/tasks/abc316_a">Beginner Contest 316 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc317/tasks/abc317_a">Beginner Contest 317 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc318/tasks/abc318_a">Beginner Contest 318 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc319/tasks/abc319_a">Beginner Contest 319 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc320/tasks/abc320_a">Beginner Contest 320 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc321/tasks/abc321_a">Beginner Contest 321 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc322/tasks/abc322_a">Beginner Contest 322 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc323/tasks/abc323_a">Beginner Contest 323 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc324/tasks/abc324_a">Beginner Contest 324 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc325/tasks/abc325_a">Beginner Contest 325 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc326/tasks/abc326_a">Beginner Contest 326 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc327/tasks/abc327_a">Beginner Contest 327 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc328/tasks/abc328_a">Beginner Contest 328 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc329/tasks/abc329_a">Beginner Contest 329 A</a></th>
-        </tr>
-        <tr>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc330/tasks/abc330_a">Beginner Contest 330 A</a></th>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc331/tasks/abc331_a">Beginner Contest 331 A</a></th>
         </tr>
         <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc331/tasks/abc331_a">Beginner Contest 331 A</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc332/tasks/abc332_a">Beginner Contest 332 A</a></th>
+        </tr>
+        <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc333/tasks/abc333_a">Beginner Contest 333 A</a></th>
         </tr>
     </tbody>

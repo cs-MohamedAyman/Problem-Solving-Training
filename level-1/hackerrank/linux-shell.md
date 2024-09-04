@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - Linux Shell <br> `65 problems` `40 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Arrays in Bash***      `10 problems`
 - ***Grep Sed Awk***        `15 problems`
 
-## HackerRank - Bash `10 problems` [`Solutions`](/level-1/hackerrank/linux-shell/solutions/bash.md)
+## HackerRank - Bash
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bash-tutorials-lets-echo/problem">Let's Echo</a></th>
@@ -36,14 +42,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/fractal-trees-all/problem">Functions and Fractals - Recursive Trees - Bash!</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Text Processing I `15 problems` [`Solutions`](/level-1/hackerrank/linux-shell/solutions/text-processing-I.md)
+## HackerRank - Text Processing I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/text-processing-cut-1/problem">Cut #1</a></th>
@@ -80,9 +93,17 @@
     </tbody>
 </table>
 
-## HackerRank - Text Processing II `15 problems` [`Solutions`](/level-1/hackerrank/linux-shell/solutions/text-processing-II.md)
+## HackerRank - Text Processing II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/text-processing-tr-3/problem">'Tr' Command #3</a></th>
@@ -119,9 +140,17 @@
     </tbody>
 </table>
 
-## HackerRank - Arrays in Bash `10 problems` [`Solutions`](/level-1/hackerrank/linux-shell/solutions/arrays-in-bash.md)
+## HackerRank - Arrays in Bash
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem">Read in an Array</a></th>
@@ -142,9 +171,17 @@
     </tbody>
 </table>
 
-## HackerRank - Grep Sed Awk `15 problems` [`Solutions`](/level-1/hackerrank/linux-shell/solutions/grep-sed-awk.md)
+## HackerRank - Grep Sed Awk
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem">'Grep' #1</a></th>

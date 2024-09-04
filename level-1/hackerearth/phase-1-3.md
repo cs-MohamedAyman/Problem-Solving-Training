@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Phase 1.3 <br> `100 problems` `80 hrs`
 
 ## Table of Content
@@ -9,9 +7,17 @@
 - ***Implementation III*** `25 problems`
 - ***Implementation IV***  `25 problems`
 
-## HackerEarth - Implementation I `25 problems`
+## HackerEarth - Implementation I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/perfect-baseline/">perfect baseline</a></th>
@@ -63,14 +69,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/monk-and-digital-world-code-monk/">monk and digital world code monk</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Implementation II `25 problems`
+## HackerEarth - Implementation II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/swapping-string-4/">swapping string 4</a></th>
@@ -122,14 +135,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/dummy1-3/">dummy1 3</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Implementation III `25 problems`
+## HackerEarth - Implementation III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/equal-bitwise-operations-33fa5acd/">equal bitwise operations</a></th>
@@ -181,14 +201,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/problem-16-b45b3a5d/">problem 16</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Implementation IV `25 problems`
+## HackerEarth - Implementation IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/anil-and-stocks-628d668e/">anil and stocks</a></th>

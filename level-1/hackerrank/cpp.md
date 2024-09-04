@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
-
 # HackerRank OJ - C++ Programming Language <br> `70 problems` `40 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Structs and Classes***          `15 problems`
 - ***Implementation***               `15 problems`
 
-## HackerRank - Introduction `20 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/introduction.md)
+## HackerRank - Introduction
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hello-world-c/problem">hello world c</a></th>
@@ -52,14 +58,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/printing-pattern-2/problem">printing pattern 2</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Arrays and Strings `10 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/arrays-strings.md)
+## HackerRank - Arrays and Strings
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/1d-arrays-in-c/problem">1d arrays in c</a></th>
@@ -80,9 +93,17 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries `10 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/functions-libraries.md)
+## HackerRank - Functions and Libraries
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/recursion-in-c/problem">recursion in c</a></th>
@@ -110,14 +131,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/deque-stl/problem">deque stl</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Structs and Classes `15 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/structs-classes.md)
+## HackerRank - Structs and Classes
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/too-high-boxes/problem">too high boxes</a></th>
@@ -157,9 +185,17 @@
     </tbody>
 </table>
 
-## HackerRank - Implementation `15 problems` [`Solutions`](/level-1/hackerrank/cpp/solutions/implementation.md)
+## HackerRank - Implementation
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/c-class-templates/problem">c class templates</a></th>
