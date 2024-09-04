@@ -1,16 +1,22 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Div3 + Div4 Contests <br> `60 contests` `120 hrs`
 
 ## Table of Content
 
-- ***Codeforces Div3 Contests I***   `20 contests`
-- ***Codeforces Div3 Contests II***  `20 contests`
-- ***Codeforces Div3 Contests III*** `20 contests`
+- ***Div3 Contests I***   `20 contests`
+- ***Div3 Contests II***  `20 contests`
+- ***Div3 Contests III*** `20 contests`
 
-## Codeforces -  Div3 Contests I `20 contests`
+## Codeforces -  Div3 Contests I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/977">Round 479</a></th>
@@ -55,9 +61,17 @@
     </tbody>
 </table>
 
-## Codeforces -  Div3 Contests II `20 contests`
+## Codeforces -  Div3 Contests II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1157">Round 555</a></th>
@@ -102,9 +116,17 @@
     </tbody>
 </table>
 
-## Codeforces -  Div3 Contests III `20 contests`
+## Codeforces -  Div3 Contests III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1353">Round 642</a></th>

@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Gym Contests 3 <br> `155 contests` `240 hrs`
 
 ## Table of Content
@@ -13,9 +11,17 @@
 - Training Camp Contest ***                          `20 contests`
 - Training Contest ***                               `15 contests`
 
-## Codeforces - Official ICPC Contest *** I `15 contests`
+## Codeforces - Official ICPC Contest *** I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102966">2020 ICPC Grand Prix of Mexico Repechage</a></th>
@@ -56,9 +62,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official ICPC Contest *** II `15 contests`
+## Codeforces - Official ICPC Contest *** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101498">2017 Amman CPC</a></th>
@@ -99,9 +113,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official School Contest *** I `20 contests`
+## Codeforces - Official School Contest *** I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103048">2021 ECNU Campus Invitational Contest</a></th>
@@ -150,9 +172,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official School Contest *** II `20 contests`
+## Codeforces - Official School Contest *** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102218">2019 XI Annual by ESCOM IPN</a></th>
@@ -201,9 +231,17 @@
     </tbody>
 </table>
 
-## Codeforces - School/University/City/Region Championship *** I `25 contests`
+## Codeforces - School/University/City/Region Championship *** I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102535">2020 UP Algolympics Elimination Round</a></th>
@@ -260,9 +298,17 @@
     </tbody>
 </table>
 
-## Codeforces - School/University/City/Region Championship *** II `25 contests`
+## Codeforces - School/University/City/Region Championship *** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101343">2017 JUST 2.0</a></th>
@@ -319,9 +365,17 @@
     </tbody>
 </table>
 
-## Codeforces - Training Camp Contest *** `20 contests`
+## Codeforces - Training Camp Contest ***
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104285">2023 PCCA Winter Camp Contest</a></th>
@@ -362,9 +416,17 @@
     </tbody>
 </table>
 
-## Codeforces - Training Contest *** `15 contests`
+## Codeforces - Training Contest ***
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102767">Codedigger Training Contest Number Theory</a></th>

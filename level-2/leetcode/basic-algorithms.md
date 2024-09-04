@@ -1,6 +1,4 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
-# LeetCode OJ - Basic Algorithms <br> `115 problems` `80 hrs`
+# LeetCode OJ - Basic Algorithms <br> `100 problems` `80 hrs`
 
 ## Table of Content
 
@@ -10,11 +8,18 @@
 - ***Greedy I***               `20 problems`
 - ***Greedy II***              `20 problems`
 - ***Greedy III***             `10 problems`
-- ***Bit Manipulation***       `15 problems`
 
-## LeetCode - Binary Search `20 problems`
+## LeetCode - Binary Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">count negative numbers in a sorted matrix</a></th>
@@ -63,9 +68,17 @@
     </tbody>
 </table>
 
-## LeetCode - Sorting I `15 problems`
+## LeetCode - Sorting I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shuffle-string/">shuffle string</a></th>
@@ -102,9 +115,17 @@
     </tbody>
 </table>
 
-## LeetCode - Sorting II `15 problems`
+## LeetCode - Sorting II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">widest vertical area between two points containing no points</a></th>
@@ -141,9 +162,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy I `20 problems`
+## LeetCode - Greedy I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/">split a string in balanced strings</a></th>
@@ -192,9 +221,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy II `20 problems`
+## LeetCode - Greedy II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimize-product-sum-of-two-arrays/">minimize product sum of two arrays</a></th>
@@ -243,9 +280,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy III `10 problems`
+## LeetCode - Greedy III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-city-scheduling/">two city scheduling</a></th>
@@ -270,49 +315,6 @@
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/koko-eating-bananas/">koko eating bananas</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-distance-to-target-color/">shortest distance to target color</a></th>
-        </tr>
-    </tbody>
-</table>
-
-## LeetCode - Bit Manipulation `15 problems`
-
-<table>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-xored-array/">decode xored array</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">number of steps to reduce a number to zero</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/">count the number of consistent strings</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/hamming-distance/">hamming distance</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-complement/">number complement</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/">prime number of set bits in binary representation</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-gap/">binary gap</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/complement-of-base-10-integer/">complement of base 10 integer</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-nice-substring/">longest nice substring</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-number-with-alternating-bits/">binary number with alternating bits</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-a-number-to-hexadecimal/">convert a number to hexadecimal</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/single-number-iii/">single number iii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/game-of-nim/">game of nim</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/">minimum flips to make a or b equal to c</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/power-of-two/">power of two</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/power-of-four/">power of four</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-compatibility-score-sum/">maximum compatibility score sum</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-root-of-n-ary-tree/">find root of n ary tree</a></th>
         </tr>
     </tbody>
 </table>

@@ -1,6 +1,4 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
-# LeetCode OJ - Non-linear Data Structures <br> `150 problems` `80 hrs`
+# LeetCode OJ - Non-linear Data Structures <br> `90 problems` `80 hrs`
 
 ## Table of Content
 
@@ -8,14 +6,22 @@
 - ***Binary Tree II***    `20 problems`
 - ***Binary Tree III***   `20 problems`
 - ***Heap Tree***         `10 problems`
-- ***Hash Table I***      `20 problems`
-- ***Hash Table II***     `20 problems`
-- ***Hash Table III***    `20 problems`
-- ***Hash Table IV***     `20 problems`
+- ***Hash Table I***      `10 problems`
+- ***Hash Table II***     `10 problems`
+- ***Hash Table III***    `15 problems`
+- ***Hash Table IV***     `15 problems`
 
-## LeetCode - Binary Tree I `20 problems`
+## LeetCode - Binary Tree I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-preorder-traversal/">n ary tree preorder traversal</a></th>
@@ -60,9 +66,17 @@
     </tbody>
 </table>
 
-## LeetCode - Binary Tree II `20 problems`
+## LeetCode - Binary Tree II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-subtree/">maximum average subtree</a></th>
@@ -107,9 +121,17 @@
     </tbody>
 </table>
 
-## LeetCode - Binary Tree III `20 problems`
+## LeetCode - Binary Tree III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-duplicate-subtrees/">find duplicate subtrees</a></th>
@@ -154,9 +176,17 @@
     </tbody>
 </table>
 
-## LeetCode - Heap Tree `10 problems`
+## LeetCode - Heap Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-ugly-number/">super ugly number</a></th>
@@ -185,103 +215,90 @@
     </tbody>
 </table>
 
-## LeetCode - Hash Table I `20 problems`
+## LeetCode - Hash Table I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-good-pairs/">number of good pairs</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/jewels-and-stones/">jewels and stones</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-hashset/">design hashset</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/uncommon-words-from-two-sentences/">uncommon words from two sentences</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">how many numbers are smaller than the current number</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-anagram-mappings/">find anagram mappings</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rabbits-in-forest/">rabbits in forest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/implement-magic-dictionary/">implement magic dictionary</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/intersection-of-three-sorted-arrays/">intersection of three sorted arrays</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-palindrome/">longest palindrome</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-difference/">find the difference</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-completing-word/">shortest completing word</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">n repeated element in size 2n array</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-unique-elements/">sum of unique elements</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/group-shifted-strings/">group shifted strings</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-file-system/">design file system</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/logger-rate-limiter/">logger rate limiter</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-number-of-occurrences/">unique number of occurrences</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/tuple-with-same-product/">tuple with same product</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-word-distance-ii/">shortest word distance ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subdomain-visit-count/">subdomain visit count</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-common-characters/">find common characters</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">find words that can be formed by characters</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-unique-number/">largest unique number</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/island-perimeter/">island perimeter</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/keyboard-row/">keyboard row</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/occurrences-after-bigram/">occurrences after bigram</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distribute-candies/">distribute candies</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-beauty-of-all-substrings/">sum of beauty of all substrings</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/replace-words/">replace words</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-boomerangs/">number of boomerangs</a></th>
         </tr>
     </tbody>
 </table>
 
-## LeetCode - Hash Table II `20 problems`
+## LeetCode - Hash Table II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kth-missing-positive-number/">kth missing positive number</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/first-unique-character-in-a-string/">first unique character in a string</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-substrings-that-differ-by-one-character/">count substrings that differ by one character</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/">display table of food orders in a restaurant</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">verifying an alien dictionary</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-index-sum-of-two-lists/">minimum index sum of two lists</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-iii-data-structure-design/">two sum iii data structure design</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-primes/">count primes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/set-mismatch/">set mismatch</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-harmonious-subsequence/">longest harmonious subsequence</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">dot product of two sparse vectors</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-and-decode-tinyurl/">encode and decode tinyurl</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-the-users-active-minutes/">finding the users active minutes</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distinct-numbers-in-each-subarray/">distinct numbers in each subarray</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">finding pairs with a certain sum</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/">flip columns for maximum number of equal rows</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strobogrammatic-number/">strobogrammatic number</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sentence-similarity/">sentence similarity</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-substrings-that-differ-by-one-character/">count substrings that differ by one character</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/">display table of food orders in a restaurant</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-iii-data-structure-design/">two sum iii data structure design</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-primes/">count primes</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">dot product of two sparse vectors</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-and-decode-tinyurl/">encode and decode tinyurl</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">finding pairs with a certain sum</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/">flip columns for maximum number of equal rows</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sparse-matrix-multiplication/">sparse matrix multiplication</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-duplicate-file-in-system/">find duplicate file in system</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sparse-matrix-multiplication/">sparse matrix multiplication</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-duplicate-file-in-system/">find duplicate file in system</a></th>
         </tr>
     </tbody>
 </table>
 
-## LeetCode - Hash Table III `20 problems`
+## LeetCode - Hash Table III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-area-rectangle/">minimum area rectangle</a></th>
@@ -311,27 +328,20 @@
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/powerful-integers/">powerful integers</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/repeated-dna-sequences/">repeated dna sequences</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-difference/">find the difference</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-completing-word/">shortest completing word</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/group-shifted-strings/">group shifted strings</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-file-system/">design file system</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/tuple-with-same-product/">tuple with same product</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-word-distance-ii/">shortest word distance ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-boomerangs/">number of boomerangs</a></th>
-        </tr>
     </tbody>
 </table>
 
-## LeetCode - Hash Table IV `20 problems`
+## LeetCode - Hash Table IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prison-cells-after-n-days/">prison cells after n days</a></th>
@@ -360,14 +370,6 @@
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-hashmap/">design hashmap</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-permutation/">palindrome permutation</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-hashset/">design hashset</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/uncommon-words-from-two-sentences/">uncommon words from two sentences</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rabbits-in-forest/">rabbits in forest</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/implement-magic-dictionary/">implement magic dictionary</a></th>
         </tr>
     </tbody>
 </table>

@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Algorithms Sorting <br> `135 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Greedy Algorithms II***                   `25 problems`
 - ***Greedy Algorithms III***                  `25 problems`
 
-## HackerEarth - Sorting Algorithms I `40 problems`
+## HackerEarth - Sorting Algorithms I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference/">min max difference</a></th>
@@ -97,9 +103,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Sorting Algorithms II `20 problems`
+## HackerEarth - Sorting Algorithms II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/grovyle-string/">grovyle string</a></th>
@@ -147,14 +161,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/sorting/bucket-sort/practice-problems/algorithm/sort-the-array-5/">sort the array 5</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Greedy Algorithms I `25 problems`
+## HackerRank - Greedy Algorithms I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/coprimed-32042ef1/">coprimed 32042ef1</a></th>
@@ -211,9 +232,17 @@
     </tbody>
 </table>
 
-## HackerRank - Greedy Algorithms II `25 problems`
+## HackerRank - Greedy Algorithms II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/c-32/">c 32</a></th>
@@ -270,9 +299,17 @@
     </tbody>
 </table>
 
-## HackerRank - Greedy Algorithms III `25 problems`
+## HackerRank - Greedy Algorithms III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1/">protect the cities 1</a></th>

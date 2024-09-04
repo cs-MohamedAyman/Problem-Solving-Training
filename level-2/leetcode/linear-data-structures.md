@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Linear Data Structures <br> `120 problems` `80 hrs`
 
 ## Table of Content
@@ -13,9 +11,17 @@
 - ***Advanced Topics I***   `15 problems`
 - ***Advanced Topics II***  `10 problems`
 
-## LeetCode - Array I `15 problems`
+## LeetCode - Array I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/diagonal-traverse-ii/">diagonal traverse ii</a></th>
@@ -48,9 +54,17 @@
     </tbody>
 </table>
 
-## LeetCode - Array II `15 problems`
+## LeetCode - Array II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/friends-of-appropriate-ages/">friends of appropriate ages</a></th>
@@ -83,9 +97,17 @@
     </tbody>
 </table>
 
-## LeetCode - Linked List `15 problems`
+## LeetCode - Linked List
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/">convert binary number in a linked list to integer</a></th>
@@ -122,9 +144,17 @@
     </tbody>
 </table>
 
-## LeetCode - Stack I `15 problems`
+## LeetCode - Stack I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-outermost-parentheses/">remove outermost parentheses</a></th>
@@ -161,9 +191,17 @@
     </tbody>
 </table>
 
-## LeetCode - Stack II `15 problems`
+## LeetCode - Stack II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">remove all adjacent duplicates in string ii</a></th>
@@ -196,9 +234,17 @@
     </tbody>
 </table>
 
-## LeetCode - Queue and Dequeue `20 problems`
+## LeetCode - Queue and Dequeue
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/moving-average-from-data-stream/">moving average from data stream</a></th>
@@ -239,13 +285,21 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/">longest continuous subarray with absolute diff less than or equal to limit</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/">longest substring with at most k distinct characters</a></th>
-        </tr>        
+        </tr>
     </tbody>
 </table>
 
-## LeetCode - Advanced Topics I `15 problems`
+## LeetCode - Advanced Topics I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/">the earliest moment when everyone become friends</a></th>
@@ -278,9 +332,17 @@
     </tbody>
 </table>
 
-## LeetCode - Advanced Topics II `10 problems`
+## LeetCode - Advanced Topics II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-th-symbol-in-grammar/">k th symbol in grammar</a></th>

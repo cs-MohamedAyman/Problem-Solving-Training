@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Algorithms Searching <br> `120 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Binary Search III*** `30 problems`
 - ***Ternary Search*** `5 problems`
 
-## HackerEarth - Linear Search `15 problems`
+## HackerEarth - Linear Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/easy-sum-set-problem-7e6841ca/">easy sum set problem</a></th>
@@ -49,9 +55,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Binary Search I `35 problems`
+## HackerEarth - Binary Search I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/">bishu and soldiers</a></th>
@@ -124,9 +138,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Binary Search II `35 problems`
+## HackerEarth - Binary Search II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/query-multiples-6cf951be/">query multiples</a></th>
@@ -199,9 +221,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Binary Search III `30 problems`
+## HackerEarth - Binary Search III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/danny/">danny</a></th>
@@ -270,9 +300,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Ternary Search `5 problems`
+## HackerEarth - Ternary Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/the-exam/">the exam</a></th>

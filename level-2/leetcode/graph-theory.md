@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
-
 # LeetCode OJ - Graph Theory <br> `75 problems` `80 hrs`
 
 ## Table of Content
@@ -9,9 +7,17 @@
 - ***Graph***                  `20 problems`
 - ***Backtracking***           `15 problems`
 
-## LeetCode - Breadth First Search `20 problems`
+## LeetCode - Breadth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree/">maximum depth of n ary tree</a></th>
@@ -56,9 +62,17 @@
     </tbody>
 </table>
 
-## LeetCode - Depth First Search `20 problems`
+## LeetCode - Depth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-bst/">range sum of bst</a></th>
@@ -107,9 +121,17 @@
     </tbody>
 </table>
 
-## LeetCode - Graph `20 problems`
+## LeetCode - Graph
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-town-judge/">find the town judge</a></th>
@@ -154,9 +176,17 @@
     </tbody>
 </table>
 
-## LeetCode - Backtracking `15 problems`
+## LeetCode - Backtracking
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-of-matches-in-tournament/">count of matches in tournament</a></th>

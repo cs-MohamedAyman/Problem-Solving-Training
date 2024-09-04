@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Gym Contests 1 <br> `100 contests` `240 hrs`
 
 ## Table of Content
@@ -11,9 +9,17 @@
 - School/University/City/Region Championship **  `15 contests`
 - Training Contest **                            `15 contests`
 
-## Codeforces - Easy Contests * I `15 contests`
+## Codeforces - Easy Contests * I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104441">Russian Olympiad in Informatics for schoolchildren</a></th>
@@ -46,9 +52,17 @@
     </tbody>
 </table>
 
-## Codeforces - Easy Contests * II `15 contests`
+## Codeforces - Easy Contests * II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102942">Noobs Round 2 Div 4 by Rudro25</a></th>
@@ -80,9 +94,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official School Contest ** I `20 contests`
+## Codeforces - Official School Contest ** I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104545">VIII MaratonUSP Freshman Contest</a></th>
@@ -130,9 +152,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official School Contest ** II `20 contests`
+## Codeforces - Official School Contest ** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103422">2021 Infoleague Autumn Round 2 Div 2</a></th>
@@ -181,9 +211,17 @@
     </tbody>
 </table>
 
-## Codeforces - School/University/City/Region Championship ** `15 contests`
+## Codeforces - School/University/City/Region Championship **
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104663">2023 Replay of Ostad Presents Intra KUET CPC</a></th>
@@ -224,9 +262,17 @@
     </tbody>
 </table>
 
-## Codeforces - Training Contest ** `15 contests`
+## Codeforces - Training Contest **
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104683">TheForces Round #24 Div 3 Forces</a></th>

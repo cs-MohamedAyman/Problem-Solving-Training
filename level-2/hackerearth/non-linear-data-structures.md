@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Non-linear Data Structure <br> `90 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Hash Tables I*** `25 problems`
 - ***Hash Tables II*** `25 problems`
 
-## HackerEarth - Binary Tree `10 problems`
+## HackerEarth - Binary Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/mirror-image-2/">mirror image 2</a></th>
@@ -32,14 +38,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/count-the-tree/">count the tree</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Binary Search Tree `10 problems`
+## HackerEarth - Binary Search Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-watching-fight/">monk watching fight</a></th>
@@ -64,9 +77,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Binary Heap / Priority Queue `20 problems`
+## HackerEarth - Binary Heap / Priority Queue
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/little-monk-and-abd/">little monk and abd</a></th>
@@ -115,9 +136,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Hash Tables I `25 problems`
+## HackerEarth - Hash Tables I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/perfect-pair-df920e90/">perfect pair</a></th>
@@ -174,9 +203,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Hash Tables II `25 problems`
+## HackerEarth - Hash Tables II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/aman-and-lab-file-work-8cd1d24c/">aman and lab file work</a></th>
@@ -224,7 +261,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/chandu-and-chandni/">chandu and chandni</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>

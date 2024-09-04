@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
-
 # Codeforces OJ - Gym Contests 2 <br> `155 contests` `240 hrs`
 
 ## Table of Content
@@ -13,9 +11,17 @@
 - Official International Personal Contest ***        `20 contests`
 - Training Contest ***                               `15 contests`
 
-## Codeforces - Official ICPC Contest *** I `15 contests`
+## Codeforces - Official ICPC Contest *** I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104725">2023 China CPC Girls Session</a></th>
@@ -52,9 +58,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official ICPC Contest *** II `15 contests`
+## Codeforces - Official ICPC Contest *** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104120">2022 ICPC Mexican Grand Prix Repechage</a></th>
@@ -91,9 +105,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official School Contest *** I `20 contests`
+## Codeforces - Official School Contest *** I 
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104741">10th Jimei University CPC</a></th>
@@ -137,9 +159,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official School Contest *** II `20 contests`
+## Codeforces - Official School Contest *** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103987">2021 Huazhong University of Science and Technology Freshmen Cup</a></th>
@@ -188,9 +218,17 @@
     </tbody>
 </table>
 
-## Codeforces - School/University/City/Region Championship *** I `25 contests`
+## Codeforces - School/University/City/Region Championship *** I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104679">2022 Replay of Battle of Brains University of Dhaka</a></th>
@@ -246,9 +284,17 @@
     </tbody>
 </table>
 
-## Codeforces - School/University/City/Region Championship *** II `25 contests`
+## Codeforces - School/University/City/Region Championship *** II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103806">XXVI Spain Olympiad in Informatics Day 1</a></th>
@@ -305,9 +351,17 @@
     </tbody>
 </table>
 
-## Codeforces - Official International Personal Contest *** `20 contests`
+## Codeforces - Official International Personal Contest ***
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104681">2021 Google Code Jam Qualification Round GCJ 21 Qualification Round</a></th>
@@ -351,9 +405,17 @@
     </tbody>
 </table>
 
-## Codeforces - Training Contest *** `15 contests`
+## Codeforces - Training Contest ***
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         </tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104699">2023 Internet Olympiads Season Second Team Olympiad</a></th>

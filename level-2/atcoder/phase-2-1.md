@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
-
 # AtCoder OJ - Phase 2.1 <br> `105 problems` `80 hrs`
 
 ## Table of Content
@@ -9,9 +7,17 @@
 - ***2020-2021 Regular Contests***     `25 problems`
 - ***2022-2023 Regular Contests***     `35 problems`
 
-## AtCoder - 2016-2017 Regular Contests `30 problems`
+## AtCoder - 2016-2017 Regular Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/arc058/tasks/arc058_a">Regular Contest 58 A</a></th>
@@ -75,14 +81,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/arc088/tasks/arc088_a">Regular Contest 88 A</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## AtCoder - 2018-2019 Regular Contests `15 problems`
+## AtCoder - 2018-2019 Regular Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/arc089/tasks/arc089_a">Regular Contest 89 A</a></th>
@@ -114,14 +127,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/arc103/tasks/arc103_a">Regular Contest 103 A</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## AtCoder - 2020-2021 Regular Contests `25 problems`
+## AtCoder - 2020-2021 Regular Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/arc104/tasks/arc104_a">Regular Contest 104 A</a></th>
@@ -178,9 +198,17 @@
     </tbody>
 </table>
 
-## AtCoder - 2022-2023 Regular Contests `35 problems`
+## AtCoder - 2022-2023 Regular Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/arc133/tasks/arc133_a">Regular Contest 133 A</a></th>

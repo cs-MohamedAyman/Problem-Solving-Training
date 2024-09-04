@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
-
 # HackerEarth OJ - Linear Data Structure <br> `115 problems` `80 hrs`
 
 ## Table of Content
@@ -10,9 +8,17 @@
 - ***Stacks***                    `25 problems`
 - ***Queues***                    `5 problems`
 
-## HackerEarth - Arrays 1D I `25 problems`
+## HackerEarth - Arrays 1D I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/range-query-2/">range query 2</a></th>
@@ -65,9 +71,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Arrays 1D II `25 problems`
+## HackerEarth - Arrays 1D II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-lucky-minimum-3/">monk and lucky minimum 3</a></th>
@@ -120,9 +134,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Arrays Multi-dimensional `35 problems`
+## HackerEarth - Arrays Multi-dimensional
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/roy-and-symmetric-logos-1/">roy and symmetric logos 1</a></th>
@@ -199,9 +221,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Stacks `25 problems`
+## HackerEarth - Stacks
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/a-game-of-numbers-1-5d3a8cb3/">a game of numbers 1</a></th>
@@ -253,14 +283,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/fight-for-laddus/">fight for laddus</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Queues `5 problems`
+## HackerEarth - Queues
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/monk-and-power-of-time-3a648bf0/">monk and power of time</a></th>
