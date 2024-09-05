@@ -2,12 +2,11 @@
 
 ## Table of Content
 
-- ***Binary Search I***        `20 problems`
+- ***Binary Search***          `20 problems`
 - ***Sorting I***              `15 problems`
 - ***Sorting II***             `15 problems`
-- ***Greedy I***               `20 problems`
-- ***Greedy II***              `20 problems`
-- ***Greedy III***             `10 problems`
+- ***Greedy I***               `25 problems`
+- ***Greedy II***              `25 problems`
 
 ## LeetCode - Binary Search
 
@@ -218,6 +217,18 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/buildings-with-an-ocean-view/">buildings with an ocean view</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/can-i-win/">can i win</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-city-scheduling/">two city scheduling</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/">best time to buy and sell stock with transaction fee</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-way-to-form-string/">shortest way to form string</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/">divide array in sets of k consecutive numbers</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">determine if two strings are close</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/">smallest subsequence of distinct characters</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -277,44 +288,17 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/dota2-senate/">dota2 senate</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/string-without-aaa-or-bbb/">string without aaa or bbb</a></th>
         </tr>
-    </tbody>
-</table>
-
-## LeetCode - Greedy III
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-city-scheduling/">two city scheduling</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/">best time to buy and sell stock with transaction fee</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/">form array by concatenating subarrays of another array</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/4-keys-keyboard/">4 keys keyboard</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-way-to-form-string/">shortest way to form string</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/">divide array in sets of k consecutive numbers</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/">maximum absolute sum of any subarray</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divide-two-integers/">divide two integers</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">determine if two strings are close</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/">smallest subsequence of distinct characters</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/">form array by concatenating subarrays of another array</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/4-keys-keyboard/">4 keys keyboard</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/">maximum absolute sum of any subarray</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divide-two-integers/">divide two integers</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/koko-eating-bananas/">koko eating bananas</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-distance-to-target-color/">shortest distance to target color</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/koko-eating-bananas/">koko eating bananas</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-distance-to-target-color/">shortest distance to target color</a></th>
         </tr>
     </tbody>
 </table>
