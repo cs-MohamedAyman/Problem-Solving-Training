@@ -47,20 +47,16 @@
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/mathematical-algorithms.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
 <td align="center">
-Number Theory I <br>
-Number Theory II <br>
+Number Theory<br>
 Combinatorics <br>
-Algebra I <br>
-Algebra II <br>
+Algebra<br>
 Geometry <br>
 Probability <br>
 </td>
 <td align="center">
-15 <br>
-15 <br>
+30 <br>
 25 <br>
-15 <br>
-15 <br>
+30 <br>
 15 <br>
 15 <br>
 </td>
@@ -73,22 +69,18 @@ Probability <br>
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/hackerrank/graph-theory-dynamic-programming.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
 <td align="center">
-Graph Theory I <br>
-Graph Theory II <br>
+Graph Theory<br>
 Greedy <br>
 Dynamic Programming I <br>
 Dynamic Programming II <br>
-Implementation I <br>
-Implementation II <br>
+Implementation<br>
 </td>
 <td align="center">
-15 <br>
-10 <br>
+25 <br>
 15 <br>
 20 <br>
 20 <br>
-10 <br>
-10 <br>
+20 <br>
 </td>
 <td align="center">100</td>
 <td align="center">80</td>
@@ -123,15 +115,13 @@ Sorting I <br>
 Sorting II <br>
 Greedy I <br>
 Greedy II <br>
-Greedy III <br>
 </td>
 <td align="center">
 20 <br>
 15 <br>
 15 <br>
-20 <br>
-20 <br>
-10 <br>
+25 <br>
+25 <br>
 </td>
 <td align="center">100</td>
 <td align="center">80</td>
@@ -167,15 +157,13 @@ Math II <br>
 Math III <br>
 String I <br>
 String II <br>
-String III <br>
 </td>
 <td align="center">
 15 <br>
 15 <br>
 15 <br>
-10 <br>
-10 <br>
-10 <br>
+15 <br>
+15 <br>
 </td>
 <td align="center">75</td>
 <td align="center">80</td>
