@@ -114,24 +114,18 @@ Implementation <br>
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/linear-data-structures.md">LeetCode OJ <br> Linear Data Structures</a></td>
 <td align="center">
-Array I <br>
-Array II <br>
+Array<br>
 Linked List <br>
-Stack I <br>
-Stack II <br>
+Stack<br>
 Queue and Dequeue <br>
-Advanced Topics I <br>
-Advanced Topics II <br>
+Advanced Topics<br>
 </td>
 <td align="center">
+30 <br>
 15 <br>
-15 <br>
-15 <br>
-15 <br>
-15 <br>
+30 <br>
 20 <br>
-15 <br>
-10 <br>
+25 <br>
 </td>
 <td align="center">120</td>
 <td align="center">80</td>
@@ -144,22 +138,16 @@ Advanced Topics II <br>
 <td align="center">
 Binary Tree I <br>
 Binary Tree II <br>
-Binary Tree III <br>
 Heap Tree <br>
 Hash Table I <br>
 Hash Table II <br>
-Hash Table III <br>
-Hash Table IV <br>
 </td>
 <td align="center">
-20 <br>
-20 <br>
-20 <br>
+30 <br>
+30 <br>
 10 <br>
-10 <br>
-10 <br>
-15 <br>
-15 <br>
+25 <br>
+25 <br>
 </td>
 <td align="center">90</td>
 <td align="center">80</td>
@@ -170,20 +158,18 @@ Hash Table IV <br>
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/leetcode/basic-algorithms.md">LeetCode OJ <br> Basic Algorithms</a></td>
 <td align="center">
-Binary Search I <br>
+Binary Search<br>
 Sorting I <br>
 Sorting II <br>
 Greedy I <br>
 Greedy II <br>
-Greedy III <br>
 </td>
 <td align="center">
 20 <br>
 15 <br>
 15 <br>
-20 <br>
-20 <br>
-10 <br>
+25 <br>
+25 <br>
 </td>
 <td align="center">100</td>
 <td align="center">80</td>
