@@ -5,9 +5,8 @@
 - ***Math I***        `15 problems`
 - ***Math II***       `15 problems`
 - ***Math III***      `15 problems`
-- ***String I***      `10 problems`
-- ***String II***     `10 problems`
-- ***String III***    `10 problems`
+- ***String I***      `15 problems`
+- ***String II***     `15 problems`
 
 ## LeetCode - Math I
 
@@ -186,6 +185,18 @@
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/complex-number-multiplication/">complex number multiplication</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/custom-sort-string/">custom sort string</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-palindrome/">shortest palindrome</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-unique-good-subsequences/">number of unique good subsequences</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-binary-substrings/">count binary substrings</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-game/">flip game</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/consecutive-characters/">consecutive characters</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reformat-date/">reformat date</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -221,43 +232,16 @@
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">minimum number of swaps to make the string balanced</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-log-storage-system/">design log storage system</a></th>
         </tr>
-    </tbody>
-</table>
-
-## LeetCode - String III
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-palindrome/">shortest palindrome</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-unique-good-subsequences/">number of unique good subsequences</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/">find kth bit in nth binary string</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ambiguous-coordinates/">ambiguous coordinates</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-binary-substrings/">count binary substrings</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-game/">flip game</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/robot-bounded-in-circle/">robot bounded in circle</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">delete operation for two strings</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/consecutive-characters/">consecutive characters</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reformat-date/">reformat date</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/">find kth bit in nth binary string</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ambiguous-coordinates/">ambiguous coordinates</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/robot-bounded-in-circle/">robot bounded in circle</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">delete operation for two strings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/string-to-integer-atoi/">string to integer atoi</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/string-to-integer-atoi/">string to integer atoi</a></th>
         </tr>
     </tbody>
 </table>
