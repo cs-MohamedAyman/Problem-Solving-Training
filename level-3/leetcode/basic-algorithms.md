@@ -5,9 +5,8 @@
 - ***Binary Search***          `20 problems`
 - ***Sorting I***              `15 problems`
 - ***Sorting II***             `15 problems`
-- ***Greedy I***               `20 problems`
-- ***Greedy II***              `20 problems`
-- ***Greedy III***             `10 problems`
+- ***Greedy I***               `25 problems`
+- ***Greedy II***              `25 problems`
 
 ## LeetCode - Binary Search
 
@@ -206,6 +205,18 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/">convert binary search tree to sorted doubly linked list</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/beautiful-array/">beautiful array</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/">put boxes into the warehouse ii</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/">sum of absolute differences in a sorted array</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-k-palindrome-strings/">construct k palindrome strings</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/">minimum swaps to make strings equal</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/">find the minimum number of fibonacci numbers whose sum is k</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/">minimum adjacent swaps to reach the kth smallest number</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -265,40 +276,13 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">longest substring with at least k repeating characters</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">circular permutation in binary representation</a></th>
         </tr>
-    </tbody>
-</table>
-
-## LeetCode - Greedy III
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/">put boxes into the warehouse ii</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/">sum of absolute differences in a sorted array</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ways-to-make-a-fair-array/">ways to make a fair array</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/">minimum deletion cost to avoid repeating letters</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-k-palindrome-strings/">construct k palindrome strings</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/">minimum swaps to make strings equal</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/">find the minimum number of fibonacci numbers whose sum is k</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/">minimum adjacent swaps to reach the kth smallest number</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ways-to-make-a-fair-array/">ways to make a fair array</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/">minimum deletion cost to avoid repeating letters</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-values-from-labels/">largest values from labels</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/car-pooling/">car pooling</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-values-from-labels/">largest values from labels</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/car-pooling/">car pooling</a></th>
         </tr>
     </tbody>
 </table>
