@@ -360,8 +360,25 @@ Brute Force <br>
 <td align="center">120</td>
 <td align="center">80</td>
         </tr>
+    </tbody>
+</table>
+
+### Optional Contests
+
+<table>
+    <thead>
         <tr>
-<td align="center">05</td>
+<th width="30px">#</th>
+<th width="120px">Phase OJ</th>
+<th width="320px">Phase Name</th>
+<th width="320px">Phase Sections</th>
+<th width="120px" colspan=2># Contests</th>
+<th width="30px">Hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-1.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-1.md">Codeforces OJ <br> Div3 & Div4 Contests 1</a></td>
@@ -379,7 +396,7 @@ Div3 Contests III <br>
 <td align="center">120</td>
         </tr>
         <tr>
-<td align="center">06</td>
+<td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-2.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/div3-div4-contests-2.md">Codeforces OJ <br> Div3 & Div4 Contests 2</a></td>
@@ -394,7 +411,91 @@ Div3 Contests III <br>
 20 <br>
 </td>
 <td align="center">60</td>
-<td align="center">120</td>
+<td align="center">100</td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-1.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-1.md">Codeforces OJ <br> Gym Contests 1</a></td>
+<td align="center">
+Easy Contest * <br>
+Official School Contest ** <br>
+School/University/City/Region Championship ** <br>
+ Training Contest ** <br>
+</td>
+<td align="center">
+30 <br>
+40 <br>
+15 <br><br>
+15 <br>
+</td>
+<td align="center">100</td>
+<td align="center">200</td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-2.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-2.md">Codeforces OJ <br> Gym Contests 2</a></td>
+<td align="center">
+Official ICPC Contest *** <br>
+Official School Contest *** <br>
+School/University/City/Region Championship *** <br>
+Official International Personal Contest *** <br>
+Training Contest ***<br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+30 <br><br>
+20 <br>
+10 <br>
+</td>
+<td align="center">110</td>
+<td align="center">200</td>
+        </tr>
+        <tr>
+<td align="center">05</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-3.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-3.md">Codeforces OJ <br> Gym Contests 3</a></td>
+<td align="center">
+Official ICPC Contest *** <br>
+Official School Contest *** <br>
+School/University/City/Region Championship *** <br>
+Training Camp Contest *** <br>
+Training Contest *** <br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+30 <br><br>
+20 <br>
+10 <br>
+</td>
+<td align="center">110</td>
+<td align="center">200</td>
+        </tr>
+        <tr>
+<td align="center">06</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-4.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/codeforces/gym-contests-4.md">Codeforces OJ <br> Gym Contests 4</a></td>
+<td align="center">
+Official ICPC Contest *** <br>
+Official School Contest *** <br>
+School/University/City/Region Championship *** <br>
+Training Contest *** <br>
+</td>
+<td align="center">
+20 <br>
+30 <br>
+30 <br><br>
+10 <br>
+</td>
+<td align="center">90</td>
+<td align="center">200</td>
         </tr>
     </tbody>
 </table>
