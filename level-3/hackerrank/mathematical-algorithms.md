@@ -2,15 +2,13 @@
 
 ## Table of Content
 
-- ***Number Theory I***             `15 problems`
-- ***Number Theory II***            `15 problems`
+- ***Number Theory***               `30 problems`
 - ***Combinatorics***               `25 problems`
-- ***Algebra I***                   `15 problems`
-- ***Algebra II***                  `15 problems`
+- ***Algebra***                     `30 problems`
 - ***Geometry***                    `15 problems`
 - ***Probability***                 `15 problems`
 
-## HackerRank - Number Theory I
+## HackerRank - Number Theory
 
 <table>
     <head>
@@ -54,48 +52,33 @@
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/equations/problem">equations</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/binomial-coefficients/problem">binomial coefficients</a></th>
         </tr>
-    </tbody>
-</table>
-
-## HackerRank - Number Theory II
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucy-and-flowers/problem">lucy and flowers</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/a-weird-function/problem">a weird function</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucy-and-flowers/problem">lucy and flowers</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/a-weird-function/problem">a weird function</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/arthur-and-coprimes/problem">arthur and coprimes</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/megaprime-numbers/problem">megaprime numbers</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/arthur-and-coprimes/problem">arthur and coprimes</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/megaprime-numbers/problem">megaprime numbers</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ants/problem">ants</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-cubes/problem">ichigo and cubes</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ants/problem">ants</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-cubes/problem">ichigo and cubes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/prime-sum/problem">prime sum</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hyperrectangle-gcd/problem">hyperrectangle gcd</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/prime-sum/problem">prime sum</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/hyperrectangle-gcd/problem">hyperrectangle gcd</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-rooms/problem">ichigo and rooms</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ajob-subsequence/problem">ajob subsequence</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ichigo-and-rooms/problem">ichigo and rooms</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/ajob-subsequence/problem">ajob subsequence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix-tree/problem">matrix tree</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/niceclique/problem">niceclique</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix-tree/problem">matrix tree</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/niceclique/problem">niceclique</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/down-the-rabbit-hole/problem">down the rabbit hole</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/identify-smith-numbers/problem">identify smith numbers</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/down-the-rabbit-hole/problem">down the rabbit hole</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/identify-smith-numbers/problem">identify smith numbers</a></th>
         </tr>
     </tbody>
 </table>
@@ -167,7 +150,7 @@
     </tbody>
 </table>
 
-## HackerRank - Algebra I
+## HackerRank - Algebra
 
 <table>
     <head>
@@ -211,51 +194,36 @@
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-solutions/problem">count solutions</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manasa-and-calculations/problem">manasa and calculations</a></th>
         </tr>
-    </tbody>
-</table>
-
-## HackerRank - Algebra II
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem">1 matrix subtraction</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem">3 matrix multiplication</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem">1 matrix subtraction</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem">3 matrix multiplication</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem">4 matrix multiplication</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix/problem">5 the 100th power of a matrix</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem">4 matrix multiplication</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix/problem">5 the 100th power of a matrix</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix/problem">6 the nsupthsup power of a matrix</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors/problem">10 eigenvectors</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix/problem">6 the nsupthsup power of a matrix</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors/problem">10 eigenvectors</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-1/problem">determinant of the matrix 1</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-3/problem">determinant of the matrix 3</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-1/problem">determinant of the matrix 1</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/determinant-of-the-matrix-3/problem">determinant of the matrix 3</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-palindromes/problem">count palindromes</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1/problem">problem 1</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/count-palindromes/problem">count palindromes</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1/problem">problem 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-simplest-sum/problem">the simplest sum</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manasa-and-pizza/problem">manasa and pizza</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-simplest-sum/problem">the simplest sum</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manasa-and-pizza/problem">manasa and pizza</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/permutation-equations/problem">permutation equations</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/introduction-to-algebra/problem">introduction to algebra</a></th>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/permutation-equations/problem">permutation equations</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/introduction-to-algebra/problem">introduction to algebra</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cross-matrix/problem">cross matrix</a></th>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cross-matrix/problem">cross matrix</a></th>
         </tr>
     </tbody>
 </table>
