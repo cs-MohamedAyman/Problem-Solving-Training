@@ -1,15 +1,15 @@
-# Codeforces OJ - Gym Contests 2 <br> `155 contests` `240 hrs`
+# Codeforces OJ - Gym Contests 2 <br> `110 contests` `200 hrs`
 
 ## Table of Content
 
-- Official ICPC Contest *** I                        `15 contests`
-- Official ICPC Contest *** II                       `15 contests`
-- Official School Contest *** I                      `20 contests`
-- Official School Contest *** II                     `20 contests`
-- School/University/City/Region Championship *** I   `25 contests`
-- School/University/City/Region Championship *** II  `25 contests`
+- Official ICPC Contest *** I                        `10 contests`
+- Official ICPC Contest *** II                       `10 contests`
+- Official School Contest *** I                      `15 contests`
+- Official School Contest *** II                     `15 contests`
+- School/University/City/Region Championship *** I   `15 contests`
+- School/University/City/Region Championship *** II  `15 contests`
 - Official International Personal Contest ***        `20 contests`
-- Training Contest ***                               `15 contests`
+- Training Contest ***                               `10 contests`
 
 ## Codeforces - Official ICPC Contest *** I
 
@@ -46,14 +46,6 @@
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104453">2021 ICPC Central Russia Regional Qualyfing Round</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104447">2023 AlBaath CPC</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104412">2023 ICPC Gran Premio de Mexico 2da Fecha</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104393">2023 ICPC Masters Mexico LATAM</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104375">2023 ICPC Mexican Grand Prix 1st Date</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104147">2022 Jordan CPC</a></th>
         </tr>
     </tbody>
 </table>
@@ -93,14 +85,6 @@
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103708">2022 ICPC Mexican Grand Prix 1st Date</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103430">2021 ICPC NERC Southern and Volga Russian Regional Contest</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103389">2021 China CPC Girls Session</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103373">2021 ICPC Asia Taiwan Online CPC</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103306">2021 ICPC Mexican Grand Prix 2nd Date</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103274">2021 ICPC Mexican Grand Prix 1st Date</a></th>
         </tr>
     </tbody>
 </table>
@@ -144,17 +128,6 @@
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104182">2022 Innopolis Open Final round</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104174">2022 Internet Olympiads Season Second personal Olympiad + First selection for IOIP</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104103">2022 Innopolis Open Second qualification round</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104068">17th Beihang University CPC Preliminary</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104052">2022 Innopolis Open First qualification round</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104025">16th BIT Campus CPC Onsite Round</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103999">FMI No Stress 11</a></th>
         </tr>
     </tbody>
 </table>
@@ -202,18 +175,6 @@
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103426">2021 Innopolis Open First qualification round</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103423">2021 Infoleague Autumn Round 2 Div 1</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103265">XIV Nizhny Novgorod City Olympiad for Schoolchildren in Informatics</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103264">XVI Nizhny Novgorod City Olympiad for Schoolchildren in Informatics</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103262">XVII Nizhny Novgorod City Olympiad for Schoolchildren in Informatics</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103256">2021 XIII Donald Knuth Annual CPC by ESCOM IPN</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103074">2021 VI Intellectual Olympiad of Volga Federal District among schoolchildren</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103061">2021 Harbin Engineering University CPC</a></th>
         </tr>
     </tbody>
 </table>
@@ -266,21 +227,6 @@
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104314">2023 XXV Interregional Programming Olympiad Vologda SU</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104283">2023 Contest Based on Brain Craft Intra SUST CPC</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104274">2023 VIII Intellectual Olympiad Volga Federal District</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104142">2023 IzhSTU Winter Personal Championship in Programming</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104095">2020 CCPC Henan Provincial CPC</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104081">2022 China College Student Programming Competition Girls Session</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103941">2022 CCPC Henan Provincial CPC</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103809">XXVI Spain Olympiad in Informatics Online Qualifier</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103808">XXVI Spain Olympiad in Informatics Day 2</a></th>
-        </tr>
     </tbody>
 </table>
 
@@ -331,22 +277,6 @@
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103107">16th Heilongjiang Provincial CPC</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103092">2021 SDU Open Schools</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103076">2021 UFPE Starters Final Try-Outs</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103075">2020 V Intellectual Olympiad of Volga Federal District</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102875">2020 Jiangsu CPC</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102862">2020 LU ICPC Selection Contest and KFU Open Contest</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102800">14th Jilin Collegiate</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102625">IIT ISM Virtual Farewell</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102599">5th Lipetsk CPC Finals</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102569">2020 XIII Samara Regional Intercollegiate</a></th>
         </tr>
     </tbody>
 </table>
@@ -436,14 +366,6 @@
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103463">2020 Hangzhou Normal U Qualification Trials for ZJPSC</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103462">2021 Hangzhou Normal U Qualification Trials for ZJPSC</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103451">Krosh Kaliningrad Contest 2</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103449">2021 Infoleague Winter Training Round</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103158">2021 Arab CPC Kickoff</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103114">2021 Hangzhou Normal U Summer Trials</a></th>
         </tr>
     </tbody>
 </table>
