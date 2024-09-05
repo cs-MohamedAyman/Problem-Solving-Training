@@ -2,15 +2,13 @@
 
 ## Table of Content
 
-- ***Graph Theory I***              `15 problems`
-- ***Graph Theory II***             `10 problems`
+- ***Graph Theory***                `25 problems`
 - ***Greedy***                      `15 problems`
 - ***Dynamic Programming I***       `20 problems`
 - ***Dynamic Programming II***      `20 problems`
-- ***Implementation I***            `10 problems`
-- ***Implementation II***           `10 problems`
+- ***Implementation***              `20 problems`
 
-## HackerRank - Graph Theory I
+## HackerRank - Graph Theory
 
 <table>
     <head>
@@ -54,40 +52,25 @@
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/johnland/problem">johnland</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/rust-murderer/problem">rust murderer</a></th>
         </tr>
-    </tbody>
-</table>
-
-## HackerRank - Graph Theory II
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/journey-scheduling/problem">journey scheduling</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix/problem">matrix</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/journey-scheduling/problem">journey scheduling</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/matrix/problem">matrix</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/episode-recording/problem">episode recording</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bytelandian-tours/problem">bytelandian tours</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/episode-recording/problem">episode recording</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bytelandian-tours/problem">bytelandian tours</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/savita-and-friends/problem">savita and friends</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/tripartite-matching/problem">tripartite matching</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/savita-and-friends/problem">savita and friends</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/tripartite-matching/problem">tripartite matching</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/missile-defend/problem">missile defend</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/training-the-army/problem">training the army</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/missile-defend/problem">missile defend</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/training-the-army/problem">training the army</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jim-and-his-lan-party/problem">jim and his lan party</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/travel-in-hackerland/problem">travel in hackerland</a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/jim-and-his-lan-party/problem">jim and his lan party</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/travel-in-hackerland/problem">travel in hackerland</a></th>
         </tr>
     </tbody>
 </table>
@@ -252,7 +235,7 @@
     </tbody>
 </table>
 
-## HackerRank - Implementation I
+## HackerRank - Implementation
 
 <table>
     <head>
@@ -288,43 +271,28 @@
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/climbing-the-leaderboard/problem">climbing the leaderboard</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/extra-long-factorials/problem">extra long factorials</a></th>
         </tr>
-    </tbody>
-</table>
-
-## HackerRank - Implementation II
-
-<table>
-    <head>
         <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/encryption/problem">encryption</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-time-in-words/problem">the time in words</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/encryption/problem">encryption</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-time-in-words/problem">the time in words</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/3d-surface-area/problem">3d surface area</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/absolute-permutation/problem">absolute permutation</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/3d-surface-area/problem">3d surface area</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/absolute-permutation/problem">absolute permutation</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bomber-man/problem">bomber man</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-pluses/problem">two pluses</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bomber-man/problem">bomber man</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-pluses/problem">two pluses</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/larrys-array/problem">larrys array</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/almost-sorted/problem">almost sorted</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/larrys-array/problem">larrys array</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/almost-sorted/problem">almost sorted</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/non-divisible-subset/problem">non divisible subset</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/queens-attack-2/problem">queens attack 2</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/non-divisible-subset/problem">non divisible subset</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/queens-attack-2/problem">queens attack 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
         </tr>
     </tbody>
 </table>
