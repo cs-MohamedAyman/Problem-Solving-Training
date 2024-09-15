@@ -3,64 +3,38 @@
 # Problem Solving Training
 Problem Solving Training for computer science students.
 
-<br><br><br><br>
-<a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
-
-## [`Level 1`](/level-1/README.md)
-
 <table>
-    <thead>
-        <tr>
-<th align="center" width="550px"><a href="/level-1/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
-<th align="center" width="550px"><a href="/level-1/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
-        </tr>
-    </thead>
     <tbody>
-        <tr><td><a href="/level-1/README.md#hackerrank-oj-sheets"> <img align="center" src="/logos/level-1-hackerrank.png"></img></a></td>
-            <td><a href="/level-1/README.md#atcoder-oj-sheets">    <img align="center" src="/logos/level-1-atcoder.png"></img></a></td></tr>
-        <tr><td><a href="/level-1/README.md#hackerearth-oj-sheets"><img align="center" src="/logos/level-1-hackerearth.png"></img></a></td>
-            <td><a href="/level-1/README.md#codeforces-oj-sheets"> <img align="center" src="/logos/level-1-codeforces.png"></img></a></td></tr>
+<tr>
+<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>Are you looking for a 6-week individual mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
+</tr>
     </tbody>
 </table>
+
+<br><br><br>
+
+<a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
+<br>
+
+## [`Level 1`](/level-1/README.md): Programming Languages
 
 <a href="/level-2/README.md"><img align="right" width="80" src="/logos/level-2.png"></img></a>
+<br>
 
-## [`Level 2`](/level-2/README.md)
-
-<table>
-    <thead>
-        <tr>
-<th align="center" width="550px"><a href="/level-2/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
-<th align="center" width="550px"><a href="/level-2/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td><a href="/level-2/README.md#hackerrank-oj-sheets"> <img align="center" src="/logos/level-2-hackerrank.png"></img></a></td>
-            <td><a href="/level-2/README.md#atcoder-oj-sheets">    <img align="center" src="/logos/level-2-atcoder.png"></img></a></td></tr>
-        <tr><td><a href="/level-2/README.md#leetcode-oj-sheets">   <img align="center" src="/logos/level-2-leetcode.png"></img></a></td>
-            <td><a href="/level-2/README.md#codeforces-oj-sheets"> <img align="center" src="/logos/level-2-codeforces.png"></img></a></td></tr>
-        <tr><td><a href="/level-2/README.md#hackerearth-oj-sheets"><img align="center" src="/logos/level-2-hackerearth.png"></img></a></td>
-        </tr>
-    </tbody>
-</table>
+## [`Level 2`](/level-2/README.md): Data Structures and Algorithms
 
 <a href="/level-3/README.md"><img align="right" width="80" src="/logos/level-3.png"></img></a>
+<br>
 
-## [`Level 3`](/level-3/README.md)
+## [`Level 3`](/level-3/README.md): Data Structures and Algorithms
 
-<table>
-    <thead>
-        <tr>
-<th align="center" width="550px"><a href="/level-3/README.md"><img align="center" src="/logos/interviews-preparation.png"   width="75%"></img></a></th>
-<th align="center" width="550px"><a href="/level-3/README.md"><img align="center" src="/logos/programming-competitions.png" width="75%"></img></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td><a href="/level-3/README.md#hackerrank-oj-sheets"> <img align="center" src="/logos/level-3-hackerrank.png"></img></a></td>
-            <td><a href="/level-3/README.md#atcoder-oj-sheets">    <img align="center" src="/logos/level-3-atcoder.png"></img></a></td></tr>
-        <tr><td><a href="/level-3/README.md#leetcode-oj-sheets">   <img align="center" src="/logos/level-3-leetcode.png"></img></a></td>
-            <td><a href="/level-3/README.md#codeforces-oj-sheets"> <img align="center" src="/logos/level-3-codeforces.png"></img></a></td></tr>
-        <tr><td><a href="/level-3/README.md#hackerearth-oj-sheets"><img align="center" src="/logos/level-3-hackerearth.png"></img></a></td>
-        </tr>
-    </tbody>
-</table>
+<a href="/level-4/README.md"><img align="right" width="80" src="/logos/level-4.png"></img></a>
+<br>
+
+## [`Level 4`](/level-4/README.md): Advanced Data Structures and Algorithms
+
+<a href="/level-5/README.md"><img align="right" width="80" src="/logos/level-5.png"></img></a>
+<br>
+
+## [`Level 5`](/level-5/README.md): Advanced Competitions
