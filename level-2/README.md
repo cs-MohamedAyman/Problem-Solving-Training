@@ -17,6 +17,7 @@
   * [AtCoder Online Judge Phases](#atcoder-oj-phases)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
+  * [UVA Online Judge Phases](#uva-oj-phases)
 
 <br><br>
 
@@ -606,3 +607,9 @@ Greedy Algorithms III <br>
         </tr>
     </tbody>
 </table>
+
+<br>
+
+## UVA OJ Phases
+
+coming soon ...
