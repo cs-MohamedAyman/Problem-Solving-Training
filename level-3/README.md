@@ -17,6 +17,7 @@
   * [Google Competitions Phases](#google-competitions-phases)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
+  * [UVA Online Judge Phases](#uva-oj-phases)
 
 <br><br>
 
@@ -624,3 +625,8 @@ Segment Tree II <br>
     </tbody>
 </table>
 
+<br>
+
+## UVA OJ Phases
+
+coming soon ...
