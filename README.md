@@ -145,4 +145,4 @@ Problem Solving Training for computer science students.
 <a href="/level-5/README.md"><img align="right" width="80" src="/logos/level-5.png"></img></a>
 <br>
 
-## [`Level 5`](/level-5/README.md): Advanced Competitions
+## [`Level 5`](/level-5/README.md): Advanced Data Structures and Algorithms
