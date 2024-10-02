@@ -189,8 +189,25 @@ Dynamic Programming IV <br>
 <td align="center">80</td>
 <td align="center">80</td>
         </tr>
+    </tbody>
+</table>
+
+## LeetCode OJ Custom Phases
+
+<table>
+    <thead>
         <tr>
-<td align="center">05</td>
+<th width="30px">#</th>
+<th width="120px">Phase OJ</th>
+<th width="320px">Phase Name</th>
+<th width="320px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+     <tr>
+<td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1.md">LeetCode OJ <br> Interviews Questions 1</a></td>
@@ -218,7 +235,7 @@ Dynamic Programming <br>
 <td align="center">120</td>
         </tr>
         <tr>
-<td align="center">06</td>
+<td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2.md">LeetCode OJ <br> Interviews Questions 2</a></td>
