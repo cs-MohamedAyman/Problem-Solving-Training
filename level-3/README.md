@@ -479,8 +479,25 @@ Dynamic Programming <br>
 <td align="center">125</td>
 <td align="center">80</td>
         </tr>
+    </tbody>
+</table>
+
+## Codeforces OJ Contests
+
+<table>
+    <thead>
         <tr>
-<td align="center">05</td>
+<th width="30px">#</th>
+<th width="120px">Phase OJ</th>
+<th width="320px">Phase Name</th>
+<th width="320px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1.md">Codeforces OJ <br> Educational Contests 1</a></td>
@@ -500,7 +517,7 @@ Educational Rounds IV <br>
 <td align="center">120</td>
         </tr>
         <tr>
-<td align="center">06</td>
+<td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2.md">Codeforces OJ <br> Educational Contests 2</a></td>
