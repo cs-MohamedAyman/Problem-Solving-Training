@@ -482,7 +482,7 @@ Dynamic Programming <br>
     </tbody>
 </table>
 
-## Codeforces OJ Contests
+## Codeforces OJ Custom Contests
 
 <table>
     <thead>
