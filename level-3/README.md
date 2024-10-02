@@ -24,7 +24,7 @@
 ## Prerequisite Knowledge: 
 ### * [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages.md) 
 ### * [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages.md)
-### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md)
+### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms.md)
 
 <br>
 
