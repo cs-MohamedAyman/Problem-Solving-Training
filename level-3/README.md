@@ -1,6 +1,6 @@
 <a href="/level-3/README.md"><img align="right" width="160" src="/logos/level-3.png"></img></a>
 
-# Level 3: Data Structures and Algorithms
+# Level 3: Intermediate Data Structures and Algorithms
 
 <br><br><br>
 
