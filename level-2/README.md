@@ -364,7 +364,7 @@ Brute Force <br>
     </tbody>
 </table>
 
-### Optional Contests
+## Codeforces OJ Contests
 
 <table>
     <thead>
