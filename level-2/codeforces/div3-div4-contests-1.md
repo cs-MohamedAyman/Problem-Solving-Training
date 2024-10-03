@@ -1,4 +1,4 @@
-# Codeforces OJ - Div3 + Div4 Contests <br> `60 contests` `120 hrs`
+# Codeforces OJ - Div3 + Div4 Contests <br> `60 contests` `80 hrs`
 
 ## Table of Content
 
