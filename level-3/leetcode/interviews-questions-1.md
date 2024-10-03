@@ -1,4 +1,4 @@
-# LeetCode OJ - Interviews Questions 1 <br> `125 problems` `120 hrs`
+# LeetCode OJ - Interviews Questions 1 <br> `125 problems` `80 hrs`
 
 ## Table of Content
 
