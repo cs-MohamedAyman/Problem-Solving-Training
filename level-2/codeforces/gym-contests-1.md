@@ -1,9 +1,9 @@
-# Codeforces OJ - Gym Contests 1 <br> `100 contests` `240 hrs`
+# Codeforces OJ - Gym Contests 1 <br> `100 contests` `120 hrs`
 
 ## Table of Content
 
-- Easy Contest * I                              `15 contests`
-- Easy Contest * II                             `15 contests`
+- Easy Contest * I                               `15 contests`
+- Easy Contest * II                              `15 contests`
 - Official School Contest ** I                   `20 contests`
 - Official School Contest ** II                  `20 contests`
 - School/University/City/Region Championship **  `15 contests`
