@@ -232,7 +232,7 @@ Dynamic Programming <br>
 15 <br>
 </td>
 <td align="center">125</td>
-<td align="center">120</td>
+<td align="center">80</td>
         </tr>
         <tr>
 <td align="center">02</td>
@@ -260,7 +260,7 @@ Dynamic Programming <br>
 15 <br>
 </td>
 <td align="center">125</td>
-<td align="center">120</td>
+<td align="center">80</td>
         </tr>
     </tbody>
 </table>
