@@ -394,7 +394,7 @@ Div3 Contests III <br>
 20 <br>
 </td>
 <td align="center">60</td>
-<td align="center">120</td>
+<td align="center">80</td>
         </tr>
         <tr>
 <td align="center">02</td>
@@ -412,7 +412,7 @@ Div3 Contests III <br>
 20 <br>
 </td>
 <td align="center">60</td>
-<td align="center">100</td>
+<td align="center">80</td>
         </tr>
         <tr>
 <td align="center">03</td>
