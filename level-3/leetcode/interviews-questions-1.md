@@ -20,122 +20,57 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="600px">Keywords</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
         </tr>
     </head>
     <tbody>
         <tr>
-<th align="center">01</th>
-<th align="left"><a href="https://leetcode.com/problems/majority-element/">majority element</a></th>
-<th align="left"></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/majority-element/">majority element</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/jump-game/">jump game</a></th>
         </tr>
         <tr>
-<th align="center">02</th>
-<th align="left"><a href="https://leetcode.com/problems/jump-game/">jump game</a></th>
-<th align="left"></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/product-of-array-except-self/">product of array except self</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">search a 2d matrix ii</a></th>
         </tr>
         <tr>
-<th align="center">03</th>
-<th align="left"><a href="https://leetcode.com/problems/product-of-array-except-self/">product of array except self</a></th>
-<th align="left"></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/spiral-matrix/">spiral matrix</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotate-image/">rotate image</a></th>
         </tr>
         <tr>
-<th align="center">04</th>
-<th align="left"><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">search a 2d matrix ii</a></th>
-<th align="left"></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/set-matrix-zeroes/">set matrix zeroes</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-two-numbers/">add two numbers</a></th>
         </tr>
         <tr>
-<th align="center">05</th>
-<th align="left"><a href="https://leetcode.com/problems/spiral-matrix/">spiral matrix</a></th>
-<th align="left"></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-colors/">sort colors</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-duplicate-number/">find the duplicate number</a></th>
         </tr>
         <tr>
-<th align="center">06</th>
-<th align="left"><a href="https://leetcode.com/problems/rotate-image/">rotate image</a></th>
-<th align="left"></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/first-missing-positive/">first missing positive</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">best time to buy and sell stock</a></th>
         </tr>
         <tr>
-<th align="center">07</th>
-<th align="left"><a href="https://leetcode.com/problems/set-matrix-zeroes/">set matrix zeroes</a></th>
-<th align="left"></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/missing-number/">missing number</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">find all numbers disappeared in an array</a></th>
         </tr>
         <tr>
-<th align="center">08</th>
-<th align="left"><a href="https://leetcode.com/problems/add-two-numbers/">add two numbers</a></th>
-<th align="left"></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">squares of a sorted array</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/">convert 1d array into 2d array</a></th>
         </tr>
         <tr>
-<th align="center">09</th>
-<th align="left"><a href="https://leetcode.com/problems/sort-colors/">sort colors</a></th>
-<th align="left"></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">find all duplicates in an array</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fruit-into-baskets/">fruit into baskets</a></th>
         </tr>
         <tr>
-<th align="center">10</th>
-<th align="left"><a href="https://leetcode.com/problems/find-the-duplicate-number/">find the duplicate number</a></th>
-<th align="left"></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/3sum-closest/">3sum closest</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subarray-product-less-than-k/">subarray product less than k</a></th>
         </tr>
         <tr>
-<th align="center">11</th>
-<th align="left"><a href="https://leetcode.com/problems/first-missing-positive/">first missing positive</a></th>
-<th align="left"></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/">count unique characters of all substrings of a given string</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/course-schedule-iii/">course schedule iii</a></th>
         </tr>
         <tr>
-<th align="center">12</th>
-<th align="left"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">best time to buy and sell stock</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">13</th>
-<th align="left"><a href="https://leetcode.com/problems/missing-number/">missing number</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">14</th>
-<th align="left"><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">find all numbers disappeared in an array</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">15</th>
-<th align="left"><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">squares of a sorted array</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">16</th>
-<th align="left"><a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/">convert 1d array into 2d array</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">17</th>
-<th align="left"><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">find all duplicates in an array</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">18</th>
-<th align="left"><a href="https://leetcode.com/problems/fruit-into-baskets/">fruit into baskets</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">19</th>
-<th align="left"><a href="https://leetcode.com/problems/3sum-closest/">3sum closest</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">20</th>
-<th align="left"><a href="https://leetcode.com/problems/subarray-product-less-than-k/">subarray product less than k</a></th>
-<th align="left"></th>
-        </tr>
-<th align="center">21</th>
-<th align="left"><a href="https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/">count unique characters of all substrings of a given string</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">22</th>
-<th align="left"><a href="https://leetcode.com/problems/course-schedule-iii/">course schedule iii</a></th>
-<th align="left"></th>
-        </tr>
-<th align="center">23</th>
-<th align="left"><a href="https://leetcode.com/problems/meeting-rooms/">meeting rooms</a></th>
-<th align="left"></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/meeting-rooms/">meeting rooms</a></th>
         </tr>
     </tbody>
 </table>
