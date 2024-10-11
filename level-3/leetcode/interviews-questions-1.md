@@ -82,84 +82,41 @@
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="600px">Keywords</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
         </tr>
     </head>
     <tbody>
         <tr>
-<th align="center">01</th>
-<th align="left"><a href="https://leetcode.com/problems/reverse-linked-list/">reverse linked list</a></th>
-<th align="left"></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-linked-list/">reverse linked list</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">swap nodes in pairs</a></th>
         </tr>
         <tr>
-<th align="center">02</th>
-<th align="left"><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">swap nodes in pairs</a></th>
-<th align="left"></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-cycle-ii/">linked list cycle ii</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-list/">sort list</a></th>
         </tr>
         <tr>
-<th align="center">03</th>
-<th align="left"><a href="https://leetcode.com/problems/linked-list-cycle-ii/">linked list cycle ii</a></th>
-<th align="left"></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-k-sorted-lists/">merge k sorted lists</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/linked-list-cycle/">linked list cycle</a></th>
         </tr>
         <tr>
-<th align="center">04</th>
-<th align="left"><a href="https://leetcode.com/problems/sort-list/">sort list</a></th>
-<th align="left"></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-two-sorted-lists/">merge two sorted lists</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-linked-list-ii/">reverse linked list ii</a></th>
         </tr>
         <tr>
-<th align="center">05</th>
-<th align="left"><a href="https://leetcode.com/problems/merge-k-sorted-lists/">merge k sorted lists</a></th>
-<th align="left"></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">remove nth node from end of list</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotate-list/">rotate list</a></th>
         </tr>
         <tr>
-<th align="center">06</th>
-<th align="left"><a href="https://leetcode.com/problems/linked-list-cycle/">linked list cycle</a></th>
-<th align="left"></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/middle-of-the-linked-list/">middle of the linked list</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-linked-list-elements/">remove linked list elements</a></th>
         </tr>
         <tr>
-<th align="center">07</th>
-<th align="left"><a href="https://leetcode.com/problems/merge-two-sorted-lists/">merge two sorted lists</a></th>
-<th align="left"></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">remove duplicates from sorted list</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reorder-list/">reorder list</a></th>
         </tr>
         <tr>
-<th align="center">08</th>
-<th align="left"><a href="https://leetcode.com/problems/reverse-linked-list-ii/">reverse linked list ii</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">09</th>
-<th align="left"><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">remove nth node from end of list</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">10</th>
-<th align="left"><a href="https://leetcode.com/problems/rotate-list/">rotate list</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">11</th>
-<th align="left"><a href="https://leetcode.com/problems/middle-of-the-linked-list/">middle of the linked list</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">12</th>
-<th align="left"><a href="https://leetcode.com/problems/remove-linked-list-elements/">remove linked list elements</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">13</th>
-<th align="left"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">remove duplicates from sorted list</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">14</th>
-<th align="left"><a href="https://leetcode.com/problems/reorder-list/">reorder list</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">15</th>
-<th align="left"><a href="https://leetcode.com/problems/odd-even-linked-list/">odd even linked list</a></th>
-<th align="left"></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/odd-even-linked-list/">odd even linked list</a></th>
         </tr>
     </tbody>
 </table>
