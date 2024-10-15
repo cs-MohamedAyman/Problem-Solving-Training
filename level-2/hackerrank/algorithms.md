@@ -1,10 +1,5 @@
 # HackerRank OJ - Algorithms <br> `90 problems` `80 hrs`
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
-## [Solved using](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/hackerrank/solutions/README.md)
-<br>
-
 ## Table of Content
 
 - ***Warmup and Recursion*** `15 problems`
