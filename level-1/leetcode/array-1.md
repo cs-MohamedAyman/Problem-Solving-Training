@@ -20,23 +20,23 @@
     </head>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/running-sum-of-1d-array/">running sum of 1d array</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">kids with the greatest number of candies</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/running-sum-of-1d-array/">running sum of 1d array ✅</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">kids with the greatest number of candies ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/richest-customer-wealth/">richest customer wealth</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shuffle-the-array/">shuffle the array</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/richest-customer-wealth/">richest customer wealth ✅</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shuffle-the-array/">shuffle the array ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decompress-run-length-encoded-list/">decompress run length encoded list</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">create target array in the given order</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decompress-run-length-encoded-list/">decompress run length encoded list ✅</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">create target array in the given order ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-items-matching-a-rule/">count items matching a rule</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/xor-operation-in-an-array/">xor operation in an array</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-items-matching-a-rule/">count items matching a rule ✅</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/xor-operation-in-an-array/">xor operation in an array ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-an-ordered-stream/">design an ordered stream</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-an-ordered-stream/">design an ordered stream ✅</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-all-odd-length-subarrays/">sum of all odd length subarrays</a></th>
         </tr>
         <tr>
