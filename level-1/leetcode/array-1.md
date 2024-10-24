@@ -1,10 +1,5 @@
 # LeetCode OJ - Array 1 <br> `60 problems` `40 hrs`
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
-## [Solved using](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/solutions/README.md)
-<br>
-
 ## Table of Content
 
 - ***Array I***             `15 problems`
