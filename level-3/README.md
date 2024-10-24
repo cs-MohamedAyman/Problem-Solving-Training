@@ -1,6 +1,6 @@
 <a href="/level-3/README.md"><img align="right" width="160" src="/logos/level-3.png"></img></a>
 
-# Level 3: Data Structures and Algorithms
+# Level 3: Intermediate Data Structures and Algorithms
 
 <br><br><br>
 
@@ -17,13 +17,14 @@
   * [Google Competitions Phases](#google-competitions-phases)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
+  * [UVA Online Judge Phases](#uva-oj-phases)
 
 <br><br>
 
 ## Prerequisite Knowledge: 
 ### * [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages.md) 
 ### * [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages.md)
-### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md)
+### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms.md)
 
 <br>
 
@@ -188,8 +189,25 @@ Dynamic Programming IV <br>
 <td align="center">80</td>
 <td align="center">80</td>
         </tr>
+    </tbody>
+</table>
+
+## LeetCode OJ Custom Phases
+
+<table>
+    <thead>
         <tr>
-<td align="center">05</td>
+<th width="30px">#</th>
+<th width="120px">Phase OJ</th>
+<th width="320px">Phase Name</th>
+<th width="320px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+     <tr>
+<td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-1.md">LeetCode OJ <br> Interviews Questions 1</a></td>
@@ -214,10 +232,10 @@ Dynamic Programming <br>
 15 <br>
 </td>
 <td align="center">125</td>
-<td align="center">120</td>
+<td align="center">80</td>
         </tr>
         <tr>
-<td align="center">06</td>
+<td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/leetcode/interviews-questions-2.md">LeetCode OJ <br> Interviews Questions 2</a></td>
@@ -242,7 +260,7 @@ Dynamic Programming <br>
 15 <br>
 </td>
 <td align="center">125</td>
-<td align="center">120</td>
+<td align="center">80</td>
         </tr>
     </tbody>
 </table>
@@ -478,8 +496,25 @@ Dynamic Programming <br>
 <td align="center">125</td>
 <td align="center">80</td>
         </tr>
+    </tbody>
+</table>
+
+## Codeforces OJ Custom Contests
+
+<table>
+    <thead>
         <tr>
-<td align="center">05</td>
+<th width="30px">#</th>
+<th width="120px">Phase OJ</th>
+<th width="320px">Phase Name</th>
+<th width="320px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-1.md">Codeforces OJ <br> Educational Contests 1</a></td>
@@ -499,7 +534,7 @@ Educational Rounds IV <br>
 <td align="center">120</td>
         </tr>
         <tr>
-<td align="center">06</td>
+<td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/codeforces/educational-contests-2.md">Codeforces OJ <br> Educational Contests 2</a></td>
@@ -624,3 +659,8 @@ Segment Tree II <br>
     </tbody>
 </table>
 
+<br>
+
+## UVA OJ Phases
+
+coming soon ...
