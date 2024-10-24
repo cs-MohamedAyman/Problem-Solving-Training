@@ -13,9 +13,9 @@ coming soon ...
   * [HackerRank Online Judge Phases](#hackerrank-oj-phases)
   * [LeetCode Online Judge Phases](#leetcode-oj-phases)
   * [Google Competitions Phases](#google-competitions-phases)
-  * [AtCoder Online Judge Phases](#atcoder-oj-phases)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
+  * [AtCoder Online Judge Phases](#atcoder-oj-phases)
 
 <br><br>
 
@@ -304,61 +304,6 @@ CodeJam Round World Finals <br>
 
 <br>
 
-## AtCoder OJ Phases
-
-<table>
-    <thead>
-        <tr>
-<th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
-<th width="120px" colspan=2># Problems</th>
-<th width="30px">Hrs</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-1.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-1.md">AtCoder OJ <br> Phase 3-1</a></td>
-<td align="center">
-2016-2017 Grand Contests <br>
-2018-2019 Grand Contests <br>
-2020-2023 Grand Contests <br>
-</td>
-<td align="center">
-10 <br>
-10 <br>
-10 <br>
-</td>
-<td align="center">30</td>
-<td align="center">120</td>
-        </tr>
-        <tr>
-<td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-2.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-2.md">AtCoder OJ <br> Phase 3-2</a></td>
-<td align="center">
-2016-2017 Grand Contests <br>
-2018-2019 Grand Contests <br>
-2020-2023 Grand Contests <br>
-</td>
-<td align="center">
-10 <br>
-10 <br>
-10 <br>
-</td>
-<td align="center">30</td>
-<td align="center">120</td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
-
 ## Codeforces OJ Phases
 
 coming soon ...
@@ -462,6 +407,61 @@ Suffix Tree and Suffix Array <br>
 </td>
 <td align="center">110</td>
 <td align="center">80</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+## AtCoder OJ Phases
+
+<table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="120px">Phase OJ</th>
+<th width="320px">Phase Name</th>
+<th width="320px">Phase Sections</th>
+<th width="120px" colspan=2># Problems</th>
+<th width="30px">Hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-1.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-1.md">AtCoder OJ <br> Phase 3-1</a></td>
+<td align="center">
+2016-2017 Grand Contests <br>
+2018-2019 Grand Contests <br>
+2020-2023 Grand Contests <br>
+</td>
+<td align="center">
+10 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">30</td>
+<td align="center">120</td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-2.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/atcoder/phase-3-2.md">AtCoder OJ <br> Phase 3-2</a></td>
+<td align="center">
+2016-2017 Grand Contests <br>
+2018-2019 Grand Contests <br>
+2020-2023 Grand Contests <br>
+</td>
+<td align="center">
+10 <br>
+10 <br>
+10 <br>
+</td>
+<td align="center">30</td>
+<td align="center">120</td>
         </tr>
     </tbody>
 </table>
