@@ -17,13 +17,14 @@
   * [AtCoder Online Judge Phases](#atcoder-oj-phases)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
+  * [UVA Online Judge Phases](#uva-oj-phases)
 
 <br><br>
 
 ## Prerequisite Knowledge: 
 ### * [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages.md) 
 ### * [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/java-csharp-programming-languages.md)
-### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md)
+### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms.md)
 
 <br>
 
@@ -363,7 +364,7 @@ Brute Force <br>
     </tbody>
 </table>
 
-### Optional Contests
+## Codeforces OJ Custom Contests
 
 <table>
     <thead>
@@ -393,7 +394,7 @@ Div3 Contests III <br>
 20 <br>
 </td>
 <td align="center">60</td>
-<td align="center">120</td>
+<td align="center">80</td>
         </tr>
         <tr>
 <td align="center">02</td>
@@ -411,7 +412,7 @@ Div3 Contests III <br>
 20 <br>
 </td>
 <td align="center">60</td>
-<td align="center">100</td>
+<td align="center">80</td>
         </tr>
         <tr>
 <td align="center">03</td>
@@ -606,3 +607,9 @@ Greedy Algorithms III <br>
         </tr>
     </tbody>
 </table>
+
+<br>
+
+## UVA OJ Phases
+
+coming soon ...

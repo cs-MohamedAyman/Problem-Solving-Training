@@ -1,4 +1,4 @@
-# Codeforces OJ - Gym Contests 2 <br> `110 contests` `200 hrs`
+# Codeforces OJ - Gym Contests 2 <br> `110 contests` `120 hrs`
 
 ## Table of Content
 

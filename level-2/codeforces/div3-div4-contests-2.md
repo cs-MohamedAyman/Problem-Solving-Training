@@ -1,4 +1,4 @@
-# Codeforces OJ - Div3 + Div4 Contests <br> `60 contests` `120 hrs`
+# Codeforces OJ - Div3 + Div4 Contests <br> `60 contests` `80 hrs`
 
 ## Table of Content
 
@@ -111,6 +111,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1921">Round 920</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1927">Round 923</a></th>
         </tr>
     </tbody>
 </table>
@@ -153,6 +154,18 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1915">Round 918</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1926">Round 928</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1950">Round 937</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1971">Round 944</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1985">Round 952</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1999">Round 964</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/contest/2009">Round 971</a></th>
         </tr>
     </tbody>
 </table>
