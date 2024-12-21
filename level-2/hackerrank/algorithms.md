@@ -11,7 +11,7 @@
 
 <br>
 
-## HackerEarth - Warmup and Recursion
+## HackerRank - Warmup and Recursion
 
 <table>
     <head>
@@ -57,7 +57,7 @@
     </tbody>
 </table>
 
-## HackerEarth - Sorting
+## HackerRank - Sorting
 
 <table>
     <head>
@@ -100,7 +100,7 @@
     </tbody>
 </table>
 
-## HackerEarth - Search
+## HackerRank - Search
 
 <table>
     <head>
@@ -227,7 +227,7 @@
     </tbody>
 </table>
 
-## HackerEarth - Implementation
+## HackerRank - Implementation
 
 <table>
     <head>

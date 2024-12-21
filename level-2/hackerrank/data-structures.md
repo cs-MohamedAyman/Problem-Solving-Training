@@ -253,7 +253,7 @@
     </tbody>
 </table>
 
-## HackerEarth - Implementation
+## HackerRank - Implementation
 
 <table>
     <head>

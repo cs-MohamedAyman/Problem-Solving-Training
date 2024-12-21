@@ -165,7 +165,7 @@
     </tbody>
 </table>
 
-## HackerRank - Greedy Algorithms I
+## HackerEarth - Greedy Algorithms I
 
 <table>
     <head>
@@ -232,7 +232,7 @@
     </tbody>
 </table>
 
-## HackerRank - Greedy Algorithms II
+## HackerEarth - Greedy Algorithms II
 
 <table>
     <head>
@@ -299,7 +299,7 @@
     </tbody>
 </table>
 
-## HackerRank - Greedy Algorithms III
+## HackerEarth - Greedy Algorithms III
 
 <table>
     <head>

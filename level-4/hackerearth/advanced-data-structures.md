@@ -239,7 +239,7 @@
     </tbody>
 </table>
 
-## HackerRank - Suffix Tree and Suffix Array
+## HackerEarth - Suffix Tree and Suffix Array
 
 <table>
     <head>
